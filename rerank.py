@@ -16,14 +16,7 @@ OUTPUT_RESULTS = "ragas_metrics_report_baseline.csv" # Tên file output mới
 
 # ĐIỀN DANH SÁCH CÁC API KEY CỦA BẠN VÀO ĐÂY
 API_KEYS = [
-    "AIzaSyAXnbFztC8sTDCNAgzom33B4lKuwI8Ayq8",
-    "AIzaSyB6nDFxCHNzdhhEpyPhbSqnPOv7k0LkZT4",
-    "AIzaSyApY7_RWjMicD_y2DFft5JLhGDKQUfmGps",
-    "AIzaSyCa3_A61QAuyaYkQklrH3bgb5qfaiA8Lm8",
-    "AIzaSyAV6TmNv38I_PbCmkxKxba-bYdbgFfLuX8",
-    "AIzaSyBj6EUHvwgAOvR-k1AkzixQCogpfC999e8",
-    "AIzaSyCkJcreuzGY7aL83K8JkPGfo-4eFwLQkbI",
-    "AIzaSyC3nMjfAtdQbgTPEu_3JIdHPlF0tsIUryI"
+   
 ]
 
 def get_gemini_client(key_index):
