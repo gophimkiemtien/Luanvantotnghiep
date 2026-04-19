@@ -28,17 +28,7 @@ MODEL_ID = "gemini-2.5-flash"
 
 # Điền danh sách các API Key của bạn vào đây
 API_KEYS = [
-    "AIzaSyChZaBGbot4ol9oHFXvznKK4mhqL2S47WM",
-    "AIzaSyBRXYuOII8m9a2gGSYQH7WFMEDT4ejrpYA",
-    "#AIzaSyBVehSmX2rvmalbaPcj6beRe70Ix8ZafMI",
-    "AIzaSyB6nDFxCHNzdhhEpyPhbSqnPOv7k0LkZT4",
-    "AIzaSyBj6EUHvwgAOvR-k1AkzixQCogpfC999e8",
-    "AIzaSyDARjpzpcU_ntaYtE0aU09aTUZm5NDKCnM",
-    "AIzaSyCa3_A61QAuyaYkQklrH3bgb5qfaiA8Lm8",
-    "AIzaSyAV6TmNv38I_PbCmkxKxba-bYdbgFfLuX8"
-    "AIzaSyCkJcreuzGY7aL83K8JkPGfo-4eFwLQkbI",
-    "AIzaSyApY7_RWjMicD_y2DFft5JLhGDKQUfmGps",
-    "AIzaSyBdTuNpUGARon2E7w2mSc2Ks9L3QtBD660"
+   
 ]
 
 # Tạo bộ sinh vòng lặp vô tận cho API Keys
