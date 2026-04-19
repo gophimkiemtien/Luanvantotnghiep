@@ -19,7 +19,6 @@ from qdrant_client.http import models as rest # Import thư viện rest của qd
 
 # ================= CẤU HÌNH API KEYS =================
 API_KEYS = [
-    "AIzaSyCkFTBO3IBe7lsz6cue2PPLXR72lwyjWMU"
 ]
 
 key_cycle = itertools.cycle(API_KEYS)
