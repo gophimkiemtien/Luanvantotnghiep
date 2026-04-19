@@ -1,0 +1,1257 @@
+# THÔNG TIN BÌA
+- **Chuyên ngành:** Quản Trị Kinh Doanh
+
+PHẠM THỊ NGỌC NGOAN GIẢI PHÁP NÂNG CAO SỰ GẮN KẾT CỦA NHÂN VIÊN VỚI CÔNG TY TRÁCH NHIỆM HỮU HẠN NHÀ NƯỚC MỘT THÀNH VIÊN XỔ SỐ KIẾN THIẾT CẦN THƠ LUẬN VĂN THẠC SĨ NGÀNH: QUẢN TRỊ KINH DOANH MÃ NGÀNH: 8340101 NĂM 2024 PHẠM THỊ NGỌC NGOAN MSHV: M1421020 GIẢI PHÁP NÂNG CAO SỰ GẮN KẾT CỦA NHÂN VIÊN VỚI CÔNG TY TRÁCH NHIỆM HỮU HẠN NHÀ NƯỚC MỘT THÀNH VIÊN XỔ SỐ KIẾN THIẾT CẦN THƠ LUẬN VĂN THẠC SĨ NGÀNH: QUẢN TRỊ KINH DOANH MÃ NGÀNH: 8340101 CÁN BỘ HƯỚNG DẪN TS. HỒ LÊ THU TRANG NĂM 2024
+
+# TÓM TẮT
+Mục tiêu nghiên cứu của đề tài là nhằm phân tích các nhân tố ảnh hưởng đến sự gắn kết của nhân viên với công ty Trách nhiệm Hữu hạn Nhà nước Một Thành viên Xổ số Kiến Thiết Cần Thơ Cần Thơ. Dựa vào dữ liệu được thu thập từ 119 quan sát nhưng chỉ có 110 quan sát hợp lệ là nhân viên đang làm việc ở công ty có thâm niên công tác ít nhất 1 năm ở các phòng ban khác nhau. Nghiên cứu sử dụng phương pháp thống kê mô tả, kiểm định thang đo Cronbach’s Alpha, phân tích nhân tố khám phá (EFA) và phân tích hồi quy tuyến tính đa biến được dùng để giải thích dữ liệu. Kết quả nghiên cứu đã chỉ ra có 3 nhân tố tác động cùng chiều theo thứ tự giảm dần đến sự gắn kết của nhân viên với công ty là: Mối quan hệ với đồng nghiệp, cơ hội thăng tiến và lương thu nhập. Trên cơ sở đó, tác giả đề xuất một số giải pháp nhằm nâng cao sự gắn kết của nhân viên với công ty Trách nhiệm Hữu hạn Nhà nước Một Thành viên Xổ số Kiến Thiết Cần Thơ. Kết quả này là nguồn tham khảo cho công ty nhằm tăng cường sự gắn kết của nhân viên với công ty cũng như có các biện pháp thích hợp để giữ chân nhân viên. Bên cạnh đó, nghiên cứu cũng còn một số hạn chế nhất định, đây là cơ sở cung cấp nền tảng cho các nghiên cứu tiếp theo.
+
+Từ khóa: Sự gắn kết nhân viên, mối quan hệ với đồng nghiệp, cơ hội thăng tiến, lương và thu nhập. ii
+
+# NỘI DUNG CHÍNH
+# CHƯƠNG 1
+
+GIỚI THIỆU
+
+## 1.1 TÍNH CẤP THIẾT CỦA ĐỀ TÀI
+
+Ngày nay, nguồn nhân lực đóng vai trò quan trọng trong bất kỳ tổ chức nào. Đây là một nhân tố có tầm quyết định đến sự thành công hay thất bại của một tổ chức.
+Không có nguồn nhân lực chất lượng làm việc hiệu quả thì tổ chức không thể nào đạt tới mục tiêu, chiến lược đề ra và duy trì được sự phát triển bền vững lâu dài của tổ chức. Nguồn vật lực, tài lực là những tài nguyên mà mỗi tổ chức cần phải có nhưng tài nguyên nhân lực lại là một tài nguyên bắt buộc không thể thiếu trong một công ty hay một tổ chức nào. Hiểu rõ được tầm quan trọng của sự gắn kết của nhân viên với công ty sẽ là cơ sở giúp cho các công ty phát huy tối đa được sức mạnh của nguồn nhân lực bên trong tổ chức của mình. Bên cạnh đó, còn đem đến sự hài lòng và giữ chân được những người lao động có đóng góp cho sự phát triển lâu dài của công ty cũng như có trình độ chuyên môn nghiệp vụ giỏi để họ không rời bỏ công ty. Làm sao để khai thác tốt nguồn nhân lực, tạo sự gắn kết của nhân viên với công ty là một vấn đề trọng tâm và cốt lõi trong chiến lược phát triển của mỗi công ty.
+
+Ngành kinh doanh xổ số là một ngành có đóng góp lớn lao cho nền kinh tế nước ta với số lượng nhân lực của ngành khá đông. Hiện nay, ở ba miền của cả nước có 63 công ty kinh doanh xổ số kiến thiết và một công ty xổ số điện toán (Vietllot). Trong đó, Công ty Trách nhiệm Hữu hạn Nhà nước Một Thành viên Xổ số Kiến thiết (TNHH NN MTV XS KT) Cần Thơ là công ty xổ số ra đời khá lâu tại thị trường XS khu vực miền Nam, với số lượng toàn thể nhân viên là 136 người đã cùng nhau đóng góp vào sự phát triển của công ty và gặt hái được nhiều thành tựu to lớn đóng góp không nhỏ vào sự phát triển chung của toàn ngành XS KT. Trong năm 2022, doanh thu tiêu thụ của công ty đạt 5.659 tỷ đồng, vượt 9,92% kế hoạch và nộp ngân sách Nhà nước (NN) là 1.705 tỷ đồng, vượt 10% kế hoạch (trong đó, chi an sinh xã hội 25,8 tỷ đồng). Đạt được thành tích trên là do tập thể cán bộ, nhân viên công ty đã không ngừng cố gắng phấn đấu hoàn thành nhiệm vụ và mục tiêu đã đề ra.
+
+Năm 2020, đại dịch Covid bùng nổ, làm cho các doanh nghiệp trì trệ kinh doanh, các công ty XS phải tạm dừng hoạt động kinh doanh XS trên toàn khu vực miền Nam, doanh số tiêu thụ ít nhiều bị ảnh hưởng, đó cũng là trở ngại lớn trong vấn đề kinh doanh. Vấn đề đặt ra lúc bấy giờ là làm thế nào để tập thể cán bộ, nhân viên nỗ lực vượt qua khó khăn, gắn bó với công ty và không rời bỏ công ty. Dịch Covid - 19 đã gây ảnh hưởng tiêu cực đến hoạt động quản trị nhân lực trong tổ chức/doanh nghiệp, gây khó khăn khi mọi chế độ lương thưởng của nhân viên đều bị sụt giảm, hầu hết công ty đều bỏ những chính sách khen thưởng cho nhân viên,… để công ty tập trung giải quyết những khó khăn tài chính. Điều này sẽ làm mất đi nguồn nhân lực giỏi. Tuy nhiên, nếu công ty có kế hoạch chủ động ứng phó với bất kỳ rủi ro nào, đặt yếu tố nguồn lực con người lên hàng đầu và có những chính sách tạo động lực cho nhân viên gắn kết với công ty thì nhân viên chính là bộ phận mang lại sức mạnh giúp công ty vượt qua mọi khó khăn, thử thách.
+
+Từ năm 2020 đến nay, công ty hầu như ít có sự biến động về nhân sự, có thể do tính chất đặc thù của ngành và mới vừa vực dậy sau dịch Covid - 19. Bên cạnh đó, hầu như cũng chưa có bất kỳ nghiên cứu chính thức nào về vấn đề này. Hiện nay, tất cả các tác giả ở Việt Nam và trên thế giới chỉ mới đi sâu nghiên cứu ảnh hưởng của sự gắn kết nhân viên với công ty ở các lĩnh vực như: Giáo dục đại học, xây dựng, thuỷ sản, dịch vụ y tế và công nghệ thông tin,… nhưng lại chưa quan tâm đến một lĩnh vực kinh doanh độc quyền, khá lâu và phát triển mạnh ở hầu hết các tỉnh, thành phố (TP) nhưng lại có đóng góp to lớn cho nền kinh tế địa phương và cả nước đó chính là ngành XS.
+Bên cạnh đó, các nghiên cứu ở Việt Nam hầu hết chỉ nghiên cứu về các nhân tố ảnh hưởng đến sự gắn kết của nhân viên với công ty mà không phân tích hay nghiên cứu về ảnh hưởng của động lực bên trong và bên ngoài đến sự gắn kết của nhân viên với công ty.
+
+Từ những lý do trên và nhận thức rõ tầm quan trọng của sự gắn kết của nhân viên đối với công ty, nên tác giả đã lựa chọn đề tài: “Giải pháp nâng cao sự gắn kết của nhân viên với Công ty Trách nhiệm Hữu hạn Nhà nước Một Thành viên Xổ số Kiến thiết Cần Thơ”, làm đề tài tốt nghiệp thạc sỹ với mong muốn vận dụng các kiến thức lý luận về quản trị nguồn nhân lực vào thực tiễn công ty để đưa ra được những nhân tố quan trọng ảnh hưởng đến sự gắn kết của nhân viên với công ty. Từ đó, tạo động lực làm việc cho nhân viên công ty cũng như xây dựng được thương hiệu hình ảnh về văn hoá doanh nghiệp của công ty.
+
+## 1.2 MỤC TIÊU NGHIÊN CỨU
+
+### 1.2.1 Mục tiêu chung
+
+Nghiên cứu các nhân tố ảnh hưởng đến sự gắn kết của nhân viên với công ty TNHH NN MTV XS KT Cần Thơ. Trên cơ sở đó, đề xuất các giải pháp nhằm nâng cao sự gắn kết của nhân viên với công ty trong giai đoạn hiện nay và tương lai.
+
+### 1.2.2 Mục tiêu cụ thể
+
+- Xác định các nhân tố ảnh hưởng đến sự gắn kết của nhân viên với công ty TNHH NN MTV XS KT Cần Thơ.
+
+- Phân tích sự tác động của các nhân tố ảnh hưởng đến sự gắn kết của nhân viên với công ty TNHH NN MTV XS KT Cần Thơ.
+
+- Đề xuất giải pháp nhằm giúp nhà quản trị, nhà lãnh đạo công ty có những chính sách phù hợp để hoàn thiện và nâng cao sự gắn kết của nhân viên với công ty TNHH NN MTV XS KT Cần Thơ.
+
+## 1.3 CÂU HỎI NGHIÊN CỨU
+
+- Các nhân tố nào ảnh hưởng đến sự gắn kết của nhân viên với công ty TNHH NN MTV XS KT Cần Thơ?
+
+- Sự tác động của các nhân tố đến sự gắn kết của nhân viên với công ty TNHH NN MTV XS KT Cần Thơ ra sao?
+
+- Những giải pháp nào được đề xuất nhằm giúp cho nhà quản trị, nhà lãnh đạo công ty có những chính sách phù hợp để nâng cao sự gắn kết của nhân viên với công ty TNHH NN MTV XS KT Cần Thơ trong giai đoạn hiện nay và tương lai?
+
+## 1.4 PHẠM VI NGHIÊN CỨU
+
+### 1.4.1 Thời gian nghiên cứu
+
+- Thời gian thực hiện nghiên cứu đề tài: từ tháng 04/2023 đến tháng 11/2023.
+
++ Thông tin thứ cấp: Thu thập từ nguồn số liệu trong các báo cáo của công ty từ năm 2020 - 2023 được cung cấp bởi công ty TNHH NN MTV XS KT Cần Thơ.
+
++ Thông tin sơ cấp: Thu thập trực tiếp từ bảng câu hỏi phỏng vấn nhân viên đang làm việc có thâm niên công tác ít nhất 1 năm ở các phòng ban khác nhau tại công ty vào tháng 08 năm 2023.
+
+### 1.4.2 Không gian nghiên cứu
+
+Đề tài được thực hiện tại công ty TNHH NN MTV XS KT Cần Thơ tại TP. Cần Thơ.
+
+## 1.5 ĐỐI TƯỢNG NGHIÊN CỨU
+
+- Đối tượng nghiên cứu của đề tài là: Các nhân tố ảnh hưởng đến sự gắn kết của nhân viên với công ty TNHH NN MTV XS KT Cần Thơ.
+
+- Đối tượng thu thập dữ liệu của đề tài là: Các nhân viên đang làm việc tại công ty TNHH NN MTV XS KT Cần Thơ có thâm niên công tác ít nhất 1 năm ở các phòng ban khác nhau của công ty.
+
+## 1.6 NỘI DUNG NGHIÊN CỨU
+
+Đề tài phân tích các nhân tố ảnh hưởng đến sự gắn kết của nhân viên với công ty TNHH NN MTV XS KT Cần Thơ. Từ đó, đề xuất một số giải pháp nhằm giúp nhà quản trị, nhà lãnh đạo công ty có những chính sách phù hợp để hoàn thiện và nâng cao sự gắn kết của nhân viên với công ty TNHH NN MTV XS KT Cần Thơ trong giai đoạn hiện nay và tương lai.
+
+## 1.7 CẤU TRÚC LUẬN VĂN
+
+Cấu trúc của luận văn bao gồm 6 chương như sau:
+
+# Chương 1: Giới thiệu. Trong chương này, tác giả giới thiệu chung về lý do chọn đề tài nghiên cứu, xác định mục tiêu nghiên cứu, câu hỏi nghiên cứu, phạm vi nghiên cứu và kết cấu của bài luận văn.
+
+# Chương 2: Tổng quan tài liệu. Ở chương này, tác giả lược khảo các tài liệu trong và ngoài nước có liên quan đến vấn đề nghiên cứu để làm cơ sở cho việc bố trí các nội dung nghiên cứu sao cho phù hợp.
+
+# Chương 3: Cơ sở lý luận và phương pháp nghiên cứu. Trong chương này, tác giả sẽ trình bày các cơ sở lý luận, các khái niệm liên quan đến vấn đề nghiên cứu. Bên cạnh đó, tác giả còn trình bày chi tiết cách tiếp cận và phương pháp nghiên cứu sử dụng trong đề tài.
+
+# Chương 4: Kết quả nghiên cứu. Ở chương này, tác giả sẽ tiến hành xác định các nhân tố ảnh hưởng đến sự gắn kết của nhân viên với công ty. Đồng thời, phân tích sự tác động của các nhân tố ảnh hưởng đến sự gắn kết của nhân viên với công ty.
+
+# Chương 5: Kết luận và đề xuất giải pháp. Trong chương cuối này, tác giả sẽ tóm tắt kết quả nghiên cứu, những đóng góp của luận văn. Từ đó, tác giả sẽ đề xuất giải pháp để nâng cao sự gắn kết của nhân viên với công ty. Bên cạnh đó, đề xuất các kiến nghị đối với Nhà nước và công ty.
+
+# CHƯƠNG 2
+
+TỔNG QUAN TÀI LIỆU
+
+## 2.1 LƯỢC KHẢO CÁC TÀI LIỆU CÓ LIÊN QUAN
+
+Chủ đề sự gắn kết của nhân viên với công ty thu hút rất nhiều học giả quan tâm và nghiên cứu vì lý do sự gắn kết nhân viên với công ty luôn là một yếu tố quan trọng để duy trì và phát triển một công ty. Nếu không có sự gắn kết của sức mạnh con người với công ty thì công ty sẽ không thể tồn tại và cạnh tranh trong một thị trường kinh doanh khốc liệt như ngày nay. Theo nghiên cứu của Monica và Krishnaveni (2018) nhận định rằng sự gắn kết của nhân viên với công ty được công nhận là yếu tố quan trọng để đảm bảo hiệu quả của tổ chức. Kết quả này hoàn toàn phù hợp với nghiên cứu của Mann và Harter (2016). Cũng theo nghiên cứu của Bhattacharyya (2017) chỉ ra rằng tổ chức AON Hewitt đã có một nhận xét quan trọng rằng mức độ gắn kết của nhân viên với công ty tăng 5% dẫn đến doanh thu kinh doanh tăng 3%. Bên cạnh đó, các nhà quản trị nguồn nhân lực cũng nhận thấy tầm quan trọng của sự gắn kết này. Sự gắn kết là mục tiêu được ưu tiên hàng đầu trong chiến lược phát triển nhân lực của mọi nhà quản trị. Theo nghiên cứu của Schiemann (2009) nếu áp dụng các phương pháp quản lý nguồn nhân lực không tương thích sẽ dẫn đến hiện tượng lãng phí thời gian. Vì nếu nhà quản lý không tạo được sự gắn kết của nhân viên với công ty hướng tới một mục tiêu chung nhất là sự gắn bó với công ty thì họ sẽ sớm rời bỏ công ty. Khi đó, tổ chức sẽ phải chịu tổn thất khá lớn vì phải tuyển nhân sự mới để thay thế, ngoài ra còn tốn chi phí đào tạo cho nguồn nhân lực mới này. Chính vì vậy, sự gắn kết của nhân viên với công ty càng cao khi những nhà lãnh đạo có tâm và tầm thì tất cả các khía cạnh của công ty sẽ được tăng lên cao nhất.
+
+Trong những năm qua, có rất nhiều các nghiên cứu trong và ngoài nước về sự gắn kết của nhân viên với công ty được thực hiện từ tổng quan đến chuyên sâu, từ khái quát đến cụ thể, từ đơn giản đến phức tạp,… và dựa vào những hướng tiếp cận, đối tượng nghiên cứu cũng như phương pháp nghiên cứu khác nhau. Nhưng tất cả kết quả đều đưa ra các nhân tố ảnh hưởng đến sự gắn kết này và nhấn mạnh được tầm quan trọng của sự gắn kết của nhân viên với công ty trong bất kỳ tổ chức hay công ty nào.
+
+### 2.1.1 Các nghiên cứu tại Việt Nam
+
+Đa số các học giả trong nước nghiên cứu về sự gắn kết của nhân viên với công ty theo hướng tiếp cận của nghiên cứu định lượng. Hơn thế nữa, phạm vi về nội dung nghiên cứu cũng rất rộng và đa dạng. Trong đó, nổi bật gồm những nghiên cứu sau:  Đầu tiên, tác giả sẽ chọn những nghiên cứu trong nước nghiên cứu theo lĩnh vực hoạt động phổ biến ở Việt Nam như: Giáo dục đại học, xây dựng, thuỷ sản, công nghệ thông tin,...
+
+Hà Nam Khánh Giao và Lê Trần Tấn Tài (2016) đã nghiên cứu về các yếu tố tác động đến sự gắn kết của nhân viên với tổ chức tại trường Đại học Tài chính - Marketing. Nghiên cứu được khảo sát 135 nhân viên. Phương pháp phân tích Cronbach’s Alpha, phân tích EFA cùng với phân tích hồi quy bội được sử dụng với phương tiện SPSS. Kết quả cho thấy mức độ ảnh hưởng của các yếu tố theo tầm quan trọng giảm dần đến sự gắn kết của nhân viên là: Sự phát triển nghề nghiệp, sự công nhận, sự cân bằng giữa công việc và cuộc sống, phúc lợi.
+
+Sau đó, tác giả Nguyễn Ngọc Duy Phương và Trần Bá Sang (2018) đã nghiên cứu sự gắn kết của người lao động với tổ chức: Nghiên cứu bối cảnh Tổng công ty vốn NN. Dữ liệu được thu thập từ 300 quan sát. Phương pháp phân tích được sử dụng là:
+SPSS, các kỹ thuật kiểm định độ tin cậy Cronbach’s Alpha, phân tích nhân tố khám phá EFA, phân tích tương quan và phân tích hồi quy bội. Kết quả nghiên cứu xác định được 4 yếu tố tác động đến sự gắn kết của người lao động tại Tổng công ty Xây dựng Công trình Hàng không ACC theo thứ tự giảm dần là: Lương thưởng và phúc lợi, phong cách lãnh đạo, mối quan hệ với đồng nghiệp, cơ hội thăng tiến nghề nghiệp.
+
+Nghiên cứu của Nguyễn Thị Ngọc Phương và cộng sự (2019) nhóm tác giả đã nghiên cứu về phân tích tác động của trách nhiệm xã hội đến giá trị thương hiệu và sự gắn kết tổ chức thông qua cảm nhận của người lao động tại các doanh nghiệp thủy sản vùng đồng bằng sông Cửu Long. Dữ liệu được thu thập từ 430 người lao động của doanh nghiệp thủy sản. Các phương pháp được sử dụng trong nghiên cứu là: Thống kê so sánh, mô tả, tổng hợp, kiểm định độ tin cậy qua hệ số Cronbach’s Alpha, phân tích nhân tố khám phá EFA và phân tích hồi qui tuyến tính đa biến được dùng để giải thích dữ liệu. Kết quả nghiên cứu cho thấy cả 5 yếu tố: Trách nhiệm kinh tế, trách nhiệm đạo đức, trách nhiệm pháp lý, trách nhiệm từ thiện và trách nhiệm môi trường đều tác động tích cực đến sự gắn kết với tổ chức thông qua cảm nhận của người lao động. Tuy nhiên, mức độ tác động của các yếu tố này có sự thay đổi so với mô hình Carroll (1991). Đồng thời, giá trị thương hiệu cũng tác động tích cực đến với sự gắn kết với tổ chức của người lao động kết quả là môi trường có tác động tích cực đến giá trị thương hiệu và gắn kết tổ chức của người lao động.
+
+Kế tiếp nghiên cứu của Nguyễn Minh Châu và cộng sự (2020) đã nghiên cứu về ảnh hưởng của quản trị nguồn nhân lực đến sự gắn kết với tổ chức của nhân viên tại Bệnh viện Đa khoa Hoàn Mỹ Minh Hải. Dữ liệu nghiên cứu được thu thập từ 238 nhân viên đang làm việc tại Bệnh viện. Các phương pháp kiểm định Cronbach’s Alpha, phương pháp phân tích nhân tố khám phá (EFA) và hồi quy tuyến tính đa biến được sử dụng trong nghiên cứu này. Kết quả nghiên cứu chỉ ra rằng, có 5 yếu tố ảnh hưởng đến sự gắn kết với tổ chức của nhân viên, bao gồm: (1) Đào tạo và phát triển, (2) lương và phúc lợi, (3) lãnh đạo, (4) đánh giá và giám sát kết quả công việc, (5) tuyển dụng và thuê lao động. Trong đó, yếu tố đào tạo và phát triển có tác động mạnh nhất đến sự kết gắn kết của nhân viên.
+
+Gần đây nhất, nghiên cứu của Nguyễn Duy Thành và Đào Đức Trung (2022) có bài nghiên cứu về tác động của CSR của doanh nghiệp đến sự gắn kết của nhân viên: nghiên cứu tại các doanh nghiệp công nghệ thông tin và truyền thông tại Hà Nội.
+Nghiên cứu sử dụng mô hình cấu trúc tuyến tính theo cả hai phương pháp đơn hướng và đa hướng với dữ liệu thu thập từ 453 nhân viên làm việc tại các doanh nghiệp công nghệ thông tin và truyền thông trên địa bàn Hà Nội. Kết quả cho thấy trách nhiệm xã hội tác động tích cực đến sự gắn kết của nhân viên, trong đó trách nhiệm pháp lý có tác động mạnh nhất.  Tiếp theo, tác giả sẽ chọn những bài lược khảo tập trung theo đặc điểm của nhân viên như: về độ tuổi, trình độ,… Đỗ Phú Trần Tình và cộng sự (2012) nhóm tác giả đã nghiên cứu về phân tích các nhân tố ảnh hưởng đến sư gắn bó lâu dài của nhân viên trẻ với doanh nghiệp. Dựa trên việc khảo sát 200 người đang làm việc tại các cơ quan và doanh nghiệp trên địa bàn TP. Hồ Chí Minh. Tác giả đã sử dụng phương pháp phân tích nhân tố khám phá EFA và phương trình hồi quy đa biến. Nghiên cứu đã phát hiện ra 5 nhân tố ảnh hưởng đến sự gắn bó lâu dài của nhân viên đối với doanh nghiệp là: Cơ hội thăng tiến, chính sách khen thưởng và phúc lợi, quan hệ với lãnh đạo, điều kiện làm việc và mức độ phù hợp với mục tiêu nghề nghiệp. Trong đó, cơ hội thăng tiến là yếu tố tác động mạnh nhất.
+
+Sau đó là bài nghiên cứu của tác giả Quan Minh Nhựt và Đặng Thị Đoan Trang (2015) về vấn đề nhân tố ảnh hưởng đến sự gắn bó của người lao động có trình độ từ đại học trở lên trong các doanh nghiệp ở TP. Cần Thơ. Tác giả phỏng vấn 165 nhân viên ở 50 doanh nghiệp trên địa bàn TP. Cần Thơ. Nghiên cứu sử dụng mô hình Binary Logistic để xác định sự gắn bó của người lao động. Sự gắn bó của nhân viên có trình độ từ đại học trở trên trong các doanh nghiệp ở TP. Cần Thơ chịu ảnh hưởng bởi nhiều yếu tố, trong đó có 5 yếu tố có ảnh hưởng nhiều nhất là: (1) Lương, phúc lợi và thăng tiến; (2) môi trường làm việc; (3) đặc điểm công việc; (4) phong cách lãnh đạo và (5) hứng thú trong công việc.  Cuối cùng, tác giả sẽ chọn những bài lược khảo theo loại hình của doanh nghiệp để thấy sự khác biệt so với công ty mà tác giả đang nghiên cứu.
+
+Trần Văn Dũng (2018) đã nghiên cứu về các yếu tố ảnh hưởng đến sự gắn kết của nhân viên trong doanh nghiệp. Nghiên cứu này tập trung tìm hiểu các yếu tố ảnh hưởng đến sự gắn kết của nhân viên tại công ty Cổ phần Đức Hạnh Marphavet. Bài viết kết hợp phương pháp định tính và định lượng. Nghiên cứu định lượng được thực hiện thông qua phương pháp điều tra chọn mẫu là nhân viên văn phòng của Công ty cổ phần Đức Hạnh Marphavet, thời gian thực hiện tháng 7/2017. Các dữ liệu được khảo sát hoàn thành được thu về, tiến hành kiểm tra và sàng lọc, mã hóa, nhập liệu và làm sạch dữ liệu, sẽ tiến hành xử lý số liệu bằng phần mềm SPSS và phần mềm AMOS.
+Các phương pháp kiểm định Cronbach’s Alpha, phương pháp phân tích nhân tố khám phá (EFA), phân tích CFA và phân tích SEM được sử dụng trong nghiên cứu này Kết quả cho thấy, sự gắn kết của nhân viên đối với công ty bị ảnh hưởng bởi 6 nhân tố độc lập xếp theo thứ tự quan trọng là: Phong cách lãnh đạo, văn hóa công ty, thu nhập, quan hệ với đồng nghiệp, bản chất công việc, cơ hội đào tạo và thăng tiến.
+
+Sau đó có nghiên cứu của Nguyễn Phan Thu Hằng và Nguyễn Thị Hồng Vân (2020) về vấn đề các yếu tố ảnh hưởng đến sự gắn kết với tổ chức của công chức, viên chức, người lao động tại Chi cục Tiêu chuẩn đo lường chất lượng TP. Hồ Chí Minh.
+Nghiên cứu kết hợp phương pháp nghiên cứu định tính và nghiên cứu định lượng. Số lượng mẫu được đưa vào nghiên cứu chính thức là 192 mẫu. Tổng cộng 29 biến quan sát độc lập và 3 biến quan sát phụ thuộc, sau đó nghiên cứu định tính để hiệu chỉnh mô hình. Độ tin cậy và giá trị của thang đo được kiểm định bằng hệ số Cronbach’s alpha và phân tích nhân tố khám phá (EFA). Kết quả đánh giá và kiểm định độ phù hợp cho thấy mô hình hồi quy tuyến tính đã được xây dựng phù hợp với tập dữ liệu ở mức 69,1%. Nghiên cứu cho thấy môi trường làm việc là yếu tố tác động mạnh nhất vào sự gắn kết. Sau đó lần lượt là các yếu tố: Hoạt động công đoàn, lương thưởng và phúc lợi, đặc điểm công việc, khen thưởng và ghi nhận và cuối cùng là yếu tố đào tạo và phát triển.
+
+Bùi Nhất Vương và Nguyễn Thị Ngọc Châu (2020) đã nghiên cứu về đề tài nâng cao sự gắn kết của nhân viên với tổ chức: Nghiên cứu thực nghiệm tại công ty TNHH Hùng Cá. Dữ liệu khảo sát đã thu thập từ 67 nhân viên văn phòng và 260 công nhân (tổng là 327 mẫu) tại công ty. Kết quả từ phân tích hồi quy bội khi sử dụng phần mềm SPSS đã xác định rằng: Thu nhập, khen thưởng và phúc lợi, người quản lý trực tiếp, môi trường làm việc, đồng nghiệp, văn hoá tổ chức và cơ hội thăng tiến đã có khuynh hướng liên kết tích cực với sự gắn kết của nhân viên.
+
+Nguyễn Quang Chương và Nguyễn Thị Thanh Dần (2021) đã nghiên cứu về giải pháp nâng cao sự gắn kết của nhân viên với công ty Cổ phần Tonysa Việt Nam. Để thực hiện nghiên cứu này, tác giả đã sử dụng kết hợp dữ liệu thứ cấp và dữ liệu sơ cấp.
+Số lượng mẫu hợp lệ được đưa vào nghiên cứu là 37 quan sát. Nghiên cứu sử dụng thang điểm Likert 5 điểm với 23 biến quan sát. Kết quả nghiên cứu cho thấy các nhân tố như: Môi trường làm việc, đào tạo và phát triển, đề bạt và thăng tiến, lương thưởng và phúc lợi có ảnh hưởng trực tiếp đến sự gắn kết của nhân viên với công ty.
+
+Nguyễn Thị Kim Hiệp (2021) đã nghiên cứu về các yếu tố tác động đến sự gắn kết của người lao động với doanh nghiệp tại Đồng Nai. Khảo sát được thực hiện ở 200 người lao động trên địa bàn tỉnh Đồng Nai. Nghiên cứu này được thực hiện với phương pháp định tính và định lượng. Dữ liệu dùng trong nghiên cứu là dữ liệu sơ cấp được thu thập trực tiếp từ người lao động đang làm việc tại các doanh nghiệp trên địa bàn tỉnh Đồng Nai. Cỡ mẫu dùng trong nghiên cứu định lượng là 200 quan sát. Nghiên cứu sử dụng thang đo Likert 5 điểm với 35 biến quan sát đo lường cho 7 khái niệm nghiên cứu gồm 1 biến phụ thuộc và 6 biến độc lập. Nghiên cứu định lượng được thực hiện bằng phương pháp khảo sát. Kết quả nghiên cứu cho thấy có 6 yếu tố tác động đến mức độ gắn kết của người lao động gồm 6 yếu tố: Đào tạo và phát triển, môi trường làm việc, phong cách lãnh đạo, sự công nhận, thu nhập và công bằng và sự trao quyền.
+
+Nguyễn Thị Thảo và Nguyễn Thanh Vũ (2021) đã nghiên cứu về các yếu tố ảnh hưởng đến sự gắn bó của nhân viên tại công ty Cổ phần Đầu tư Phát triển Cao su Nghệ An. Dữ liệu được thu thập từ 287 nhân viên đang công tác tại công ty. Phương pháp phân tích nhân tố khám phá (EFA) được sử dụng để phân tích dữ liệu. Có 7 yếu tố ảnh hưởng đến sự gắn kết của nhân viên với công ty theo thứ tự giảm dần là: Chính sách tiền lương, môi trường và điều kiện làm việc, cơ hội đào tạo và phát triển, chính sách khen thưởng và phúc lợi, sự hỗ trợ của cấp trên, bản chất công việc và quan hệ đồng nghiệp.
+
+Cuối cùng là nghiên cứu của Đào Duy Huân và Châu Hồng Thuỷ (2021) về các yếu tố ảnh hưởng đến sự gắn kết của nhân viên đối với công ty 622, quân khu 9.
+Nghiên cứu đã sử dụng phương pháp nghiên cứu định tính và định lượng. Mô hình nghiên cứu đề xuất gồm 9 nhân tố, với 36 biến quan sát. Nghiên cứu thực hiện khảo sát 200 nhân viên của công ty. Các yếu tố có ảnh hưởng đến sự gắn kết của nhân viên với công ty theo thứ tứ giảm dần như sau: Cơ hội đào tạo, thăng tiến, sự phù hợp với mục tiêu của tổ chức, thu nhập và phúc lợi, mối quan hệ trong công việc với lãnh đạo, điều kiện môi trường làm việc, mối quan hệ trong công việc với đồng nghiệp và phần thưởng và sự công nhận.
+
+### 2.1.2 Các nghiên cứu trên thế giới
+
+Đa số các học giả trên thế giới cũng nghiên cứu khá nhiều về lĩnh vực sự gắn kết của nhân viên với công ty. Các đối tượng khảo sát, mô hình khảo sát và kết quả nghiên cứu khác nhau. Trong đó, nổi bật gồm những nghiên cứu sau:  Đầu tiên, tác giả sẽ lược khảo các bài nghiên cứu theo vị trí công việc.
+
+Carter (2012) đã nghiên cứu về ảnh hưởng của lãnh đạo phục vụ đến sự gắn kết của nhân viên: Nghiên cứu hiện tượng định tính của nhân viên nhà hàng. Tác giả đã phỏng vấn về kinh nghiệm của 11 nhân viên và 2 nhà quản lý từ nhà hàng Celebration ở Dallas, Texas. Phương pháp được tác giả sử dụng trong bài là phương pháp Van Kaam. Các chủ đề nổi lên từ các cuộc phỏng vấn và các tác giả tìm thấy là: kinh nghiệm lãnh đạo phục vụ, tại sao mọi người ở lại dự lễ kỷ niệm, đặc điểm của nhà lãnh đạo phục vụ, tác động của lãnh đạo phục vụ và sự ứng dụng của lãnh đạo phục vụ. Sự gắn kết của nhân viên không chỉ phụ thuộc vào các mối quan hệ bên ngoài mà nhân viên nắm giữ mà còn phụ thuộc vào sự tương tác giữa nhân viên với người quản lý của họ.
+
+Sau đó, Slack và cộng sự (2015) nghiên cứu về: “Khám phá sự gắn kết của nhân viên với trách nhiệm xã hội (CSR) của công ty: Quan điểm trao đổi xã hội về sự tham gia của tổ chức” cho rằng: CSR là một phần được công nhận và phổ biến trong hoạt động kinh doanh. Một số động cơ được trích dẫn thường xuyên đằng sau CSR là: Tinh thần của nhân viên, tuyển dụng và giữ chân nhân viên, với việc nhân viên được công nhận là một chìa khoá của các bên liên quan quan trọng của tổ chức. Nghiên cứu này dựa trên các cuộc phỏng vấn và quan sát trực tiếp tại một công ty năng lượng lớn của Vương quốc Anh. Sự gắn kết đa dạng đã được tìm thấy, từ những nhân viên thể hiện sự thờ ơ với các hoạt động CSR trong công ty, đến những người hoàn toàn gắn kết vào các hoạt động CSR và những người khác hài lòng với sự gắn kết của cá nhân họ, nhưng không phải với tổ chức, gắn kết với CSR. Một số trở ngại về bối cảnh tổ chức, bao gồm giao tiếp kém, văn hóa CSR yếu kém và khả năng hiển thị thấp cũng như thiếu sự liên kết chiến lược của CSR với các mục tiêu kinh doanh và cá nhân, được dùng để giải thích sự đa dạng trong sự gắn kết của nhân viên.
+
+Gần đây nhất, nghiên cứu của Canavesi và Minell (2021) hai tác giả đã nghiên cứu về lãnh đạo phục vụ và sự gắn kết của nhân viên. Bài báo này nghiên cứu định tính đã phân tích kinh nghiệm của nhà lãnh đạo phục vụ của 151 cấp dưới của một công ty tư vấn lớn và định hướng dài hạn của Ý và cung cấp thêm hỗ trợ cho những nghiên cứu cho thấy rằng lãnh đạo phục vụ có liên quan đến sự gắn kết của nhân viên.  Tiếp theo, đa số các bài nghiên cứu nước ngoài về sự gắn kết của nhân viên với công ty chủ yếu nghiên cứu theo lĩnh vực hoạt động của doanh nghiệp.
+
+Bergström và Martínez (2016) đã nghiên cứu về ảnh hưởng của động lực bên trong và bên ngoài đến sự gắn kết của nhân viên. Đây là nghiên cứu định tính, được nhóm tác giả thực hiện tám cuộc phỏng vấn bán cấu trúc với tám nhà quản lý (bốn người từ khu vực công và bốn người từ khu vực tư nhân) về nhận thức của họ về động lực và sự gắn kết. Các yếu tố động lực bên trong ảnh hưởng đến sự gắn kết của nhân viên là: Mối quan hệ với đồng nghiệp, mối quan hệ với người quản và phúc lợi của nhân viên. Các yếu tố động lực bên ngoài tác động đến sự gắn kết của nhân viên là:
+Môi trường làm việc, đào tạo và phát triển nghề nghiệp, tiền lương thưởng, chính sách tổ chức. Nhóm tác giả cũng kết luận thêm rằng các yếu tố động lực nội tại, động lực bên trong nhân viên, thường có ảnh hưởng lớn hơn đến các khía cạnh tâm lý của sự gắn kết của nhân viên. Về các yếu tố thúc đẩy bên ngoài, các nhà quản lý nhận thấy rằng họ chắc chắn có ảnh hưởng tích cực đến sự gắn kết của nhân viên và nếu không có họ, nhân viên hầu như sẽ không gắn kết. Điều này càng ngụ ý rằng ảnh hưởng của chúng đối với sự gắn kết của nhân viên thấp hơn so với nhiều yếu tố nội tại, như các nhà quản lý đã nhận thấy.
+
+Sau năm đó, có nghiên cứu của Shehri và cộng sự (2017) nhóm tác giả này đã nghiên cứu về: “Ảnh hưởng của văn hóa tổ chức đối với sự gắn kết của nhân viên tại các ngân hàng Saudi". Bài viết nghiên cứu này sẽ điều tra các yếu tố thúc đẩy và hạn chế của văn hóa tổ chức đối với sự gắn kết của nhân viên tại các Ngân hàng Ả Rập Saudi. Nghiên cứu này là một cách tiếp cận định tính, phương pháp được sử dụng là một lý thuyết có căn cứ. Thu thập dữ liệu thông qua một phương pháp tập trung vào vấn đề. Các cuộc phỏng vấn đã được thực hiện với các nhà quản lý tuyến ngân hàng và cấp dưới. Kết quả cho thấy rằng các yếu tố hỗ trợ đóng góp nhiều nhất đến sự hỗ trợ gắn kết nhân viên là: Đào tạo và phát triển, giao tiếp tổ chức, tiền thưởng và sự công nhận. Kết quả cho thấy văn hóa Hồi giáo có ảnh hưởng đến sự gắn kết của nhân viên tại các ngân hàng Saudi. Ảnh hưởng này được thể hiện trong các giao dịch không hưởng lãi và quy tắc phân biệt phụ nữ.
+
+Adhitama và Riyanto (2020) nghiên cứu về duy trì sự gắn kết của nhân viên và hiệu quả làm việc của nhân viên trong dịch Covid - 19 tại công ty Tài chính PT Koexim Mandiri. Nghiên cứu này áp dụng phương pháp phỏng vấn trực tiếp ảo với 30 nhân viên của công ty và sử dụng cách tiếp cận định tính. Do chương trình giãn cách xã hội và thể chất, nghiên cứu này không thể tiến hành bằng phỏng vấn trực tiếp. Cuộc phỏng vấn truyền thông ảo được thực hiện từ ngày 11/05/2020 đến ngày 14/05/2020, thời gian phỏng vấn cho mỗi nhân viên là 1 giờ. Nghiên cứu này đã chứng minh rằng sự gắn kết và hiệu suất có thể bị ảnh hưởng bởi liên minh xã hội, cảm giác được người quản lý hoặc người giám sát ủng hộ, chia sẻ thông tin, chia sẻ mục tiêu và tầm nhìn, giao tiếp và tin tưởng. Hầu hết, nhân viên của PT Koexim Mandiri Finance cảm thấy được tôn trọng và đánh giá cao, đồng thời họ nhận ra rằng công việc của họ rất quan trọng và người quản lý hoặc người giám sát của họ lắng nghe suy nghĩ của họ. Những nhân viên gắn bó đặc biệt ngày càng có lợi nhuận và tập trung vào các công việc trong công ty.
+
+## 2.2 ĐÁNH GIÁ TÀI LIỆU LƯỢC KHẢO
+
+ Nhận xét và đánh giá tổng quan tài liệu:
+
+Tổng quan nghiên cứu cho thấy hầu hết các nghiên cứu về sự gắn kết của nhân viên với công ty có phạm vi nghiên cứu khá đa dạng, từ các lĩnh vực hoạt động của doanh nghiệp, đặc điểm của nhân viên, vị trí công việc và loại hình doanh nghiệp,… Một số nghiên cứu vẫn còn hạn chế chưa phân tích sâu cũng như chưa làm rõ lý do tại sao mức độ ảnh hưởng của các nhân tố như thế. Hơn thế nữa, các nghiên cứu chưa kiểm định sự khác biệt về gắn kết nhân viên với công ty ở những vị trí công việc, phòng ban khác nhau mà đa số các nghiên cứu chỉ đo lường, đánh giá ở mức độ đơn giản. Ngoài ra, các nghiên cứu ở tại Việt Nam cũng chưa phân tích các động lực môi trường bên trong và bên ngoài ảnh hưởng tới sự gắn kết của nhân viên với công ty mà chỉ phân tích dựa trên cơ sở các nhân tố trực tiếp ảnh hưởng tới sự gắn kết của nhân viên với công ty.
+
+Bên cạnh đó, đa số các bài nghiên cứu về chủ đề này trong lĩnh vực XS tại Việt Nam hầu như không có và cũng chưa được nghiên cứu tại các công ty XS KT ở các địa phương trong đó có TP. Cần Thơ. Chính vì vậy, dựa trên các mô hình đã được nghiên cứu trước đây và được tác giả lược khảo, tác giả sẽ xây dựng mô hình nghiên cứu mới để nghiên cứu các nhân tố ảnh hưởng đến sự gắn kết của nhân viên với công ty TNHH NN MTV XS KT Cần Thơ. Về nội dung và mô hình nghiên cứu, tác giả kế thừa có chọn lọc các nhân tố có sự trùng lắp, lặp đi lặp lại và phù hợp với loại hình kinh doanh ở công ty TNHH NN MTV XS KT Cần Thơ và thực trạng ở hầu hết các công ty có loại hình tương tự ở Việt Nam để xây dựng mô hình nghiên cứu các nhân tố ảnh hưởng đến sự gắn kết của nhân viên với công ty TNHH NN MTV XS KT Cần Thơ.
+
+Chính vì vậy, luận văn này sẽ thực hiện đánh giá sự gắn kết của nhân viên với công ty TNHH NN MTV XS KT Cần Thơ theo hướng tiếp cận của nghiên cứu định lượng. Bên cạnh đó, nghiên cứu này sẽ được thực hiện tại công ty TNHH NN MTV XS KT Cần Thơ, đây là một doanh nghiệp NN được độc quyền về kinh doanh XS do Uỷ ban Nhân dân TP. Cần Thơ quản lý. Khác với các công ty kinh doanh lĩnh vực khác, tập thể lãnh đạo và nhân viên công ty luôn cố gắng phấn đấu hoàn thành mục tiêu đề ra. Ngoài mục tiêu đạt lợi nhuận cao còn nộp ngân sách NN vượt mức kế hoạch đề ra và đầu tư vào các hoạt động an sinh, xã hội của TP. Cần Thơ. Trong những năm qua, công ty luôn là một trong những đơn vị tiêu biểu trong việc đóng góp vào sự phát triển của TP. Cần Thơ.
+
+Nghiên cứu được thực hiện ở công ty nhằm đánh giá một cách cụ thể hơn vào lĩnh vực này vì hiện tại vẫn còn thiếu vắng các nghiên cứu ở tổng quan các tài liệu.
+Qua đó, nghiên cứu kỳ vọng có thể so sánh được với thực trạng tại các lĩnh vực kinh doanh khác được các học giả tập trung nghiên cứu nhiều như: Lĩnh vực sản xuất, kinh doanh thương mại, lĩnh vực dịch vụ,…
+
+## 2.3 KẾT QUẢ MONG ĐỢI
+
+### 2.3.1 Về ý nghĩa khoa học
+
+Đề tài kỳ vọng sẽ thể hiện được ý nghĩa khoa học qua việc tổng hợp những lý thuyết về sự gắn kết của nhân viên và các nhân tố ảnh hưởng đến sự gắn kết của nhân viên. Bên cạnh đó, nghiên cứu sẽ thực hiện kiểm chứng các mức độ ảnh hưởng của sự gắn kết nhân viên tại công ty TNHH NN MTV XS KT Cần Thơ. Trong những năm qua, công ty đã không ngừng phát triển với phương châm “Vừa ích nước – Vừa lợi nhà” và đã góp phần to lớn vào sự phát triển kinh tế - xã hội của đất nước. Lãnh đạo và tập thể nhân viên công ty đã không ngừng nỗ lực, phấn đấu hoàn thành tốt nhiệm vụ được giao. Bên cạnh đó, người lao động công ty luôn thể hiện tinh thần “tương thân tương ái, san sẻ yêu thương” hướng về cộng đồng qua các việc ủng hộ và đóng góp thiết thực tiền lương của mình vào: Quỹ Phòng chống thiên tai, Quỹ Vì người nghèo, Quỹ Đền ơn đáp nghĩa, Quỹ Tấm lòng vàng và nuôi dưỡng các cháu bị nhiễm chất độc da cam,… Nhờ hoạt động kinh doanh XS mà công ty không chỉ đóng góp cho các hoạt động an sinh xã hội mà còn tạo công ăn việc làm cho hàng ngàn người mưu sinh, đem lại nguồn thu nhập ổn định cho đại lý vé số và người bán lẻ. Theo Điều 2, chương I Thông tư số 75/2013/TT-BTC của Bộ Tài chính Việt Nam nhấn mạnh như sau: “Công ty TNHH NN MTV XS KT do Ủy ban nhân dân tỉnh, TP trực thuộc Trung ương làm chủ sở hữu (sau đây gọi tắt là công ty XS KT)”. Khác với các công ty kinh doanh khác, công ty XS KT Cần Thơ là một công ty kinh doanh sản phẩm độc quyền (vé số) do Uỷ ban nhân dân TP. Cần Thơ quản lý.
+
+Đề tài này sẽ nhằm đánh giá cụ thể hơn vào lĩnh vực kinh doanh sản phẩm độc quyền vốn chưa được nhiều các học giả tập trung nghiên cứu. Qua đó, nghiên cứu kỳ vọng có thể so sánh được với các nghiên cứu thuộc các lĩnh vực khác nhau đã được thực hiện nhiều như: Lĩnh vực sản xuất, kinh doanh thương mại và dịch vụ du lịch,…
+
+### 2.3.2 Về mặt thực tiễn
+
+Kết quả nghiên cứu này kỳ vọng sẽ giúp các nhà quản trị thấy được tầm quan trọng của sự gắn kết nhân viên với công ty. Bên cạnh đó, sẽ hiểu được và nắm bắt được những hành vi, những mong đợi của nhân viên thông qua các nhân tố ảnh hưởng đến sự gắn kết của nhân viên với công ty. Đồng thời, là cơ sở để các nhà quản trị công ty đưa ra được những giải pháp chính sách thích hợp để nâng cao sự gắn kết của nhân viên đối với công ty nói chung và công ty XS KT nói riêng. Đây sẽ là một lợi thế cạnh tranh về nguồn nhân lực của công ty với các đối thủ cạnh tranh cùng ngành trực tiếp và gián tiếp.
+
+Ngoài ra, bài nghiên cứu sẽ là tư liệu tham khảo thực nghiệm cho các nghiên cứu về chủ đề sự gắn kết của nhân viên với công ty và những nhân tố tác động đến sự gắn kết của nhân viên với công ty.
+
+# CHƯƠNG 3
+
+CƠ SỞ LÝ LUẬN VÀ PHƯƠNG PHÁP NGHIÊN CỨU
+
+## 3.1 PHƯƠNG PHÁP LUẬN
+
+### 3.1.1 Khái niệm sự gắn kết của nhân viên với công ty
+
+Trong Quản trị nguồn nhân lực, có nhiều cách khái niệm khác nhau về sự gắn kết của nhân viên với công ty.
+
+Sự gắn kết là sự tương tác giữa các nhân viên được đánh giá dựa trên mức độ nhiệt tình và cống hiến mà một nhân viên cảm thấy đối với công việc của mình.
+
+Theo Porter và cộng sự (1974) gắn kết với tổ chức là niềm tin mạnh mẽ và chấp nhận các mục tiêu của tổ chức, sẵn sàng nỗ lực hết mình vì tổ chức và mong muốn duy trì là thành viên của tổ chức.
+
+Mayer và Allen (1996) đã đưa ra định nghĩa: “Sự gắn kết với tổ chức là mối liên hệ về mặt tâm lý giữa một cá nhân với tổ chức của mình khiến họ ít có khả năng tự nguyện rời bỏ tổ chức”.
+
+Mowday và cộng sự (1979) nêu ra rằng: “Sự gắn kết với tổ chức là sức mạnh tương đối về sự đồng nhất của nhân viên với tổ chức và sự tham gia tích cực của nhân viên trong một tổ chức nhất định”.
+
+Gắn kết với tổ chức là lòng trung thành của nhân viên với tổ chức, sẵn sàng nỗ lực hết mình vì mục tiêu, giá trị của tổ chức và mong muốn duy trì là thành viên với tổ chức (Cohen, 2007).
+
+Sự gắn kết với tổ chức là sự sẵn sàng làm việc tích cực vì tổ chức, cảm thấy tự hào là một thành viên của tổ chức và có sự gắn bó chặt chẽ với tổ chức.
+
+Theo Armstrong (2009) cho rằng: sự gắn kết của nhân viên là tình trạng sẵn sàng của nhân viên với công việc, với tổ chức và được thúc đẩy để đạt thành tích cao.
+
+Sự gắn kết nhân viên được định nghĩa là sự tổng hợp, kết nổi của sức mạnh thể chất và tinh thần người lao động với công việc mà họ làm (Quantum Workplace).
+
+Một nhân viên có sự gắn kết với công ty là khi nhân viên đó nhiệt tình, tận tâm với công việc (Gallup).
+
+Tương tự như vậy, định nghĩa sự gắn kết là khi một nhân viên hài lòng, trung thành và nỗ lực hết mình vì mục tiêu của tổ chức (Deloitte).
+
+Sự tương tác giữa nhân viên thể hiện qua sự sẵn lòng và khả năng có thể đảm đương công việc một cách suôn sẻ (Willis Towers Watson).
+
+Theo Georgiades định nghĩa rằng: “Sự gắn kết của nhân viên mô tả cam kết của nhân viên đối với các mục tiêu của tổ chức và họ cảm thấy được công nhận và đánh giá cao cho những nỗ lực của họ”. (Georgiades, 2015).
+
+Từ những phân tích trên, ta có thể đưa ra khái niệm sự gắn kết của nhân viên với công ty bao gồm sự đồng nhất, sự cố gắng và lòng trung thành. Ngoài ra, sự gắn kết còn là mối quan hệ tích cực với tổ chức khiến họ luôn sẵn sàng đầu tư công sức và thời gian của mình cho sự hình thành và phát triển của công ty. Chính vì vậy, sự gắn kết của nhân viên với công ty không chỉ đơn thuần là sự xuất phát từ niềm tin và lời nói của nhân viên mà nó còn là từ hành động thiết thực mà nhân viên cống hiến cho công ty.
+
+### 3.1.2 Đặc điểm của nhân viên gắn kết với công ty
+
+Theo bài viết trên trang Base.vn của tác giả Hạnh Lê (2023), nhận định một nhân viên gắn kết với công ty sẽ có những đặc điểm sau:
+
+- Tự nhận thức được vai trò và trách nhiệm.
+
+- Giải quyết vấn đề độc lập.
+
+- Có ý tưởng và giải pháp sáng tạo.
+
+- Cống hiến cho mục tiêu tổ chức.
+
+- Hy sinh thời gian cho nhiệm vụ quan trọng.
+
+- Tự hào về công ty, mang về những ứng viên tài năng.
+
+### 3.1.3 Lợi ích gắn kết nhân viên với công ty
+
+Theo bài viết trên trang Base.vn của tác giả Hạnh Lê (2023), chỉ ra rằng lợi ích từ việc gắn kết nhân viên như sau:
+
+* Là nền tảng cho sự phát triển vững mạnh của công ty Quantum Workplace khi thực hiện cuộc khảo sát ý kiến các nhà quản trị doanh nghiệp đã đưa ra kết quả: “Có đến 92% các CEO khẳng định rằng nhân sự doanh nghiệp sẽ làm việc hiệu quả hơn, tốc độ đạt được thành công nhanh hơn khi họ có sự gắn kết với nhau để cùng giải quyết công việc”. Điều này cho thấy, tầm quan trọng của việc gắn kết nhân viên với công ty, khi lãnh đạo có chiến lược gắn kết nhân viên trong công ty thì họ không chỉ hoàn thành tốt nhiệm vụ được giao mà còn cố gắng học hỏi thêm kinh nghiệm. Từ đó, nhân viên công ty sẽ tự bản thân nâng cao ý chí phấn đấu và ngày một tiến xa hơn, doanh nghiệp cũng vì thế mà phát triển.
+
+* Cải thiện và nâng cao hiệu suất làm việc của nhân viên Theo khảo sát của Gallup chỉ ra: “Những doanh nghiệp có sự gắn kết nhân viên có mức năng suất công việc hiệu quả hơn 22% so với các doanh nghiệp không có sự gắn kết nhân viên”.
+
+Đây chính là lý do vì sao những nhà quản trị thành công luôn biết cách tạo ra sự gắn kết để giúp nhân viên tăng năng suất làm việc, phục vụ mục tiêu chung của công ty. Các chương trình gắn kết nhân viên cũng được công ty tổ chức thường xuyên giúp nhân viên tăng khả năng sáng tạo, từ đó nâng cao chất lượng làm việc của nhân viên.
+
+* Tăng tỷ lệ hài lòng của khách hàng Khi nhân viên làm việc hết sức với lòng tận tâm thì khách hàng sẽ nhìn thấy được sự chuyên nghiệp, chân thành từ họ và sẽ an tâm hơn khi mua sản phẩm hoặc dịch vụ của công ty. Từ đó, nhân viên có thể gia tăng được doanh số bán hàng và hoạt động kinh doanh của công ty sẽ trở nên thuận lợi hơn rất nhiều.
+
+* Giảm thiểu được các rủi ro cho công ty Theo nghiên cứu của Gallup: “Trong các doanh nghiệp có mức độ gắn kết nhân viên cao, những sự cố trong quá trình hoạt động giảm 48% và những vấn đề liên quan đến chất lượng sản phẩm cũng giảm 41%”. *Tăng lợi nhuận doanh nghiệp Theo Hewitt - doanh nghiệp tư vấn về vốn và nhân lực tại Mỹ nhận định rằng: “Các công ty đạt mức gắn kết 60 - 70% có tổng lợi nhuận trung bình của cổ đông (TSR) là 24,2%. Các công ty có mức gắn kết 49 – 60% có TSR chỉ còn 9,1%, công ty có mức gắn kết nhỏ hơn 25% có mức TSR âm”.
+
+* Gia tăng tỷ lệ giữ chân nhân tài Bên cạnh vấn đề lương thưởng quyết định sự gắn kết hay rời bỏ công ty của nhân viên thì một môi trường làm việc có sự gắn kết của nhân viên cùng tác phong làm việc chuyên nghiệp chắc chắn sẽ là sự lựa chọn của nhiều ứng viên tài năng. Đây là một trong những lợi ích to lớn mà các giải pháp gắn kết nhân viên mang lại cho doanh nghiệp.
+
+### 3.1.4 Các thành phần của sự gắn kết của nhân viên với công ty
+
+Có nhiều quan điểm khác nhau hay khía cạnh tiếp cận khác nhau thì sự gắn kết với công ty có ba thành phần.
+
+Meyer và Allen (1991) đề xuất ba thành phần gắn kết với tổ chức: “- Gắn kết vì tình cảm (Affective commitment): Đề cập đến sự gắn kết tình cảm, sự gắn kết chặt chẽ và dồn hết tâm trí vào trong tổ chức của nhân viên.
+
+- Gắn kết do bắt buộc (Continuance commitment): Gắn kết do người nhân viên nhận thấy chi phí phải trả cao (chi phí cơ hội) khi phải rời bỏ tổ chức.
+
+- Gắn kết vì quy chuẩn (Normative commitment): Phản ánh gắn kết dựa trên nghĩa vụ của nhân viên đối với tổ chức.” Jaros và cộng sự (1993) nêu ra rằng sự gắn kết với tổ chức được đo lường bởi ba thành phần: “- Sự duy trì (Continuance): Là mức độ mà một cá nhân cảm thấy họ phải gắn kết với tổ chức vì họ sẽ mất nhiều hơn so với có nếu họ rời khỏi tổ chức.
+
+- Yêu mến (Affective): Là mức độ mà một cá nhân gắn kết về mặt tâm lý thông qua những cảm giác như lòng trung thành, cảm thấy yêu mến tổ chức, hài lòng với tổ chức, nhiệt tình vì tổ chức và cảm thấy mình thuộc về tổ chức.
+
+- Đạo đức (Moral): Là mức độ mà một cá nhân gắn kết về mặt tâm lý với tổ chức thông qua mục tiêu, giá trị và sứ mệnh của tổ chức.” Hiện nay, có nhiều định nghĩa khác nhau nhưng định nghĩa của Meyer và Allen (1991) được sử dụng nhiều nhất trong các nghiên cứu. Trong nghiên cứu này có ba dạng gắn kết của nhân viên với công ty là: Gắn kết vì tình cảm, Gắn kết vì bắt buộc và Gắn kết vì quy chuẩn. Trong đó, gắn kết vì tình cảm có mối tương quan mạnh nhất (Hà Nam Khánh Giao và cộng sự, 2016). Cũng theo nghiên cứu của Iverson và Roy (1994) cũng cho rằng gắn sự thỏa mãn trong công việc là tiền đề quan trọng ảnh hưởng đến sự gắn kết vì tình cảm với tổ chức. Nghiên cứu của Mathieu và Zajac (1990) cho rằng tiền đề để nhân viên gắn kết với tổ chức bằng tình cảm thường được phân loại thành các đặc điểm cá nhân, công việc, kinh nghiệm làm việc và đặc điểm tổ chức. đặc điểm cá nhân bao gồm giới tính, tuổi tác, giáo dục, tình trạng hôn nhân, mức độ công việc và thời gian công tác. Đặc điểm công việc đề cập đến sự đa dạng trong các loại kỹ năng làm việc, tính tự chủ trong nhiệm vụ, thách thức công việc và phạm vi công việc.
+Đặc điểm của tổ chức bao gồm các chính sách tổ chức, tính hỗ trợ, thông tin, trao đổi và sự công nhận. Kết quả nghiên cứu trong các năm qua, cho thấy trong số các loại đặc điểm này thì đặc điểm tổ chức có khả năng dự đoán sự gắn kết tình cảm mạnh nhất.
+Đây là kết quả của của một chính sách quản lý hiệu quả của tổ chức (Meyer và Allen,1991). Khi nhân viên gắn kết về tình cảm, họ sẽ xem công ty là ngôi nhà thứ 2 của mình, tự hào vì được làm việc trong công ty, cảm nhận mình là thành viên của công ty và công ty có ý nghĩa rất quan trọng với bản thân mình,… Tóm lại, trong số các thành phần tâm lý gắn kết với tổ chức thì sự gắn kết vì tình cảm và sự trung thành của nhân viên được các công ty quan tâm nhất và mang lại nhiều lợi ích nhất cho công ty. Vì vậy, luận văn này sẽ tập trung nghiên cứu sự gắn kết của nhân viên vì tình cảm.
+
+### 3.1.5 Các thuyết liên quan đến sự gắn kết của nhân viên với công ty
+
+Có nhiều nghiên cứu khác nhau liên quan đến sự gắn kết của nhân viên với công ty. Tùy theo sự tiếp cận khác nhau của các tác giả mà có các lý thuyết khác nhau về chủ đề nghiên cứu. Hiện nay, có một số lý thuyết liên quan đến sự gắn kết của nhân viên với công ty như sau:
+
+#### 3.1.5.1 Thuyết nhu cầu của Maslow
+
+Abraham Maslow (1943) cho rằng con người có rất nhiều nhu cầu khác nhau mà bản thân họ khao khát được thoả mãn. Tháp nhu cầu của Maslow là một trong những kết quả nghiên cứu về nhu cầu của con người được ông trình bày dưới dạng biểu đồ tháp. Với 5 cấp độ nâng dần từ thấp đến cao, những nhu cầu của con người được thể hiện một cách đơn giản và trực quan. Những nhu cầu này gần như phù hợp trong bất kỳ hoàn cảnh xã hội nào, do đó tính đúng đắn của nó vẫn còn được giữ nguyên cho đến ngày nay.
+
+Nhà quản trị muốn nâng cao sự gắn kết của nhân viên với công ty thì trước hết họ phải tìm hiểu nhu cầu của nhân viên và tìm cách thoả mãn các nhu cầu đó. Nhu cầu của nhân viên được sắp xếp từ thấp đến cao theo trình tự sau:
+
+- Nhu cầu sinh lý: Là những nhu cầu cơ bản nhất và thiết yếu mà bất kỳ con người nào cũng có để tồn tại, trong đó có nhân viên. Nhu cầu sinh lý được định nghĩa là những nhu cầu như: Ăn mặc, nghỉ ngơi, trú ngụ dưới một mái nhà,… Dù là nhu cầu cơ bản nhất nhưng nhưng chúng cần phải được đáp ứng đầu tiên trước khi tiến lên mức độ tiếp theo. Đây cũng là nhu cầu mà con người cố gắng phấn đấu làm việc để có thể sinh tồn được trong cuộc sống này. Nhu cầu sinh lý của nhân viên có thể được hiểu là tiền lương, điều kiện làm việc,… Nó thường không kích thích nhân viên đạt hiệu quả tốt hơn trong công việc của mình.
+
+- Nhu cầu an toàn: An toàn là một trong những nhu cầu rất quan trọng với con người chỉ sau những nhu cầu về sinh lý. Nhu cầu về sự an toàn không chỉ đơn thuần về việc được đảm bảo an toàn về mạng sống như: Đảm bảo sức khỏe, an ninh, tính mạng,… mà còn là nhu cầu được an toàn về tài chính hay việc làm. Nhu cầu an toàn của nhân viên có thể được hiểu là an toàn lao động, bảo hiểm tai nạn lao động, phúc lợi xã hội,… Nhà quản trị để đảm bảo đáp ứng được nhu cầu an toàn trong công việc của nhân viên thì nhà quản trị phải cải tiến điều kiện làm việc, tăng tiền thưởng/ thù lao.
+
+- Nhu cầu xã hội: Nhu cầu xã hội được hiểu là nhu cầu được kết nối và yêu thương. Con người mong muốn được tham gia vào một tổ chức hay một đoàn thể nào đó hay ở trong một cộng đồng, được gắn kết với gia đình, bạn bè hay những người yêu thương. Nhu cầu xã hội của nhân viên được thể hiện qua mối quan hệ thân thiện với đồng nghiệp, cấp trên và khách hàng,… Nhà quản trị muốn đáp ứng được nhu cầu này của nhân viên thì cần phải tạo không khí làm việc thoải mái, xây dựng được tinh thần đồng đội, cung cấp thông tin cho nhân viên về tổ chức hay đoàn thể để họ tự chọn lựa và tham gia phù hợp với tình hình thực tế của bản thân mình.
+
+- Nhu cầu được tôn trọng: Khi con người bắt đầu thoả mãn nhu cầu xã hội thì họ muốn được người khác công nhận, tôn trọng và ngưỡng mộ từ người khác. Nhu cầu này dẫn đến sự thoả mãn như: Quyền lực, uy tín, địa vị và lòng tự tin. Việc được người khác tôn trọng cho thấy bản thân của mỗi người đều mong muốn trở thành người hữu dụng trong xã hội. Khi nhân viên đạt được nhu cầu xã hội, họ sẽ mong muốn được tham gia các quyết định quan trọng, được đề bạt chức vụ cao hơn,… Khi nhân viên đạt được sự thoả mãn về nhu cầu này thì nhà quản trị cần kêu gọi nhân viên tham gia các hoạt động, sự kiện quan trọng của công ty cũng như biểu dương, khen thưởng những nhân viên có thành tích xuất sắc,…
+
+- Nhu cầu tự thể hiện: Nhu cầu được thể hiện bản thân là nhu cầu cao nhất trong tháp Maslow. Theo Maslow, ông cho rằng khi những nhu cầu ở 4 bậc dưới đều được đáp ứng đầy đủ và con người đủ khả năng điều khiển được những nhu cầu này thì nhu cầu thể hiện bản thân sẽ xuất hiện trong con người. Nhu cầu này thôi thúc họ đạt được đỉnh cao trong lĩnh vực mà mình đang theo đuổi. Ông cũng cho rằng, việc con người được thôi thúc vươn lên và thể hiện bản thân là để đảm bảo và duy trì được những nhu cầu ở bậc dưới. Khi nhân viên đạt được mức độ cao nhất này, họ sẽ đảm nhận công việc thử thách hơn, có cơ hội được thể hiện khả năng sáng tạo, trưởng thành hơn trong công việc,… Nhà quản trị cần giao trách nhiệm, uỷ quyền hoặc mở rộng công việc,… cho người lao động đạt được mức nhu cầu này.
+
+Thuyết cấp bậc nhu cầu của Maslow được các nhà quản trị đánh giá khác cao. Vì nó giúp các nhà quản trị xác định được cấp độ nhu cầu của nhân viên mình đang ở mức nào. Từ đó, có các giải pháp thích hợp để thỏa mãn nhu cầu của nhân viên. Các công ty sẽ nghiên cứu dựa trên mô hình này để cải thiện sự gắn kết của nhân viên với công ty bắt đầu bằng việc thỏa mãn nhu cầu cơ bản nhất của nhân viên trước khi tiến tới các cấp bậc nhu cầu cao hơn.
+
+Tháp nhu cầu Maslow là một trong những nghiên cứu cơ bản và có tính đúng đắn cao. Tuy nhiên, việc áp dụng dập khuôn học thuyết của Maslow với mọi đối tượng nhân viên là điều không nên. Con người thì luôn thay đổi về sở thích và hành vi do các tác động từ bên ngoài. Tóm lại, nhu cầu của con người là vô hạn. Vì vậy, để nhân viên gắn kết với công ty, nhà quản trị cần xem xét nhân viên đang ở đâu trong thứ bậc nhu cầu này và từ đó hướng sự gắn kết ấy vào các nhu cầu có thứ bậc cao hơn.
+
+#### 3.1.5.2 Thuyết bản chất con người của Gregor (1956)
+
+Theo Gregor (1956) ông đã chỉ ra rằng có sự khác biệt về bản chất của con người được ông tóm lại ở bản chất thuyết X và bản chất thuyết Y. *Thuyết X:
+
+Học thuyết X đưa ra giả thiết có thiên hướng tiêu cực về con người như sau:
+
+- Lười biếng là bản tính của con người bình thường, họ chỉ muốn làm việc ít.
+
+- Họ thiếu chí cầu tiến, không dám gánh vác trách nhiệm, cam chịu để người khác lãnh đạo.
+
+- Từ khi sinh ra, con người đã tự coi mình là trung tâm, không quan tâm đến nhu cầu của tổ chức.
+
+- Bản tính con người là chống lại sự đổi mới.
+
+- Họ không được lanh lợi, dễ bị kẻ khác lừa dối và những kẻ có dã tâm đánh lừa.
+
+Từ những giả thiết về bản tính con người nói trên, học thuyết X cũng cung cấp phương pháp lý luận truyền thống là: Quản lý nghiêm khắc dựa vào sự trừng phạt;
+Quản lý ôn hòa dựa vào sự khen thưởng; Quản lý ngiêm khắc và công bằng dựa vào cả sự trừng phạt và khen thưởng.
+
+Học thuyết X cũng được khái quát quản trị nhân sự theo những cách sau:
+
+- Nhà quản trị phải chịu trách nhiệm tổ chức các doanh nghiệp hoạt động nhằm đạt được những mục tiêu về kinh tế trên cơ sở các yếu tố như: tiền, vật tư, thiết bị, con người.
+
+- Đối với nhân viên, cần chỉ huy họ, kiểm tra, điều chỉnh hành vi của họ để đáp ứng nhu cầu của tổ chức.
+
+- Dùng biện pháp thuyết phục, khen thưởng, trừng phạt để tránh biểu hiện hoặc chống đối của người lao động đối với tổ chức.
+
+Những nhà quản trị theo học thuyết X này thường không tin tưởng vào bất kỳ ai.
+Họ chỉ tin vào hệ thống những quy định của tổ chức và sức mạnh của kỷ luật. Khi có một vấn để nào đó xảy ra, họ thường cố quy trách nhiệm cho một cá nhân cụ thể để kỷ luật hoặc khen thưởng.
+
+Tuy có những hạn chế như trên nhưng chúng ta không thể kết luận rằng học thuyết X là học thuyết sai hoàn toàn. Từ khi xuất hiện cho đến nay, học thuyết X vẫn có ý nghĩa và được ứng dụng nhiều nhất là trong các ngành sản xuất và dịch vụ. Học thuyết X giúp các nhà quản trị nhìn nhận lại bản thân để chỉnh sửa hành vi cho phù hợp. Đối với nhân viên có bản chất X nhà quản trị nên nhấn mạnh đến yếu tố kích thích bằng vật chất, giao phó công việc cụ thể và thường xuyên kiểm tra, đôn đốc.
+
+* Thuyết Y:
+
+Thuyết Y cho rằng:
+
+- Lười nhác không phải là bản tính bẩm sinh của con người nói chung. Lao động trí óc, lao động chân tay cũng như nghỉ ngơi, giải trí đều là hiện tượng của con người.
+
+- Điều khiển và đe dọa không phải là biện pháp duy nhất thúc đẩy con người thực hiện mục tiêu của tổ chức.
+
+- Tài năng con người luôn tiềm ẩn vấn đề là làm sao để khơi gợi dậy được tiềm năng đó.
+
+- Con người sẽ làm việc tốt hơn nếu đạt được sự thỏa mãn cá nhân.
+
+Từ cách nhìn nhận về con người như trên, học thuyết Y đưa ra phương thức quản trị nhân lực như:
+
+- Thực hiện nguyên tắc thống nhất giữa mục tiêu của tổ chức và mục tiêu của cá nhân.
+
+- Các biện pháp quản trị áp dụng đối với người lao động phải có tác dụng mang lại "thu hoạch nội tại”.
+
+- Áp dụng nhưng phương thức hấp dẫn để có được sự hứa hẹn chắc chắn của các thành viên trong tổ chức.
+
+- Khuyến khích tập thể nhân viên tự điều khiển việc thực hiện mục tiêu của họ, làm cho nhân viên tự đánh giá thành tích của họ.
+
+- Nhà quản trị và nhân viên phải có ảnh hưởng lẫn nhau.
+
+Như vậy, học thuyết Y có phần tích cực và tiến bộ hơn học thuyết X ở chỗ nó nhìn đúng bản chất con người hơn. Nhà quản trị cần cung cấp cho họ một môi trường làm việc tốt thì nhà quản trị phải khéo léo kết hợp mục tiêu của cá nhân vào mục tiêu tổ chức. Tức là làm cho nhân viên hiểu rằng để thỏa mãn mục tiêu của mình thì mình cần phải thực hiện tốt mục tiêu của tổ chức. Việc đánh giá nhân viên theo học thuyết Y này hết sức linh động, các nhà quản trị để cho nhân viên tự đặt ra mục tiêu, tự đánh giá thành tích công việc của mình, khiến cho nhân viên cảm thấy cảm thấy họ thưc sự được tham gia vào hoạt động của tổ chức từ đó họ có trách nhiệm và nhiệt tình hơn.
+Đối với người có bản chất Y, nhà quản trị nên cho họ dành nhiều quyết định hơn trong công việc, để cho họ tự kiểm soát bản thân, tôn trọng sáng kiến của họ và tạo điều kiện để họ chứng tỏ năng lực của mình.
+
+SO SÁNH THUYẾT X VÀ THUYẾT Y THUYẾT X THUYẾT Y Hầu hết mọi người đều không thích làm Làm việc là một hoạt động bản năng, thích việc và họ sẽ lảng tráng công việc khi làm việc tương tự như nghỉ ngơi, giải trí. hoàn cảnh cho phép Đa số mọi người phải bị ép buộc, kiểm Mỗi người đều có năng lực tự điều khiển và tra, đe doạ bằng hình phạt và khi họ làm tự kiểm soát bản thân trong việc thực hiện việc phải giám sát chặt chẽ. các mục tiêu đã cam kết Người ta sẽ trở nên gắn bó với các mục tiêu của tổ chức hơn, nếu được khen thưởng kịp thời.
+
+Hầu hết mọi người đều muốn bị điều Một người bình thường có thể đảm nhận khiển. Họ luôn trốn tránh trách nhiệm, những trọng trách và dám chịu trách nhiệm. có ít tham vọng và chỉ thích được yên Nhiều người bình thường có óc tưởng ổn. tượng phong phú, khéo léo và sáng tạo.
+
+Tóm lại, nhà quản trị có thể dựa vào lý thuyết này để tạo sự gắn kết của nhân viên với công ty. Các nhà quản trị phải hiểu được tính cách của mỗi nhân viên, từ đó biết được điểm mạnh, điểm yếu của mỗi cá nhân để phân công công việc một cách hợp lý. Đặc biệt, khi nhà quản trị hiểu rõ được nhân viên của mình, họ sẽ có những chính sách nhân sự phù hợp để ngày càng nâng cao sự gắn kết của nhân viên với công ty.
+
+#### 3.1.5.3 Học thuyết Z của William Ouchi
+
+Học thuyết Z cho rằng:
+
+- Không có người nào hoàn toàn có bản chất như thuyết X hoặc thuyết Y.
+
+- Những giả thuyết theo thuyết X và thuyết Y chỉ là thái độ lao động.
+
+- Thái độ lao động tuỳ thuộc vào cách thức họ được sử dụng.
+
+- Con người sẽ hăng hái, nhiệt tình khi họ được tham gia vào làm quyết định.
+
+- Nên có chính sách sử dụng người dài hạn.
+
+Tóm lại, thuyết Z còn có nhược điểm tạo sức ỳ trong nhân viên nhưng nó cũng đưa ra phương pháp quản lý hiệu quả dẫn đến sự thành công cho nhiều công ty và trở thành thuyết quản trị nhân lực kinh điển mà đến nay vẫn được áp dụng trong nhiều doanh nghiệp.
+
+#### 3.1.5.4 Học thuyết 2 nhóm nhân tố của Herzberg
+
+Herzberg phân biệt 2 loại yếu tố:
+
+- Những yếu tố về môi trường có khả năng làm giảm động cơ làm việc nếu như không được thoả mãn. Nhưng ngược lại, trong trường hợp được thoả mãn thì động cơ làm việc cũng không tăng lên mấy.
+
+- Những yếu tố động viên có khả năng động viên khi chúng được thoả mãn.
+Nhưng khi không được thoả mãn thì động cơ làm việc cũng không giảm.
+
+Những yếu tố về môi trường có khả năng Những yếu tố động viên có khả năng tạo gây ra sự không thoả mãn nên sự thoả mãn (Nhân tố duy trì) (Nhân tố động viên) Chế độ, chính sách và phương thức quản Sự tiến bộ, các cơ hội thăng tiến trong lý của doanh nghiệp nghề nghiệp Phương pháp kiểm tra, sự giám sát trong Trách nhiệm công việc Tiền lương (tương ứng với chức vụ) Tiền lương (tương ứng với thành tích) Mối quan hệ với cấp trên Sự công nhận kết quả công việc, sự thừa nhận của doanh nghiệp, lãnh đạo, đồng nghiệp Điều kiện làm việc Tính thử thách của công việc Các mối quan hệ khác và không khí làm Sự tôn trọng của người khác việc Cuộc sống riêng Cảm giác hoàn thành tốt một công việc Tóm lại, học thuyết này giúp các nhà quản trị đưa ra được những chính sách tạo nên sự gắn kết giữa nhân viên với công ty. Điều này đòi hỏi nhà quản trị phải giải quyết thoả đáng cả 2 nhóm nhân tố duy trì và động viên. Nếu chỉ có áp dụng những biện pháp nhân tố duy trì thì sẽ không thoả mãn được nhân viên, họ sẽ bất mãn và làm việc kém hiệu quả và nhiệt huyết. Ngược lại, nếu chỉ áp dụng nhân tố động viên thì nhân viên chỉ làm việc hăng hái khi được động viên bằng biện pháp này. Nhà quản trị nếu muốn quản lý nhân viên một cách có hiệu quả thì đòi hỏi phải kết hợp cả 2 nhóm nhân tố này, chứ không nên chỉ chú trọng vào một nhóm nhân tố nào.
+
+#### 3.1.5.5 Thuyết công bằng (Equity theory) của John Stacey Adams (1963)
+
+Adams cho rằng con người luôn muốn được đối xử công bằng. Nhân viên có xu hướng đánh giá sự công bằng bằng cách so sánh công sức họ bỏ ra so với những thứ họ nhận được cũng như so sánh tỉ lệ đó của họ với tỉ lệ của những đồng nghiệp trong công ty.
+
+Việc so sánh dựa trên tỉ lệ:
+- Thù lao bao gồm tiền lương, tiền thưởng, đãi ngộ khác,...
+- Công sức gồm nỗ lực, kĩ năng, trình độ,...
+
+Nếu kết quả của sự so sánh đó là sự ngang bằng nhau tức công bằng thì họ sẽ tiếp tục duy trì nỗ lực và hiệu suất làm việc của mình. Nếu thù lao nhận được vượt quá mong đợi của họ, họ sẽ có xu hướng gia tăng công sức của họ trong công việc, ngược lại nếu thù lao họ nhận được thấp hơn so với đóng góp của họ, họ sẽ có xu hướng giảm bớt nỗ lực làm việc hoặc tìm các giải pháp khác như vắng mặt trong giờ làm việc, đòi tăng lương, hoặc thôi việc để xác lập công bằng mới.
+
+Nếu người lao động thấy đồng nghiệp được hơn thì họ sẽ yêu cầu gia tăng nhiệm vụ cho đồng nghiệp, nói xấu đồng nghiệp để hạ thấp thù lao của đồng nghiệp hoặc yêu cầu giảm bớt công việc cho mình, đòi tăng lương.
+
+Một cá nhân nếu cảm nhận là họ được đối xử công bằng sẽ thúc đẩy động lực lao động và làm tăng kết quả thực hiện công việc và ngược lại, nếu họ nhận ra rằng mình bị đối xử không bằng từ vấn đề lương bổng, cơ hội đào tạo thăng tiến đến sự hỗ trợ từ cấp trên thì sẽ không có động lực làm việc.
+
+Tuy nhiên do các cá nhân thường có xu hướng nhìn nhận phóng đại thành tích bản thân nên rất khó xác lập được sự nhìn nhận công bằng trong tập thể lao động. Cái khó đối với các nhà quản trị là phải biết kiểm soát tình hình, loại bỏ hoặc hạn chế tối đa sự bất công khi phân chia quyền lợi trong nhóm, tổ.
+
+Các nhà quản trị cũng cần tạo ra và duy trì sự công bằng trong tổ chức bằng các biện pháp:
+
+- Nhận thức rằng người lao động sẽ so sánh sự công bằng bất cứ khi nào những quyền lợi mà họ thấy rõ (lương, thưởng, thăng tiến, đào tạo,...) được phân chia, nên có thể áp dụng trả lương qua tài khoản, bí mật mức lương trong nội bộ doanh nghiệp.
+
+- Tạo cơ hội thăng tiến ngang nhau cho những người có năng lực thành tích ngang nhau.
+
+- Loại bỏ sự phân biệt đối xử về tuổi, giới tính, chủng tộc, tôn giáo.
+
+- Thông báo rõ và trước cho người lao động về cách đánh giá thành tích và các quyền lợi để tránh cho người lao động hiểu sai hoặc có suy nghĩ cường điệu hóa đóng góp bản thân, xác lập đúng điểm so sánh.
+
+Tóm lại, các nhà quản trị cần ứng dụng lý thuyết này để có các biện pháp thích hợp trong việc đáp ứng thoả mãn nhu cầu và động viên nhân viên. Điều này sẽ giúp nhân viên gắn kết hơn với công ty. Thuyết công bằng của Adams nếu kết hợp với các công cụ quản lý hiệu quả công việc sẽ giúp phản hồi, đánh giá và so sánh hiệu quả công việc của nhân viên. Từ đó, giúp nhà quản trị nhận biết những hành vi nào góp phần tăng hiệu quả công việc và giúp công ty xây dựng được tiêu chuẩn cho những nhân viên giỏi nhất.
+
+## 3.2 MÔ HÌNH NGHIÊN CỨU
+
+### 3.2.1 Các nghiên cứu liên quan
+
+Thông qua các tài liệu mà tác giả đã lược khảo, có nhiều nhân tố ảnh hưởng đến sự gắn kết của nhân viên trong công ty. Tác giả sẽ vận dụng một số kết quả từ các tài liệu lược khảo theo các nhóm chủ đề sau vào đề tài nghiên cứu này để xem có sự khác biệt hay không.
+
+Thứ nhất, nghiên cứu theo lĩnh vực hoạt động có nghiên cứu của Nguyễn Ngọc Duy Phương và Trần Bá Sang (2018) đã nghiên cứu sự gắn kết của người lao động với tổ chức: Nghiên cứu bối cảnh Tổng công ty vốn NN. Kết quả nghiên cứu xác định được 4 yếu tố tác động đến sự gắn kết của người lao động tại Tổng công ty Xây dựng Công trình Hàng không ACC theo thứ tự giảm dần là: Lương thưởng và phúc lợi, phong cách lãnh đạo, mối quan hệ với đồng nghiệp, cơ hội thăng tiến nghề nghiệp.
+Tiếp theo, nghiên cứu của Nguyễn Duy Thành và Đào Đức Trung (2022) có bài nghiên cứu về tác động của trách nhiệm xã hội của doanh nghiệp đến sự gắn kết của nhân viên: Nghiên cứu tại các doanh nghiệp công nghệ thông tin và truyền thông tại Hà Nội. Kết quả cho thấy trách nhiệm xã hội tác động tích cực đến sự gắn kết của nhân viên, trong đó trách nhiệm pháp lý có tác động mạnh nhất. Tác giả không phân tích sâu trách nhiệm xã hội ảnh hưởng đến sự gắn kết của nhân viên mà tác giả chỉ tham khảo trên cơ sở đó, đề xuất thêm biến trách nhiệm xã hội vào đề tài nghiên cứu của tác giả xem khía cạnh này có ảnh hưởng cùng các nhân tố khác đến sự gắn kết của công ty tác giả đang làm việc hay không.
+
+Ngoài ra, tác giả còn nghiên cứu bài theo đặc điểm của nhân viên như nghiên cứu của Đỗ Phú Trần Tình và cộng sự (2012) nghiên cứu về phân tích các nhân tố ảnh hưởng đến sư gắn bó lâu dài của nhân viên trẻ với doanh nghiệp. Kết quả có 5 nhân tố ảnh hưởng đến sự gắn bó lâu dài của nhân viên đối với doanh nghiệp là: Cơ hội thăng tiến, chính sách khen thưởng và phúc lợi, quan hệ với lãnh đạo, điều kiện làm việc và mức độ phù hợp với mục tiêu nghề nghiệp. Trong đó, cơ hội thăng tiến là yếu tố tác động mạnh nhất.
+
+Không chỉ vậy, nghiên cứu theo loại hình của doanh nghiệp tác giả cũng chọn một nghiên cứu tiêu biểu để vận dụng vào bài nghiên cứu này. Nguyễn Quang Chương và Nguyễn Thị Thanh Dần (2021) đã nghiên cứu về giải pháp nâng cao sự gắn kết của nhân viên với công ty Cổ phần Tonysa Việt Nam. Kết quả nghiên cứu cho thấy các nhân tố như: Môi trường làm việc, đào tạo và phát triển, đề bạt và thăng tiến, lương thưởng và phúc lợi có ảnh hưởng trực tiếp đến sự gắn kết của nhân viên với công ty.
+
+Dựa trên các nghiên cứu đã được lược khảo ở phần trên, tác giả tổng hợp được các nhân tố ảnh hưởng đến sự gắn kết của nhân viên đối với công ty. Tác giả nghiên cứu theo hướng định lượng nên sử dụng kết quả của một vài nghiên cứu định lượng để làm cơ sở xác định các nhân tố ảnh hưởng đến sự gắn kết của nhân viên với công ty.
+Trên cơ sở các tài liệu lược khảo tại Việt Nam và trên thế giới, tác giả đã tổng hợp được 8 nhân tố có ảnh hưởng đến sự gắn kết của nhân viên với công ty TNHH NN MTV XSKT Cần Thơ. Các nhân tố này có tính lặp đi lặp lại phù hợp với tình hình thực tế tại công ty TNHH NN MTV XSKT Cần Thơ - nơi mà tác giả đang công tác để làm căn cứ tìm hiểu và thu thập dữ liệu phỏng vấn. Một vài nhân tố có sự trùng lắp nhưng không phù hợp với tình hình thực tế tại công ty, tác giả sẽ không chọn và không phân tích. từ các nghiên cứu liên quan mà tác giả chọn lọc Các nhân tố Các nghiên cứu liên quan Slack và cộng sự (2015), Nguyễn Thị Ngọc Phương và cộng sựTrách nhiệm (2019), Nguyễn Phan Thu Hằng và Nguyễn Thị Hồng Vân (2020), xã hội Nguyễn Duy Thành và Đào Đức Trung (2022).
+
+Bergström và Martínez (2016), Quan Minh Nhựt và Đặng Thị Đoan Trang (2015), Nguyễn Thị Kim Hiệp (2021), Nguyễn Quang ChươngMôi trường và Nguyễn Thị Thanh Dần (2021), Bùi Nhất Vương và Nguyễn Thị làm việc Ngọc Châu (2020), Nguyễn Thị Thảo và Nguyễn Thanh Vũ (2021), Đào Duy Huân và Châu Hồng Thuỷ (2021).
+
+Bergström và Martínez (2016), Shehri và cộng sự (2017), Hà Nam Khánh Giao và Lê Trần Tấn Tài (2016), Nguyễn Minh Châu và cộng sựĐào tạo và (2020), Nguyễn Thị Kim Hiệp (2021), Nguyễn Quang Chương và phát triển Nguyễn Thị Thanh Dần (2021), Nguyễn Thị Thảo và Nguyễn Thanh Vũ (2021), Đào Duy Huân và Châu Hồng Thuỷ (2021).
+
+Bergström và Martínez (2016), Đỗ Phú Trần Tình và cộng sự (2012), Chính sách Quan Minh Nhựt và Đặng Thị Đoan Trang (2015), Hà Nam Khánh Giao và Lê Trần Tấn Tài (2016), Nguyễn Ngọc Duy Phương và Trần khen thưởng và Bá Sang (2018), Nguyễn Minh Châu và cộng sự (2020), Bùi Nhất phúc lợi Vương và Nguyễn Thị Ngọc Châu (2020), Nguyễn Thị Thảo và Nguyễn Thanh Vũ (2021), Đào Duy Huân và Châu Hồng Thuỷ (2021).
+
+Quan Minh Nhựt và Đặng Thị Đoan Trang (2015), Trần Văn DũngPhong cách (2018), Nguyễn Ngọc Duy Phương và Trần Bá Sang (2018), Nguyễn lãnh đạo Minh Châu và cộng sự (2020), Nguyễn Thị Kim Hiệp (2021).
+
+Quan Minh Nhựt và Đặng Thị Đoan Trang (2015), Trần Văn Dũng (2018), Nguyễn Ngọc Duy Phương và Trần Bá Sang (2018), NguyễnLương và Minh Châu và cộng sự (2020), Nguyễn Thị Kim Hiệp (2021), Bùi Nhất thu nhập Vương và Nguyễn Thị Ngọc Châu (2020), Nguyễn Thị Thảo và Nguyễn Thanh Vũ (2021), Đào Duy Huân và Châu Hồng Thuỷ (2021).
+
+Đỗ Phú Trần Tình và cộng sự (2012), Quan Minh Nhựt và Đặng Thị Đoan Trang (2015), Trần Văn Dũng (2018), Nguyễn Ngọc Duy PhươngCơ hội và Trần Bá Sang (2018), Nguyễn Quang Chương và Nguyễn Thị Thanh thăng tiến Dần (2021), Bùi Nhất Vương và Nguyễn Thị Ngọc Châu (2020), Đào Duy Huân và Châu Hồng Thuỷ (2021).
+
+Các nhân tố Các nghiên cứu liên quan Bergström và Martínez (2016), Trần Văn Dũng (2018), Nguyễn Ngọc Mối quan hệ với Duy Phương và Trần Bá Sang (2018), Bùi Nhất Vương và Nguyễn Thị đồng nghiệp Ngọc Châu (2020), Nguyễn Thị Thảo và Nguyễn Thanh Vũ (2021), Đào Duy Huân và Châu Hồng Thuỷ (2021).
+
+Nguồn: Tác giả tổng hợp từ lược khảo các nghiên cứu có liên quan, 2023
+### 3.2.2 Đề xuất giả thuyết nghiên cứu và mô hình nghiên cứu
+
+(1) Trách nhiệm xã hội Tổng quan các nghiên cứu trước đây cho thấy có nhiều nghiên cứu khác nhau về CSR tác động đến sự gắn kết của nhân viên. CSR tác động tích cực tới sự gắn kết của nhân viên (Nguyên và cộng sự, 2020). Khi nhân viên nhận thức được CSR trong tổ chức, nhân viên sẽ gắn kết hơn (Farid và cộng sự, 2019). Ngược lại, khi nhân viên nhận thấy không có CSR, ý định nghỉ việc của nhân viên sẽ tăng lên (Hejjas và cộng sự 2019; Lee và Ha, 2018).
+
+Trong nghiên cứu này, tác giả cũng sẽ sử dụng 4 nhân tố trong mô hình kim tự tháp của Carroll (1979) về trách nhiệm xã hội gồm: Trách nhiệm kinh tế, trách nhiệm đạo đức, trách nhiệm pháp lý và trách nhiệm từ thiện. Trách nhiệm môi trường là một yếu tố hiện nay được quan tâm khá nhiều và có sức ảnh hưởng trực tiếp đến hình ảnh thương hiệu của công ty. Nên tác giả phân tích thêm yếu tố trách nhiệm môi trường là một yếu tố bắt buộc khi thực hiện CSR được quy định trong Hiệp ước Toàn cầu Liên Hiệp Quốc - UN Global Compact và là một thành tố quan trọng mà công ty đang hướng tới.
+
+Trách nhiệm kinh tế đây là mục tiêu cuối cùng của công ty. Khi thực hiện trách nhiệm này không chỉ đơn thuần là tối đa hóa lợi nhuận mà còn tác động tích cực đến nhân viên của công ty. Công ty có giải pháp cải thiện hiệu quả kinh tế cũng giúp cho nhân viên sẽ có cái nhìn tích cực hơn. Cái nhìn của người lao động ở phương diện này là khả năng chi trả lương, chế độ khen thưởng có tương xứng với đóng góp của họ hay không. Bên cạnh đó, công ty có tạo được cơ hội cho họ phát triển nghề nghiệp và nâng cao chuyên môn hay không?
+
+Trách nhiệm pháp lý là nghĩa vụ của doanh nghiệp trong việc tuân thủ theo pháp luật của nhà nước. Qua đó, để tạo sự gắn kết của nhân viên với công ty về mặt pháp lý, công ty cần thực hiện đúng các quy định của pháp luật trong việc kinh doanh, tuân thủ các điều khoản trong hợp đồng với nhân viên, thường xuyên cập nhật các luật mới có liên quan cho nhân viên nắm. Đặc biệt, công ty phải đảm bảo quyền và nghĩa vụ của nhân viên theo đúng quy định của pháp luật.
+
+Trách nhiệm đạo đức bao gồm việc tôn trọng, bảo vệ và tuân thủ các quy chuẩn đạo đức. Đối với người lao động, trách nhiệm này được thể hiện qua công ty có cam kết tuân thủ các nguyên tắc đạo đức được đưa ra hay không? Có đối xử đạo đức với nhân viên mình hay không? Có ưu tiên đảm bảo tôn trọng các nguyên tắc đạo đức hơn là hiệu quả kinh doanh hay không? Ngoài ra, về vấn đề này để người lao động có sự gắn bó với công ty, công ty cần có chính sách trả lương công bằng với công sức người lao động bỏ ra, không bóc lột sức lao động, có chế độ khen thưởng xứng đáng khi công ty đạt lợi nhuận cao. Đặc biệt, trách nhiệm đạo đức của công ty sẽ được thể hiện rõ ràng thông qua những nguyên tắc, giá trị được trình bày trong sứ mạng, tầm nhìn, chiến lược và bộ qui tắc ứng xử trong văn hoá của công ty. Tóm lại, các công ty thực hiện tốt trách nhiệm đạo đức sẽ thu được nhiều lợi ích kinh tế hơn so với các công ty lãng tránh thực hiện trách nhiệm này.
+
+Trách nhiệm từ thiện là trách nhiệm công ty có thể thực hiện để tạo sự gắn kết của người lao động với công ty bằng cách: Công ty tham gia và nguồn kinh phí cho các hoạt động từ thiện như: quyên góp hiện kim, hiện vật, tặng quà cứu trợ,… và khuyến khích nhân viên của mình tham gia vào các hoạt động đó. Công ty luôn đóng góp vào an sinh xã hội của địa phương, đặt trách nhiệm này là mục tiêu mà công ty hướng tới, luôn nhấn mạnh tầm quan trọng của vấn đề này, có sự công nhận đối với những hành động thiện nguyện của nhân viên,… Thông qua trách nhiệm này, người tiêu dùng và người lao động có thể đánh giá được công ty đó có tốt hay không? Vì vậy, hiện nay các công ty đang rất quan tâm đến trách nhiệm từ thiện vì nó tác động không chỉ đến mối quan hệ với người tiêu dùng mà nó còn ảnh hưởng đến người lao động. Trách nhiệm từ thiện giúp cải thiện đáng kể mối quan hệ thân thiết giữa công ty và người lao động nhằm tăng cường sự gắn kết họ với công ty.
+
+Trách nhiệm môi trường không chỉ là trách nhiệm của công ty đối với xã hội, mà còn phải tạo một môi trường làm việc trong công ty trong lành, sạch sẽ. Công ty thực hiện trách nhiệm này bằng cách: Tuân thủ pháp luật môi trường, không gây ô nhiễm môi trường hướng tới môi trường xanh; mua sắm và sử dụng các trang thiết bị thân thiện với môi trường; trồng nhiều cây xanh để không khí làm việc của nhân viên luôn trong lành,… Nếu công ty quan tâm đến vấn đề này sẽ giúp người lao động đảm bảo được sức khỏe giúp họ làm việc tốt hơn và đóng góp nhiều hơn cho công ty. Điều này sẽ là lợi thế cạnh tranh của công ty trên thị trường. Nhìn chung, các doanh nghiệp chủ động thực hiện trách nhiệm môi trường sẽ thu được những lợi ích trong dài hạn. Môi trường có tác động tích cực đến giá trị thương hiệu và gắn kết tổ chức của người lao động (Nguyễn Thị Ngọc Phương và cộng sự, 2019).
+
+* Có nhiều nghiên cứu thực nghiệm liên quan đến sự ảnh hưởng của CSR tác động đến sự gắn kết của nhân viên như:
+
+Theo kết quả nghiên cứu của Nguyễn Thị Ngọc Phương và cộng sự (2019) có 5 yếu tố ảnh hưởng đến sự gắn kết của nhân viên với công ty là: Trách nhiệm kinh tế, trách nhiệm đạo đức, trách nhiệm pháp lý, trách nhiệm từ thiện và trách nhiệm môi trường. Trong đó, trách nhiệm pháp lý có tác động mạnh nhất. Điều này phù hợp với nghiên cứu của Nguyễn Duy Thành và Đào Đức Trung (2022). Turker (2009) đã phân tích hồi quy ba giai đoạn với dữ liệu của 269 nhân viên làm việc tại Thổ Nhĩ Kỳ. Kết quả cho thấy trách nhiệm xã hội với nhân viên có ảnh hưởng lớn nhất đến sự gắn kết của họ bởi những hoạt động này có khả năng trực tiếp giải quyết các nhu cầu về chức năng và tâm lý của nhân viên trong tổ chức. Nghiên cứu này cũng chỉ ra rằng chỉ có trách nhiệm xã hội với xã hội tác động tới cả hai khía cạnh của sự gắn kết là gắn kết với công việc và gắn kết với tổ chức, còn trách nhiệm xã hội với chính phủ không tác động tới cả hai khía cạnh trên.
+
+Tóm lại, để người lao động đánh giá công ty có thực sự xứng đáng để họ làm việc hay không, họ sẽ xem xét các yếu tố mà công ty có thực hiện trách nhiệm xã hội hay không? Trách nhiệm xã hội tác động tích cực đến sự gắn kết của nhân viên (Nguyễn Duy Thành và Đào Đức Trung, 2022). Vì vậy, các công ty muốn giữ chân người lao động, muốn nâng cao vị thế của mình trên thị trường thì cần coi trách nhiệm xã hội như là một chiến lược dài hạn.  Giả thuyết H1: Trách nhiệm xã hội có ảnh hưởng thuận chiều đến sự gắn kết của nhân viên với công ty. (2) Môi trường làm việc Môi trường làm việc là nơi mà người lao động phải trực tiếp tiếp xúc hàng ngày, nó có ảnh hưởng rất lớn đến sức khoẻ, tinh thần, khả năng làm việc và hiệu quả công việc của họ,… Môi trường làm việc trong một công ty bao gồm môi trường vật chất và môi trường tâm lý. Môi trường vật chất trước tiên là môi trường có đầy đủ cơ sở vật chất hạ tầng, máy móc và trang thiết bị phục vụ tốt nhất cho công việc. Bên cạnh đó, vị trí nơi làm việc và không gian làm việc cũng quan trọng không kém. Nơi làm việc có nhiều cây xanh, không gian sạch sẽ, rộng rãi sẽ khiến cho người lao động có hứng thú làm việc hơn. Và môi trường tâm lý là tạo được bầu không khí tập thể thân thiện, vui vẻ, hoà đồng nơi mà người lao động có thể thoải mái chia sẻ, giúp đỡ và tôn trọng nhau trên tinh thần vì mục đích xây dụng tập thể vững mạnh.
+
+Theo Trần Kim Dung (2015) khái niệm môi trường làm việc là nơi người lao động làm việc mà tại đó họ luôn muốn có một môi trường làm việc an toàn, thoải mái để có được động lực làm tốt công việc của mình. Nếu không có một môi trường làm việc an toàn, nhân viên sẽ không thực hiện công việc hoặc nhiệm vụ với khả năng tốt nhất của họ vì nhu cầu cơ bản sẽ được đáp ứng. Maslow (1943) cho rằng một trong những nhu cầu mà con người luôn tìm cách thỏa mãn là nhu cầu an toàn.
+
+* Có nhiều nghiên cứu thực nghiệm liên quan đến sự ảnh hưởng của môi trường làm việc tác động đến sự gắn kết của nhân viên như:
+
+Theo nghiên cứu của Quan Minh Nhựt và Đặng Thị Đoan Trang (2015) về nhân tố ảnh hưởng đến sự gắn bó của người lao động có trình độ từ đại học trở lên trong các doanh nghiệp ở thành phố Cần Thơ. Kết quả nghiên cứu chỉ ra rằng môi trường làm việc được xem là yếu tố quan trọng để người lao động quyết định có nên gắn bó với doanh nghiệp hay không. Khi mức độ hài lòng của nhân viên với nhóm nhân tố môi trường tăng thì sự gắn bó của họ với doanh nghiệp sẽ tăng. Bergström và Martínez (2016) đã nghiên cứu về ảnh hưởng của động lực bên trong và bên ngoài đến sự gắn kết của nhân viên. Kết quả cho thấy rằng nhận thức của các nhà quản lý về ảnh hưởng của sự gắn kết của nhân viên cụ thể là từ góc độ nhân viên thì môi trường làm việc là động lực chính của sự gắn kết này. Ngoài ra, nghiên cứu của Nguyễn Thị Kim Hiệp (2021) đã nghiên cứu về các yếu tố tác động đến sự gắn kết của người lao động với doanh nghiệp tại Đồng Nai. Yếu tố môi trường làm việc có tác động đến sự gắn kết của người lao động. Theo đó, môi trường làm việc an toàn, thoải mái người lao động sẽ có được động lực làm tốt công việc và gia tăng mức độ gắn kết với tổ chức. Kết quả tương tự với các nghiên cứu của Đào Duy Huân và Nguyễn Thị Ngọc Thẳm (2020), Nguyễn Quang Chương và Nguyễn Thị Thanh Dần (2021), Bùi Nhất Vương và Nguyễn Thị Ngọc Châu (2020), Nguyễn Thị Thảo và Nguyễn Thanh Vũ (2021), Đào Duy Huân và Châu Hồng Thuỷ (2021) đều cho thấy yếu tố môi trường làm việc có ảnh hưởng đến sự gắn kết của nhân viên với công ty.
+
+Chính vì vậy, môi trường làm việc là một nhân tố vô cùng quan trọng giúp cho công ty giữ chân nhân viên cũng như tạo được lợi nhuận càng cao cho công ty. Công ty cần tạo một môi trường làm việc thân thiện, đoàn kết nhân viên bằng việc tổ chức các hoạt động tập thể như: Đi du lịch, picnic, teambuilding, các sự kiện,…  Giả thuyết H2: Môi trường làm việc có ảnh hưởng thuận chiều đến sự gắn kết của nhân viên với công ty. (3) Đào tạo và phát triển Đào tạo nguồn nhân lực là một trong các nhân tố rất quan trọng trong quá trình hình thành và phát triển của công ty. Khi người lao động được đào tạo bài bản, họ sẽ phát triển và nâng cao được trình độ chuyên môn, kỹ năng, tay nghề,… Qua đó, tăng được hiệu quả công việc cũng như năng suất lao động. Khi một nhân viên được công ty đào tạo, họ sẽ có cảm giác được coi trọng, cũng như đảm bảo được nhu cầu tự hoàn thiện bản thân mình, điều này hoàn toàn đúng theo tháp nhu cầu của Maslow. Công ty cũng cần tạo điều kiện để người lao động có cơ hội học tập nâng cao và phát triển kỹ năng cá nhân trong công việc, từ đó có cơ hội để thăng tiến trong công việc.
+
+Đào tạo và phát triển là hoạt động nhằm trang bị kiến thức căn bản hay nâng cao kỹ năng nghề nghiệp cho nhân viên (Trần Kim Dung, 2015). Theo đó, Trần Kim Dung (2005) cho rằng yếu tố cơ hội thăng tiến và phát triển nghề nghiệp được xem xét dưới các khía cạnh như: Tính liên quan đến nhận thức của nhân viên về các cơ hội được đào tạo, phát triển các năng lực cá nhân và cơ hội được thăng tiến trong tổ chức.
+
+* Có nhiều nghiên cứu thực nghiệm liên quan đến sự ảnh hưởng của đào tạo và phát triển tác động đến sự gắn kết của nhân viên như:
+
+Theo nghiên cứu của Nguyễn Minh Châu và Nguyễn Hải Quang (2020) đã nghiên cứu về ảnh hưởng của quản trị nguồn nhân lực đến sự gắn kết với tổ chức của nhân viên tại Bệnh viện Đa khoa Hoàn Mỹ Minh Hải chỉ ra rằng yếu tố đào tạo và phát triển có tác động mạnh nhất đến sự kết gắn kết của nhân viên. Ngoài ra, nghiên cứu của Nguyễn Thị Kim Hiệp (2021) cũng nhấn mạnh yếu tố đào tạo và phát triển nghề nghiệp tác động đến mức độ gắn kết của người lao động với tổ chức. Vì vậy, sự hài lòng của người lao động đối với hoạt động đào tạo và phát triển nghề nghiệp sẽ định hướng và gắn kết họ với tổ chức chặt chẽ hơn.
+
+Theo nghiên cứu của Bergström và Martínez (2016) đào tạo và phát triển là một trong những động lực chính của sự gắn kết này. Kết quả này cũng tương tự với nghiên cứu của Shehri và cộng sự (2017). Kết quả nghiên cứu của Đào Duy Huân và Nguyễn Thị Ngọc Thẳm (2020), Nguyễn Quang Chương và Nguyễn Thị Thanh Dần (2021), Nguyễn Thị Thảo và Nguyễn Thanh Vũ (2021), Đào Duy Huân và Châu Hồng Thuỷ (2021) đã cho thấy yếu tố cơ hội đào tạo có ảnh hưởng đến sự gắn kết của nhân viên với công ty.
+
+Tóm lại, nhân tố đào tạo và phát triển có tác động đến mức độ gắn kết của nhân viên với công ty. Công ty trở thành một nguồn đào tạo mà từ đó các sở thích ham học hỏi giữa các cá nhân của nhân viên có thể được thỏa mãn. Điều này sẽ giúp nhân viên có xu hướng gắn bó hơn với những công ty cung cấp được một môi trường học tập và phát triển tốt. Khi công ty tạo cơ hội cho nhân viên được phát triển, nhân viên sẽ có xu hướng ở lại với công ty lâu dài hơn.  Giả thuyết H3: Đào tạo và phát triển có ảnh hưởng thuận chiều đến sự gắn kết của nhân viên với công ty. (4) Chính sách khen thưởng và phúc lợi Chính sách khen thưởng là việc ghi nhận đóng góp và biểu dương về mặt tinh thần hoặc vật chất đối với cá nhân, tập thể có thành tích trong tổ chức. Còn phúc lợi được hiểu là các loại bảo hiểm, các chính sách liên quan đến sức khỏe, sự an toàn và chế độ đãi ngộ. Các khoản tiền tuy gọi là thưởng nhưng lại trả bằng nhau cho nhân viên không xem xét đến kết quả làm việc như: Thưởng trong các ngày lễ, thưởng lương tháng 13,… về bản chất nó được xem là phúc lợi. Tiền khen thưởng và phúc lợi đều được gọi chung là đãi ngộ của doanh nghiệp. Nó bao gồm các khoản phụ cấp khen thưởng và các loại phúc lợi khác (Trần Kim Dung, 2009). Đây là một yếu tố quan trọng ảnh hưởng đến sự hài lòng trong công việc và sự gắn kết của người lao động với công ty.
+
+* Có nhiều nghiên cứu thực nghiệm liên quan đến sự ảnh hưởng của chính sách khen thưởng và phúc lợi tác động đến sự gắn kết của nhân viên như:
+
+Nghiên cứu của Đỗ Phú Trần Tình và cộng sự (2012) đã nhận định rõ yếu tố khen thưởng và phúc lợi có vai trò quan trọng ảnh hưởng quyết định đến sự gắn kết của nhân viên với tổ chức. Theo Nguyễn Ngọc Duy Phương và cộng sự (2018) khẳng định rằng lương thưởng và phúc lợi có tác động cao nhất tới sự gắn kết của người lao động. Chính vì vậy, khi người lao động hài lòng với chính sách khen thưởng và phúc lợi của công ty thì sẽ làm họ muốn gắn kết lâu dài với tổ chức và sẽ nỗ lực hơn vì tổ chức. Theo Quan Minh Nhựt và Đặng Thị Đoan Trang (2015) nhận định rằng sự gắn bó của nhân viên có trình độ từ đại học trở lên trong các doanh nghiệp ở TP. Cần Thơ chịu ảnh hưởng bởi nhiều yếu tố trong đó yếu tố lương và phúc lợi là một trong những yếu tố ảnh hưởng nhiều nhất. Bergström và Martínez (2016) đã khẳng định rằng chính sách và phúc lợi cũng là một trong những động lực chính của sự gắn kết này. Tương tự, kết quả của Shehri và cộng sự (2017) chỉ ra rằng phần thưởng là một yếu tố quyết định quan trọng đối với nhân viên của các ngân hàng Saudi. Các nghiên cứu của Nguyễn Minh Châu và Nguyễn Hải Quang (2020), Nguyễn Quang Chương và Nguyễn Thị Thanh Dần (2021), Bùi Nhất Vương và Nguyễn Thị Ngọc Châu (2020), Nguyễn Thị Thảo và Nguyễn Thanh Vũ (2021), Đào Duy Huân và Châu Hồng Thuỷ (2021) kết quả cho thấy yếu tố phúc lợi có ảnh hưởng đến sự gắn kết của nhân viên với công ty.
+
+Tóm lại, chính sách khen thưởng và phúc lợi có ảnh hưởng nhiều đến mức độ gắn kết của nhân viên với công ty. Các công ty cần có những chính sách khen thưởng và phúc lợi tốt để giữ chân được các đối tượng người lao động. Việc khen thưởng tương xứng với những thành tích đóng góp của nhân viên cho công ty, hay các chính sách phúc lợi đa dạng và phong phú sẽ giúp nhân viên cảm thấy hài lòng với công sức mình bỏ ra. Điều này cũng chứng tỏ sự quan tâm của công ty đến nhân viên của mình. Giả thuyết H4: Chính sách khen thưởng và phúc lợi có ảnh hưởng thuận chiều đến sự gắn kết của nhân viên với công ty. (5) Phong cách lãnh đạo Phong cách lãnh đạo có ảnh hưởng rất lớn đến sự gắn kết của nhân viên đối với công ty. Không chỉ vậy, phong cách lãnh đạo còn giúp cho công ty phát triển mạnh hơn, tạo được vị thế trên thị trường. Phong cách lãnh đạo là một trong ba nhân tố chính ảnh hưởng tới sự gắn kết công việc của nhân viên (Đào Duy Huân và Nguyễn Thị Ngọc Thẳm, 2020). Nó còn là nhân tố chủ yếu tác động đến thái độ của người lao động trong công việc.
+
+* Có nhiều nghiên cứu thực nghiệm liên quan đến sự ảnh hưởng của phong cách lãnh đạo tác động đến sự gắn kết của nhân viên như:
+
+Nghiên cứu của Quan Minh Nhựt và Đặng Thị Đoan Trang (2015) cũng nhấn mạnh nhân viên quan tâm nhiều đến phong cách của người lãnh đạo thông qua việc giao việc, động viên, chia sẻ với nhân viên. Khi sự hài lòng của nhân viên về phong cách lãnh đạo của nhà quản lý tăng thì sự gắn bó của nhân viên sẽ tăng. Nghiên cứu của nhóm tác giả này cũng khẳng định rằng phong cách lãnh đạo là một trong năm nhóm nhân tố ảnh hưởng lớn đến quyết định gắn bó của người lao động có trình độ đại học trở lên trong các doanh nghiệp ở TP. Cần Thơ. Nguyễn Thị Kim Hiệp (2021) kết quả nghiên cứu cho thấy phong cách lãnh đạo tác động đến mức độ gắn kết của người lao động với tổ chức. Vì vậy, phong cách lãnh đạo sẽ truyền cảm hứng. Khi công ty có những chính sách và phần thưởng xứng đáng họ sẽ ghi nhận và cải thiện sự gắn kết và lòng trung thành của mình với tổ chức. Tương tự kết quả của Đào Duy Huân và Nguyễn Thị Ngọc Thẳm (2020) đã cho thấy lãnh đạo ảnh hưởng mạnh nhất đến sự gắn kết của công chức đối với tổ chức.
+
+Các nhà lãnh đạo cần khuyến khích động viên nhân viên và không quản lý kiểm soát họ quá mức để tăng sự gắn bó của họ với doanh nghiệp. Khi các nhà quản lý hoặc tổ chức cung cấp cho nhân viên các công cụ và nguồn lực họ cần để đưa ra quyết định hoặc khi họ cung cấp cho nhân viên của mình mức độ tự chủ và đa dạng phù hợp, nhân viên có thể cảm thấy có nghĩa vụ phải trả ơn cho tổ chức hoặc người quản lý.
+
+Tóm lại, nhân tố phong cách lãnh đạo có ảnh hưởng nhiều đến mức độ gắn kết của người lao động với công ty. Tùy vào từng điều kiện và hoàn cảnh cụ thể mà mỗi nhà lãnh đạo của mỗi công ty sẽ áp dụng phong cách lãnh đạo của riêng mình. Nhà lãnh đạo càng quan tâm, biết quan tâm lợi ích của nhân viên, luôn biết lắng nghe ý kiến của nhân viên, đối xử công tâm với nhân viên,… thì họ sẽ cảm thấy yêu thích khi làm việc cho công ty đó.  Giả thuyết H5: Phong cách lãnh đạo có ảnh hưởng thuận chiều đến sự gắn kết của nhân viên với công ty. (6) Lương và thu nhập Theo Bộ Luật Lao động (2019) thì tiền lương là số tiền mà người sử dụng lao động trả cho người lao động theo thỏa thuận để thực hiện công việc, bao gồm mức lương theo công việc hoặc chức danh, phụ cấp lương và các khoản bổ sung khác. Tiền lương hay thu nhập chính là động lực chủ yếu giúp người lao động làm việc. Tiền lương hay thu nhập cao sẽ kích thích và thu hút người lao động về doanh nghiệp làm việc và gắn bó lâu dài với doanh nghiệp. Để thúc đẩy người lao động làm việc hết công sức, doanh nghiệp cần xây dựng một hệ thống trả lương cho thật phù hợp và khoa học. Người lao động sẽ kỳ vọng được trả tiền lương, thu nhập một cách công bằng và tương xứng với trách nhiệm và nhiệm vụ công việc được giao. Bên cạnh đó, họ cũng sẽ hy vọng công ty có quy định chế độ lương thưởng rõ ràng và cụ thể. Điều này được thể hiện ở nghiên cứu của Quan Minh Nhựt và Đặng Thị Đoan Trang (2015) cho thấy yếu tố thu nhập là yếu tố quan trọng nhất quyết định sự gắn kết của nhân viên với công ty. Do vậy, khi nhân viên hoàn toàn thỏa mãn với tiền lương hay thu nhập thì họ sẽ muốn gắn kết với công ty và nỗ lực hết mình vì công ty.
+
+* Có nhiều nghiên cứu thực nghiệm liên quan đến sự ảnh hưởng của lương và thu nhập tác động đến sự gắn kết của nhân viên như:
+
+Theo nghiên cứu của Võ Ngọc Cẩm Tú và Bùi Văn Trịnh (2021) phân tích các nhân tố ảnh hưởng đến sự gắn kết với tổ chức của người lao động tại các doanh nghiệp may tại các khu công nghiệp trên địa bàn tỉnh Vĩnh Long kết quả nhân tố thu nhập có ảnh hưởng nhiều nhất đến sự gắn kết của người lao động. Đào Duy Huân và Nguyễn Thị Ngọc Thẳm (2020) đã nghiên cứu về các nhân tố ảnh hưởng đến sự gắn kết của công chức đối với tổ chức tại cục thuế tỉnh Hậu Giang đã cho thấy thu nhập ảnh hưởng đến sự gắn kết của công chức đối với tổ chức. Nguyễn Thị Kim Hiệp (2021) đã nghiên cứu về các yếu tố tác động đến sự gắn kết của người lao động với doanh nghiệp tại Đồng Nai. Kết quả nghiên cứu cho thấy thu nhập có tác động đến mức độ gắn kết của người lao động với tổ chức. Quan Minh Nhựt và Đặng Thị Đoan Trang (2015) nhận định rằng sự gắn bó của nhân viên có trình độ từ đại học trở lên trong các doanh nghiệp ở thành phố Cần Thơ chịu ảnh hưởng bởi nhiều yếu tố trong đó yếu tố lương là một trong những yếu tố ảnh hưởng nhiều nhất. Các kết quả tương tự của nghiên cứu sau đây cũng cho thấy yếu tố lương có ảnh hưởng đến sự gắn kết của nhân viên như nghiên cứu của Nguyễn Minh Châu và Nguyễn Hải Quang (2020), Bùi Nhất Vương và Nguyễn Thị Ngọc Châu (2020), Đào Duy Huân và Châu Hồng Thuỷ (2021).
+
+Tóm lại, lương và thu nhập có ảnh hưởng đến sự gắn kết của nhân viên với công ty. Đây là nhân tố có tác dụng bù đắp lại công sức lao động của người lao động bỏ ra.
+Ngoài ra, nó cũng có tác dụng to lớn trong việc đảm bảo thu nhập ổn định và động viên khuyến khích người lao động yên tâm làm việc. Về mặt tâm lý, hầu như tất cả người lao động muốn được tăng lương cao theo thâm niên làm việc, mặc dù tiền lương có thể chỉ chiếm một phần nhỏ trong tổng thu nhập của họ.  Giả thuyết H6: Lương và thu nhập có ảnh hưởng thuận chiều đến sự gắn kết của nhân viên với công ty. (7) Cơ hội thăng tiến Cơ hội thăng tiến hay còn được hiểu là cơ hội thăng chức. Đây là một động lực quan trọng để mỗi nhân viên tiếp tục phát triển bản thân và cố gắng nỗ lực hoàn thành xuất sắc nhiệm vụ hơn nữa cho công việc. Thăng tiến là người lao động sẽ đảm nhận một vị trí cao hơn với các mức đãi ngộ tốt hơn, đặc biệt có quyền lực cao hơn lúc trước và tiếng nói hơn và được mọi người trong công ty tôn trọng. Tuy nhiên, cơ hội thì sẽ đi kèm với thách thức, khó khăn đòi hỏi họ phải nỗ lực và cống hiến công sức nhiều hơn nữa.
+
+Theo khảo sát của Linkedln trên 10.000 người mới nghỉ việc thì lý do hàng đầu khiến họ nghỉ việc là thiếu cơ hội thăng tiến, chiếm khoảng 45%. Lý thuyết của cả Maslow và Herzberg đều đề cập sự thăng tiến liên quan đến nhu cầu tự khẳng định mình và như là yếu tố tạo ra động cơ làm việc.
+
+* Có nhiều nghiên cứu thực nghiệm liên quan đến sự ảnh hưởng của cơ hội thăng tiến tác động đến sự gắn kết của nhân viên như:
+
+Theo nghiên cứu của Đỗ Phú Trần Tình và cộng sự (2012) thì yếu tố cơ hội thăng tiến là yếu tố tác động mạnh nhất đến sự gắn kết của nhân viên với tổ chức. Do đó, doanh nghiệp hay tổ chức nào mà có cơ hội phát triển và cơ hội thăng tiến có chiến lược rõ ràng thì sẽ tạo nên sự gắn kết của nhân viên với tổ chức. Shehri và cộng sự (2017) một trong những người được phỏng vấn trong nghiên cứu (giám đốc phát triển tổ chức tại Ngân hàng Đầu tư Ả Rập Xê Út) đã phát biểu: “Sự không công bằng về cơ hội thăng tiến và phát triển khiến nhân viên có xu hướng rút lui khỏi việc tham gia vào các hoạt động của tổ chức, hoặc trong một số trường hợp là rời bỏ ngân hàng”. Đào Duy Huân và Nguyễn Thị Ngọc Thẳm (2020) đã nghiên cứu về các nhân tố ảnh hưởng đến sự gắn kết của công chức đối với tổ chức tại cục thuế tỉnh Hậu Giang đã cho thấy thăng tiến ảnh hưởng đến sự gắn kết của công chức đối với tổ chức. Kết quả nghiên cứu tương tự với kết quả của Nguyễn Quang Chương và Nguyễn Thị Thanh Dần (2021), Bùi Nhất Vương và Nguyễn Thị Ngọc Châu (2020) đã cho thấy yếu tố thăng tiến có ảnh hưởng đến sự gắn kết của nhân viên với công ty.
+
+Thật vậy, cơ hội thăng tiến sẽ góp phần kích thích sự nỗ lực từ người lao động, là một thành tố quan trọng trong chiến lược phát triển nhân sự của công ty. Một công ty có các chương trình đào tạo và phát triển để nhân viên có cơ hội phấn đấu thăng tiến thì sẽ thúc đẩy được sự gắn kết càng cao của nhân viên với công ty đó.  Giả thuyết H7: Cơ hội thăng tiến có ảnh hưởng thuận chiều đến sự gắn kết của nhân viên với công ty. (8) Mối quan hệ với đồng nghiệp Công ty giống như là ngôi nhà thứ hai của mỗi người lao động bởi hầu hết chúng ta luôn làm việc, giao tiếp và sinh hoạt chung với những đồng nghiệp của mình tối thiểu 8 tiếng mỗi ngày. Những người đồng nghiệp là những người trực tiếp làm việc và chia sẻ gánh nặng công việc với chúng ta. Tất cả cũng vì hướng tới mục tiêu chung của tổ chức. Vì vậy, xây dựng mối quan hệ tốt đẹp giữa các đồng nghiệp sẽ giúp người lao động giảm thiểu được mức độ căng thẳng trong công việc, cảm thấy thoải mái hơn tại nơi làm việc sẽ giúp người lao động hoàn thành tốt hơn công việc được giao.
+Những người lao động có sự gắn kết với đồng nghiệp càng cao thì khả năng bám trụ tại công ty càng lâu. Mối quan hệ đồng nghiệp là một trong những nhân tố chính ảnh hưởng đến sự gắn kết của người lao động (Đào Duy Huân và Nguyễn Thị Ngọc Thẳm,
+
+* Có nhiều nghiên cứu thực nghiệm liên quan đến sự ảnh hưởng của mối quan hệ với đồng nghiệp tác động đến sự gắn kết của nhân viên như:
+
+Theo nghiên cứu của Bergström và Martínez (2016) đã nghiên cứu về ảnh hưởng của động lực bên trong và bên ngoài đến sự gắn kết của nhân viên. Kết luận của họ có thể rút ra là nhận thức của các nhà quản lý về ảnh hưởng của sự gắn kết của nhân viên cụ thể là từ góc độ nhân viên thì các mối quan hệ tại nơi làm việc là động lực chính của sự gắn kết này. Đào Duy Huân và Nguyễn Văn Định (2019) đã nghiên cứu về các nhân tố ảnh hưởng đến sự gắn kết trong công việc của công chức, viên chức tại Sở Giao thông Vận tải TP. Cần Thơ đã chỉ rõ nhân tố mối quan hệ với đồng nghiệp là nhân tố mạnh thứ ba ảnh hưởng đến sự gắn kết. Kết quả nghiên cứu tương tự cho thấy nhân tố mối quan hệ với đồng nghiệp có ảnh hưởng đến sự gắn kết của nhân viên với công ty như: Đào Duy Huân và Châu Hồng Thuỷ (2021), Bùi Nhất Vương và Nguyễn Thị Ngọc Châu (2020), Nguyễn Thị Thảo và Nguyễn Thanh Vũ (2021), Đào Duy Huân và Châu Hồng Thuỷ (2021).
+
+Tóm lại, mối quan hệ đồng nghiệp có tác động đến sự gắn kết của nhân viên với công ty. Khi người lao động có một môi trường làm việc thân thiện, cởi mở, đoàn kết và giúp đỡ lẫn nhau thì họ sẽ cố gắng phấn đấu làm việc và gắn kết hơn với công ty.
+Nếu người lãnh đạo tạo được sự đoàn kết trong nội bộ nhân viên sẽ xây dựng được công ty vững mạnh phát triển lâu dài.  Giả thuyết H8: Mối quan hệ với đồng nghiệp có ảnh hưởng thuận chiều đến sự gắn kết của nhân viên với công ty.  Dựa trên những cơ sở lý thuyết, những nghiên cứu thực nghiệm đã được tác giả lược khảo. Tác giả đã kế thừa các nghiên cứu trước đó và chọn lọc các nhân tố phù hợp và có ảnh hưởng đến sự gắn kết của nhân viên với công ty TNHH NN MTV XS KT Cần Thơ và đưa vào mô hình nghiên cứu được tác giả đề xuất như sau:
+
+- Biến phụ thuộc trong mô hình nghiên cứu là: Sự gắn kết của nhân viên với công ty.
+
+- Biến độc lập của mô hình nghiên cứu gồm:
+
++ Trách nhiệm xã hội.
+
++ Môi trường làm việc.
+
++ Đào tạo và phát triển.
+
++ Chính sách khen thưởng và phúc lợi.
+
++ Phong cách lãnh đạo.
+
++ Lương và thu nhập.
+
++ Cơ hội thăng tiến.
+
++ Mối quan hệ với đồng nghiệp.  Mô hình được tác giả đề xuất như sau:
+
+Môi trường làm việc H1 Môi trường làm việc H2 Trách nhiệm xã hội H3 Mối quan hệ với đồng H4 nghiệp H4 Chính sách khen thưởng và H5 Sự gắn kết nhân viên phúc lợi H6 Lương và thu nhập H7 Đào tạo và phát triển H8 Cơ hội thăng tiến Nguồn: Đề xuất của tác giả
+
+### 3.2.3 Thiết kế thang đo nghiên cứu
+
+ Các nhân tố ảnh hưởng đến sự gắn kết:
+
+Trong mô hình nghiên cứu trên, tác giả xây dựng được thang đo gồm 8 nhóm nhân tố (33 biến quan sát) ảnh hưởng đến sự gắn kết của nhân viên với công ty TNHH NN MTV XSKT Cần Thơ. Các biến quan sát được đo lường bằng thang đo Likert 5 mức độ tương ứng với: (1) Rất không đồng ý, (2) Không đồng ý, (3) Không ý kiến, (4) Đồng ý, (5) Rất đồng ý.
+
+Các biến quan sát được hình thành từ lược khảo các tài liệu có liên quan và điều kiện thực tế của không gian nghiên cứu.
+
+Yếu tố Biến quan sát Nguồn
+
+1. Công ty luôn nỗ lực xây dựng và hoàn thiện chiến lược kinh doanh dài hạn.
+
+2. Công ty nghiêm túc tuân thủ các quyTRÁCH định pháp luật.NHIỆM Nguyễn Duy Thành
+3. Công ty tuân thủ các nguyên tắc đạoXÃ HỘI và Đào Đức Trung đức đối với tất cả các bên liên quan trong (2022), Nguyễn Thị(CSR) kinh doanh. Ngọc Phương và cộng
+4. Công ty rất quan tâm và thường xuyên sự (2019). thực hiện các hoạt động vì cộng đồng, an sinh xã hội.
+
+5. Công ty nghiêm túc tuân thủ các quy định về bảo vệ môi trường.
+
+1. Môi trường làm việc chuyên nghiệp. Quan Minh Nhựt và
+Đặng Thị Đoan TrangMÔI TRƯỜNG 2. Tạo điều kiện nhân viên thể hiện năng (2015), Bergström và lực cá nhân.LÀM VIỆC Martínez (2016), Đào
+3. Trang thiết bị phục vụ cho công việc(MTLV) Duy Huân và Nguyễn tốt, hiện đại. Thị Ngọc Thẳm
+4. Không phải làm việc ngoài giờ (2020), Nguyễn Thị thường xuyên. Kim Hiệp (2021).
+
+1. Tổ chức các khoá đào tạo nâng cao Nguyễn Minh Châu trình độ nghiệp vụ với nhiều hình thức và và cộng sự (2020), phương thức khác nhau. Nguyễn Phan Thu
+ĐÀO TẠO VÀ Hằng và Nguyễn Thị
+2. Được khuyến khích phát triển các kỹ
+PHÁT TRIỂN Hồng Vân (2020), năng mới.
+Đào Duy Huân và(ĐTPT)
+3. Tạo cơ hội cho nhân viên phát triển Nguyễn Thị Ngọc một cách bình đẳng. Thẳm (2020),
+Nguyễn Thị Kim Hiệp 4. Có nhiều cơ hội được đào tạo và phát triển.
+
+Yếu tố Biến quan sát Nguồn
+
+1. Sẵn sàng phát triển thiết kế các chương trình khen thưởng và phúc lợi tốt cho nhân viên.
+CHÍNH SÁCH
+2. Chính sách khen thưởng và phúc lợi
+KHEN Shehri và cộng sự được xây dựng với tiêu chí đảm bảo tính THƯỞNG (2017), Nguyễn Minh công bằng. Châu và cộng sựVÀ PHÚC LỢI
+3. Nhân viên nhận được phúc lợi hấp dẫn (2020).
+(KTPL) (du lịch hàng năm, khám sức khoẻ định kỳ,…).
+
+4. Công ty có bộ phận Công Đoàn bảo vệ quyền lợi chính đáng của nhân viên.
+
+1. Lãnh đạo luôn đối xử công bằng với tất cả nhân viên.PHONG CÁCH Nguyễn Thị Kim Hiệp
+2. Lãnh đạo luôn quan tâm, động viên và (2021), Đào DuyLÃNH ĐẠO hỗ trợ nhân viên khi cần thiết. Huân và Nguyễn Thị
+(LĐ) Ngọc Thẳm (2020), 3. Lãnh đạo là người có năng lực.
+Trương Ngọc Hà
+4. Lãnh đạo luôn ghi nhận ý kiến đóng (2016). góp của nhân viên.
+
+1. Tiền lương đảm bảo nhu cầu vật chất Đào Duy Huân và cơ bản của bản thân. Nguyễn Thị Ngọc
+Thẳm (2020), Nguyễn
+2. Chính sách lương công bằng, minhLƯƠNG VÀ Minh Châu và cộng bạch.THU NHẬP sự (2020), Nguyễn
+3. Lương tương xứng với kết quả làm Thị Kim Hiệp (2021),(LTN) việc. Đào Duy Huân và
+Nguyễn Văn Định 4. Tiền lương được trả đầy đủ, đúng hạn.
+
+1. Được biết các điều kiện cần thiết để Đào Duy Huân và được thăng tiến. Nguyễn Văn ĐịnhCƠ HỘI
+(2019), Shehri và 2. Công ty luôn tạo cơ hội thăng tiến choTHĂNG TIẾN cộng sự (2017), Đào những người có năng lực. (TT) Duy Huân và Nguyễn
+3. Chính sách thăng tiến là công bằng, Thị Ngọc Thẳm minh bạch. (2020).
+
+Yếu tố Biến quan sát Nguồn
+
+4. Có kế hoạch quy hoạch và cơ cấu nhân sự cụ thể, rõ ràng.
+
+1. Đồng nghiệp rất thân thiện, hoà đồng.
+
+MỐI QUAN HỆ 2. Phối hợp với nhau hoàn thành tốt Đào Duy Huân và nhiệm vụ đuọc giao. Nguyễn Văn ĐịnhVỚI (2019), Đào Duy 3. Đồng nghiệp luôn hỗ trợ, giúp đỡ vàĐỒNG NGHIỆP Huân và Nguyễn Thị động viên khi cần thiết. (MQH) Ngọc Thẳm (2020).
+4. Chia sẻ với nhau không chỉ trong công việc mà cả trong cuộc sống.
+
+Nguồn: Tác giả tổng hợp từ lược khảo các nghiên cứu có liên quan, 2023  Thang đo sự gắn kết của nhân viên với công ty:
+
+Trong mô hình nghiên cứu trên, tác giả xây dựng mô hình hồi quy tuyến tính đa biến với biến phụ thuộc là sự gắn kết của nhân viên với công ty TNHH NN MTV XSKT Cần Thơ bằng thang đo Likert 5 mức độ tương ứng với: (1) Rất không đồng ý, (2) Không đồng ý, (3) Không ý kiến, (4) Đồng ý, (5) Rất đồng ý.
+
+Thang đo sự gắn kết gồm 5 biến và được diễn giải như bảng 3.5.
+
+Yếu tố Biến quan sát Nguồn
+
+1. Tôi cảm thấy vui và hạnh phúc khi được làm việc ở đây đến khi nghỉ hưu. Đào Duy Huân và
+2. Tôi luôn nỗ lực phấn đấu để cống Nguyễn Văn ĐịnhSỰ GẮN KẾT hiến nhiều hơn cho công ty. (2019); Đào Duy(GK)
+Huân và Nguyễn Thị 3. Tôi mong muốn được gắn bó lâu dài Ngọc Thẳm (2020). với công ty.
+
+4. Tôi luôn coi công ty như ngôi nhà thứ hai.
+
+5. Tôi cảm thấy tự hào khi được làm việc tại công ty.
+
+Nguồn: Tác giả tổng hợp từ lược khảo các nghiên cứu có liên quan, 2023 Bên cạnh đó, thang đo sử dụng cho thông tin phân loại đáp viên như: Giới tính, độ tuổi, tình trạng hôn nhân, trình độ chuyên môn, phòng ban công tác, thâm niên công tác. Trong đó, thu nhập gồm: Thang đo định danh, thang đo tỷ lệ, thang đo cấp bậc.
+
+## 3.3 PHƯƠNG PHÁP NGHIÊN CỨU
+
+### 3.3.1 Phương pháp thu thập số liệu
+
+#### 3.3.1.1 Số liệu thứ cấp
+
+Số liệu được thu thập thông qua các báo cáo của công ty như: Các báo cáo về tình hình quản trị nguồn nhân lực của công ty trong giai đoạn 2020 - 2023, báo cáo văn kiện hội nghị người lao động từ năm 2020 - 2023, văn kiện đại hội công đoàn cơ sở nhiệm kỳ 2017 - 2022,… Các đề tài khoa học, dự án nghiên cứu, tài liệu hội thảo có liên quan đến sự gắn kết của nhân viên với công ty.
+
+#### 3.3.1.2 Số liệu sơ cấp
+
+Do phạm vi nghiên cứu chính là nơi mà tác giả đang làm việc, nên thông tin số liệu sơ cấp được thu thập bằng hình thức tiếp xúc trực tiếp với đối tượng điều tra và thu thập thông tin thông qua bảng câu hỏi.
+
+- Phương pháp chọn mẫu: Nghiên cứu tiến hành thực hiện khảo sát toàn thể nhân viên đang làm việc có thâm niên công tác ít nhất 1 năm tại công ty TNHH NN MTV XS KT Cần Thơ.
+
+- Kích thước mẫu: Để đảm bảo độ tin cậy cho nghiên cứu thì việc lựa chọn cỡ mẫu thích hợp là một vấn đề vô cùng quan trọng và cần thiết. Hiện nay, có nhiều nghiên cứu về việc xác định và lựa kích thước mẫu bao nhiêu là phù hợp nhưng vẫn chưa thống nhất được theo một quy chuẩn nào và còn gây ra nhiều tranh cãi. Kích thước mẫu sẽ phụ thuộc vào việc ta muốn nghiên cứu vấn đề gì từ những dữ liệu thu thập được và mối quan hệ ta muốn thiết lập với mục tiêu nghiên cứu (Kumar, 2005).
+Cụ thể, kích thước mẫu nên được xác định dựa vào các phương pháp phân tích sẽ được sử dụng trong nghiên cứu.
+
+Đối với phân tích nhân tố khám phá (EFA): Hoàng Trọng và Chu Nguyễn Mộng Ngọc (2005) cho rằng kích thước mẫu tối thiểu là gấp 4 lần tổng số biến quan sát. Vì nghiên cứu có 33 biến quan sát (thuộc các nhân tố khác nhau) nên cỡ mẫu tối thiểu sẽ Đối với mô hình hồi quy đa biến: Kích thước mẫu tối thiểu cần đạt được tính theo công thức là n = 50 + 8m (m: số biến độc lập) (Nguyễn Đình Thọ, 2011). Vì vậy, cỡ mẫu tối thiểu để đảm bảo cho mô hình hồi quy đa biến trong nghiên cứu này sẽ Hiện nay, số lượng nhân viên đang công tác tại công ty TNHH NN MTV XS KT Cần Thơ có thâm niên công tác ít nhất 1 năm là 119 người. Vì vậy, nghiên cứu sẽ thực hiện điều tra toàn thể nhân viên của công ty nhằm đạt yêu cầu về kích thước mẫu cho 2 phương pháp phân tích sẽ sử dụng.
+
+### 3.3.2 Phương pháp phân tích
+
+#### 3.3.2.1 Phương pháp thống kê mô tả
+
+Thống kê mô tả bao gồm các phương pháp liên quan đến việc thu thập số liệu, tóm tắt, trình bày, tính toán các đặc trưng khác nhau để phản ánh một cách tổng quát đối tượng nghiên cứu. Trong nghiên cứu này, thống kê mô tả sẽ được dùng để tính toán các đại lượng mô tả mức độ tập trung (giá trị trung bình, trung vị, yếu vị) và đại lượng mô tả mức độ phân tán (phương sai, độ lệch chuẩn, khoảng biến thiên). Ngoài ra, mẫu thu thập được sẽ tiến hành thống kê phân loại theo các biến phân loại theo tiêu chí như: Giới tính, độ tuổi, trình độ, số năm công tác, phòng ban đang công tác,...
+
+#### 3.3.2.2 Kiểm định Cronbach’s Alpha
+
+Trong nghiên cứu này, tác giả sử dụng thang đo kiểm định bằng hệ số Cronbach’s Alpha. Phương pháp này giúp phân tích loại bỏ các biến không phù hợp và hạn chế các biến rác trong quá trình nghiên cứu. Theo Nunnally và Burnstein (1994) cho rằng: “Các biến có hệ số tương quan biến tổng nhỏ hơn 0,3 được coi là biến rác”.
+Nhiều nhà nghiên cứu cho rằng khi Cronbach’s Alpha từ 0,8 trở lên đến gần 1 thì thang đo đo lường là tốt; từ 0,7 đến gần 0,8 là sử dụng được. Trong khi một số nhà nghiên cứu khác lại cho rằng, Cronbach’s Alpha từ 0,6 trở lên là có thể sử dụng được trong trường hợp khái niệm đang đo lường là mới hoặc mới đối với người trả lời trong bối cảnh nghiên cứu (Hoàng Trọng và Chu Nguyễn Mộng Ngọc, 2008).
+
+Để phân tích nhân tố khám phá (EFA) thì chỉ những thang đo đạt yêu cầu về độ tin cậy mới được sử dụng trong phân tích này. Chính vì vậy, trong nghiên cứu này tác giả quyết định sử dụng tiêu chuẩn Cronbach’s Alpha bằng 0,6 và các biến quan sát hệ số tương quan biến - tổng hiệu chỉnh (corrected item - total correlation) nhỏ hơn 0,3 sẽ bị loại.
+
+#### 3.3.2.3 Phân tích nhân tố khám phá EFA (Exploratory Factor Analysis)
+
+Sau khi các yếu tố được kiểm định thang đo bằng Cronbach’s Alpha, tác giả sẽ tiếp tục đưa vào phân tích nhân tố khám phá (EFA). Những biến không đảm bảo độ tin cậy sẽ bị loại khỏi thang đo. Các tham số thống kê trong phân tích EFA như sau:
+
+- Đánh giá chỉ số Kaiser - Mayer - Olkin (KMO) để xem xét sự thích hợp của phân tích nhân tố khám phá, chỉ số KMO phải lớn hơn 0,5 (Nguyễn Đình Thọ, 2013).
+
+- Kiểm định Bartlett dùng để xem xét giả thuyết các biến không có tương quan trong tổng thể. Kiểm định Bartlett phải có ý nghĩa thống kê (Sig ≤0,05) thì các biến quan sát có tương quan với nhau trong tổng thể (Hoàng trọng và Chu Nguyễn Mộng Ngọc, 2008).
+
+- Phương pháp trích hệ số sử dụng là principal components và điểm dừng khi trích các nhân tố có Eigenvalue lớn hơn 1, tổng phương sai trích bằng hoặc lớn hơn 50% (Nguyễn Đình Thọ, 2013).
+
+Tóm lại, phân tích EFA đạt yêu cầu khi chỉ số KMO thuộc khoảng từ 0,5 đến 1,0; kiểm định Bartlett có ý nghĩa khi P value nhỏ hơn 0,05 nghĩa là các nhân tố có quan hệ với nhau; hệ số Eigenvalue lớn hơn 1 và tổng phương sai trích lớn hơn 50%. Phương pháp phân tích EFA được sử dụng trong nghiên cứu này để đảm bảo độ tin cậy theo thang đo sử dụng, xác định được các nhóm nhân tố ảnh hưởng đến sự gắn kết của nhân viên với công ty.
+
+#### 3.3.2.4 Phân tích hồi quy tuyến tính đa biến
+
+Sau khi kiểm định độ tin cậy của thang đo Cronbach’s Alpha và phân tích EFA, các yếu tố được rút trích trong phần phân tích EFA sẽ được đưa vào phân tích hồi quy tuyến tính đa biến để kiểm định mô hình nghiên cứu đề xuất.
+
+Để đánh giá độ phù hợp của mô hình hồi quy đối với tập dữ liệu, tác giả sử dụng hệ số R2. Kiểm định F để xem xét mức độ phù hợp của mô hình hồi quy tuyến tính tổng thể. Kiểm định t để bác bỏ giả thuyết các hệ số hồi quy của tổng thể bằng 0. Đánh giá mức độ ảnh hưởng (mạnh hay yếu) giữa các biến ảnh hưởng thông qua hệ số Beta chuẩn hóa.
+
+Mô hình hồi quy tuyến tính đa biến có dạng:
+
+Y = β0 + β1X1 + β2X2 + … + βnXn + e Trong đó:
+
+Y: Biến phụ thuộc β0, β1, β2, …, βn: Các hệ số hồi quy X1, X2,…, Xn: Là các biến độc lập e: Sai số  Kiểm tra các giả định của mô hình hồi quy đa biến:
+
+Theo Hoàng Trọng và Chu Nguyễn Mộng Ngọc (2008), các giả định cần kiểm tra bao gồm:
+
+- Kiểm tra giả định về hiện tượng tự tương quan: Trị số Durbin – Watson (DW) dùng để kiểm tra hiện tượng tự tương quan chuỗi bậc nhất (kiểm định tương quan của các sai số kề nhau). DW có giá trị biến thiên trong khoảng từ 0 đến 4; nếu các phần sai số không có tương quan chuỗi bậc nhất với nhau thì giá trị sẽ gần bằng 2, nếu giá trị càng nhỏ, gần về 0 thì các phần sai số có tương quan thuận; nếu càng lớn, gần về 4 có nghĩa là các phần sai số có tương quan nghịch (Hoàng Trọng và Chu Nguyễn Mộng Ngọc, 2008). Theo Field (2009), nếu DW nhỏ hơn 1 và lớn hơn 3, chúng ta cần thực sự lưu ý bởi khả năng rất cao xảy ra hiện tượng tự tương quan chuỗi bậc nhất. Theo Yahua (2011), thường giá trị DW nằm trong khoảng 1,5 - 2,5 sẽ không xảy ra hiện tượng tự tương quan, đây cũng là mức giá trị tiêu chuẩn chúng ta sử dụng phổ biến hiện nay.
+
+- Kiểm tra giả định về hiện tượng đa cộng tuyến: Hệ số phóng đại phương sai VIF dùng để kiểm tra hiện tượng đa cộng tuyến. Thông thường, nếu VIF của một biến độc lập lớn hơn 10 nghĩa là đang có đa cộng tuyến xảy ra với biến độc lập đó. Khi đó, biến này sẽ không có giá trị giải thích biến thiên của biến phụ thuộc trong mô hình hồi quy. Tuy nhiên, trên thực tế, nếu hệ số VIF > 2 thì khả năng rất cao đang xảy ra hiện tượng đa cộng tuyến giữa các biến độc lập. Giá trị này thường nằm trong bảng Coefficients (Nguyễn Đình Thọ, 2013).
+
+- Kiểm tra giả định vi phạm phân dư chuẩn hóa: Phần dư có thể không tuân theo phân phối chuẩn vì những lý do như: Sử dụng sai mô hình, phương sai không phải là hằng số, số lượng các phần dư không đủ nhiều để phân tích,... Vì vậy, chúng ta cần thực hiện nhiều cách khảo sát khác nhau. Hai cách phổ biến nhất là căn cứ vào biểu đồ Histogram và Normal P-P Plot.
+
++ Đối với biểu đồ Histogram: Nếu giá trị trung bình Mean gần bằng 0, độ lệch chuẩn gần bằng 1, ta có thể khẳng định phân phối là xấp xỉ chuẩn.
+
++ Đối với biểu đồ Normal P-P Plot: Nếu các điểm phân vị trong phân phối của phần dư tập trung thành 1 đường chéo, phân phối phần dư có thể xem như chuẩn. Như vậy, giả định phân phối chuẩn của phần dư không bị vi phạm.
+
+- Kiểm tra giả định liên hệ tuyến tính: Biểu đồ phân tán Scatter Plot giữa các phần dư chuẩn hóa và giá trị dự đoán chuẩn hóa giúp chúng ta dò tìm xem giá trị dự đoán và phần dư dữ liệu hiện tại có vi phạm giả định liên hệ tuyến tính hay không.
+Nếu phần dư chuẩn hóa phân bổ ngẫu nhiên trong một vùng xung quanh đường hoành độ 0, chứ không phải tạo thành một hình dạng nào khác, chúng ta có thể kết luận giả định quan hệ tuyến tính không bị vi phạm.  Độ phù hợp của mô hình:
+
+- Kiểm định F sử dụng trong bảng phân tích phương sai (ANOVA): Là phép kiểm định giả thuyết về độ phù hợp của mô hình hồi quy tuyến tính tổng thể. Nếu Sig nhỏ hơn 0,05, ta kết luận mô hình hồi quy tuyến tính bội phù hợp với tập dữ liệu và có thể sử đụng được. Giá trị này thường nằm trong bảng ANOVA.
+
+- Giá trị R2 (R Square), R2 hiệu chỉnh (Adjusted R Square): Là một thức đo sự phù hợp của mô hình tuyến tính, phản ánh mức độ giải thích biến phụ thuộc của các biến độc lập trong mô hình hồi quy. R2 hiệu chỉnh phản ánh sát hơn so với R2. R2 điều chỉnh không nhất thiết tăng lên, nó là thước đo sự phù hợp được sử dụng cho tình huống hồi quy tuyến tính đa biến vì nó không phụ thuộc vào độ lệch phóng đại của R2.
+Mức dao động của 2 giá trị này là từ 0 đến 1, giá trị này thường nằm trong bảng Model Summary. Chú ý, R2 càng gần 1 thì mô hình đã xây dựng càng thích hợp, R2 càng gần 0 mô hình càng kém phù hợp với tập mẫu dữ liệu (Hoàng Trọng và Chu Nguyễn Mộng Ngọc, 2008).
+
+R = (-1 ≤ R ≤ 1)
+
+- Hệ số xác định R2 (Multiple coefficient of detetmination): Tỷ lệ (hoặc %) của sự biến động của biến phụ thuộc Y được giải thích bởi các biến độc lập Xi.
+
+- Hệ số xác định đã hiệu chỉnh (Adjusted R Square): Dùng để trắc nghiệm xem có nên thêm vào một biến độc lập nữa không. Khi thêm vào một biến mà R2 tăng lên thì ta quyết định thêm biến đó vào phương trình hồi quy.  Ý nghĩa của hệ số hồi qui:
+
+Giá trị Sig của kiểm định t được sử dụng để kiểm định ý nghĩa của các hệ số hồi quy. Nếu giá trị sig kiểm định t của hệ số hồi quy của một biến độc lập nhỏ hơn 0,05 thì ta kết luận biến độc lập đó có tác động đến biến phụ thuộc. Mỗi biến độc lập tương ứng với một hệ số hồi quy riêng, do vậy mà ta cũng có từng kiểm định t riêng, giá trị này thường nằm trong bảng Coefficients.
+
+# CHƯƠNG 4
+
+KẾT QUẢ NGHIÊN CỨU
+
+## 4.1 GIỚI THIỆU SƠ LƯỢC VỀ CÔNG TY
+
+### 4.1.1 Lịch sử hình thành
+
+Công ty TNHH Nhà nước một thành viên xổ số kiến thiết Cần Thơ là doanh nghiệp 100% vốn nhà nước, hạch toán độc lập theo Quyết định của Ủy ban nhân dân TP. Cần Thơ trực thuộc tỉnh Hậu Giang ngày 07 tháng 3 năm 1978.
+
+Trụ sở đặt tại: 29 Cách mạng tháng Tám, Phường Thới Bình, Quận Ninh Kiều, TP. Cần Thơ.
+
+Tên tiếng Việt: CÔNG TY TNHH NN MTV XỔ SỐ KIẾN THIẾT CẦN THƠ.
+
+Tên viết tắt bằng tiếng Việt: XỔ SỐ KIẾN THIẾT THÀNH PHỐ CẦN THƠ Điện thoại: 0292.3822127 Fax: 0292.3820964 Email: Admin@xsktcantho.vn Logo: Hình vuông, màu đỏ, có tên công ty trên nền vàng Nguồn: Phòng Tổ chức - Hành chánh công ty XSKT Cần Thơ, 2023  Lịch sử hình thành và phát triển Công ty TNHH NN MTV XS KT Cần Thơ:
+
+Để có được những thành tựu như ngày nay, tạo được sự tín nhiệm của người dân cũng như các đại lý vé số trên toàn khu vực miền Nam, công ty đã phải trải qua hơn 40 năm hoạt động. Trong thời gian này, đơn vị đã phải đối mặt với không ít khó khăn và thách thức. Nhưng nhờ có những chủ trương và chiến lược đúng đắn của các vị lãnh đạo và sự đoàn kết của toàn thể nhân viên mà công ty đã vượt qua và ngày càng phát triển hơn.
+
+Tóm tắt lịch sử hình thành và phát triển của công ty có thể chia làm các giai đoạn sau: a. Giai đoạn khởi nghiệp (1978 – 2004): - thời kì trực thuộc TP. Cần Thơ của tỉnh Hậu Giang cũ (1978 – 1980) Tiền thân của Công ty TNHH Nhà nước một thành viên xổ số kiến thiết Cần Thơ là “Ban điều hành Xổ số kiến thiết TP. Cần Thơ” được thành lập vào năm 1978 trực thuộc ngân hàng TP. Cần Thơ quản lý tại số 59 Phan Đình Phùng, thành phố Cần Thơ.
+
+- Thời kì trực thuộc tỉnh Hậu Giang cũ (1980 – 1988) Ngày 11/01/1980, UBND tỉnh Hậu Giang ký quyết định số 13/QĐ-UBT.80 về việc chuyển giao Ban xổ số kiến thiết về Ty Tài chính tỉnh Hậu Giang xử lý.
+
+Ngày 21/5/1982, Chủ tịch Hội đồng Bộ trưởng ban hành Quyết định số 148/CT về việc thống nhất quản lý phát hành xổ số kiến thiết.
+
+Ngày 21/10/1988, UBND tỉnh Hậu Giang ban hành quyết định số 438/QĐ.UBT.88 chuyển Ban điều hành XSKT lên thành công ty XSKT tỉnh Hậu Giang, trực thuộc Sở Tài chánh - Vật giá Hậu Giang. - Thời kì chia tách (1988 – 2004)
+
++ Chia tách lần thứ 01:
+
+* Đầu quý II năm 1992, Công ty được chia tách thành: Công ty XSKT tỉnh Cần Thơ và Công ty XSKT tỉnh Sóc Trăng
+
+* Ngày 10/12/1992, UBND tỉnh Cần Thơ ra quyết định số 1516/QĐ.UBT.92 về việc thành lập Công ty XSKT tỉnh Cần Thơ thuộc Sở Tài chánh - Vật giá tỉnh Cần Thơ, với số vốn kinh doanh là 3.098,6 triệu đồng.
+
+* Ngày 02/4/1996, Bộ Tài chính ký Công văn số 177/TC/TCCB về việc chuyển Công ty sang UBND tỉnh Cần Thơ quản lý.
+
++ Chia tách lần thứ 02:
+
+UBND TP. Cần Thơ ra quyết định số 150/QĐ.UB ngày 12/01/2004, đổi tên Công ty XSKT tỉnh Cần Thơ thành Công ty XSKT TP. Cần Thơ sau khi chuyển giao nguồn nhân lực, cơ sở vật chất và 20 tỷ đồng tiền vốn cho Công ty XSKT tỉnh Hậu Giang thuộc tỉnh Hậu Giang mới thành lập. b. Giai đoạn ổn định – phát triển (từ năm 2004 đến cuối năm 2008):
+
+Là một doanh nghiệp nhà nước có số nộp ngân sách bình quân 05 năm gấp 1,5 lần số thu từ doanh nghiệp nhà nước địa phương và bằng 13,6% so với số thu từ sản xuất kinh doanh trên địa bàn.
+
+Tốc độ tăng so với giai đoạn trước liền kề về doanh số tiêu thụ là 2,3 lần; lợi nhuận 1,8 lần và 2,2 lần số thu nộp ngân sách. Tốc độ tăng doanh thu hàng năm bình quân là 16%, tốc độ tăng lợi nhuận thực hiện bình quân hàng năm là 21%, tốc độ tăng thu ngân sách hàng năm bình quân là 11% và tốc độ bảo tồn và gia tăng vốn chủ sở hữu bình quân hàng năm là 23%.
+
+Đến cuối năm 2008, Công ty đã hoàn thành việc xây dựng chuyển đổi mô hình sang Công ty trách nhiệm hữu hạn Nhà nước một thành viên xổ số kiến thiết Cần Thơ và chính thức hoạt động vào ngày 01/01/2009 Ngày 22/12/2008 Bộ trưởng Bộ Tài chính ký quyết định số 32/GCN-KDXS ban hành Giấy chứng nhận đủ điều kiện kinh doanh xổ số cho Công ty. c. Giai đoạn phát triển - hội nhập (từ năm 2009 đến nay):
+
+- Ngày 03/9/2008, UBND TP. Cần Thơ ban hành Quyết định số 2164/QĐ.UBND về việc phê duyệt phương án, điều lệ chuyển sang mô hình Công ty TNHH Nhà nước một thành viên xổ số kiến thiết Cần Thơ do Ủy ban nhân dân TP. Cần Thơ làm chủ sở hữu, hoạt động theo cơ cấu tổ chức Chủ tịch công ty, Kiểm soát viên và Giám đốc.
+
+- Ngày 01/01/2009, Công ty chính thức đổi tên thành “Công ty TNHH Nhà nước một thành viên xổ số kiến thiết Cần Thơ”, tên giao dịch là “Xổ số kiến thiết TP. Cần Thơ”.
+
+- Hạn mức doanh số phát hành: Năm 2012 (từ 50 tỷ đồng/kỳ lên 60 tỷ đồng/kỳ), năm 2015 (70 tỷ đồng/kỳ), năm 2016 (80 tỷ đồng/kỳ), năm 2017 (90 tỷ đồng/kỳ) và năm 2019 (100 tỷ đồng/kỳ).
+
+### 4.1.2 Chức năng, quyền hạn và nhiệm vụ
+
+Tổ chức và quản lý việc in ấn phát hành quay số mở thưởng, trả thưởng vé số kiến thiết TP. Cần Thơ; Xây dựng kế hoạch tài chính hàng năm dựa trên cơ sở kế hoạch do Bộ Tài Chính giao, thực hiện kế hoạch phát hành và tiêu thụ vé sát yêu cầu thị trường, thực hiện đúng chế độ hạch toán và báo cáo tài chính; tổ chức mạng lưới đại lý vé số kiến thiết; trực tiếp ký kết các hợp đồng kinh tế với các đơn vị và cá nhân để thực hiện việc in ấn vé số, cung cấp vật tư, hàng hóa vận chuyển; thường xuyên tổ chức công tác tuyên truyền vận động, thông tin - quảng cáo về hoạt động xổ số kiến thiết để mọi người dân đều hiểu rõ việc “Ích nước lợi nhà” của hoạt động xổ số, phát triển xổ số đúng hướng lành mạnh; xây dựng đội ngũ cán bộ vừa có đạo đức tốt vừa có nghiệp vụ vững vàng.
+
+### 4.1.3 Sơ đồ cơ cấu tổ chức nhân sự
+Nguồn: Phòng Tổ chức - Hành chánh công ty XSKT Cần Thơ, 2023
+
+- Chủ tịch công ty: Là người duy nhất lãnh đạo công ty, có quyền quyết định về chủ trương, về chính sách, về tiêu chuẩn, định mức kỹ thuật và chiến lược phát triển của công ty.
+
+- Kiểm soát viên: Kiểm soát viên là người được UBND TP bổ nhiệm có thời hạn 03 (ba) năm, giúp Chủ sở hữu kiểm soát các hoạt động của công ty và giúp Chủ tịch công ty kiểm soát trong hoạt động quản lý điều hành công ty. Chức năng, nhiệm vụ, quyền hạn của Kiểm soát viên được quy định cụ thể trong quy chế hoạt động Kiểm soát viên do UBND TP ban hành.
+
+Chủ tịch công ty và Kiểm soát viên do chủ sở hữu bổ nhiệm và Chủ tịch công ty là người được ủy quyền đại diện cho chủ sở hữu.
+
+- Giám đốc: Chịu trách nhiệm trước pháp luật và chủ tịch công ty về việc thực hiện quyền và nghĩa vụ của mình như: Tổ chức thực hiện quyết định của chủ tịch công ty; quyết định các vấn đề liên quan đến hoạt động kinh doanh của công ty; Ban hành quy chế nội bộ của công ty; bổ nhiệm, miễn nhiệm, bãi nhiệm người quản lý trong công ty; ký kết hợp đồng lao động với người lao động và các hợp đồng nhân danh công ty; kiến nghị phương án cơ cấu tổ chức công ty; trình báo cáo quyết toán tài chính hàng năm lên chủ tịch công ty.
+
+- Phó giám đốc: Chịu trách nhiệm với giám đốc và chủ tịch công ty về việc thực hiện quyền và nghĩa vụ của mình như: Tổ chức thực hiện quyết định của Giám đốc, quyết định các vấn đề liên quan đến công việc hàng ngày của phòng quản lý trực tiếp, được quyền ký các phiếu chi có giá trị từ 5 tỷ trở xuống.
+
+- Phòng Ngân quỹ: Chịu sự quản lý trực tiếp từ phó giám đốc phụ trách, được yêu cầu bộ phiếu đề nghị chi tiền rõ ràng, có chữ ký đầy đủ của ban lãnh đạo từ phòng kế toán, thực hiện chi tiền mặt cho khách hàng, thực hiện chi tiền mặt, tạm ứng cho cán bộ công nhân viên công ty đi công tác.
+
+- Phòng Kinh doanh: Chịu trách nhiệm trực tiếp với lãnh đạo phụ trách, được yêu cầu phiếu thu có đầy đủ chữ ký của lãnh đạo từ phòng kế toán; được quyền từ chối cấp vé cho đại lý trong trường hợp đại lý đóng thiếu tiền hoặc người đi nhận vé không phải là người có trong uỷ quyền đã ký với công ty; đề xuất tỷ lệ phát vé cho đại lý với giám đốc công ty; thực hiện việc trộn vé đảm bảo tỷ lệ đầu số được chia đều cho các đại lý; trực tiếp giao vé cho đại lý; nhận và phân phát hàng quảng cáo cho đại lý; thực hiện báo cáo thị trường hàng tuần; tham gia kiểm kê vé số tiêu thụ không hết và báo cáo về phòng kế toán lên bộ nợ cho đại lý; báo cáo tỷ lệ tiêu thụ cho Ban Giám đốc công ty.
+
+- Phòng Tài chính – Kế toán: Thực hiện những công việc về nghiệp vụ, chuyên môn tài chính kế toán; theo dõi, phản ánh sự vận động vốn kinh doanh, cố vấn cho Ban lãnh đạo các vấn đề liên quan; tham mưu cho Ban Giám đốc về công tác quản lý tài chính và thực hiện công tác kế toán, thống kê; cùng với các bộ phận khác tạo nên mạng lưới thông tin quản lý nhân sự, tài chính… theo hướng năng động nhằm đạt hiệu quả cao nhất; hạch toán các nghiệp vụ kinh tế phát sinh tại công ty; chủ trì và phối hợp với các phòng có liên quan để lập kế hoạch kinh doanh, kế hoạch tài chính hàng năm và dài hạn.
+
+- Phòng Tổ chức - hành chánh:
+
+Tổ chức: Quản lý chung về người lao động như ngày phép, sơ yếu lý lịch, thi đua khen thưởng, quy trình bổ nhiệm nhân sự cũng như tuyển dụng lao động mới, quy hoạch cán bộ và tổ chức các hoạt động khác của công ty.
+
+Hành chính: Thực hiện công tác văn thư lưu trữ, tổ chức các hoạt động vui chơi, giải trí, hội họp, tiếp khách của công ty và các hoạt động khác liên quan đến an sinh, phúc lợi của công ty.
+
+Tin học: Phục vụ quay số mở thưởng hàng tuần, xây dựng, vận hành các hệ thống phần mềm, website của công ty, bảo trì, sửa chữa các thiết bị điện tử trong công ty.
+
+Quản trị: Mua sắm hàng quảng cáo, công cụ dụng cụ phục vụ kinh doanh; sửa chữa, bảo trì các thiết bị điện, đồ nội thất ... được dùng trong công ty; công tác phòng cháy, chữa cháy.
+
+- Phòng Trả thưởng: Tiếp nhận, kiểm tra vé trúng thưởng của khách hàng; lập các chứng từ cần thiết liên quan đến trả thưởng; tham mưu cho Ban Lãnh đạo giải quyết một số trường hợp vé bị rách, bong tróc số, cháy sém...; thực hiện các công việc khác liên quan.
+
+- Phòng Pháp chế: Xây dựng, bổ sung, sửa đổi Điều lệ, Quy chế, Quy trình cho phù hợp với quy định pháp luật hiện hành; phối hợp với các phòng liên quan trong việc soạn thảo các văn bản, quy chế; tham mưu cho Ban Lãnh đạo những vấn đề pháp lý trong hoạt động sản xuất kinh doanh.
+
+## 4.2 TÌNH HÌNH VÀ ĐÁNH GIÁ CHUNG THỰC TRẠNG NGUỒN NHÂN LỰC
+CỦA CÔNG TY TỪ NĂM 2020 - 2023
+
+### 4.2.1 Tình hình về thực trạng quản trị nguồn nhân lực của công ty trong giai đoạn năm 2020 - 2023
+
+Bản chất công ty là công ty TNHH có 100% vốn NN do Uỷ ban nhân dân TP.
+Cần Thơ làm chủ sở hữu. Vì vậy, công ty chỉ có nhân viên chính thức chiếm 100% trong tổng số lao động và hầu như không có nhân viên thời vụ. Đây là điểm khác biệt nhất về nguồn lao động so với các công ty khác. Qua bảng 4.1, ta thấy số lượng nhân viên của công ty cũng không lớn và cũng không biến động nhiều qua các năm. Từ năm 2020 đến năm 2022 mỗi năm chỉ tăng có 1 nhân sự. Hầu hết người lao động trong công ty đều gắn bó với công ty đến khi về hưu. Vì vậy, nhu cầu tuyển dụng của công ty cũng không cao. Mặc khác, công ty chỉ tuyển dụng nhân sự mới khi có nhân sự chuẩn bị nghỉ hưu. Điều đó ta có thể thấy rõ sự biến động nhân sự được tuyển dụng và về hưu vào năm 2022. Trong năm này, công ty sẽ có 4 nhân viên trong độ tuổi về hưu, vì thế công ty sẽ bắt đầu tuyển dụng đúng 4 nhân viên để thay thế công việc của những người về hưu. Chỉ có năm 2020 và 2021 không có nhân sự về hưu, nhưng công ty vẫn tuyển dụng với số lượng rất ít. Vì trong những năm này, công ty đang cơ cấu lại hoạt động của tổ chức, vì thế có những vị trí công việc mới được bổ sung sẽ bị thiếu, và công ty bắt buộc phải tuyển dụng thêm để đào tạo và bố trí sắp xếp vào vị trí này.
+
+Chỉ tiêu Năm 2020 Năm 2021 Năm 2022 Năm 2023 Nhân viên chính thức 119 120 121 121 Nhân sự được tuyển dụng 1 1 4 1 Nhân sự về hưu 0 0 4 1 Nguồn: Phòng Tổ chức – Hành chánh công ty TNHH MTV XS KT Cần Thơ, 2020 - 2023
+
+### 4.2.2 Đánh giá chung về thực trạng quản trị nguồn nhân lực của công ty trong giai đoạn năm 2020 - 2023
+
+Đa số người lao động công ty đều có trình độ đại học, có trình độ chuyên môn nghiệp vụ cao và giàu kinh nghiệm công tác tại công ty. Đây là một lợi thế của công ty so với các công ty xổ số khác. Do tính đặc thù trong kinh doanh, hiện tại công ty chỉ sử dụng nguồn lao động chính thức không có sử dụng lao động thời vụ như một số công ty xổ số trong khu vực. Đây là nguồn lao động lý tưởng, họ cống hiến hết mình cho công ty và gắn bó với công ty lâu dài. Có thể nói, thành công lớn nhất của công ty đến thời điểm hiện tại là đã xây dựng được đội ngũ nhân viên có trình độ chuyên môn nghiệp vụ cao đáp ứng được nhu cầu kinh doanh của công ty.
+
+Hơn thế nữa, các chính sách duy trì nguồn nhân lực ngày càng phong phú hơn.
+Chính sách tiền lương, tiền thưởng từng bước được cải thiện và nâng cao nhằm phù hợp với tình hình thực tế của nền kinh tế và giúp đời sống nhân viên càng tốt hơn. Đặc biệt, công ty cũng xây dựng chính sách lương thưởng đặc trưng với ngành nghề kinh doanh và luôn đảm bảo cho người Lao động được hưởng đầy đủ chế độ theo quy định của NN phù hợp với từng trình độ, năng lực chuyên môn và công việc mà từng người được phân công và phụ trách.
+
+Đời sống vật chất, tinh thần và môi trường làm việc luôn được công ty quan tâm.
+Bên cạnh đó, việc chăm sóc sức khoẻ cho người lao động trong công ty cũng được chú trọng. Công ty cũng đầu tư một phòng Y tế để phục vụ và chăm sóc sức khoẻ cho nhân viên khi cần thiết.
+
+Bên cạnh những mặt tốt về nguồn nhân lực gắn kết với công ty, thì công ty cũng còn những mặt hạn chế về vấn đề này. Công ty chưa xây dựng được văn hoá về phát triển nhân lực. Từ đó, mới tạo được sự gắn kết cho nhân viên ở công ty. Hầu như chính sách tuyển dụng của công ty khá rõ ràng nhưng số lượng tuyển dụng khá hạn chế. Điều này có thể làm cho nhân viên khá ỷ y vì không có nguy cơ bị sa thải.
+
+Công ty tổ chức nhiều khoá đào tạo cho nhân viên nhưng chưa chuyên sâu vào lĩnh vực chuyên môn của từng phòng ban và người lao động. Các khoá học thì khá tốn kém nhưng nhân viên không thể áp dụng được vào thực tế.  Công tác quy hoạch nguồn nhân lực:
+
+Ban lãnh đạo nhận thức được tầm quan trọng của chính sách quy hoạch nguồn nhân lực. Bởi đây là yếu tố tác động rất lớn đến sự phát triển bền vững của công ty một cách lâu dài. Ban Lãnh đạo luôn chú trọng đến xây dựng kế hoạch nguồn nhân lực dài hạn và quy hoạch nhân viên một cách tối ưu. Công tác quy hoạch xây dựng cán bộ từ khâu tạo nguồn được triển khai theo quy trình đánh giá khá chặt chẽ, đảm bảo tính công khai, minh bạch và dân chủ. Hằng năm, công ty luôn xem xét danh sách cán bộ trong diện quy hoạch để kịp thời điều chỉnh, bổ sung cho phù hợp với tình hình thực tế. Hiện nay, công ty đang quy hoạch cán bộ theo hướng cán bộ trẻ nằm trong độ tuổi 31 - 40 tuổi là chủ yếu vì họ là những người khá nắm vững công tác chuyên môn và có ý chí phấn đấu, cầu tiến cao. Đa số cán bộ được lựa chọn quy hoạch đều là các cán bộ có tư tưởng chính trị vững vàng, nằm trong hàng ngũ Đảng viên, có trình độ từ đại học trở lên, được đào tạo trình độ lý luận chính trị sơ cấp và có trình độ chuyên môn nghiệp vụ giỏi. Hơn thế nữa, công ty cũng tạo sự bình đẳng về giới tính trong công tác quy hoạch này.  Quy trình tuyển dụng:
+
+Công ty khá chú trọng đến quản trị nguồn nhân lực. Vì vậy, quy trình tuyển dụng nhân sự của công ty khá gắt gao. Quy trình này có chính sách văn bản được quy định một cách cụ thể, rõ ràng và chi tiết. Phòng Tổ chức - Hành chánh là phòng có chức năng thực hiện công tác tuyển dụng và quản lý nhân sự. Bên cạnh đó, có 1 Giám đốc phụ trách về công tác tuyển dụng này cho thấy sự công bằng, quan tâm của công ty về vấn đề này. Quy định trong việc tuyển dụng này là khi công ty có nhân sự về hưu, xin thôi việc hoặc khi có nhu cầu cần nhân sự để đảm bảo tình hình hoạt động của công ty. Vì vậy, việc tuyển dụng nhân sự của công ty còn khá hạn chế.
+
+Công ty tuyển dụng nhân sự được lựa chọn theo những tiêu chuẩn để đảm bảo phù hợp với vị trí mà công ty đang cần. Điều kiện chung mà công ty đưa ra các ứng viên mới phải đáp ứng là: Có trình độ từ Đại học trở lên, biết sử dụng vi tính văn phòng, đạo đức tốt và sức khoẻ tốt,… Hoặc một số bộ phận đặc thù như tin học thì sẽ yêu cầu thêm kinh nghiệm làm việc.  Công tác đào tạo và phát triển nguồn nhân lực:
+
+Ban Lãnh đạo công ty thường xuyên quan tâm đến việc tổ chức đào tạo cho cán bộ nhân viên công ty. Công ty không chỉ chú trọng đến công tác đào tạo về chuyên môn, nghiệp vụ mà còn đến vấn đề bồi dưỡng nhận thức về Đảng. Hằng năm, công ty sẽ phối hợp với Đảng uỷ Khối Doanh nghiệp TP. Cần Thơ cử những cán bộ có thành tích hoạt động xuất sắc không chỉ trong công việc mà trong việc tham gia các hoạt động phong trào do công ty phát động để tham gia các lớp quy hoạch nguồn để trở thành đảng viên như: lớp bồi dưỡng nhận thức về Đảng, lớp bồi dưỡng lý luận chính trị dành cho đảng viên mới,… Đối với lãnh đạo công ty sẽ được cử đi học các lớp cao cấp lý luận chính trị còn lãnh đạo nguồn được quy hoạch được đi học trung cấp lý luận chính trị không tập trung. Bên cạnh đào tạo về lý tưởng chính trị, công ty còn phối hợp với Viện Quản trị và Tài chính (IFA) thường xuyên mở các khoá đào tạo kỹ năng nghiệp vụ cho người lao động công ty. Bên cạnh, công ty tổ chức đào tạo cho người lao động thì công ty cũng khuyến khích và tạo điều kiện cho người lao động tự nâng cao trình độ nghiệp vụ của mình tại các cơ sở đào tạo bên ngoài.  Đánh giá thực hiện hiệu quả công việc:
+
+Công ty có các chính sách văn bản quy định cụ thể về tiêu chuẩn trong việc đánh giá thi đua thực hiện công việc. Từ đó, để tạo cơ sở cho việc quy hoạch nhân sự, bổ nhiệm nhân sự trong công ty. Hàng năm, công ty sẽ bổ sung, chỉnh sửa quy định này cho phù hợp với tình hình thực tế tại công ty. Công ty có quy định tiêu chuẩn chấm điểm thi đua của công ty gồm các nội dung quy định cụ thể. Hàng tháng, người quản lý và người lao động sẽ được phát một quyển sổ thi đua cá nhân, cuối tháng người lao động sẽ đánh giá những công việc mà mình đã làm được, những sai sót trong công việc và tự chấm điểm theo thang điểm 1 - 100 và theo đó xếp loại A, B, C. Sau đó, lãnh đạo quản lý phòng trực thuộc sẽ xem xét và đánh giá kết quả một lần nữa. Cuối cùng, kết quả này sẽ làm cơ sở cho Hội đồng công ty đánh giá, xét danh hiệu thi đua, khen thưởng cuối năm. Đây cũng là cơ sở để quy hoạch nhân sự cho các vị trí lãnh đạo, tạo động lực cho họ phát triển, giúp họ gắn kết hơn với công ty.  Chính sách lương thưởng và phúc lợi:
+
+Nhận thức được tầm quan trọng về chế độ đãi ngộ đối với nhân viên, công ty đã thiết lập và áp dụng cũng như thường xuyên thay đổi các chính sách về chế độ lương thưởng, chế độ bảo hiểm và phúc lợi cho nhân viên,… để phù hợp với tình hình thực tế qua mỗi năm. Để tạo động lực cho nhân viên về mặt vật chất, công ty đã nhờ chuyên gia về lĩnh vực xây dựng hệ thống thang lương, bảng lương mới cho nhân viên công ty để phù hợp với tình hình thực tế của công ty cũng như các chính sách về lương mà Nhà nước mới ban hành. Bên cạnh đó, tiền thưởng, phụ cấp và phúc lợi,… luôn được công ty quan tâm hàng đầu để tạo động lực làm việc cũng như sự gắn kết cho nhân viên với công ty. Khác với các công ty khác, nhân viên công ty được hưởng thêm tiền ăn giữa ca và tiền đó sẽ được chi theo ngày làm việc thực tế và theo mức quy định của Nhà nước Để tạo động lực về mặt tinh thần: Công ty luôn quan tâm công tác chăm lo, đời sống cho nhân viên như tổ chức thăm hỏi khi có nhân viên ốm đau, thai sản, hiếu hỷ và tặng quà sinh nhật cho nhân viên,… Ngoài ra, khi đến dịp Tết Nguyên đán công ty còn mua quà tặng cho nhân viên. Không chỉ chăm lo cho nhân viên, công ty còn chi quà hoặc khen thưởng cho con của nhân viên nhân ngày Quốc tế thiếu nhi (1/6) và Tết trung thu. Để nhân viên trong công ty ngày càng gắn kết khăng khít hơn, công ty thường xuyên tổ chức các chuyến về nguồn (đối với tổ chức Đoàn thanh niên và tổ chức Đảng), giao lưu văn nghệ nhân dịp kỷ niệm ngày Quốc tế phụ nữ (8/3) và ngày Phụ nữ Việt Nam (20/10). Không chỉ vậy, hằng năm công ty đều phối hợp với bệnh viện để tổ chức khám sức khoẻ định kỳ cho cán bộ, công nhân viên mỗi năm 1 lần vào tháng 9. Ngoài ra, công ty còn tạo điều kiện cho nhân viên đi tham quan, nghỉ mát trong nước hoặc nước ngoài tuỳ từng năm theo nhu cầu khảo sát và lấy ý kiến từ người lao động.
+
+## 4.3 MÔ TẢ MẪU NGHIÊN CỨU
+
+### 4.3.1 Thống kê mô tả thông tin mẫu khảo sát
+
+Mẫu nghiên cứu gồm 119 nhân viên đang làm việc tại công ty TNHH NN MTV XS KT Cần Thơ, trong đó có 9 mẫu đáp viên trả lời không hợp lệ. Vì vậy, kích thước mẫu hợp lệ còn 110 đáp viên. Mẫu có các đặc điểm thống kê mô tả thông tin mẫu khảo sát như sau:
+
+Chỉ tiêu Đặc điểm Tần số (người) Tỷ lệ (%) Giới tính Nam 53 48,2 Nhóm tuổi Từ 20 – 30 tuổi 11 10,0 Từ 31 – 40 tuổi 53 48,2 Từ 41 – 50 tuổi 33 30,0 Trên 50 tuổi 13 11,8 Tình trạng hôn nhân Độc thân 12 10,9 Có gia đình 98 89,1 Trình độ chuyên môn Dưới Đại học 18 16,4 Đại học 74 67,3 Trên đại học 18 16,4 Thâm niên công tác Dưới 5 năm 11 10,0 Từ 5 – 10 năm 47 42,7 Từ 11 – 15 năm 26 23,6 Trên 15 năm 26 23,6 Nguồn: Mẫu khảo sát từ 110 nhân viên đang làm việc tại công ty XS KT Cần Thơ, 2023 Về giới tính: Trong mẫu khảo sát này, có 53 người nam, chiếm tỷ trọng 48,2% và có 57 nữ chiếm tỷ trọng 51,8%. Tỷ lệ chênh lệch giữa số lượng nam và nữ khá thấp.
+Điều này cho thấy cơ cấu tỷ lệ nhân viên trong công ty là ngang bằng nhau, không có sự chênh lệch lớn.
+
+Về nhóm tuổi: Kết quả khảo sát cho thấy, số lượng nhân viên trong độ tuổi từ 31 đến 40 tuổi là nhiều nhất, với 53 người, chiếm tỷ trọng 48,2%. Đứng thứ hai là số lượng nhân viên trong độ tuổi từ 41 đến 50 tuổi, với 33 người, chiếm tỷ trọng 30,0%.
+Đứng thứ ba là nhóm tuổi trên 50 tuổi, với 13 người, chiếm tỷ trọng 11,8%. Và nhóm tuổi từ 20 đến 30 tuổi với số lượng ít nhất là 11 người, chiếm tỷ trọng 10%. Nhìn chung, lực lượng lao động của công ty chủ yếu nằm ở nhóm tuổi từ 31 - 40 tuổi, điều này cho thấy họ đã gắn bó với công ty cũng được khá lâu, họ không chỉ là những lao động còn trong độ tuổi năng động mà họ còn có nhiều kinh nghiệm làm việc ở công ty.
+Nhóm độ tuổi này họ không chỉ thích sáng tạo, đương đầu với những thử thách mà họ còn cố gắng phấn đấu để được thăng tiến trong tương lai.
+
+Về tình trạng hôn nhân: Kết quả phân tích ở bảng 4.2 cho chúng ta thấy, có sự chênh lệch khá lớn giữa những người có gia đình và độc thân. Những người đã lập gia đình chiếm đa số với tỷ trọng 89,1% tương ứng với 98 người. Tỷ trọng nhân viên còn độc thân khá thấp chiếm 10,9% tương ứng với 12 người.
+
+Về trình độ chuyên môn: Qua kết quả khảo sát, phần lớn nhân viên trong công ty chủ yếu có trình độ Đại học là 74 người (chiếm 67,3%). Trong khi đó, số lượng và tỷ trọng của nhân viên có trình độ Dưới Đại học và Trên Đại học đều như nhau là 18 người (chiếm 16,4%).
+
+Về thâm niên công tác: Bảng 4.2 cho thấy, số lượng nhân viên trong công ty có thâm niên công tác từ 5 - 10 năm chiếm đa số với 47 người (42,7%). Số lượng nhân viên có thâm niên công tác từ 11 - 15 năm và trên 15 năm trở lên lại chiếm số lượng tương đương nhau với 26 người (23,6%). Nhân viên có thâm niên dưới 5 năm với số lượng ít nhất 11 người (10,0%).
+
+### 4.3.2 Đặc điểm công việc hiện tại của đáp viên
+
+Chỉ tiêu Đặc điểm Tần số (người) Tỷ lệ (%) Thu nhập Dưới 7 triệu 2 1,8 Từ 7 - 10 triệu 35 31,8 Từ 11 - 15 triệu 50 45,5 Trên 15 triệu 23 20,9 Phòng ban làm việc Phòng Kinh doanh 19 17,3 Phòng Trả thưởng 22 20,0 Phòng Tài chính – Kế toán 17 15,5 Phòng Ngân quỹ 5 4,5 Phòng Tổ chức – Hành chánh 44 40,0 Phòng Pháp chế 3 2,7 Nguồn: Mẫu khảo sát từ 110 nhân viên đang làm việc tại công ty XS KT Cần Thơ, 2023 Về thu nhập: Đa số nhân viên có mức thu nhập từ 11 - 15 triệu đồng chiếm 45,5% (50 người). Đứng thứ hai là mức thu nhập từ 7 - 10 triệu chiếm 31,8% (35 người). Mức thu nhập trên 15 triệu chiếm 20,9% (23 người). Mức thu nhập dưới 7 triệu là thấp nhất chỉ chiếm 1,8% (2 người). Mức thu nhập này do phụ thuộc vào chính sách lương thưởng và loại hình đặc thù của công ty. Hầu hết chi lương cho nhân viên dựa trên nhiều yếu tố không chỉ xét về thâm niên mà còn dựa trên sự phân công công việc theo từng phòng ban của tổ chức cũng như mức hiệu quả công việc và mức đóng góp của từng nhân viên. Mỗi nhân viên sẽ có cấp bậc lương thưởng riêng.
+
+Về phòng ban làm việc hiện tại: Theo kết quả khảo sát, Phòng Tổ chức - Hành chánh là phòng có số lượng nhân viên đông nhất công ty với 44 người chiếm 40%. Kế tiếp phòng đông nhân sự thứ hai trong công ty là Phòng Trả thưởng với 22 người chiếm 20%. Phòng Kinh doanh là phòng đông nhân sự thứ ba của công ty với 19 người chiếm 17,3%. Đứng vị trí thứ tư về nhân sự là Phòng Kế toán - Tài chính với 17 người chiếm 15,5%. Đứng vị trí thứ năm là Phòng Ngân quỹ với 5 người chiếm 4,5%.
+Phòng có số lượng nhân sự ít nhất trong công ty là phòng Pháp chế với 3 người chiếm 2,7%. Phòng Tổ chức - Hành chánh đông nhất là do phòng này tập hợp nhiều bộ phận khác nhau như: Bộ phận văn phòng, tin học, lễ tân, bảo vệ, tài xế, kỹ thuật, tạp vụ và y tế.
+
+## 4.4 ĐÁNH GIÁ VỀ CÁC NHÂN TỐ ẢNH HƯỞNG ĐẾN SỰ GẮN KẾT CỦA
+NHÂN VIÊN
+
+### 4.4.1 Phân tích điểm trung bình của các biến độc lập và biến phụ thuộc
+
+ Nhân tố trách nhiệm xã hội (CSR):
+
+Biến quan sát Trung bình Mức đồng ý (Sự gắn kết của nhân viên) TRÁCH NHIỆM XÃ HỘI 4,19 Đồng ý Công ty nghiêm túc tuân thủ các quy định pháp luật. 4,03 Đồng ý Công ty tuân thủ các nguyên tắc đạo đức đối với tất 4,31 Đồng ý cả các bên liên quan trong kinh doanh.
+
+Công ty luôn nỗ lực xây dựng và hoàn thiện chiến 4,35 Đồng ý lược kinh doanh dài hạn.
+
+Công ty nghiêm túc tuân thủ các quy định về bảo vệ 4,35 Đồng ý môi trường.
+
+Công ty rất quan tâm và thường xuyên thực hiện các 3,92 Đồng ý hoạt động vì cộng đồng, an sinh xã hội.
+
+Nguồn: Kết quả xử lý số liệu khảo sát năm 2023 Theo kết quả bảng 4.4 cho ta thấy, trách nhiệm xã hội (CSR) có 2 nhân tố công ty luôn nỗ lực xây dựng và hoàn thiện chiến lược kinh doanh dài hạn và công ty nghiêm túc tuân thủ các quy định về bảo vệ môi trường có giá trị trung bình lớn nhất là 4,35 điểm, cho thấy các nhân viên ở công ty đồng ý nhất với quan điểm này. Kế tiếp đứng thứ hai là công ty tuân thủ các nguyên tắc đạo đức đối với tất cả các bên liên quan trong kinh doanh có giá trị trung bình là 4,31. Đứng vị trí thứ ba là công ty nghiêm túc tuân thủ các quy định pháp luật có giá trị trung bình là 4,03. Và cuối cùng là nhân tố công ty rất quan tâm và thường xuyên thực hiện các hoạt động vì cộng đồng, an sinh xã hội có giá trị trung bình là 3,92. Như vậy, chúng ta có thể kết luận rằng các nhân viên ở công ty đều đồng ý với các quan điểm được nêu ra vì các biến quan sát đều có giá trị trung bình ở mức xấp xỉ 4. Bên cạnh đó, độ lệch chuẩn lớn nhất là 0,784 thuộc về biến công ty nghiêm túc tuân thủ các quy định pháp luật, cho thấy hầu hết nhân viên đều trả lời chênh lệch nhau nhiều nhất ở biến này.
+
+Công ty luôn thực hiện đúng chức năng và dựa trên nguyên tắc hoạt động của mình là huy động vốn có hiệu quả trong các lĩnh vực kinh doanh nhằm thu được lợi nhuận cao, từ đó đóng góp cho ngân sách để đầu tư xây dựng các công trình giáo dục, y tế và phúc lợi công cộng vì lợi ích chung của toàn xã hội. Vì vậy việc công ty rất quan tâm và thường xuyên thực hiện các hoạt động vì cộng đồng, an sinh xã hội là điều tất yếu trong nguyên tắc hoạt động nên điều này được các nhân viên mặc định và ít đồng ý hơn các nhân tố khác. Công ty thuộc công ty có vốn nhà nước sở hữu 100% vì vậy họ cũng mặc định về nhân tố công ty nghiêm túc tuân thủ các quy định pháp luật và công ty tuân thủ các nguyên tắc đạo đức đối với tất cả các bên liên quan trong kinh doanh là điều hiển nhiên. Nhân tố công ty luôn nỗ lực xây dựng và hoàn thiện chiến lược kinh doanh dài hạn là nhân tố có ảnh hưởng nhiều nhất đến sự gắn kết của nhân viên với công ty. Vì khi công ty có chiến lược kinh doanh dài hạn công ty sẽ tận dụng được nguồn lực một cách tốt nhất và hạn chế được những rủi ro nguy cơ trong tương lai. Từ đó có kế hoạch phòng chống để đạt được lợi nhuận cao. Điều này sẽ giúp công ty đạt được sự phát triển bền vững, sẽ giúp nhân viên an tâm làm việc vì khi có biến động thị trường, lạm phát xảy ra thì thu nhập của nhân viên cũng sẽ được đảm bảo. Hơn thế nữa, nhân tố được nhân viên đồng ý nhiều nhất và có tác động nhiều nhất đến sự gắn kết của nhân viên với công ty là nghiêm túc tuân thủ các quy định về bảo vệ môi trường. Đây là lý do và mục tiêu hàng đầu hiện nay của công ty. Vì đây không chỉ là bảo vệ chính cuộc sống và sức khoẻ của mỗi nhân viên trong công ty mà còn bảo vệ môi trường sống của mọi người. Nhận thấy tầm quan trọng này, công ty đã trồng nhiều cây xanh xung quanh khu vực làm việc và toà nhà để không khí trong lành giúp cho người lao động cảm giác thư thái hơn, sáng tạo hơn khi làm việc. Bên cạnh đó, rác thải sau khi sử dụng cũng được công ty phân loại để xử lý theo quy định. Công ty cũng trang bị thiết bị phòng chống độc hại như khẩu trang, găng tay, máy lọc không khí cho nhân viên khi lên kho cùi và đếm tiền.  Nhân tố môi trường làm việc (MTLV):
+
+Biến quan sát Trung bình Mức đồng ý (Sự gắn kết của nhân viên) MÔI TRƯỜNG LÀM VIỆC 3,99 Đồng ý Môi trường làm việc chuyên nghiệp. 3,95 Đồng ý Tạo điều kiện nhân viên thể hiện năng lực cá nhân. 3,91 Đồng ý Trang thiết bị phục vụ cho công việc tốt, hiện đại. 4,03 Đồng ý Không phải làm việc ngoài giờ thường xuyên. 4,05 Đồng ý Nguồn: Kết quả xử lý số liệu khảo sát năm 2023 Theo kết quả bảng 4.5 cho ta thấy, môi trường làm việc (MTLV) có nhân tố không phải làm việc ngoài giờ thường xuyên có giá trị trung bình lớn nhất là 4,05 điểm, cho thấy các nhân viên ở công ty đồng ý nhất với quan điểm này. Kế tiếp đứng thứ hai là trang thiết bị phục vụ cho công việc tốt, hiện đại có giá trị trung bình là 4,03.
+Đứng vị trí thứ ba là môi trường làm việc chuyên nghiệp có giá trị trung bình là 3,95.
+Và cuối cùng là nhân tố tạo điều kiện nhân viên thể hiện năng lực cá nhân có giá trị trung bình thấp nhất là 3,91. Như vậy, chúng ta có thể kết luận rằng các nhân viên ở công ty đều đồng ý với các quan điểm được nêu ra vì các biến quan sát đều có giá trị trung bình ở mức xấp xỉ 4. Bên cạnh đó, độ lệch chuẩn lớn nhất là 0,830 thuộc về biến tạo điều kiện nhân viên thể hiện năng lực cá nhân, cho thấy hầu hết nhân viên đều trả lời chênh lệch nhau nhiều nhất ở biến này.
+
+Kết quả trên là khá đúng với tình hình thực tế tại công ty, vì công ty là công ty nhà nước nên công ty tuân thủ theo các quy định của pháp luật và có quy định rõ ràng về thời gian làm việc của nhân viên. Thời giờ làm việc đều 8 tiếng trong 1 ngày, 40 giờ trong 1 tuần, buổi sáng từ 7 giờ đến 11 giờ và buổi chiều từ 13 giờ đến 17 giờ.
+Ngày làm việc từ thứ hai đến thứ sáu và nghỉ làm việc thứ bảy và chủ nhật. Nếu ngày nghỉ hoặc ngày lễ được phân công trực thì người lao động sẽ được giải quyết cho nghỉ bù hoặc thanh toán tiền trực. Công ty thì không có tình trạng làm thêm giờ chỉ có trực các ngày lễ, Tết. Về nhân tố trang thiết bị phục vụ cho công việc tốt, hiện đại được nhân viên đồng ý nhiều thứ hai là vì công ty mới xây dựng trụ sở mới và trang thiết bị, máy móc được trang bị khá hiện đại so với trước đây. Công ty đầu tư trụ sở làm việc mới và di dời về địa chỉ mới từ năm 2016, với 13 tầng lầu và hệ thống thang máy, báo cháy hiện đại so với trước đây. Các phòng ban chuyên môn được trang bị trang thiết bị với hệ thống máy vi tính, nhập liệu hoàn toàn bằng phần mềm xử lý chứ không ghi vào sổ sách như trước đây. Bên cạnh đó, môi trường làm việc cũng được chú trọng với hệ thống cây xanh tạo một môi trường xanh, sạch đẹp, tăng khả năng sáng tạo và làm việc cho nhân viên. Ngoài ra, công ty còn trang bị một nhà ăn với đầy đủ thiết bị để phục vụ nhu cầu về ăn uống của nhân viên. Không chỉ vậy, công ty còn trang bị phòng tập thể dục, thể thao để nhân viên có thể tập luyện sau giờ tan làm mà không cần phải đến phòng tập gym bên ngoài.
+
+Trong khi đó, nhân tố tạo điều kiện nhân viên thể hiện năng lực cá nhân là nhân viên ít đồng ý hơn các quan điểm trên cũng như là nhân tố có sự chênh lệch nhiều nhất về câu trả lời, cho thấy tuỳ quan điểm của nhân viên cũng như công ty chưa có các tiêu chí đánh giá năng lực nhân viên. Mỗi nhân viên sẽ có một thế mạnh riêng, nên công ty chưa khai thác triệt để cũng như chưa sắp xếp họ làm việc đúng năng lực và thể hiện được năng lực vì vậy nhân tố này không được nhân viên đồng ý như các nhân tố khác.  Nhân tố đào tạo và phát triển (ĐTPT):
+
+Biến quan sát Trung bình Mức đồng ý (Sự gắn kết của nhân viên) ĐÀO TẠO VÀ PHÁT TRIỂN 4,02 Đồng ý Tổ chức các khoá đào tạo nâng cao trình độ nghiệp 4,05 Đồng ý vụ với nhiều hình thức và phương thức khác nhau.
+
+Được khuyến khích phát triển các kỹ năng mới. 4,03 Đồng ý Tạo cơ hội cho nhân viên phát triển một cách bình 3,96 Đồng ý đẳng.
+
+Có nhiều cơ hội được đào tạo và phát triển. 4,02 Đồng ý Nguồn: Kết quả xử lý số liệu khảo sát năm 2023 Theo kết quả bảng 4.5 cho ta thấy, đào tạo và phát triển (ĐTPT) có nhân tố tổ chức các khoá đào tạo nâng cao trình độ nghiệp vụ với nhiều hình thức và phương thức khác nhau có giá trị trung bình lớn nhất là 4,05 điểm, cho thấy các nhân viên ở công ty đồng ý nhất với quan điểm này. Kế tiếp đứng thứ hai là được khuyến khích phát triển các kỹ năng mới có giá trị trung bình là 4,03. Đứng vị trí thứ ba là có nhiều cơ hội được đào tạo và phát triển có giá trị trung bình là 4,02. Và cuối cùng là nhân tố tạo cơ hội cho nhân viên phát triển một cách bình đẳng có giá trị trung bình thấp nhất là 3,96. Như vậy, chúng ta có thể kết luận rằng các nhân viên ở công ty đều đồng ý với các quan điểm được nêu ra vì các biến quan sát đều có giá trị trung bình ở mức xấp xỉ
+4. Bên cạnh đó, độ lệch chuẩn lớn nhất là 0,784 thuộc về biến được khuyến khích phát triển các kỹ năng mới cho thấy hầu hết nhân viên đều trả lời chênh lệch nhau nhiều nhất ở biến này.
+
+Nhân viên đồng ý khá nhiều với quan điểm tổ chức các khoá đào tạo nâng cao trình độ nghiệp vụ với nhiều hình thức và phương thức khác nhau. Vì công ty thường xuyên mở các khoá đào tạo với nhiều hình thức và phương thức khác nhau như học tại công ty, học online tại nhà thời gian rảnh hoặc cử đến các trung tâm học để nhằm nâng cao nghiệp vụ cho người lao động. Bên cạnh đó, công ty còn cử người lao động học các lớp về lý luận chính trị như bồi dưỡng nhận thức về Đảng, lớp bồi dưỡng lý luận chính trị dành cho đảng viên mới,… Công ty luôn khuyến khích nhân viên phát triển các kỹ năng mới đặc biệt là kỹ năng mềm vì công ty có các bộ phận phòng ban luôn tiếp xúc trực tiếp với khách hàng. Công ty cũng tạo nhiều cơ hội cho nhân viên được đào tạo và phát triển. Vì vậy, các nhân tố này cũng được nhân viên khá đồng ý và lựa chọn đồng ý nhiều hơn so với nhân tố tạo cơ hội cho nhân viên phát triển một cách bình đẳng. Nhân tố này sẽ tuỳ quan điểm đánh giá riêng của mỗi cá nhân, vì công ty chưa có một tiêu chí đánh giá cụ thể về việc lựa chọn và cử nhân viên được đi học nhất là đi học bên chính trị để được vào Đảng và số lượng được đi học bên mảng này khá hạn chế. Có thể lý do này, mà một số nhân viên sẽ cảm thấy bất công và ấm ức, tại sao mình cống hiến cho công ty nhưng chưa được đề cử vào Đảng, vì công ty sẽ xét đối tượng được vào Đảng dựa trên đề cử của lãnh đạo Phòng, Ban chấp hành Đoàn thanh niên và Ban chấp hành Công đoàn.  Nhân tố chính sách khen thưởng và phúc lợi (KTPL):
+
+Biến quan sát Trung bình Mức đồng ý (Sự gắn kết của nhân viên) CHÍNH SÁCH KHEN THƯỞNG VÀ PHÚC LỢI 4,11 Đồng ý Sẵn sàng phát triển thiết kế các chương trình khen 4,01 Đồng ý thưởng và phúc lợi tốt cho nhân viên.
+
+Chính sách khen thưởng và phúc lợi được xây dựng 3,95 Đồng ý với tiêu chí đảm bảo tính công bằng.
+
+Nhân viên nhận được phúc lợi hấp dẫn (du lịch hàng 4,25 Đồng ý năm, khám sức khoẻ định kỳ,…).
+
+Công ty có bộ phận Công Đoàn bảo vệ quyền lợi 4,22 Đồng ý chính đáng của nhân viên.
+
+Nguồn: Kết quả xử lý số liệu khảo sát năm 2023 Theo kết quả bảng 4.7 cho ta thấy, chính sách khen thưởng và phúc lợi (KTPL) có nhân tố nhân viên nhận được phúc lợi hấp dẫn (du lịch hàng năm, khám sức khoẻ định kỳ,…) có giá trị trung bình lớn nhất là 4,25 điểm, cho thấy các nhân viên ở công ty đồng ý nhất với quan điểm này. Kế tiếp đứng thứ hai là công ty có bộ phận Công Đoàn bảo vệ quyền lợi chính đáng của nhân viên có giá trị trung bình là 4,22. Đứng vị trí thứ ba là sẵn sàng phát triển thiết kế các chương trình khen thưởng và phúc lợi tốt cho nhân viên có giá trị trung bình là 4,01. Và cuối cùng là nhân tố chính sách khen thưởng và phúc lợi được xây dựng với tiêu chí đảm bảo tính công bằng có giá trị trung bình thấp nhất là 3,95. Như vậy, chúng ta có thể kết luận rằng các nhân viên ở công ty đều đồng ý với các quan điểm được nêu ra vì các biến quan sát đều có giá trị trung bình ở mức xấp xỉ 4. Bên cạnh đó, độ lệch chuẩn lớn nhất là 0,748 thuộc về biến sẵn sàng phát triển thiết kế các chương trình khen thưởng và phúc lợi tốt cho nhân viên cho thấy hầu hết nhân viên đều trả lời chênh lệch nhau nhiều nhất ở biến này.
+
+Khi làm việc tại công ty, nhân viên sẽ nhận được những đãi ngộ và phúc lợi hấp dẫn và có quy định rõ ràng. Vì vậy, nhân viên hầu hết đều đồng ý nhiều nhất với yếu tố nhân viên nhận được phúc lợi hấp dẫn (du lịch hàng năm, khám sức khoẻ định kỳ,…). Theo quy chế chi tiêu nội bộ, trong năm công ty kết hợp cùng với Công đoàn sẽ tổ chức cho người lao động đi tham quan, nghỉ mát trong nước hoặc nước ngoài, thời gian chuyến đi không trừ vào ngày phép năm. Trường hợp do yếu tố khách quan công ty không thể tổ chức đi du lịch được thì công ty sẽ chuyển sang hình thức chi hỗ trợ bằng tiền cho người lao động tự tổ chức đi vào thời điểm thích hợp (Điều 16 trong Văn kiện Hội nghị người lao động năm 2024). Công ty có trách nhiệm tạo điều kiện cho người lao động khám sức khỏe mỗi năm 1 lần với mức chi phí tuỳ tình hình thực tế. Khi khám sức khỏe nếu phát hiện bệnh thì công ty sẽ tạo điều kiện cho người lao động điều trị bệnh (Điều 17 trong Văn kiện Hội nghị người lao động năm 2024). Công ty có bộ phận Công Đoàn bảo vệ quyền lợi chính đáng của nhân viên. Công đoàn công ty thường xuyên phối hợp với chính quyền kiểm tra việc thực hiện các chế độ chính sách, pháp luật liên quan trực tiếp người lao động để nhằm kịp thời kiến nghị, đề xuất những giải pháp phù hợp để đảm bảo quyền lợi của công đoàn viên và người lao động về tiền lương, thưởng, hợp đồng lao động, chế độ bảo hiểm xã hội, bảo hiểm y tế, vệ sinh an toàn lao động,… Công ty thông qua các kỳ hội nghị để lấy ý kiến rộng rãi của người lao động để chỉnh sửa, bổ sung và phát triển thiết kế các chương trình khen thưởng và phúc lợi tốt nhất cho nhân viên. Chính sách khen thưởng và phúc lợi được xây dựng với tiêu chí đảm bảo tính công bằng được ít người lao động đồng ý nhất. Vì mặc dù phúc lợi khá tốt nhưng chính sách khen thưởng của công ty vẫn còn nhiều hạn chế chưa được quy định rõ ràng về thành tích cụ thể bắt buộc đạt được để căn cứ vào đó mới được khen thưởng mà công ty chỉ khen thưởng theo Luật thi đua khen thưởng của Nhà nước ban hành.  Nhân tố phong cách lãnh đạo (LĐ):
+
+Biến quan sát Trung bình Mức đồng ý (Sự gắn kết của nhân viên) PHONG CÁCH LÃNH ĐẠO 4,03 Đồng ý Lãnh đạo luôn đối xử công bằng với tất cả nhân viên. 3,95 Đồng ý Lãnh đạo luôn quan tâm, động viên và hỗ trợ nhân 4,02 Đồng ý viên khi cần thiết.
+
+Lãnh đạo là người có năng lực. 4,11 Đồng ý Lãnh đạo luôn ghi nhận ý kiến đóng góp của nhân 4,05 Đồng ý viên.
+
+Nguồn: Kết quả xử lý số liệu khảo sát năm 2023 Theo kết quả bảng 4.8 cho ta thấy, phong cách lãnh đạo (LĐ) có nhân tố lãnh đạo là người có năng lực có giá trị trung bình lớn nhất là 4,11 điểm, cho thấy các nhân viên ở công ty đồng ý nhất với quan điểm này. Kế tiếp đứng thứ hai là lãnh đạo luôn ghi nhận ý kiến đóng góp của nhân viên có giá trị trung bình là 4,05. Đứng vị trí thứ ba là lãnh đạo luôn quan tâm, động viên và hỗ trợ nhân viên khi cần thiết có giá trị trung bình là 4,02. Và cuối cùng là nhân tố lãnh đạo luôn đối xử công bằng với tất cả nhân viên có giá trị trung bình thấp nhất là 3,95. Như vậy, chúng ta có thể kết luận rằng các nhân viên ở công ty đều đồng ý với các quan điểm được nêu ra vì các biến quan sát đều có giá trị trung bình ở mức xấp xỉ 4. Bên cạnh đó, độ lệch chuẩn lớn nhất là 0,677 thuộc về biến lãnh đạo luôn quan tâm, động viên và hỗ trợ nhân viên khi cần thiết cho thấy hầu hết nhân viên đều trả lời chênh lệch nhau nhiều nhất ở biến này.
+
+Ban lãnh đạo công ty là những người có năng lực vì luôn đưa ra chính sách kịp thời để phù hợp với tình hình kinh doanh hiện tại cũng như hạn chế được những rủi ro khi thị trường có những biến động. Đặc biệt, trong giai đoạn dịch Covid đã thấy Ban lãnh đạo công ty đã điều phối mọi vấn đề một cách hợp lý mà vẫn đảm bảo thu nhập cho người lao động đưa công ty vượt qua giai đoạn khó khăn đó. Lãnh đạo luôn ghi nhận ý kiến đóng góp của nhân viên và luôn quan tâm, động viên và hỗ trợ nhân viên khi cần thiết. Điều này đã giúp cho nhân viên cảm thấy gắn bó hơn với công ty, hạn chế được tình trạng xin nghỉ việc và giúp nhân viên luôn tự tin khi nêu lên vấn đề. Mỗi nhân viên sẽ có cách nhìn cảm tính khác nhau, nên biến lãnh đạo luôn đối xử công bằng với tất cả nhân viên được đồng ý ít nhất. Lãnh đạo công ty luôn tham gia, cập nhật kiến thức các khoá học không chỉ về lĩnh vực kinh doanh mà còn về lĩnh vực nguồn nhân lực.  Nhân tố lương và thu nhập (LTN):
+
+Biến quan sát Trung bình Mức đồng ý (Sự gắn kết của nhân viên) LƯƠNG VÀ THU NHẬP 4,10 Đồng ý Tiền lương đảm bảo nhu cầu vật chất cơ bản của bản 4,11 Đồng ý thân.
+
+Chính sách lương công bằng, minh bạch. 4,17 Đồng ý Lương tương xứng với kết quả làm việc. 3,90 Đồng ý Tiền lương được trả đầy đủ, đúng hạn. 4,23 Đồng ý Nguồn: Kết quả xử lý số liệu khảo sát năm 2023 Theo kết quả bảng 4.9 cho ta thấy, lương và thu nhập (LTN) có nhân tố tiền lương được trả đầy đủ, đúng hạn có giá trị trung bình lớn nhất là 4,23 điểm, cho thấy các nhân viên ở công ty đồng ý nhất với quan điểm này. Kế tiếp đứng thứ hai là chính sách lương công bằng, minh bạch có giá trị trung bình là 4,17. Đứng vị trí thứ ba là tiền lương đảm bảo nhu cầu vật chất cơ bản của bản thân có giá trị trung bình là 4,11.
+Và cuối cùng là nhân tố lương tương xứng với kết quả làm việc có giá trị trung bình thấp nhất là 3,90. Như vậy, chúng ta có thể kết luận rằng các nhân viên ở công ty đều đồng ý với các quan điểm được nêu ra vì các biến quan sát đều có giá trị trung bình ở mức xấp xỉ 4. Bên cạnh đó, độ lệch chuẩn lớn nhất là 0,765 thuộc về biến chính sách lương công bằng, minh bạch cho thấy hầu hết nhân viên đều trả lời chênh lệch nhau nhiều nhất ở biến này.
+
+Công ty là công ty nhà nước nên công ty tuân thủ theo các quy định của pháp luật và có quy định rõ ràng về thời gian trả lương cho nhân viên. Tiền lương tháng của nhân viên được chi trả 1 lần bằng hình thức chuyển khoản qua tài khoản cá nhân trong khoảng thời gian 26 đến ngày 28 mỗi tháng (Điều 14 trong Văn kiện Hội nghị người lao động năm 2024). Vì vậy, nhân viên trong công ty khá hài lòng về vấn đề này.
+Chính sách lương được nhân viên cảm thấy khá công bằng, minh bạch vì chính sách này khá cụ thể, rõ ràng và được thực hiện theo Quy chế chi trả tiền lương, thưởng của công ty. Công ty luôn đảm bảo và cân đối theo thị trường để tiền lương luôn đáp ứng đủ nhu cầu vật chất cơ bản của mỗi nhân viên. Một số nhân viên sẽ cảm thấy lương chưa tương xứng với kết quả làm việc, vì công ty chi trả lương theo vị trí công việc mà công ty đã bố trí cho người lao động. Một số người tuy có bằng đại học trở lên nhưng vẫn không được trả lương đại học mà chỉ trả lương trung cấp. Điều này làm cho họ cảm thấy chưa tương xứng với bằng cấp mà họ có. Đây là một điểm hạn chế lớn nhất và có khoảng cách khá rõ giữa người lao động trong công ty với nhau. Công ty XS KT Cần Thơ luôn tuân thủ các văn bản quy định của pháp luật trong các vấn đề về nhân sự. Không chỉ vậy, công ty còn cập nhật liên tục các chính sách, quy định mới nhất về thuế thu nhập cá nhân, về điều kiện lao động, quan hệ lao động và về tiền lương,… để đảm bảo nhân viên của công ty luôn được hưởng các quyền lợi một cách thoả đáng và cao nhất. Hằng năm, luôn có các cuộc đối thoại định kỳ tại nơi làm việc giữa lãnh đạo và người lao động, để người lao động có thể nêu lên nguyện vọng, tâm tư của mình đối với công ty. Nhờ cuộc đối thoại định kỳ này mà lãnh đạo công ty và người lao động có thể chia sẻ, trao đổi thông tin về việc thực hiện Thoả ước lao động tập thể, các thoả thuận tại nơi làm việc, cũng như điều kiện, môi trường làm việc và cập nhật các quy định mới nhất về hợp đồng lao động, chế độ chính sách, các khoản bảo hiểm, tiền lương,… cho người lao động được biết. Công ty luôn tôn trọng quyền và lợi ích hợp pháp của người lao động. Không chỉ vậy, công ty còn tạo điều kiện cho nhân viên được thực hiện các quyền dân chủ. Đó có thể là một trong những lý do mà người lao động luôn muốn gắn kết với công ty.  Nhân tố cơ hội thăng tiến (TT):
+
+Biến quan sát Trung bình Mức đồng ý (Sự gắn kết của nhân viên) CƠ HỘI THĂNG TIẾN 3,95 Đồng ý Được biết các điều kiện cần thiết để được thăng tiến. 3,94 Đồng ý Công ty luôn tạo cơ hội thăng tiến cho những người 3,93 Đồng ý có năng lực.
+
+Chính sách thăng tiến là công bằng, minh bạch. 3,95 Đồng ý Có kế hoạch quy hoạch và cơ cấu nhân sự cụ thể, rõ 3,97 Đồng ý ràng.
+
+Nguồn: Kết quả xử lý số liệu khảo sát năm 2023 Theo kết quả bảng 4.10 cho ta thấy, cơ hội thăng tiến (TT) có nhân tố có kế hoạch quy hoạch và cơ cấu nhân sự cụ thể, rõ ràng có giá trị trung bình lớn nhất là 3,97 điểm, cho thấy các nhân viên ở công ty đồng ý nhất với quan điểm này. Kế tiếp đứng thứ hai là chính sách thăng tiến là công bằng, minh bạch có giá trị trung bình là 3,95. Đứng vị trí thứ ba là được biết các điều kiện cần thiết để được thăng tiến có giá trị trung bình là 3,94. Và cuối cùng là nhân tố công ty luôn tạo cơ hội thăng tiến cho những người có năng lực có giá trị trung bình thấp nhất là 3,93. Như vậy, chúng ta có thể kết luận rằng các nhân viên ở công ty đều đồng ý với các quan điểm được nêu ra vì các biến quan sát đều có giá trị trung bình ở mức xấp xỉ 4. Bên cạnh đó, độ lệch chuẩn lớn nhất là 0,726 thuộc về biến công ty luôn tạo cơ hội thăng tiến cho những người có năng lực cho thấy hầu hết nhân viên đều trả lời chênh lệch nhau nhiều nhất ở biến này.
+
+Công ty luôn có kế hoạch xây dựng quy hoạch cán bộ từ khâu tạo nguồn, đào tạo, bồi dưỡng, tuyển dụng, sắp xếp, đánh giá và bổ nhiệm một cách cụ thể, rõ ràng nhằm nâng cao phẩm chất đạo đức và năng lực chuyên môn nghiệp vụ của người lao động.
+Công ty luôn xây dựng và bổ sung kịp thời chính sách thăng tiến một cách công bằng và minh bạch cũng như nhân viên sẽ được biết các điều kiện cần thiết để được thăng tiến. Tât cả 100% nhân viên trong công ty đều có cơ hội như nhau khi muốn thăng tiến. Khi nhân viên nỗ lực làm việc, gắn bó và đồng hành lâu dài cùng công ty, thì công ty sẽ tạo mọi điều kiện đào tạo để nhân viên có thể thăng tiến trong tương lai.
+Một số nhân viên sẽ cảm thấy công ty chưa tạo cơ hội thăng tiến cho những người có năng lực. Đó có thể là do ý kiến cảm quan của cá nhân nhân viên đó. Vì trước khi đưa ra quyết định quy hoạch cán bộ nguồn để tương lai đảm nhận vai trò cao hơn thì phía công ty sẽ phải dành thời gian đánh giá lại hết quá trình làm việc của nhân sự. Khi nhân sự có năng lực thật sự sẽ được xem xét chứ không phải dựa vào thâm niên mà xem xét. Thâm niên không phải là một yếu tố quan trọng nhất trong việc xem xét đề cử nhân sự thăng tiến.  Nhân tố mối quan hệ với đồng nghiệp (MQH):
+
+Biến quan sát Trung bình Mức đồng ý (Sự gắn kết của nhân viên) MỐI QUAN HỆ VỚI ĐỒNG NGHIỆP 3,97 Đồng ý Đồng nghiệp rất thân thiện, hoà đồng. 3,88 Đồng ý Phối hợp với nhau hoàn thành tốt nhiệm vụ đuọc 3,94 Đồng ý giao.
+
+Đồng nghiệp luôn hỗ trợ, giúp đỡ và động viên khi 4,05 Đồng ý cần thiết.
+
+Chia sẻ với nhau không chỉ trong công việc mà cả 3,99 Đồng ý trong cuộc sống.
+
+Nguồn: Kết quả xử lý số liệu khảo sát năm 2023 Theo kết quả bảng 4.11 cho ta thấy, mối quan hệ với đồng nghiệp (MQH) có nhân tố đồng nghiệp luôn hỗ trợ, giúp đỡ và động viên khi cần thiết có giá trị trung bình lớn nhất là 4,05 điểm, cho thấy các nhân viên ở công ty đồng ý nhất với quan điểm này. Kế tiếp đứng thứ hai là chia sẻ với nhau không chỉ trong công việc mà cả trong cuộc sống có giá trị trung bình là 3,99. Đứng vị trí thứ ba là phối hợp với nhau hoàn thành tốt nhiệm vụ đuọc giao có giá trị trung bình là 3,94. Và cuối cùng là nhân tố đồng nghiệp rất thân thiện, hoà đồng có giá trị trung bình thấp nhất là 3,88. Như vậy, chúng ta có thể kết luận rằng các nhân viên ở công ty đều đồng ý với các quan điểm được nêu ra vì các biến quan sát đều có giá trị trung bình ở mức xấp xỉ 4. Bên cạnh đó, độ lệch chuẩn lớn nhất là 0,796 thuộc về biến chia sẻ với nhau không chỉ trong công việc mà cả trong cuộc sống cho thấy hầu hết nhân viên đều trả lời chênh lệch nhau nhiều nhất ở biến này.
+
+Công ty đã gầy dựng được văn hoá tạo mối quan hệ thân thiết giữa các nhân viên với nhau đã từ rất lâu. Vì vậy, mỗi khi nhân viên có vấn đề gì không giải quyết được hoặc không vui thì không chỉ công ty luôn hỗ trợ, giúp đỡ và động viên mà đồng nghiệp cũng thế. Đó đã là truyền thống lâu đời của công ty và được giữ đến ngày nay.
+Nhân viên trong công ty đặc biệt là ở mỗi phòng ban thân thiết xem nhau như người thân, họ không chỉ chia sẻ với nhau công việc mà cả trong cuộc sống. Khi được công ty giao nhiệm vụ cùng nhau thì họ phối hợp với nhau khá ăn ý và hoàn thành tốt nhiệm vụ đuọc giao. Bên cạnh đó, thì cũng có một số đồng nghiệp hơi khó tính, khó thân thiện và hoà đồng có thể do sự chênh lệch về tuổi tác hoặc do làm khác phòng với nhau nên họ cũng thân thiết với nhau có thể vì lý do đó mà biến đồng nghiệp rất thân thiện, hoà đồng được đồng ý ít nhất.  Điểm trung bình của nhân tố sự gắn kết (GK):
+
+Biến quan sát Trung bình Mức đồng ý SỰ GẮN KẾT 4,07 Đồng ý Tôi cảm thấy vui và hạnh phúc khi được làm việc ở 3,90 Đồng ý đây đến khi nghỉ hưu.
+
+Tôi luôn nỗ lực phấn đấu để cống hiến nhiều hơn cho 4,05 Đồng ý công ty.
+
+Tôi mong muốn được gắn bó lâu dài với công ty. 4,21 Đồng ý Tôi luôn coi công ty như ngôi nhà thứ hai. 4,05 Đồng ý Tôi cảm thấy tự hào khi được làm việc tại công ty. 4,16 Đồng ý Nguồn: Kết quả xử lý số liệu khảo sát năm 2023 Theo kết quả bảng 4.12 cho ta thấy, sự gắn kết (GK) có nhân tố tôi mong muốn được gắn bó lâu dài với công ty có giá trị trung bình lớn nhất là 4,21 điểm, cho thấy các nhân viên ở công ty đồng ý nhất với quan điểm này. Kế tiếp đứng thứ hai là tôi cảm thấy tự hào khi được làm việc tại công ty có giá trị trung bình là 4,16. Đứng vị trí thứ ba có 2 nhân tố là tôi luôn nỗ lực phấn đấu để cống hiến nhiều hơn và tôi luôn coi công ty như ngôi nhà thứ hai cho công ty có giá trị trung bình bằng nhau là 4,05. Và cuối cùng là nhân tố tôi cảm thấy vui và hạnh phúc khi được làm việc ở đây đến khi nghỉ hưu có giá trị trung bình thấp nhất là 3,90. Như vậy, chúng ta có thể kết luận rằng các nhân viên ở công ty đều đồng ý với các quan điểm được nêu ra vì các biến quan sát đều có giá trị trung bình ở mức xấp xỉ 4. Bên cạnh đó, độ lệch chuẩn lớn nhất là 0,791 thuộc về biến tôi mong muốn được gắn bó lâu dài với công ty cho thấy hầu hết nhân viên đều trả lời chênh lệch nhau nhiều nhất ở biến này.
+
+Công ty đã luôn nỗ lực và quyết tâm cao trong việc chăm lo, hỗ trợ thiết thực về đời sống vật chất cũng như tinh thần của người lao động. Hầu hết nhân viên đều thật sự phấn khởi, an tâm trước những thành tựu mà công ty đã đạt được. Qua đó, nhân viên mong muốn được làm việc và gắn bó với công ty lâu dài. Công ty luôn thực hiện đúng quy định của Nhà nước trong hoạt động kinh doanh xổ số, đồng thời làm tốt công tác an sinh xã hội, giải quyết công ăn việc làm cho hàng ngàn lao động ở các tỉnh, thành và đáp ứng ngày càng tốt hơn nguồn vốn đầu tư xây dựng các công trình giáo dục, y tế và phúc lợi xã hội của thành phố. Bên cạnh đó, công ty luôn nộp ngân sách hàng năm luôn đạt và vượt kế hoạch so với năm trước đó, hoạt động kinh doanh của công ty qua các năm đều luôn ổn định, phát triển và đạt hiệu quả cao. Đó là niềm tự hào của nhân viên khi họ được làm việc tại công ty. Vì vậy, họ luôn nỗ lực phấn đấu để cống hiến cho công ty nhiều hơn, đòng góp nhiều hơn cho sự phát triển của công ty và luôn coi công ty như ngôi nhà thứ hai. Nhân tố tôi cảm thấy vui và hạnh phúc khi được làm việc ở đây đến khi nghỉ hưu là ít được đồng ý hơn so với các nhân tố khác vì có thể do độ tuổi của nhân viên chỉ nằm trong nhóm tuổi 31 – 40 tuổi là chủ yếu, nên họ chưa có trải qua cũng như chưa có cảm nhận thật sự khi đến tuổi nghỉ hưu.
+
+### 4.4.2 Phân tích độ tin cậy Cronbach's Alpha của biến độc lập
+
+Trong đề tài nghiên cứu, tác giả đã tổng hợp và kế thừa thang đo của các nghiên cứu trước đó có liên quan mật thiết đến đề tài này cũng như chọn lọc các nhân tố phù hợp đến điều kiện thực tế của công ty. Mô hình nghiên cứu được tác giả đề xuất xây dựng gồm 8 nhóm nhân tố độc lập bao gồm 33 biến quan sát được khảo sát trên 110 người .
+
+Các tiêu chí được tác giả sử dụng khi thực hiện phân tích độ tin cậy Cronbach's Alpha là:
+
+- Hệ số Cronbach's Alpha của thang đo lớn hơn 0,6.
+
+- Loại các biến quan sát có hệ số tương quan biến tổng nhỏ hơn 0,3.
+
+#### 4.4.2.1 Cronbach's Alpha của biến trách nhiệm xã hội
+
+Theo kết quả kiểm định Cronbach's Alpha của thang đo trách nhiệm xã hội cho thấy hệ số Crobach’s Alpha là 0,846 lớn hơn 0,6 và có 5 biến quan sát từ CSR1 đến CSR5 được đưa vào mô hình. Các hệ số tương quan biến tổng của các biến quan sát đều lớn hơn 0,3 và không có bất kỳ trường hợp loại bỏ biến quan sát nào có thể làm cho hệ số Cronbach's Alpha này lớn hơn 0,846. Vì vậy, thang đo đạt độ tin cậy cao, tất cả các biến quan sát đều được giữ lại và sẽ được sử dụng hết trong bước phân tích nhân tố khám phá EFA tiếp theo.
+
+Các biến Trung bình nếu Phương sai nếu Hệ số tương Alpha nếu quan sát loại biến loại biến quan biến tổng loại biến TRÁCH NHIỆM XÃ HỘI Cronbach's Alpha = 0,846 Nguồn: Kết quả xử lý số liệu khảo sát năm 2023
+#### 4.4.2.2 Cronbach's Alpha của biến môi trường làm việc
+
+Yếu tố môi trường làm việc được đo lường bằng 4 biến quan sát từ MTLV1 đến MTLV4, kết quả Cronbach's Alpha của thang đo là 0,611 > 0,6 và các hệ số tương quan biến tổng của các biến quan sát đều lớn hơn 0,3. Nên việc tiến hành loại biến quan sát không làm tăng hệ số Cronbach’s Alpha lên nữa. Chính vì vậy, ta có thể kết luận thang đo yếu tố “môi trường làm việc” có độ tin cậy cao khi được đo lường bằng 4 biến quan sát MTLV1 đến MTLV4.
+
+Các biến Trung bình nếu Phương sai nếu Hệ số tương Alpha nếu quan sát loại biến loại biến quan biến tổng loại biến MÔI TRƯỜNG LÀM VIỆC Cronbach's Alpha = 0,611 Nguồn: Kết quả xử lý số liệu khảo sát năm 2023
+#### 4.4.2.3 Cronbach's Alpha của biến đào tạo và phát triển
+
+Kết quả phân tích SPSS cho thấy yếu tố đào tạo và phát triển có hệ số Cronbach’s Alpha của thang đo là 0,801 > 0,6 cho thấy dữ liệu khảo sát phù hợp với mô hình nghiên cứu. Bên cạnh đó, các hệ số tương quan biến tổng của các biến quan sát đều lớn hơn 0,3. Vì vậy, không có trường hợp loại bỏ biến quan sát nào có thể làm cho hệ số Cronbach's alpha này lớn hơn nữa. Các biến trong thang đo “đào tạo và phát triển” đều thỏa điều kiện và sẽ được tiếp tục sử dụng để phân tích EFA.
+
+Các biến Trung bình nếu Phương sai nếu Hệ số tương Alpha nếu quan sát loại biến loại biến quan biến tổng loại biến ĐÀO TẠO VÀ PHÁT TRIỂN Cronbach's Alpha = 0,801 Nguồn: Kết quả xử lý số liệu khảo sát năm 2023
+#### 4.4.2.4 Cronbach's Alpha của biến chính sách khen thưởng và phúc lợi
+
+Yếu tố chính sách khen thưởng và phúc lợi được đo lường bằng 4 biến quan sát KTPL1 đến KTPL4. Hệ số Cronbach's Alpha của thang đo trong mô hình này là 0,735 lớn hơn 0,6. Ngoài ra, các hệ số tương quan biến tổng của các biến quan sát đều lớn hơn 0,3 và không có trường hợp loại bỏ biến quan sát nào có thể làm cho hệ số Cronbach's Alpha này lớn hơn 0,735. Vì vậy, ta có thể kết luận rằng thang đo “chính sách khen thưởng và phúc lợi” là hoàn toàn đáng tin cậy khi được đo lường bằng 4 biến quan sát từ KTPL1 đến KTPL4.
+
+Các biến Trung bình nếu Phương sai nếu Hệ số tương Alpha nếu quan sát loại biến loại biến quan biến tổng loại biến CHÍNH SÁCH KHEN THƯỞNG VÀ PHÚC LỢI Cronbach's Alpha = 0,735 Nguồn: Kết quả xử lý số liệu khảo sát năm 2023
+
+#### 4.4.2.5 Cronbach's Alpha của biến phong cách lãnh đạo
+
+Thang đo khen thưởng và phúc lợi được đo lường bằng 4 biến quan sát LĐ1 đến LĐ4. Hệ số Cronbach's Alpha của thang đo phong cách lãnh đạo này là 0,748 > 0,6 và các hệ số tương quan biến tổng của các biến quan sát đều lớn hơn 0,3. Như vậy, việc tiến hành loại bỏ biến quan sát không thể làm tăng hệ số Cronbach's Alpha lên nữa. Ta có thể kết luận rằng thang đo “phong cách lãnh đạo” đạt độ tin cậy, các biến quan sát từ LĐ1 đến LĐ 4 đều có ý nghĩa giải thích tốt cho yếu tố phong cách lãnh đạo.
+
+Các biến Trung bình nếu Phương sai nếu Hệ số tương Alpha nếu quan sát loại biến loại biến quan biến tổng loại biến PHONG CÁCH LÃNH ĐẠO Cronbach's Alpha = 0,748 Nguồn: Kết quả xử lý số liệu khảo sát năm 2023
+#### 4.4.2.6 Cronbach's Alpha của biến lương và thu nhập
+Trong mô hình nghiên cứu, thang đo lương và thu nhập được đo lường bằng 4 biến quan sát LTN1 đến LTN4. Kết quả kiểm định độ tin cậy của thang đo này cho thấy hệ số Cronbach's Alpha bằng 0,726 lớn hơn 0,6 và các hệ số tương quan biến tổng của các biến quan sát đều lớn hơn 0,3. Việc tiến hành loại bỏ biến quan sát trong thang đo này không thể làm tăng hệ số Cronbach's Alpha lên nữa. Vì vậy, ta có thể kết luận rằng thang đo “lương và thu nhập” đạt được độ tin cậy khi được đo lường bằng 4 biến quan sát từ LTN1 đến LTN4.
+
+Các biến Trung bình nếu Phương sai nếu Hệ số tương Alpha nếu quan sát loại biến loại biến quan biến tổng loại biến LƯƠNG VÀ THU NHẬP Cronbach's Alpha = 0,726 Nguồn: Kết quả xử lý số liệu khảo sát năm 2023
+
+#### 4.4.2.7 Cronbach's Alpha của biến cơ hội thăng tiến
+
+Yếu tố cơ hội thăng tiến được đo lường bằng 4 biến quan sát trong mô hình từ TT1 đến TT4. Kết quả Cronbach's Alpha của yếu tố này bằng 0,686 > 0,6 và các hệ số tương quan biến tổng của các biến quan sát đều lớn hơn 0,3. Việc tiến hành loại bỏ biến quan sát trong thang đo này không thể làm tăng hệ số Cronbach's Alpha lên nữa.
+Vì vậy, thang đo “cơ hội thăng tiến” là đáng tin cậy khi được đo lường bằng 4 biến quan sát từ TT1 đến TT4.
+
+Các biến Trung bình nếu Phương sai nếu Hệ số tương Alpha nếu quan sát loại biến loại biến quan biến tổng loại biến CƠ HỘI THĂNG TIẾN Cronbach's Alpha = 0,686 Nguồn: Kết quả xử lý số liệu khảo sát năm 2023
+#### 4.4.2.8 Cronbach's Alpha của biến mối quan hệ với đồng nghiệp
+
+Yếu tố quan hệ với đồng nghiệp trong mô hình nghiên cứu được đo lường bằng 4 biến quan sát từ MQH1 đến MQH4. Kết quả kiểm định độ tin cậy của thang đo cho thấy Cronbach's Alpha của yếu tố này bằng 0,836 > 0,6 và các hệ số tương quan biến tổng của các biến quan sát đều lớn hơn 0,3. Việc tiến hành loại bỏ biến quan sát trong thang đo này không thể làm tăng hệ số Cronbach's Alpha lên nữa. Vì vậy, ta có thể kết luận thang đo “cơ hội thăng tiến” là đáng tin cậy khi được đo lường bằng 4 biến quan sát từ MQH1 đến MQH4.
+
+Các biến Trung bình nếu Phương sai nếu Hệ số tương Alpha nếu quan sát loại biến loại biến quan biến tổng loại biến MỐI QUAN HỆ VỚI ĐỒNG NGHIỆP Cronbach's Alpha = 0,836 Nguồn: Kết quả xử lý số liệu khảo sát năm 2023
+### 4.4.3 Phân tích độ tin cậy Cronbach's Alpha của biến phụ thuộc
+
+Nhóm nhân tố “Sự gắn kết” được đo lường bằng 5 biến quan sát từ GK1 đến GK5. Khi kiểm định độ tin cậy của thang đo kết quả cho thấy Cronbach's alpha của thang đo là 0,839 > 0,6 cho thấy dữ liệu nghiên cứu phù hợp với mô hình và có thể sử dụng được. Hơn nữa, các hệ số tương quan biến tổng của các biến quan sát đều lớn hơn 0,3. Khi đó, việc tiến hành loại bỏ biến quan sát trong thang đo này không thể làm tăng hệ số Cronbach's Alpha lên nữa. Vì vậy, ta có thể kết luận thang đo “sự gắn kết” là đáng tin cậy, tất cả các biến quan sát từ GK1 đến GK5 đều được chấp nhận và sẽ được sử dụng trong bước phân tích nhân tố khám phá (EFA) tiếp theo.
+
+Mã Trung bình thang Phương sai thang Hệ số tương Alpha nếu hóa đo nếu loại biến đo nếu loại biến quan biến tổng loại biến SỰ GẮN KẾT Cronbach's Alpha = 0,839 Nguồn: Kết quả xử lý số liệu khảo sát năm 2023  Tóm lại, tất cả các nhóm thành phần nhân tố trong thang đo khi được đo lường độ tin cậy đều có Cronbach’s Alpha lớn hơn 0,6 đạt độ tin cậy cao. Bên cạnh đó, hệ số tương quan biến tổng của các biến quan sát đều đạt yêu cầu lớn hơn 0,3. Điều đó cho ta thấy thang đo hoàn toàn phù hợp. Chính vì vậy, ta có thể sử dụng tất cả kết quả này cho bước phân tích khám phá nhân tố (EFA) tiếp theo.
+
+### 4.4.4 Phân tích nhân tố khám phá (EFA)
+
+Sau khi tiến hành phân tích kiểm định thang đo sự tin cậy với hệ số Cronbach’s Alpha. Bước tiếp theo là chúng ta sẽ đưa các nhân tố vào tiếp tục phân tích nhân tố khám phá (EFA). Phương pháp này giúp chúng ta đánh giá được hai giá trị quan trọng của thang đo là giá trị hội tụ và giá trị phân biệt.
+
+Phương pháp phân tích nhân tố khám phá EFA phải thoả điều kiện sau đây:
+
+- Hệ số tải nhân tố lớn hơn 0,5.
+
+- Hệ số KMO (Kaiser-Meyer-Olkin) phải nằm trong khoảng từ 0,5 đến 1.
+
+- Kiểm định Barlett có ý nghĩa thống kê khi P value nhỏ hơn 0,05 nghĩa là các nhân tố có quan hệ với nhau.
+
+- Hệ số Eigenvalue lớn hơn 1.
+
+- Tổng phương sai trích lớn hơn 50%.
+
+#### 4.4.4.1 Phân tích nhân tố khám phá cho các biến độc lập
+
+Sau khi tiến hành phân tích Cronbach’s Alpha, tất cả 33 biến quan sát ban đầu đều được giữ lại, không loại bất kỳ một biến nào và tiếp tục đưa các nhân tố này để phân tích nhân tố khám phá (EFA). Từ kết quả bảng 4.22, ta thấy hệ số KMO = 0,810 nằm trong khoảng từ 0,5 đến 1 và kiểm định Barlett có ý nghĩa thống kê vì Sig = 0,000 < 0,05. Chính vì vậy, các biến quan sát có tương quan tuyến tính với nhau trong phạm vi tổng thể các nhân tố và cho thấy dữ liệu phù hợp với thực tế để tiến hành phân tích EFA. Bên cạnh đó, kết quả phân tích cho thấy phương sai trích đạt 70,563% điều này có nghĩa là 70,563% thay đổi của các nhân tố được giải thích bởi các biến quan sát.
+Hơn thế nữa, hệ số Eigenvalues bằng 1,043 lớn hơn 1. Nên sử dụng phương pháp phân tích nhân tố EFA là hoàn toàn phù hợp.
+
+Chỉ số KMO 0,810 Kiểm định Bartlett Bậc tự do (df) 153 Mức ý nghĩa (Sig) 0,000 Cumulative % of Initial Eigenvalues 70,563 Nguồn: Kết quả xử lý số liệu khảo sát năm 2023 Qua kết quả phân tích nhân tố khám phá EFA, cho ta thấy từ 8 nhóm nhân tố ban đầu với 33 biến quan sát, qua quá trình phân tích nhân tố với phương pháp trích Principal Component Analysis và phép xoay vuông gốc Varimax with Kaiser Normalization chỉ còn lại 6 nhóm nhân tố với 18 biến quan sát.
+
+Biến quan sát Hệ số tải nhân tố NHÓM 1: TRÁCH NHIỆM XÃ HỘI (CSR) Công ty nghiêm túc tuân thủ các quy định pháp luật. 0,809 Công ty tuân thủ các nguyên tắc đạo đức đối với tất cả các bên liên 0,793 quan trong kinh doanh.
+
+Công ty luôn nỗ lực xây dựng và hoàn thiện chiến lược kinh doanh 0,757 dài hạn.
+
+Công ty nghiêm túc tuân thủ các quy định về bảo vệ môi trường. 0,705 Công ty rất quan tâm và thường xuyên thực hiện các hoạt động vì 0,683 cộng đồng, an sinh xã hội.
+
+NHÓM 2: MỐI QUAN HỆ VỚI ĐỒNG NGHIỆP (MQH) Chia sẻ với nhau không chỉ trong công việc mà cả trong cuộc 0,822 sống.
+
+Phối hợp với nhau hoàn thành tốt nhiệm vụ đuọc giao. 0,816 Đồng nghiệp rất thân thiện, hoà đồng. 0,754 Đồng nghiệp luôn hỗ trợ, giúp đỡ và động viên khi cần thiết. 0,693 NHÓM 3: CHÍNH SÁCH KHEN THƯỞNG VÀ PHÚC LỢI (KTPL) Sẵn sàng phát triển thiết kế các chương trình khen thưởng và phúc 0,760 lợi tốt cho nhân viên.
+
+Chính sách khen thưởng và phúc lợi được xây dựng với tiêu chí 0,759 đảm bảo tính công bằng.
+
+Công ty có bộ phận Công Đoàn bảo vệ quyền lợi chính đáng của 0,568 nhân viên.
+
+NHÓM 4: LƯƠNG VÀ THU NHẬP (LTN) Chính sách lương công bằng, minh bạch. 0,822 Tiền lương đảm bảo nhu cầu vật chất cơ bản của bản thân. 0,794 Biến quan sát Hệ số tải nhân tố NHÓM 5: ĐÀO TẠO VÀ PHÁT TRIỂN (ĐTPT) Được khuyến khích phát triển các kỹ năng mới. 0,838 Có nhiều cơ hội được đào tạo và phát triển. 0,750 NHÓM 6: CƠ HỘI THĂNG TIẾN (TT) Chính sách thăng tiến là công bằng, minh bạch. 0,793 Công ty luôn tạo cơ hội thăng tiến cho những người có năng lực. 0,762 Nguồn: Kết quả xử lý số liệu khảo sát năm 2023 Qua kết quả Phân tích nhân tố khám phá (EFA) ở bảng 4.23, ta có được 6 nhóm nhân tố theo thứ tự cụ thể như sau:
+
+Đầu tiên, nhân tố thứ nhất “Trách nhiệm xã hội” có phương sai trích là 31,869%, điều này có nghĩa là nhân tố này giải thích được 31,869% độ biến thiên của dữ liệu, hệ số Cronbach’s alpha bằng 0,846. Hơn thế nữa, hệ số Eigenvalues bằng 5,736 lớn hơn 1. Nhân tố này bao gồm có 5 biến có tương quan chặt chẽ với nhau, nhân tố CSR2 là nhân tố “Công ty nghiêm túc tuân thủ các quy định pháp luật” là nhân tố có hệ số tải cao nhất, trong khi nhân tố CSR4 là “Công ty rất quan tâm và thường xuyên thực hiện các hoạt động vì cộng đồng, an sinh xã hội” có hệ số tải thấp nhất.
+
+Nhân tố thứ hai “Mối quan hệ với đồng nghiệp” có phương sai trích là 43,819%, điều này có nghĩa là nhân tố này giải thích được 43,819% độ biến thiên của dữ liệu, hệ số Cronbach’s alpha bằng 0,836. Hơn thế nữa, hệ số Eigenvalues bằng 2,151 lớn hơn
+1. Nhân tố này bao gồm có 4 biến có tương quan chặt chẽ với nhau, nhân tố MQH4 là nhân tố “Chia sẻ với nhau không chỉ trong công việc mà cả trong cuộc sống” là nhân tố có hệ số tải cao nhất, trong khi nhân tố MQH3 là “Đồng nghiệp luôn hỗ trợ, giúp đỡ và động viên khi cần thiết” có hệ số tải thấp nhất.
+
+Nhân tố thứ ba “Chính sách khen thưởng và phúc lợi” có phương sai trích là 51,395%, điều này có nghĩa là nhân tố này giải thích được 51,395% độ biến thiên của dữ liệu, hệ số Cronbach’s alpha bằng 0,735. Hơn thế nữa, hệ số Eigenvalues bằng 1,364 lớn hơn 1. Nhân tố này bao gồm có 3 biến có tương quan chặt chẽ với nhau, nhân tố KTPL1 là nhân tố “Sẵn sàng phát triển thiết kế các chương trình khen thưởng và phúc lợi tốt cho nhân viên” là nhân tố có hệ số tải cao nhất, trong khi nhân tố KTPL4 là “Công ty có bộ phận Công Đoàn bảo vệ quyền lợi chính đáng của nhân viên” có hệ số tải thấp nhất. Ban đầu, nhóm nhân tố này có 4 biến, khi phân tích Cronbach’s Alpha, nhóm nhân tố này vẫn còn 4 biến. Đến khi phân tích EFA thì nhóm nhân tố này chỉ còn 3 biến loại 1 biến là KTPL3 là “Nhân viên nhận được phúc lợi hấp dẫn (du lịch hàng năm, khám sức khoẻ định kỳ,…).
+
+Nhân tố thứ tư “Lương và thu nhập” có phương sai trích là 58,554%, điều này có nghĩa là nhân tố này giải thích được 58,554% độ biến thiên của dữ liệu, hệ số Cronbach’s alpha bằng 0,726. Hơn thế nữa, hệ số Eigenvalues bằng 1,289 lớn hơn 1.
+Nhân tố này bao gồm có 2 biến có tương quan chặt chẽ với nhau, nhân tố LTN2 là nhân tố “Chính sách lương công bằng, minh bạch” là nhân tố có hệ số tải cao nhất, trong khi nhân tố LTN1 là “Tiền lương đảm bảo nhu cầu vật chất cơ bản của bản thân” có hệ số tải thấp nhất. Ban đầu, nhóm nhân tố này có 4 biến, khi phân tích Cronbach’s Alpha, nhóm nhân tố này vẫn còn 4 biến. Đến khi phân tích EFA thì nhóm nhân tố này chỉ còn 2 biến loại 2 biến là LTN 3 là “Lương tương xứng với kết quả công việc” và LTN4 là “Tiền lương được trả đầy đủ, đúng hạn”.
+
+Nhân tố thứ năm “Đào tạo và phát triển” có phương sai trích là 64,771%, điều này có nghĩa là nhân tố này giải thích được 64,771% độ biến thiên của dữ liệu, hệ số Cronbach’s alpha bằng 0,801. Hơn thế nữa, hệ số Eigenvalues bằng 1,119 lớn hơn 1.
+Nhân tố này bao gồm có 2 biến có tương quan chặt chẽ với nhau, nhân tố ĐTPT2 là nhân tố “Được khuyến khích phát triển các kỹ năng mới” là nhân tố có hệ số tải cao nhất, trong khi nhân tố ĐTPT4 là “Có nhiều cơ hội được đào tạo và phát triển” có hệ số tải thấp nhất. Ban đầu, nhóm nhân tố này có 4 biến, khi phân tích Cronbach’s Alpha, nhóm nhân tố này vẫn còn 4 biến. Đến khi phân tích EFA thì nhóm nhân tố này chỉ còn 2 biến loại 2 biến là ĐTPT1 là “Tổ chức các khoá đào tạo nâng cao trình độ nghiệp vụ với nhiều hình thức và phương thức khác nhau” và ĐTPT3 là “Tạo cơ hội cho nhân viên được phát triển một cách bình đẳng”.
+
+Nhân tố cuối cùng là“Cơ hội thăng tiến” có phương sai trích là 70,563%, điều này có nghĩa là nhân tố này giải thích được 70,563% độ biến thiên của dữ liệu, hệ số Cronbach’s alpha bằng 0,686. Hơn thế nữa, hệ số Eigenvalues bằng 1,043 lớn hơn 1.
+Nhân tố này bao gồm có 2 biến có tương quan chặt chẽ với nhau, nhân tố TT3 là nhân tố “Chính sách thăng tiến là công bằng, minh bạch” là nhân tố có hệ số tải cao nhất, trong khi nhân tố TT2 là “Công ty luôn tạo cơ hội thăng tiến cho những người có năng lực” có hệ số tải thấp nhất. Ban đầu, nhóm nhân tố này có 4 biến, khi phân tích Cronbach’s Alpha, nhóm nhân tố này vẫn còn 4 biến. Đến khi phân tích EFA thì nhóm nhân tố này chỉ còn 2 biến loại 2 biến là TT1 là “Được biết các điều kiện cần thiết để được thăng tiến” và TT4 là “Có kế hoạch quy hoạch và cơ cấu nhân sự cụ thể, rõ ràng”.  Tóm lại, qua bảng 4.23 kết quả cho ta thấy các nhân tố nào có hệ số tải nhân tố (Factor loadings) lớn hơn thì có mức độ ảnh hưởng nhiều đến mô hình hơn so với các nhân tố khác và ngược lại các nhân tố nào có hệ số nhỏ hơn thì có mức độ ảnh hưởng đến mô hình cũng yếu hơn so với các nhân tố khác.
+
+#### 4.4.4.2 Phân tích nhân tố khám phá cho biến phụ thuộc
+
+Sau khi tiến hành phân tích Cronbach’s Alpha, tất cả 5 biến quan sát ban đầu đều được chấp nhận và tiếp tục đưa các nhân tố này để phân tích nhân tố khám phá (EFA).
+
+Qua bảng 4.24, ta thấy hệ số KMO = 0,834 nằm trong khoảng từ 0,5 đến 1 và kiểm định Barlett có ý nghĩa thống kê vì Sig = 0,000 < 0,05. Điều đó cho ta thấy các biến quan sát này có tương quan tuyến tính với nhau và cho thấy dữ liệu phù hợp với thực tế để tiến hành phân tích EFA. Bên cạnh đó, kết quả phân tích cho thấy phương sai trích đạt 60,902% điều này có nghĩa là 60,902% thay đổi của các nhân tố được giải thích bởi các biến quan sát. Hơn thế nữa, hệ số Eigenvalues bằng 3,045 lớn hơn 1.
+Chính vì vậy, sử dụng phương pháp phân tích nhân tố EFA là hoàn toàn phù hợp.
+
+Chỉ số KMO 0,834 Kiểm định Bartlett Bậc tự do (df) 10 Mức ý nghĩa (Sig) 0,000 Cumulative % of Initial Eigenvalues 60,902 Nguồn: Kết quả xử lý số liệu khảo sát năm 2023 Qua kết quả phân tích nhân tố khám phá EFA, cho ta thấy từ 5 biến quan sát ban đầu, qua quá trình phân tích nhân tố với phương pháp trích Principal Component Analysis và phép xoay vuông gốc Varimax with Kaiser Normalization 5 biến quan sát đều được giữ lại.
+
+Biến quan sát Hệ số tải nhân tố SỰ GẮN KẾT Tôi luôn coi công ty là ngôi nhà thứ hai. 0,842 Tôi mong muốn được gắn bó lâu dài với công ty. 0,788 Tôi cảm thấy tự hào khi được làm việc tại công ty. 0,787 Tôi cảm thấy vui và hạnh phúc khi được làm việc ở đây đến 0,751 khi nghỉ hưu.
+
+Tôi luôn nỗ lực phấn đấu để cống hiến nhiều hơn cho công ty. 0,730 Nguồn: Kết quả xử lý số liệu khảo sát năm 2023 Biến phụ thuộc “Sự gắn kết” có phương sai trích là 60,902%, điều này có nghĩa là nhân tố này giải thích được 60,902% độ biến thiên của dữ liệu, hệ số Cronbach’s alpha bằng 0,839. Hơn thế nữa, hệ số Eigenvalues bằng 3,045 lớn hơn 1. Nhân tố này bao gồm có 5 biến có tương quan chặt chẽ với nhau, nhân tố GK5 là nhân tố “Tôi luôn coi công ty là ngôi nhà thứ hai” là nhân tố có hệ số tải cao nhất, trong khi nhân tố GK2 là “Tôi luôn nỗ lực phấn đấu để cống hiến nhiều hơn cho công ty” có hệ số tải thấp nhất.
+
+## 4.5 MÔ HÌNH NGHIÊN CỨU SAU KHI PHÂN TÍCH NHÂN TỐ
+
+Sau khi phân tích các nhân tố khám phá (EFA) thì chỉ còn lại 6 nhân tố phù hợp và có ảnh hưởng đến sự gắn kết của nhân viên với công ty TNHH NN MTV XS KT Cần Thơ và được tác giả đưa vào mô hình nghiên cứu điều chỉnh như:
+
+Mô hình được tác giả điều chỉnh như sau:
+
+Trách nhiệm xã hội H1 Mối quan hệ với đồng H2 nghiệp Chính sách khen thưởng và H3 Sự gắn kết nhân viên phúc lợi H4 với công ty Lương và thu nhập H5 Đào tạo và phát triển H6 Cơ hội thăng tiến Nguồn: Đề xuất của tác giả
+
+## 4.6 ĐÁNH GIÁ SỰ TÁC ĐỘNG CỦA CÁC NHÂN TỐ ĐẾN SỰ GẮN KẾT CỦA
+NHÂN VIÊN  Đánh giá và kiểm định độ phù hợp của mô hình:
+
+Hệ số xác định R2 (R square) được sử dụng để đánh giá sự phù hợp của mô hình nghiên cứu, bước đầu tiên là kiểm tra độ phù hợp của mô hình.
+
+Hệ số R2 bằng 0,495 nghĩa là các biến độc lập được đưa vào phân tích hồi quy ảnh hưởng 49,5% sự biến thiên của biến phụ thuộc (Sự gắn kết) thông qua 6 nhân tố của biến độc lập. Còn lại 50,5% là sự ảnh hưởng của các yếu tố khác không được đưa vào mô hình nghiên cứu.  Kiểm tra giả định về hiện tượng tự tương quan:
+
+Bên cạnh đó, kết quả kiểm định có hệ số Durbin-Watson là 2,022 nằm trong khoảng 1,5 đến 2,5 nên không có hiện tượng tự tương quan chuỗi bậc nhất xảy ra trong mô hình (Yahua Qiao, 2011).  Phân tích hồi quy:
+
+Được thực hiện để xác định sự ảnh hưởng của 6 biến độc lập gồm: Trách nhiệm xã hội (CSR), mối quan hệ với đồng nghiệp (MQH), chính sách khen thưởng và phúc lợi (KTPL), lương và thu nhập (LTN), đào tạo và phát triển (ĐTPT) và cơ hội thăng tiến (TT) đến 1 biến phụ thuộc là sự gắn kết của nhân viên với công ty (GK).
+
+Biến độc lập Hệ số Giá trị t Mức ý Hệ số phóng Beta nghĩa đại phương (Sig.) sai (VIF) R2 hiệu chỉnh 0,465 Hệ số Sig. F 0,000b Hệ số Durbin - Watson 2,002 CSR: Trách nhiệm xã hội, MQH: Mối quan hệ với đồng nghiệp, KTPL: Chính sách khen thưởng và phúc lợi, LTN: Lương và thu nhập ĐTPT: Đào tạo và phát triển, TT: Cơ hội thăng tiến Nguồn: Kết quả xử lý số liệu khảo sát năm 2023 Bảng kết quả kiểm định ANOVA, cho chúng ta kết quả kiểm định F để đánh giá giả thuyết xem mô hình hồi quy có phù hợp hay không. Giá trị F của mô hình là 16,812 ở mức ý nghĩa rất nhỏ Sig = 0,000 < 0,05 nên mô hình đưa ra hoàn toàn là phù hợp cũng như các biến độc lập trong mô hình có thể giải thích được sự thay đổi của biến phụ thuộc.
+
+Từ bảng 4.26 cho ta thấy các hệ số Sig của các biến MQH, LTN, TT đều nhỏ hơn 0,05. Do đó, các biến này đều có ý nghĩa thống kê và tác động lên biến phụ thuộc. Hệ số hồi quy của các biến độc lập này đều mang dấu dương. Như vậy, ta có thể kết luận rằng các biến độc lập này có tác động thuận chiều lên biến phụ thuộc. Riêng Sig của các biến CSR, KTPL, ĐTPT đều lớn hơn 0,05 nên các biến này không có ý nghĩa thống kê cũng như không có sự tác động lên biến phụ thuộc.  Kiểm định giả thuyết về ý nghĩa của hệ số hồi quy:
+
+Dựa vào độ lớn của hệ số hồi quy chuẩn hóa Beta, biến Mối quan hệ với đồng nghiệp (MQH) có ảnh hưởng mạnh nhất đến sự gắn kết của nhân viên với công ty vì có hệ số Beta cao nhất (β = 0,438 và p < 0,05); biến có ảnh hưởng kế tiếp là biến Cơ hội thăng tiến (TT) có hệ số Beta cao vị trí thứ hai (β = 0,203 và p < 0,05) và biến cuối cùng có ảnh hưởng đến sự gắn kết của nhân viên với công ty là biến Lương và thu nhập (LTN) có hệ số Beta thấp nhất (β = 0,198 và p < 0,05). Các nhân tố này ảnh hưởng đến sự gắn kết của nhân viên với công ty như sau: Biến Mối quan hệ với đồng nghiệp có hệ số Beta dương cho thấy nếu công ty có chính sách và tạo điều kiện cho nhân viên có các mối quan hệ tốt và khăng khít với nhau thì họ sẽ cảm thấy gắn kết hơn khi làm việc tại công ty. Tương tự cho các biến Cơ hội thăng tiến, Lương và thu nhập.
+
+Giả thuyết Kết quả kiểm định H1: Nhân tố Trách nhiệm xã hội có ảnh hưởng thuận chiều Bác bỏ đến sự gắn kết của nhân viên với công ty (p > 5%) H2: Nhân tố Mối quan hệ với đồng nghiệp có ảnh hưởng Ủng hộ thuận chiều đến sự gắn kết của nhân viên với công ty. (p < 5%) H3: Nhân tố Chính sách khen thưởng và phúc lợi có ảnh Bác bỏ hưởng thuận chiều đến sự gắn kết của nhân viên với công ty. (p > 5%) H4: Nhân tố Lương và thu nhập có ảnh hưởng thuận chiều Ủng hộ đến sự gắn kết của nhân viên với công ty. (p < 5%) H5: Nhân tố Đào tạo và phát triển có ảnh hưởng thuận Bác bỏ chiều đến sự gắn kết của nhân viên với công ty. (p > 5%) H6: Nhân tố Cơ hội thăng tiến có ảnh hưởng thuận chiều Ủng hộ đến sự gắn kết của nhân viên với công ty. (p < 5%) Nguồn: Kết quả xử lý số liệu khảo sát năm 2023 Như vậy, với 8 giả thuyết từ H1 đến H8 được đặt ra từ phần giả thuyết ban đầu, qua quá trình phân tích chỉ còn 3 giả thuyết được chấp nhận theo chiều giảm dần là:
+H2, H6 và H4 tương ứng với các biến: Mối quan hệ với đồng nghiệp, cơ hội thăng tiến và lương và thu nhập. Hay nói cách khác, chỉ có 3 biến này có ý nghĩa thống kê trong mô hình nghiên cứu này.
+
+## 4.7 THẢO LUẬN KẾT QUẢ NGHIÊN CỨU
+
+Kết quả nghiên cứu thu được có 3 nhân tố có ý nghĩa thống kê ảnh hưởng tích cực đến sự gắn kết của nhân viên với công ty TNHH NN MTV XS KT Cần Thơ theo thứ tự giảm dần sự gắn kết là: Mối quan hệ với đồng nghiệp, Cơ hội thăng tiến và Lương và Thu nhập.  Giả thuyết H2 phát biểu rằng Mối quan hệ với đồng nghiệp có ảnh hưởng thuận chiều đến sự gắn kết của nhân viên với công ty.
+
+Nhân tố mối quan hệ với đồng nghiệp có hệ số hồi quy dương (β = 0,438), ước lượng này không có mức ý nghĩa thống kê vì p = 0,000 < 0,05, nghĩa là mối quan hệ với đồng nghiệp có ảnh hưởng thuận chiều mạnh nhất đến sự gắn kết của nhân viên với công ty. Nhân tố này tác động mạnh hơn so với các nhân tố còn lại. Vì vậy, giả thuyết này được chấp nhận. Điều này cho thấy kết quả đúng với thực tế của tất cả người lao động trong công ty. Vì mối quan hệ với đồng nghiệp sẽ giúp họ hoàn thành tốt công việc được giao không chỉ vậy còn là người bạn chia sẻ, hỗ trợ và giúp đỡ họ khi cần thiết. Đó cũng đáp ứng được nhu cầu cao hơn của con người sau nhu cầu sinh lý là nhu cầu các mối quan hệ, tình cảm. Kết quả nghiên cứu này hoàn toàn phù hợp với lý thuyết nền là lý thuyết thứ bậc nhu cầu của Maslow (1943) và tương đồng với nhận định của Robinson và cộng sự (2004); Anitha (2013) và Wellins và cộng sự (2005) cho rằng các mối quan hệ giữa các cá nhân tại nơi làm việc và các kết nối mà nhân viên có thể tạo ra trước đây đã được xác định là động lực quan trọng thúc đẩy sự gắn kết của nhân viên và được cho là được nhân viên đánh giá cao trong sự gắn kết của họ. Kết quả này cũng phù hợp với các nghiên cứu trước đó theo lĩnh vực hoạt động như: Bergström và Martínez (2016), Nguyễn Ngọc Duy Phương và Trần Bá Sang (2018) và cũng khá hợp lý với các nghiên cứu theo loại hình doanh nghiệp trước đó như Trần Văn Dũng (2018), Đào Duy Huân và Nguyễn Văn Định (2019), Bùi Nhất Vương và Nguyễn Thị Ngọc Châu (2020), Nguyễn Thị Thảo và Nguyễn Thanh Vũ (2021), Đào Duy Huân và Châu Hồng Thuỷ (2021) đều khẳng định rằng mối quan hệ với đồng nghiệp là yếu tố có ảnh hưởng đến sự gắn kết của người lao động với công ty.  Giả thuyết H6 phát biểu rằng Cơ hội thăng tiến có ảnh hưởng thuận chiều đến sự gắn kết của nhân viên với công ty.
+
+Nhân tố cơ hội thăng tiến có hệ số hồi quy dương (β = 0,203), ước lượng này không có mức ý nghĩa thống kê vì p = 0,011 < 0,05, nghĩa là cơ hội thăng tiến có ảnh hưởng thuận chiều đến sự gắn kết của nhân viên với công ty. Vì vậy, giả thuyết này được chấp nhận. Điều này cho thấy kết quả đúng với thực tế và sự mong đợi của tất cả người lao động trong công ty. Vì cơ hội thăng tiến là yếu tố để tạo đà phát triển về mọi mặt như tăng lương, thưởng, chế độ phúc lợi tốt hơn,… Đó cũng đáp ứng được nhu cầu cao hơn của con người sau nhu cầu sinh lý là nhu cầu được tôn trọng và thể hiện bản thân. Kết quả nghiên cứu này hoàn toàn phù hợp với lý thuyết nền là lý thuyết thứ bậc nhu cầu của Maslow (1943) và lý thuyết hai nhân tố của Herzberg (1959). Kết quả này cũng phù hợp với các nghiên cứu trước đó như: Đỗ Phú Trần Tình và cộng sự (2012), Đào Duy Huân và Nguyễn Thị Ngọc Thẳm (2020) và Bùi Nhất Vương và Nguyễn Thị Ngọc Châu (2020) đều khẳng định rằng cơ hội thăng tiến là yếu tố có ảnh hưởng đến sự gắn kết của người lao động với công ty.  Giả thuyết H4 phát biểu rằng Lương và thu nhập có ảnh hưởng thuận chiều đến sự gắn kết của nhân viên với công ty.
+
+Nhân tố lương và thu nhập có hệ số hồi quy dương (β = 0,198), ước lượng này không có mức ý nghĩa thống kê vì p = 0,014 < 0,05, nghĩa là lương và thu nhập có ảnh hưởng thuận chiều đến sự gắn kết của nhân viên với công ty. Vì vậy, giả thuyết này được chấp nhận. Điều này cho thấy kết quả đúng với thực tế và sự mong đợi của tất cả người lao động không chỉ trong ngành xổ số mà khác ngành. Vì lương và thu nhập là yếu tố chính đáp ứng nhu cầu cuộc sống của con người. Kết quả nghiên cứu này hoàn toàn phù hợp với lý thuyết nền là lý thuyết thứ bậc nhu cầu của Maslow (1943) và tương đồng với nhận định của Mobley và cộng sự (1979) cho rằng sự hài lòng với chế độ chi trả lương/thưởng hoàn toàn có tác động tới gắn kết tổ chức. Kết quả này cũng phù hợp với các nghiên cứu trước đó như: Quan Minh Nhựt và Đặng Thị Đoan Trang (2015), Nguyễn Minh Châu và Nguyễn Hải Quang (2020), Nguyễn Thị Kim Hiệp (2021), Đào Duy Huân và Nguyễn Thị Ngọc Thẳm (2020), Bùi Nhất Vương và Nguyễn Thị Ngọc Châu (2020) đều khẳng định rằng thu nhập là yếu tố có ảnh hưởng đến sự gắn kết của người lao động với công ty.  Giả thuyết H1 phát biểu rằng Trách nhiệm xã hội có ảnh hưởng thuận chiều đến sự gắn kết của nhân viên với công ty.
+
+Nhân tố trách nhiệm xã hội có hệ số hồi quy âm (β = 0,024), ước lượng này không có mức ý nghĩa thống kê vì p = 0,769 > 0,05, nghĩa là trách nhiệm xã hội không có ảnh hưởng thuận chiều đến sự gắn kết của nhân viên với công ty. Vì vậy, giả thuyết này không được chấp nhận. Điều này cho thấy nó đúng với thực tế của ngành xổ sổ, vì do Công ty XS KT Cần Thơ là công ty đặc thù kinh doanh sản phẩm độc quyền với phương châm lúc nào cũng đặt trách nhiệm xã hội lên hàng đầu, vì vậy đều đó đã là mặc định nên có thể nó không có tác động đến sự gắn kết của nhân viên ở công ty.
+Khác với các nghiên cứu trước đó nghiên cứu về sự gắn kết của nhân viên với công ty họ không đưa nhân tố CSR vào phân tích. Hoặc nếu có thì chỉ có phân tích riêng về CSR có ảnh hưởng đến sự gắn kết hay không. Trong nghiên cứu này, tác giả đã đưa thêm nhân tố mới này vào mô hình nghiên cứu. Kết quả nghiên cứu này trái ngược hoàn toàn với nghiên cứu của Nguyên và cộng sự (2020), Turker (2009) và Albdour và Altarawneh (2012) khẳng định rằng CSR tác động tích cực tới sự gắn kết của nhân viên. Nghiên cứu của Nguyễn Duy Thành và Đào Đức Trung (2022) cho thấy trách nhiệm xã hội có tác động tích cực đến sự gắn kết của nhân viên. Vì vậy, có thể do ngành nghề kinh doanh khác nhau, nghiên cứu này thuộc ngành kinh doanh sản phẩm độc quyền (xổ số) thuộc sở hữu nhà nước nên nhân tố này không có tác động đến sự gắn kết của người lao động với công ty.  Giả thuyết H3 phát biểu rằng Chính sách khen thưởng và phúc lợi có ảnh hưởng thuận chiều đến sự gắn kết của nhân viên với công ty.
+
+Nhân tố chính sách khen thưởng và phúc lợi có hệ số hồi quy dương (β = 0,084), ước lượng này không có mức ý nghĩa thống kê vì p = 0,339 > 0,05, nghĩa là chính sách khen thưởng và phúc lợi không có ảnh hưởng thuận chiều đến sự gắn kết của nhân viên với công ty. Vì vậy, giả thuyết này không được chấp nhận. Điều này trái với phát biểu của Vance (2006) nhấn mạnh rằng chế độ đãi ngộ (phần thưởng và lợi ích) có thể ảnh hưởng mạnh mẽ đến sự gắn kết của nhân viên. Bên cạnh đó, nghiên cứu này cũng khác biệt so với các nghiên cứu trước đây đã khẳng định chính sách khen thưởng và phúc lợi có ảnh hưởng đến sự gắn kết của nhân viên với công ty với nghiên cứu như nghiên cứu về đặc điểm của Đỗ Phú Trần Tình và cộng sự (2012). Hoặc các nghiên cứu về loại hình doanh nghiệp như nghiên cứu của Nguyễn Phan Thu Hằng và Nguyễn Thị Hồng Vân (2020). Các nghiên cứu này ở các loại hình, đặc điểm khác nhau của đáp viên nhưng cũng chưa một nghiên cứu nào nghiên cứu về công ty xổ số - một loại hình kinh doanh độc quyền của Nhà nước. Khi người lao động ký hợp đồng với công ty thì trong hợp đồng đã có những mục quy định rõ về quyền lợi của người lao động như về chế độ lương, phụ cấp, tiền thưởng, chế độ bảo hiểm, chế độ nghỉ ngơi (nghỉ hàng tuần, phép năm, lễ, tết,…),… Vì vậy, người lao động trong công ty khá yên tâm và nắm rõ những quyền lợi của mình khi làm việc tại đây. Họ không kỳ vọng thêm về chính sách này nên nó không ảnh hưởng đến sự gắn kết của họ tại công ty.  Giả thuyết H5 phát biểu rằng Đào tạo và phát triển có ảnh hưởng thuận chiều đến sự gắn kết của nhân viên với công ty.
+
+Nhân tố đào tạo và phát triển có hệ số hồi quy dương (β = 0,058), ước lượng này không có mức ý nghĩa thống kê vì p = 0,489 > 0,05, nghĩa là đào tạo và phát triển không có ảnh hưởng thuận chiều đến sự gắn kết của nhân viên với công ty. Vì vậy, giả thuyết này không được chấp nhận. Điều này trái với các nghiên cứu trước đây cho rằng đào tạo và phát triển ảnh hưởng đến sự gắn kết của nhân viên đối với công ty như nghiên cứu về đặc điểm của nhân viên như Quan Minh Nhựt và Đặng Thị Đoan Trang (2015) cũng như các nghiên cứu về loại hình doanh nghiệp như nghiên cứu của Nguyễn Quang Chương và Nguyễn Thị Thanh Dần (2021), Nguyễn Thị Thảo và Nguyễn Thanh Vũ (2021). Các nghiên cứu này ở các loại hình, đặc điểm khác nhau của đáp viên nhưng cũng chưa một nghiên cứu nào nghiên cứu về công ty xổ số - một loại hình kinh doanh độc quyền của Nhà nước, mỗi công ty người lao động sẽ kỳ vọng vào chính sách đào tạo – phát triển khác nhau. Ở công ty chính sách đào tạo và phát triển không phải là nhân tố quan trọng khiến cho nhân viên thoả mãn và gắn bó với công ty. Vì công việc ở đây mỗi bộ phận, phòng ban đều mang tính đặc thù riêng, khó có thể thay thế, nếu thay thế hoặc luân chuyển nội bộ sẽ mất rất nhiều thời gian để đào tạo lại.
+
+# CHƯƠNG 5
+
+KẾT LUẬN VÀ ĐỀ XUẤT GIẢI PHÁP
+
+## 5.1 TÓM LƯỢC KẾT QUẢ NGHIÊN CỨU
+
+### 5.1.1 Kết quả phân tích hồi quy
+
+Kết quả phân tích mô hình hồi quy cho thấy mối quan hệ giữa các yếu tố gắn kết của nhân viên với công ty như sau:
+
+Thứ nhất, sau khi chạy mô hình chỉ còn lại ba biến độc lập là lương và thu nhập, cơ hội thăng tiến và mối quan hệ với đồng nghiệp là có sự ảnh hưởng đến sự gắn kết của nhân viên với công ty, thể hiện sự tương quan cùng chiều với sự gắn kết của nhân viên với công ty.
+
+Thứ hai, mối quan hệ với đồng nghiệp có sự ảnh hưởng mạnh nhất sự gắn kết của nhân viên với công ty, tiếp theo là cơ hội thăng tiến và lương và thu nhập là có sự ảnh hưởng thấp nhất đến sự gắn kết của nhân viên với công ty.
+
+Thứ ba, Tôi luôn coi công ty là ngôi nhà thứ hai có ảnh hưởng thuận chiều đến sự gắn kết của nhân viên với công ty. Tôi luôn nỗ lực phấn đấu để cống hiến nhiều hơn cho công ty có ảnh hưởng ít nhất đến sự gắn kết của nhân viên với công ty.
+
+### 5.1.2 Đánh giá của nhân viên về sự gắn kết của nhân viên với công ty
+
+Kết quả phân tích cho thấy nhân viên đang làm việc tại công ty TNHH NN MTV XS KT Cần Thơ có mức độ đồng ý khá cao về các tiêu chí trong các yếu tố của biến độc lập. Tuy nhiên, một số tiêu chí có điểm trung bình đánh giá chưa thật sự cao, cụ thể như sau:
+
+STT Yếu tố Tiêu chí
+
+1 Mối quan hệ với đồng 1. Đồng nghiệp rất thân thiện, hoà đồng. nghiệp 2. Phối hợp với nhau hoàn thành nhiệm vụ tốt được giao.
+
+3. Chia sẻ với nhau không chỉ trong công việc mà cả trong cuộc sống.
+
+4. Đồng nghiệp luôn hỗ trợ, giúp đỡ và động viên khi cần thiết.
+
+2 Cơ hội thăng tiến 1. Công ty luôn tạo cơ hội thăng tiến cho những người có năng lực.
+
+2. Được biết các điều kiện cần thiết để được thăng tiến.
+
+3. Chính sách thăng tiến là công bằng, minh bạch.
+
+4. Có kế hoạch quy hoạch và cơ cấu nhân sự cụ thể, rõ ràng.
+
+3 Lương và thu nhập 1. Lương tương xứng với kết quả làm việc.
+
+2. Tiền lương đảm bảo nhu cầu vật chất cơ bản của bản thân.
+
+3. Chính sách lương công bằng, minh bạch.
+
+4. Tiền lương được trả đầy đủ, đúng hạn.
+
+Kết quả nghiên cứu này cũng đã làm sáng tỏ được mối quan hệ giữa các nhân tố ảnh hưởng đến sự gắn kết của nhân viên với công ty cũng như giải quyết được mục tiêu nghiên cứu đã đề ra. Kết quả phân tích hồi quy cho thấy có 3 nhân tố tác động đến sự gắn kết của nhân viên với công ty. Trong đó, nhân tố Mối quan hệ với đồng nghiệp có ảnh hưởng mạnh nhất đến sự gắn kết của nhân viên với công ty. Nhân tố ảnh hưởng thứ hai là Cơ hội thăng tiến và nhân tố cuối cùng là Lương và thu nhập đều có ảnh hưởng đến sự gắn kết của nhân viên với công ty. Chính vì vậy, để nâng cao sự gắn kết của nhân viên đối với công ty và tổ chức, Ban Lãnh đạo công ty cần nhận thức được tầm quan trọng của chính sách quản trị nguồn nhân lực cũng như các nhân tố bên trong và bên ngoài ảnh hưởng đến sự gắn kết của nhân viên công ty. Không chỉ vậy, công ty đối với các nhân tố tuy không có sự ảnh hưởng đến sự gắn kết người lao động trong công ty, công ty cũng cần chú trọng và có những biện pháp thích hợp để duy trì theo đúng nghĩa vụ đã cam kết với người lao động từ đầu. Từ đó, nâng cao hiệu quả công việc của nhân viên, đóng góp vào hiệu quả hoạt động kinh doanh của toàn công ty trong bối cảnh môi trường kinh doanh ngành xổ số ngày càng cạnh tranh khốc liệt như ngày nay.
+
+Kết quả của nghiên cứu này không chỉ phân tích các nhân tố tác động đến sự gắn kết của nhân viên với công ty TNHH NN MTV XS KT Cần Thơ. Mà kết quả của nghiên cứu này còn là cơ sở để công ty có những giải pháp trong việc nâng cao sự gắn kết của nhân viên với công ty.
+
+## 5.2 GIẢI PHÁP
+
+Kết quả nghiên cứu cho thấy rằng có 3 nhân tố trong 8 nhân tố phân tích trước đó có ảnh hưởng trực tiếp đến sự gắn kết của nhân viên với công ty TNHH NN MTV XS KT Cần Thơ. Sắp xếp theo thứ tự ảnh hưởng giảm dần mức độ quan trọng của các nhân tố lần lượt là: Mối quan hệ với đồng nghiệp, Cơ hội thăng tiến và Lương và thu nhập. Trên cơ sở đó, tác giả đề xuất một số giải pháp nhằm nâng cao sự gắn kết của nhân viên với công ty TNHH NN MTV XS KT Cần Thơ theo mức độ ảnh hưởng từ cao xuống thấp theo thứ tự thực hiện như sau:
+
+### 5.2.1 Giải pháp về mối quan hệ với đồng nghiệp
+
+Mối quan hệ với đồng nghiệp là nhóm nhân tố quan trọng đầu tiên có ảnh hưởng đến sự gắn kết của nhân viên với công ty. Hầu hết tất cả nhân viên trong công ty đều đóng vai trò là những cá thể độc lập được gắn kết với nhau thông qua một động cơ, một mục đích chung cuối cùng là vì sự phát triển ngày càng phồn thịnh của công ty. Sự gắn kết, đoàn kết của tất cả mọi nhân viên trong công ty tạo nên một sức mạnh nội tại mà không có bất kỳ một tác nhân nào có thể tác động. Đây là nền tảng cho sự phát triển lớn mạnh và bền vững của công ty.
+
+Về ý thức của mỗi nhân viên: Nhân viên trong công ty phải tự ý thức rằng công ty là ngôi nhà thứ hai của mình và những đồng nghiệp là những người anh, người chị, người em trong cùng một gia đình. Cần xác định rõ đây là những người mà ta làm việc trực tiếp, gặp gỡ và giao lưu hàng ngày, người mà chia sẻ gánh nặng công việc cùng mình. Vì vậy, mỗi nhân viên trong cùng công ty nên xây dựng một mối quan hệ tốt đẹp, đoàn kết, chia sẻ, bình đẳng, cởi mở và thân thiện với tất cả đồng nghiệp của mình. Nên đặt yếu tố chân thành, không vụ lợi lên hàng đầu sẽ giúp cho mọi người càng gắn bó khăng khít với nhau. Nhân viên cần phát huy truyền thống tốt đẹp đã được truyền từ các thế hệ đi trước là luôn hỗ trợ, giúp đỡ và động viên nhau khi cần thiết và luôn phối hợp một cách đồng bộ và tốt nhất trong công việc để bộ máy nhân sự của công ty hoạt động đạt hiệu quả cao. Bên cạnh đó, việc tôn trọng, biết lắng nghe và phản hồi tích cực cũng rất quan trọng trong một mối quan hệ giao tiếp giữa các đồng nghiệp với nhau. Khi đồng nghiệp của chúng ta xảy ra xung đột hoặc không hài lòng về vấn đề gì, chúng ta nên tìm giải pháp để giải quyết hiểu lầm một cách nhanh chóng, không làm tình huống xung đột càng xấu đi. Không những thế, cơ cấu tổ chức công ty là một hệ thống các cấp bậc rõ ràng, để tạo được sự gắn kết giữa nhân viên với người quản lý thì các nhân viên nên ứng xử với cấp trên một cách tôn trọng, tuân thủ các quy định mà cấp trên đề ra cũng như thực hiện công việc được cấp trên giao một cách nhanh chóng, kịp thời phản hồi quy trình thực hiện. Nhân viên nên tránh tự ý quyết định mà phải hỏi ý kiến từ cấp trên để tránh nhứng sai sót đáng tiếc có thể xảy ra, tạo lòng tin tuyệt đối của lãnh đạo dành cho mình. Đặc biệt, tránh để tình trạng vượt cấp xảy ra trừ trường hợp thật sự cần thiết hoặc được cấp trên chỉ định vì như vậy sẽ tạo mối quan hệ xấu và cái nhìn không tốt cho lãnh đạo về nhân viên.
+
+Về sự tác động từ nhà quản lý, từ công ty: Để xây dựng được một mối quan hệ tốt giữa các nhân viên với nhau trong công ty, đó là vấn đề được đặt lên hàng đầu của mỗi công ty. Đặc biệt là phương chỉ nam cho sự sống còn của mỗi tổ chức. Công ty phải đặt văn hoá ứng xử trong công ty là một phần không thể thiếu và tách rời với văn hoá của công ty. Công ty nên xây dựng bộ quy tắc này để nó trở thành một phần thường nhật trong công ty và củng cố các mối quan hệ trong nội bộ công ty. Để từ đó, phát triển văn hoá này thành bản sắc riêng trong văn hoá của công ty và trở thành sứ mệnh của công ty. Văn hoá ứng xử của cấp trên đối với cấp dưới phải đúng chuẩn mực, cấp trên cần biết cách thể hiện vai trò của mình trước cấp dưới và hiểu được họ đang mong đợi và cần gì ở mình để có thể có cách chiến lược đáp ứng họ một cách tốt nhất để nhằm giữ chân họ. Thật sự nhân viên nào cũng cần lãnh đạo lắng nghe họ, chia sẻ với họ, nên cấp trên cần quan tâm, lắng nghe, chia sẻ và phản hồi họ một cách chân thành. Đặc biệt, sự quan tâm từ phía lãnh đạo là một động lực tạo cho nhân viên gắn kết hơn với tổ chức. Công ty nên tạo điều kiện để nhân viên phát huy được quyền làm chủ của mình thông qua đại hội công đoàn, hội nghị người lao động hàng năm.
+
+Do sự thân thiện, hoà đồng giữa các đồng nghiệp có trung bình khá thấp. Công ty nên tập trung giải quyết vấn đề này rút ngắn khoảng cách, tạo mối liên kết ngày càng gần gũi giữa các nhân viên trong công ty hơn. Để làm được điều đó, công ty cần có những chính sách luân chuyển cán bộ giữa các phòng ban để họ có cơ hội được tiếp xúc với nhau nhiều hơn, xây dựng được mối quan hệ mới để từ đó kích thích họ cùng tìm hiểu nhau và xem nhau như những người thân trong gia đình để cùng nhau phấn đấu hoàn thành nhiệm vụ được giao cùng nhau. Đặc biệt, công ty cần nghiên cứu xây dựng sự phân công công việc trực tiếp ở từng phòng ban theo group (nhóm) để những người trong cùng một group sẽ có thời gian gần nhau và cùng nhau làm tốt công việc được công ty hoặc phòng ban phân công. Bên cạnh đó, các công tác về hoạt động Đảng hoặc Đoàn và công Đoàn, công ty nên có sự phân công phối hợp giữa các phòng ban. Điều này sẽ làm cho mọi cá nhân trong công ty đều có cơ hội tiếp xúc và cùng nhau hoàn thành mục tiêu của công ty đề ra.
+
+Công ty nên thường xuyên tổ chức các cuộc giao lưu văn nghệ, thể thao hoặc tổ chức những chuyến về nguồn trong ngày vào những dịp đặc biệt như: ngày thành lập công ty, ngày Phụ nữ Việt Nam (ngày 20/10) và ngày Quốc tế Phụ nữ (ngày 08/03),… để tất cả nhân viên trong công ty có dịp gặp mặt, giao lưu và tăng thêm tình đoàn kết nội bộ trong công ty. Ngoài ra, công ty nên thường xuyên tổ chức các chuyến đi trao đổi, học tập kinh nghiệm tại các công ty Xổ số Kiến thiết khác, qua đó nhân viên sẽ giao lưu, trao đổi tăng cường mối quan hệ thân thiết hơn.
+
+### 5.2.2 Giải pháp về cơ hội thăng tiến
+
+Cơ hội thăng tiến là một trong những yếu tố mang tính quyết định sự gắn bó của người lao động với công ty có lâu dài hay không. Đây được coi là một phần thưởng hoàn toàn xứng đáng sau thời gian dài người lao động tận tuỵ, cống hiến hết mình, phấn đấu nỗ lực không ngừng để công ty đạt hiệu quả cao. Chính vì thế, công ty cần cố gắng tạo cơ hội cho nhân viên phát triển sự nghiệp của mình một cách công bằng, minh bạch và tạo mọi điều kiện thuận lợi để họ có thể được dễ dàng thăng tiến nếu đạt những yêu cầu mà công ty đưa ra đặc biệt đối với những người có năng lực thực sự.
+Hơn thế nữa, khi lãnh đạo quyết định thăng chức hoặc đề bạt thăng chức một nhân viên nào đó, thì nhà quản lý cần phải xem xét kỹ lưỡng và lấy ý kiến từ người lao động để có thể đưa ra một quyết định một cách chính xác, công bằng và được người lao động công nhận.
+
+Công ty nên có những chính sách khuyến khích người lao động được phát triển phù hợp với thực tế của từng phòng ban. Công ty nên tạo điều kiện cho nhân viên được phát triển, đào tạo và thử thách công việc mới mẻ ở các phòng, ban khác nhau bằng việc luân chuyển trong công việc để tất cả nhân viên đều nắm các công việc khác nhau, nhằm tránh sự nhàm chán, gia tăng sự hiểu biết, kinh nghiệm cũng như tạo mối quan hệ thân thiết hơn giữa các nhân viên, nhằm xây dựng văn hoá công ty tốt đẹp hơn. Công ty nên có những chính sách quy hoạch cán bộ và đào tạo cho họ để nâng cao kiến thức và kỹ năng làm việc giúp họ cảm nhận được sự quan tâm từ phía lãnh đạo và công ty cũng như có mục tiêu để phấn đấu hết mình.
+
+Do nhân viên công ty cảm thấy công ty chưa có tạo cơ hội thăng tiến cho những người có năng lực. Vì vậy, công ty càng phải tạo niềm tin cho người có năng lực để họ phấn đấu hơn. Điều này muốn được thực hiện một cách công khai minh bạch thì hàng năm, công ty nên lập danh sách cụ thể các nhân viên được quy hoạch có thành tích xuất sắc được công ty đưa đi đào tạo không chỉ về nghiệp vụ mà còn về tư tưởng chính trị như các lớp bồi dưỡng chính trị trung cấp bên Đảng,… gửi về các phòng ban để triển khai cho người lao động, cũng như sẽ triển khai trong giờ đọc báo sáng thứ 2 hàng tuần,… điều này không chỉ giúp công ty có nhân viên giỏi mà còn tạo sự phấn đấu cho các nhân viên còn lại.
+
+Công ty nên có bộ phận nghiên cứu xây dựng lộ trình thăng tiến và những yêu cầu cần đạt được cho những vị trí công việc một cách cụ thể để từ đó người lao động nắm và xây dựng lộ trình thăng tiến cho riêng bản thân mình. Đây cũng là cơ sở cho việc đánh giá quy hoạch và bổ nhiệm vị trí lãnh đạo của công ty.
+
+### 5.2.3 Giải pháp về lương và thu nhập
+
+Lương và thu nhập có tác động trực tiếp đến đời sống vật chất và tinh thần của người lao động. Để nhân viên có thể yên tâm công tác và gắn kết với công ty thì công ty cần có chính sách lương phù hợp và công bằng.
+
+Do nhân viên công ty cảm thấy lương chưa tương xứng với kết quả công việc. Vì vậy, công ty cần phải sắp xếp lại cách trả lương của công ty dựa trên những yếu tố khác không phải trả lương theo vị trí công việc như trước đây. Công ty có thể thay đổi cách trả lương hiện tại bằng việc trả lương trên cơ sở có bảng đánh giá tình hình thực hiện công việc của nhân viên để người lao động cảm thấy lương tương xứng với kết quả làm việc của mình. Hiện nay, hình thức tính lương theo KPI được thực hiện rộng rãi và phổ biến trong các công ty vì nó không chỉ khuyến khích nhân viên làm việc hết mình, đạt được mục tiêu và hiệu quả trong công việc mà đó còn tạo sự công bằng và minh bạch nhất trong việc trả lương. Để việc đánh giá này có khoa học và chính xác thì công ty nên nhờ chuyên gia bên lĩnh vực đưa ra và lấy ý kiến từ người lao động nhằm tạo khung, hệ thống quy chế đánh giá một cách chi tiết, rõ ràng. Điều này sẽ giúp cho nhân viên càng gắn kết với công ty nhiều hơn vì lương họ nhận được đúng với công sức mà họ bỏ ra. Ngoài ra, công ty cần bố trí công việc theo năng lực của người lao động một cách hợp lý để họ có thể phấn đấu làm việc và tương xứng với lương mà họ nhận được. Từ đó, họ cảm thấy biết ơn và gắn kết hơn với công ty.
+
+Công ty nên xem xét lại việc xây dựng hệ thống bảng lương làm sao phải phù hợp với từng thời điểm và phải gắn chặt với tình hình lạm phát của từng năm. Công ty cần có bộ phận theo dõi tình hình biến động của lạm phát vì việc tăng giá các mặt hàng tiêu dùng có thể ảnh hưởng đến chi tiêu trực tiếp của người lao động để đảm bảo giá trị thực tế tương đương với tiền lương. Nếu công ty chưa điều chỉnh kịp thời lương theo tỷ lệ lạm phát thì công ty có thể bổ sung thêm một số loại phụ cấp để chi trả thêm hàng tháng cùng với tiền lương để hỗ trợ một cách tốt nhất cho nhân viên khi kinh tế có sự biến động. Nếu công ty đến một thời điểm nào đó xét thấy không còn cần thiết thì có thể bỏ chi phí đó mà không gây ảnh hưởng gì đến tiền lương của người lao động. Bên cạnh đó, công ty phải thường xuyên nâng lương đúng thời gian cho người lao động, đảm bảo luôn trả lương đúng hạn, không được trễ hạn.
+
+Công ty nên xem xét quy trình tạm ứng lương. Điều này sẽ khiến người lao động làm việc hăng say, tăng năng suất. Hình thức nhận lương cuối tháng sẽ không giải quyết được nhu cầu đột xuất phát sinh của người lao động như cưới hỏi, đau ốm, sinh nhật,…Khi công ty sử dụng công cụ thanh toán trước tiền lương một cách hệ thống và linh hoạt không chỉ giúp công ty về nhiều mặt như giữ chân được người lao động, làm tăng hình ảnh thương hiệu của công ty, tăng kết quả hoạt động sản xuất kinh doanh,… mà còn giúp người lao động tập trung làm việc đạt hiệu quả cao.  Giải pháp cho các nhân tố khác:
+
+Do tính chất đặc thù của công ty, nên công ty cần bảo đảm các nhân tố khác cũng được duy trì để tăng sự gắn kết của nhân viên với công ty.
+
+Về trách nhiệm xã hội, công ty cần đẩy mạnh thực hiện tốt trách nhiệm xã hội vì đây là nhiệm vụ hàng đầu của công ty. Công ty cần thông báo rộng rãi và kê khai nguồn đóng góp phúc lợi xã hội để tạo niềm tin cho nhân viên cũng như khách hàng.
+Công ty nên đưa ra những chiến lược kinh doanh dài hạn một cách cụ thể theo từng thời điểm, để nhân viên có thể yên tâm và đóng góp cùng sự phát triển lâu dài với công ty. Bên cạnh đó, công ty cũng cần đặt mục tiêu bảo vệ môi trường lên hàng đầu. Các cùi vé nên hạn chế sử dụng các chất độc hại trong việc bảo quản tránh làm ảnh hưởng đến sức khoẻ của người lao động, công ty nên sử dụng các loại giấy thân thiện với môi trường.
+
+Về chính sách khen thưởng và phúc lợi, công ty nên có những quy định cụ thể về các danh hiệu thi đua khen thưởng để nhân viên có thể đăng ký ngay từ đầu năm. Để danh hiệu thi đua khen thưởng cho nhân viên đạt được bình đẳng và công bằng, công ty nên có một bảng nhận xét qua các tháng từ lãnh đạo phòng, sau đó cuối năm tổng hợp và họp ban lãnh đạo xét khen thưởng. Công ty nên thực hiện chế độ khen thưởng theo thâm niên, vì điều đó sẽ kích thích những nhân viên mới sẽ gắn bó lâu dài hơn với công ty. Ngoài ra, công ty nên thường xuyên tổ chức sinh nhật cho công đoàn viên theo từng tháng và luân phiên tổ chức vào các ngày sinh nhật trong tháng của nhân viên tránh tình trạng chỉ lựa chọn tổ chức vào ngày sinh nhật của lãnh đạo trong tháng đó. Công ty cũng cần chú trọng thêm về chính sách tham quan du lịch, đặc biệt đối tượng được tham quan du lịch chỉ mới là nhân viên công ty, mà chưa quan tâm đến đối tượng là ba mẹ (dành cho nhân viên chưa có gia đình) hoặc vợ chồng, con cái (dành cho nhân viên có gia đình).
+
+Về chính sách đào tạo và phát triển, công ty nên chú trọng công tác xây dựng và tổ chức các chương trình đào tạo cũng như các khoá học ngắn hạn. Thông qua đó, sẽ có những quy định đánh giá nhân viên một cách phù hợp. Điều này không chỉ nhằm nâng cao trình độ chuyên môn, nghiệp vụ về công tác cho nhân viên đang làm việc tại công ty mà còn đánh giá được nhân viên một cách chính xác. Công ty nên thường xuyên rà soát, xây dựng và bổ sung kế hoạch đào tạo. Hơn thế nữa, công ty cần xây dựng nhiều hình thức đào tạo hơn nữa không chỉ là các khoá đào tạo ngắn hạn mà mở rộng các khoá đào tạo dài hạn, phối hợp với các trường Đại học để đào tạo nhân viên giỏi.
+
+## 5.3 KẾT LUẬN
+
+Nghiên cứu này đã kế thừa dựa trên những cơ sở lý thuyết, những nghiên cứu thực nghiệm đã được tác giả lược khảo trước đó và chọn lọc các nhân tố phù hợp và có ảnh hưởng đến sự gắn kết của nhân viên với công ty TNHH NN MTV XS KT Cần Thơ và đưa vào mô hình nghiên cứu được tác giả đề xuất gồm 8 nhân tố ảnh hưởng đến sự gắn kết của nhân viên với công ty bao gồm: Trách nhiệm xã hội (CSR), Môi trường làm việc (MTLV), Đào tạo và phát triển (ĐTPT), Chính sách khen thưởng và phúc lợi (KTPL), Phong cách lãnh đạo (LĐ), Lương và thu nhập (LTN), Cơ hội thăng tiến (TT) và Mối quan hệ với đồng nghiệp (MQH).
+
+Kết quả nghiên cứu này cũng đã làm sáng tỏ được mối quan hệ giữa các nhân tố ảnh hưởng đến sự gắn kết của nhân viên với công ty cũng như giải quyết được mục tiêu nghiên cứu đã đề ra. Kết quả phân tích hồi quy cho thấy có 3 nhân tố tác động đến sự gắn kết của nhân viên với công ty. Trong đó, nhân tố Mối quan hệ với đồng nghiệp có ảnh hưởng mạnh nhất đến sự gắn kết của nhân viên với công ty. Nhân tố ảnh hưởng thứ hai là Cơ hội thăng tiến và nhân tố cuối cùng là Lương và thu nhập đều có ảnh hưởng đến sự gắn kết của nhân viên với công ty. Chính vì vậy, để nâng cao sự gắn kết của nhân viên đối với công ty và tổ chức, Ban Lãnh đạo công ty cần nhận thức được tầm quan trọng của chính sách quản trị nguồn nhân lực cũng như các nhân tố bên trong và bên ngoài ảnh hưởng đến sự gắn kết của nhân viên công ty. Từ đó, nâng cao hiệu quả công việc của nhân viên, đóng góp vào hiệu quả hoạt động kinh doanh của toàn công ty trong bối cảnh môi trường kinh doanh ngành xổ số ngày càng cạnh tranh khốc liệt như ngày nay.
+
+Kết quả của nghiên cứu này không chỉ phân tích các nhân tố tác động đến sự gắn kết của nhân viên với công ty TNHH NN MTV XS KT Cần Thơ. Mà kết quả của nghiên cứu này còn là cơ sở để công ty có những giải pháp trong việc nâng cao sự gắn kết của nhân viên với công ty.
+
+## 5.4 HẠN CHẾ CỦA ĐỀ TÀI VÀ HƯỚNG NGHIÊN CỨU TIẾP THEO
+
+ Do thời gian nghiên cứu có hạn nên nghiên cứu này cũng không tránh khỏi những hạn chế nhất định:
+
+- Đối tượng khảo sát của đề tài chỉ dừng lại ở nhân viên chỉ riêng công ty TNHH MTV XS KT Cần Thơ mà không mở rộng ra được tổng thể các công ty XS KT khác trong khu vực miền Nam và công ty Vietlott.
+
+- Nghiên cứu chỉ dừng lại ở phương pháp định lượng nếu kết hợp thêm một số nghiên cứu định tính sẽ mang lại cái nhìn chi tiết và khách quan hơn.
+
+- Trong nghiên cứu đưa ra 8 nhân tố nhưng kết quả chỉ còn lại 3 nhân tố có sự ảnh hưởng đến nhân tố sự gắn kết.
+
+- Nghiên cứu cũng chưa kiểm định được sự khác biệt về sự gắn kết của nhân viên ở từng phòng ban khác nhau, vì nhiệm vụ chuyên môn khác nhau nên có thể sự gắn kết cũng có thể khác biệt nhau.
+
+- Nghiên cứu chỉ dùng kiểm định thang đo bằng phương pháp phân tích nhân tố khám phá (EFA) chưa thực hiện phân tích nhân tố khẳng định (CFA) cũng như chỉ sử dụng .  Để khắc phục những hạn chế nêu trên, trong những nghiên cứu tiếp theo về đề tài này chúng ta nên:
+
+- Tăng kích thước mẫu và thực hiện rộng rãi hơn ở các công ty XS KT khác trong khu vực miền Nam và công ty Vietlott.
+
+- Kết hợp cả 2 phương pháp định tính và định lượng.
+
+- Các nghiên cứu khác nên đưa lại các nhân tố không có sự ảnh hưởng đến sự gắn kết của nhân viên với công ty như: Trách nhiệm xã hội, môi trường làm việc, đào tạo và phát triển, chính sách khen thưởng và phúc lợi và phong cách lãnh đạo vào mô hình kiểm định lại xem có sự ảnh hưởng hay không.
+
+- Kiểm định thêm sự khác biệt về sự gắn kết của nhân viên ở từng phòng ban khác nhau trong công ty.
+
+- Thực hiện phân tích định lượng bằng phương pháp mô hình cấu trúc tuyến tính SEM để kết quả của nghiên cứu có thể cho độ tin cậy cao hơn.
+
+## 5.5 KIẾN NGHỊ
+
+### 5.5.1 Đối với Nhà nước
+
+Nhà nước cần hoàn thiện hơn các quy định về hoạt động kinh doanh xổ số truyền thống cũng như tạo điều kiện cho các công ty xổ số phát triển hơn. Bên cạnh đó, Nhà nước cũng nên cần xem xét sửa đổi, bổ sung quy định một cách chi tiết, cụ thể tối đa của Bộ Luật Lao động hiện hành phù hợp với từng thời điểm và tình hình thực tế trong giai đoạn hội nhập kinh tế hiện nay của đất nước. Điều này sẽ đảm bảo được quyền lợi của người lao động và người sử dụng lao động.
+
+Nhà nước nên thường xuyên tổ chức các Diễn đàn trao đổi kinh nghiệm về hệ thống pháp luật lao động và các sửa đổi, bổ sung của Luật Lao động mới giữa các địa phương với nhau. Để từ đó, một mặt là triển khai cụ thể các chính sách hay các vấn đề mới để người lao động nắm rõ hơn. Mặt khác, là tiếp thu và ghi nhận ý kiến từ người lao động ở các địa phương để có những cái nhìn mới về nhận thức của người lao động về Luật này.
+
+### 5.5.2 Đối với công ty
+
+Công ty nên có những buổi hội nghị hay những buổi họp mặt khi có những bộ Luật liên quan đến Lao động mới được ban hành nhằm triển khai cụ thể đến người lao động để họ có thể nắm một cách chính xác. Bên cạnh đó, công ty cũng cần tạo một trang web chỉ nhân viên mới có thể đăng nhập ẩn danh để họ có thể bày tỏ những mong muốn, nguyện vọng của mình. Từ đó, có công ty sẽ có những chính sách mới phù hợp với tình hình thực tế của người lao động trong công ty mình.

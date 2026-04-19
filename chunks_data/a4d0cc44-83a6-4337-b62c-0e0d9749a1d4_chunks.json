@@ -1,0 +1,449 @@
+[
+  {
+    "id": "a4d0cc44-83a6-4337-b62c-0e0d9749a1d4_0",
+    "content": "[ẢNH HƯỞNG CỦA CHẤT LƯỢNG THÔNG TIN KẾ TOÁN ĐẾN GIÁ TRỊ CÁC CÔNG TY NIÊM YẾT TRÊN THỊ TRƯỜNG CHỨNG KHOÁN THÀNH PHỐ HỒ CHÍ MINH] (VÕ NGỌC TRĂM, 2024) [Tài chính - Ngân hàng] THÔNG TIN BÌA\n- **Chuyên ngành:** Tài Chính - Ngân Hàng  \nVÕ NGỌC TRĂM ẢNH HƯỞNG CỦA CHẤT LƯỢNG THÔNG TIN KẾ TOÁN ĐẾN GIÁ TRỊ CÁC CÔNG TY NIÊM YẾT TRÊN THỊ TRƯỜNG CHỨNG KHOÁN THÀNH PHỐ HỒ CHÍ MINH LUẬN VĂN THẠC SĨ NGÀNH TÀI CHÍNH - NGÂN HÀNG MÃ SỐ 8340201 NĂM 2024 VÕ NGỌC TRĂM MÃ SỐ HV: M2721021 ẢNH HƯỞNG CỦA CHẤT LƯỢNG THÔNG TIN KẾ TOÁN ĐẾN GIÁ TRỊ CÁC CÔNG TY NIÊM YẾT TRÊN THỊ TRƯỜNG CHỨNG KHOÁN THÀNH PHỐ HỒ CHÍ MINH LUẬN VĂN THẠC SĨ NGÀNH TÀI CHÍNH - NGÂN HÀNG MÃ SỐ 8340201 NGƯỜI HƯỚNG DẪN PGS.TS. NGUYỄN HỮU ĐẶNG NĂM 2024",
+    "metadata": {
+      "file_name": "a4d0cc44-83a6-4337-b62c-0e0d9749a1d4.md",
+      "ai_tldr": "Nghiên cứu này phân tích ảnh hưởng của chất lượng thông tin kế toán đến giá trị các công ty niêm yết trên HOSE, sử dụng dữ liệu bảng từ 345 công ty phi tài chính giai đoạn 2021-2023 và các mô hình hồi quy OLS, REM, FEM, FGLS. Kết quả cho thấy chất lượng thông tin kế toán, quy mô, tăng trưởng doanh thu, khả năng sinh lời và công ty kiểm toán có tác động tích cực đến giá trị công ty, trong đó công ty kiểm toán còn điều tiết ảnh hưởng của chất lượng thông tin kế toán.",
+      "applied_topic": [
+        "Đầu tư chứng khoán",
+        "Quản trị tài chính doanh nghiệp"
+      ],
+      "author": "VÕ NGỌC TRĂM",
+      "keywords": [
+        "Chất lượng thông tin kế toán",
+        "Giá trị công ty",
+        "Công ty kiểm toán",
+        "Công ty niêm yết",
+        "Thị trường chứng khoán",
+        "HOSE",
+        "Mô hình hồi quy"
+      ],
+      "major": "TÀI CHÍNH - NGÂN HÀNG",
+      "original_abstract": "Mục tiêu chính của đề tài này là phân tích ảnh hưởng của của chất lượng thông tin kế toán đến giá trị các công ty niêm yết trên thị trường chứng khoán thành phố Hồ Chí Minh (HOSE). Dữ liệu được sử dụng trong nghiên cứu này là dữ liệu bảng được thu thập từ báo cáo thường niên và báo cáo tài chính hợp nhất đã được kiểm toán trong giai đoạn từ năm 2021 đến 2023 của 345 công ty phi tài chính niêm yết trên HOSE. Nghiên cứu sử dụng mô hình hồi quy bình phương bé nhất thông thường (OLS), mô hình tác động ngẫu nghiên (REM), mô hình tác động cố đinh (FEM) và mô hình ước lượng bình phương bé nhất tổng quát khả thi (FGLS) để đưa ra kết quả cuối cùng. Kết quả nghiên cứu chỉ ra rằng có 4 nhân tố ảnh hưởng thuận chiều với giá trị công ty là chất lượng thông tin kế toán (FRQ), quy mô doanh nghiêp (SIZE), tăng trưởng doanh thu (GROWT), khả năng sinh lời (ROA) và công ty kiểm toán (BIG4). Cấu trúc vốn (LV) không có ý nghĩa thống kê. Công ty kiểm toán (BIG4) đóng vai trò điều tiết làm giảm ảnh hưởng tích cực của chất lượng thông tin kế toán đến giá trị công ty. Dựa trên kết quả nghiên cứu này, những hàm ý quản trị đã được đề xuất nhằm tối đa hóa giá trị công ty niêm yết trên HOSE chẵng hạn như: công ty cần nhận thức được tầm quan trọng của chất lượng thông tin kế toán, quy mô doanh nghiêp, gia tăng tốc độ tăng trưởng doanh thu, nâng cao khả năng sinh lời và cân nhắc trong việc lựa chọn công ty kiểm toán. Từ khóa: Chất lượng thông tin kế toán, giá trị công ty, công ty kiểm toán, công ty niêm yết. iii",
+      "standard_major": "Tài chính - Ngân hàng",
+      "status": "extracted",
+      "student_id": "M2721021",
+      "supervisor": "PGS.TS. NGUYỄN HỮU ĐẶNG",
+      "title": "ẢNH HƯỞNG CỦA CHẤT LƯỢNG THÔNG TIN KẾ TOÁN ĐẾN GIÁ TRỊ CÁC CÔNG TY NIÊM YẾT TRÊN THỊ TRƯỜNG CHỨNG KHOÁN THÀNH PHỐ HỒ CHÍ MINH",
+      "updated_at": 1775981228.101758,
+      "year": 2024,
+      "Header_1": "THÔNG TIN BÌA",
+      "chunk_index": 0,
+      "source_file": "a4d0cc44-83a6-4337-b62c-0e0d9749a1d4.md",
+      "token_count": 240,
+      "original_content": "- **Chuyên ngành:** Tài Chính - Ngân Hàng  \nVÕ NGỌC TRĂM ẢNH HƯỞNG CỦA CHẤT LƯỢNG THÔNG TIN KẾ TOÁN ĐẾN GIÁ TRỊ CÁC CÔNG TY NIÊM YẾT TRÊN THỊ TRƯỜNG CHỨNG KHOÁN THÀNH PHỐ HỒ CHÍ MINH LUẬN VĂN THẠC SĨ NGÀNH TÀI CHÍNH - NGÂN HÀNG MÃ SỐ 8340201 NĂM 2024 VÕ NGỌC TRĂM MÃ SỐ HV: M2721021 ẢNH HƯỞNG CỦA CHẤT LƯỢNG THÔNG TIN KẾ TOÁN ĐẾN GIÁ TRỊ CÁC CÔNG TY NIÊM YẾT TRÊN THỊ TRƯỜNG CHỨNG KHOÁN THÀNH PHỐ HỒ CHÍ MINH LUẬN VĂN THẠC SĨ NGÀNH TÀI CHÍNH - NGÂN HÀNG MÃ SỐ 8340201 NGƯỜI HƯỚNG DẪN PGS.TS. NGUYỄN HỮU ĐẶNG NĂM 2024"
+    }
+  },
+  {
+    "id": "a4d0cc44-83a6-4337-b62c-0e0d9749a1d4_1",
+    "content": "[ẢNH HƯỞNG CỦA CHẤT LƯỢNG THÔNG TIN KẾ TOÁN ĐẾN GIÁ TRỊ CÁC CÔNG TY NIÊM YẾT TRÊN THỊ TRƯỜNG CHỨNG KHOÁN THÀNH PHỐ HỒ CHÍ MINH] (VÕ NGỌC TRĂM, 2024) [Tài chính - Ngân hàng] TÓM TẮT\nMục tiêu chính của đề tài này là phân tích ảnh hưởng của của chất lượng thông tin kế toán đến giá trị các công ty niêm yết trên thị trường chứng khoán thành phố Hồ Chí Minh (HOSE). Dữ liệu được sử dụng trong nghiên cứu này là dữ liệu bảng được thu thập từ báo cáo thường niên và báo cáo tài chính hợp nhất đã được kiểm toán trong giai đoạn từ năm 2021 đến 2023 của 345 công ty phi tài chính niêm yết trên HOSE. Nghiên cứu sử dụng mô hình hồi quy bình phương bé nhất thông thường (OLS), mô hình tác động ngẫu nghiên (REM), mô hình tác động cố đinh (FEM) và mô hình ước lượng bình phương bé nhất tổng quát khả thi (FGLS) để đưa ra kết quả cuối cùng. Kết quả nghiên cứu chỉ ra rằng có 4 nhân tố ảnh hưởng thuận chiều với giá trị công ty là chất lượng thông tin kế toán (FRQ), quy mô doanh nghiêp (SIZE), tăng trưởng doanh thu (GROWT), khả năng sinh lời (ROA) và công ty kiểm toán (BIG4). Cấu trúc vốn (LV) không có ý nghĩa thống kê. Công ty kiểm toán (BIG4) đóng vai trò điều tiết làm giảm ảnh hưởng tích cực của chất lượng thông tin kế toán đến giá trị công ty. Dựa trên kết quả nghiên cứu này, những hàm ý quản trị đã được đề xuất nhằm tối đa hóa giá trị công ty niêm yết trên HOSE chẵng hạn như: công ty cần nhận thức được tầm quan trọng của chất lượng thông tin kế toán, quy mô doanh nghiêp, gia tăng tốc độ tăng trưởng doanh thu, nâng cao khả năng sinh lời và cân nhắc trong việc lựa chọn công ty kiểm toán.  \nTừ khóa: Chất lượng thông tin kế toán, giá trị công ty, công ty kiểm toán, công ty niêm yết. iii",
+    "metadata": {
+      "file_name": "a4d0cc44-83a6-4337-b62c-0e0d9749a1d4.md",
+      "ai_tldr": "Nghiên cứu này phân tích ảnh hưởng của chất lượng thông tin kế toán đến giá trị các công ty niêm yết trên HOSE, sử dụng dữ liệu bảng từ 345 công ty phi tài chính giai đoạn 2021-2023 và các mô hình hồi quy OLS, REM, FEM, FGLS. Kết quả cho thấy chất lượng thông tin kế toán, quy mô, tăng trưởng doanh thu, khả năng sinh lời và công ty kiểm toán có tác động tích cực đến giá trị công ty, trong đó công ty kiểm toán còn điều tiết ảnh hưởng của chất lượng thông tin kế toán.",
+      "applied_topic": [
+        "Đầu tư chứng khoán",
+        "Quản trị tài chính doanh nghiệp"
+      ],
+      "author": "VÕ NGỌC TRĂM",
+      "keywords": [
+        "Chất lượng thông tin kế toán",
+        "Giá trị công ty",
+        "Công ty kiểm toán",
+        "Công ty niêm yết",
+        "Thị trường chứng khoán",
+        "HOSE",
+        "Mô hình hồi quy"
+      ],
+      "major": "TÀI CHÍNH - NGÂN HÀNG",
+      "original_abstract": "Mục tiêu chính của đề tài này là phân tích ảnh hưởng của của chất lượng thông tin kế toán đến giá trị các công ty niêm yết trên thị trường chứng khoán thành phố Hồ Chí Minh (HOSE). Dữ liệu được sử dụng trong nghiên cứu này là dữ liệu bảng được thu thập từ báo cáo thường niên và báo cáo tài chính hợp nhất đã được kiểm toán trong giai đoạn từ năm 2021 đến 2023 của 345 công ty phi tài chính niêm yết trên HOSE. Nghiên cứu sử dụng mô hình hồi quy bình phương bé nhất thông thường (OLS), mô hình tác động ngẫu nghiên (REM), mô hình tác động cố đinh (FEM) và mô hình ước lượng bình phương bé nhất tổng quát khả thi (FGLS) để đưa ra kết quả cuối cùng. Kết quả nghiên cứu chỉ ra rằng có 4 nhân tố ảnh hưởng thuận chiều với giá trị công ty là chất lượng thông tin kế toán (FRQ), quy mô doanh nghiêp (SIZE), tăng trưởng doanh thu (GROWT), khả năng sinh lời (ROA) và công ty kiểm toán (BIG4). Cấu trúc vốn (LV) không có ý nghĩa thống kê. Công ty kiểm toán (BIG4) đóng vai trò điều tiết làm giảm ảnh hưởng tích cực của chất lượng thông tin kế toán đến giá trị công ty. Dựa trên kết quả nghiên cứu này, những hàm ý quản trị đã được đề xuất nhằm tối đa hóa giá trị công ty niêm yết trên HOSE chẵng hạn như: công ty cần nhận thức được tầm quan trọng của chất lượng thông tin kế toán, quy mô doanh nghiêp, gia tăng tốc độ tăng trưởng doanh thu, nâng cao khả năng sinh lời và cân nhắc trong việc lựa chọn công ty kiểm toán. Từ khóa: Chất lượng thông tin kế toán, giá trị công ty, công ty kiểm toán, công ty niêm yết. iii",
+      "standard_major": "Tài chính - Ngân hàng",
+      "status": "extracted",
+      "student_id": "M2721021",
+      "supervisor": "PGS.TS. NGUYỄN HỮU ĐẶNG",
+      "title": "ẢNH HƯỞNG CỦA CHẤT LƯỢNG THÔNG TIN KẾ TOÁN ĐẾN GIÁ TRỊ CÁC CÔNG TY NIÊM YẾT TRÊN THỊ TRƯỜNG CHỨNG KHOÁN THÀNH PHỐ HỒ CHÍ MINH",
+      "updated_at": 1775981228.101758,
+      "year": 2024,
+      "Header_1": "TÓM TẮT",
+      "chunk_index": 1,
+      "source_file": "a4d0cc44-83a6-4337-b62c-0e0d9749a1d4.md",
+      "token_count": 400,
+      "original_content": "Mục tiêu chính của đề tài này là phân tích ảnh hưởng của của chất lượng thông tin kế toán đến giá trị các công ty niêm yết trên thị trường chứng khoán thành phố Hồ Chí Minh (HOSE). Dữ liệu được sử dụng trong nghiên cứu này là dữ liệu bảng được thu thập từ báo cáo thường niên và báo cáo tài chính hợp nhất đã được kiểm toán trong giai đoạn từ năm 2021 đến 2023 của 345 công ty phi tài chính niêm yết trên HOSE. Nghiên cứu sử dụng mô hình hồi quy bình phương bé nhất thông thường (OLS), mô hình tác động ngẫu nghiên (REM), mô hình tác động cố đinh (FEM) và mô hình ước lượng bình phương bé nhất tổng quát khả thi (FGLS) để đưa ra kết quả cuối cùng. Kết quả nghiên cứu chỉ ra rằng có 4 nhân tố ảnh hưởng thuận chiều với giá trị công ty là chất lượng thông tin kế toán (FRQ), quy mô doanh nghiêp (SIZE), tăng trưởng doanh thu (GROWT), khả năng sinh lời (ROA) và công ty kiểm toán (BIG4). Cấu trúc vốn (LV) không có ý nghĩa thống kê. Công ty kiểm toán (BIG4) đóng vai trò điều tiết làm giảm ảnh hưởng tích cực của chất lượng thông tin kế toán đến giá trị công ty. Dựa trên kết quả nghiên cứu này, những hàm ý quản trị đã được đề xuất nhằm tối đa hóa giá trị công ty niêm yết trên HOSE chẵng hạn như: công ty cần nhận thức được tầm quan trọng của chất lượng thông tin kế toán, quy mô doanh nghiêp, gia tăng tốc độ tăng trưởng doanh thu, nâng cao khả năng sinh lời và cân nhắc trong việc lựa chọn công ty kiểm toán.  \nTừ khóa: Chất lượng thông tin kế toán, giá trị công ty, công ty kiểm toán, công ty niêm yết. iii"
+    }
+  },
+  {
+    "id": "a4d0cc44-83a6-4337-b62c-0e0d9749a1d4_3",
+    "content": "[ẢNH HƯỞNG CỦA CHẤT LƯỢNG THÔNG TIN KẾ TOÁN ĐẾN GIÁ TRỊ CÁC CÔNG TY NIÊM YẾT TRÊN THỊ TRƯỜNG CHỨNG KHOÁN THÀNH PHỐ HỒ CHÍ MINH] (VÕ NGỌC TRĂM, 2024) [Tài chính - Ngân hàng] CHƯƠNG 1 > 1.1 TÍNH CẤP THIẾT CỦA ĐỀ TÀI\nBáo cáo tài chính (BCTC) cung cấp thông tin về tình hình tài chính, hiệu quả hoạt động, dòng tiền và các dữ liệu liên quan khác nhằm hỗ trợ những người sử dụng đưa ra quyết định (Epstein & Jermakowicz, 2008). Vai trò to lớn của BCTC là cung cấp những thông tin tài chính ra bên ngoài một các kịp thời và hợp lý (Salehi và Azary, 2008).\nChất lượng thông tin BCTC luôn là vấn đề dành được nhiều sự quan tâm của các đối tượng sử dụng. Đặc biệt, chất lượng thông tin kế toán của các công ty niêm yết (CTNY) là mối quan tâm lớn của nhà đầu tư trên thị trường chứng khoán (TTCK). Tính minh bạch và độ tin cậy của thông tin tài chính luôn được xem là nhân tố quan trọng để bảo vệ các nhà đầu tư cũng như tính ổn định của TTCK. Thông tin càng minh bạch giúp nhà đầu tư hiểu được những quyết định của nhà quản trị, giảm tình trạng bất cân xứng thông tin và kết quả là giảm chi phí sử dụng vốn, gia tăng hiệu quả đầu tư (Bushman & Smith, 2001; Healy và Palepu 2001). Chính vì vậy, tính trung thực và chính xác của BCTC trong các CTNY có ý nghĩa đặc biệt quan trọng đối với các cổ đông, cũng như các nhà đầu tư.\nHabib và Jiang (2015) cũng xác định rằng chất lượng BCTC sẽ đóng góp vào giá trị của công ty thông qua việc giảm tính bất cân xứng thông tin. Khi chất lượng BCTC cao hơn sẽ làm giảm tình trạng bất cân xứng thông tin và rủi ro hệ thống, từ đó làm giảm chi phí vốn và tăng giá trị công ty (Latif, Bhatti và Raheman, 2017).",
+    "metadata": {
+      "file_name": "a4d0cc44-83a6-4337-b62c-0e0d9749a1d4.md",
+      "ai_tldr": "Nghiên cứu này phân tích ảnh hưởng của chất lượng thông tin kế toán đến giá trị các công ty niêm yết trên HOSE, sử dụng dữ liệu bảng từ 345 công ty phi tài chính giai đoạn 2021-2023 và các mô hình hồi quy OLS, REM, FEM, FGLS. Kết quả cho thấy chất lượng thông tin kế toán, quy mô, tăng trưởng doanh thu, khả năng sinh lời và công ty kiểm toán có tác động tích cực đến giá trị công ty, trong đó công ty kiểm toán còn điều tiết ảnh hưởng của chất lượng thông tin kế toán.",
+      "applied_topic": [
+        "Đầu tư chứng khoán",
+        "Quản trị tài chính doanh nghiệp"
+      ],
+      "author": "VÕ NGỌC TRĂM",
+      "keywords": [
+        "Chất lượng thông tin kế toán",
+        "Giá trị công ty",
+        "Công ty kiểm toán",
+        "Công ty niêm yết",
+        "Thị trường chứng khoán",
+        "HOSE",
+        "Mô hình hồi quy"
+      ],
+      "major": "TÀI CHÍNH - NGÂN HÀNG",
+      "original_abstract": "Mục tiêu chính của đề tài này là phân tích ảnh hưởng của của chất lượng thông tin kế toán đến giá trị các công ty niêm yết trên thị trường chứng khoán thành phố Hồ Chí Minh (HOSE). Dữ liệu được sử dụng trong nghiên cứu này là dữ liệu bảng được thu thập từ báo cáo thường niên và báo cáo tài chính hợp nhất đã được kiểm toán trong giai đoạn từ năm 2021 đến 2023 của 345 công ty phi tài chính niêm yết trên HOSE. Nghiên cứu sử dụng mô hình hồi quy bình phương bé nhất thông thường (OLS), mô hình tác động ngẫu nghiên (REM), mô hình tác động cố đinh (FEM) và mô hình ước lượng bình phương bé nhất tổng quát khả thi (FGLS) để đưa ra kết quả cuối cùng. Kết quả nghiên cứu chỉ ra rằng có 4 nhân tố ảnh hưởng thuận chiều với giá trị công ty là chất lượng thông tin kế toán (FRQ), quy mô doanh nghiêp (SIZE), tăng trưởng doanh thu (GROWT), khả năng sinh lời (ROA) và công ty kiểm toán (BIG4). Cấu trúc vốn (LV) không có ý nghĩa thống kê. Công ty kiểm toán (BIG4) đóng vai trò điều tiết làm giảm ảnh hưởng tích cực của chất lượng thông tin kế toán đến giá trị công ty. Dựa trên kết quả nghiên cứu này, những hàm ý quản trị đã được đề xuất nhằm tối đa hóa giá trị công ty niêm yết trên HOSE chẵng hạn như: công ty cần nhận thức được tầm quan trọng của chất lượng thông tin kế toán, quy mô doanh nghiêp, gia tăng tốc độ tăng trưởng doanh thu, nâng cao khả năng sinh lời và cân nhắc trong việc lựa chọn công ty kiểm toán. Từ khóa: Chất lượng thông tin kế toán, giá trị công ty, công ty kiểm toán, công ty niêm yết. iii",
+      "standard_major": "Tài chính - Ngân hàng",
+      "status": "extracted",
+      "student_id": "M2721021",
+      "supervisor": "PGS.TS. NGUYỄN HỮU ĐẶNG",
+      "title": "ẢNH HƯỞNG CỦA CHẤT LƯỢNG THÔNG TIN KẾ TOÁN ĐẾN GIÁ TRỊ CÁC CÔNG TY NIÊM YẾT TRÊN THỊ TRƯỜNG CHỨNG KHOÁN THÀNH PHỐ HỒ CHÍ MINH",
+      "updated_at": 1775981228.101758,
+      "year": 2024,
+      "Header_1": "CHƯƠNG 1",
+      "Header_2": "1.1 TÍNH CẤP THIẾT CỦA ĐỀ TÀI",
+      "chunk_index": 3,
+      "source_file": "a4d0cc44-83a6-4337-b62c-0e0d9749a1d4.md",
+      "token_count": 365,
+      "original_content": "Báo cáo tài chính (BCTC) cung cấp thông tin về tình hình tài chính, hiệu quả hoạt động, dòng tiền và các dữ liệu liên quan khác nhằm hỗ trợ những người sử dụng đưa ra quyết định (Epstein & Jermakowicz, 2008). Vai trò to lớn của BCTC là cung cấp những thông tin tài chính ra bên ngoài một các kịp thời và hợp lý (Salehi và Azary, 2008).\nChất lượng thông tin BCTC luôn là vấn đề dành được nhiều sự quan tâm của các đối tượng sử dụng. Đặc biệt, chất lượng thông tin kế toán của các công ty niêm yết (CTNY) là mối quan tâm lớn của nhà đầu tư trên thị trường chứng khoán (TTCK). Tính minh bạch và độ tin cậy của thông tin tài chính luôn được xem là nhân tố quan trọng để bảo vệ các nhà đầu tư cũng như tính ổn định của TTCK. Thông tin càng minh bạch giúp nhà đầu tư hiểu được những quyết định của nhà quản trị, giảm tình trạng bất cân xứng thông tin và kết quả là giảm chi phí sử dụng vốn, gia tăng hiệu quả đầu tư (Bushman & Smith, 2001; Healy và Palepu 2001). Chính vì vậy, tính trung thực và chính xác của BCTC trong các CTNY có ý nghĩa đặc biệt quan trọng đối với các cổ đông, cũng như các nhà đầu tư.\nHabib và Jiang (2015) cũng xác định rằng chất lượng BCTC sẽ đóng góp vào giá trị của công ty thông qua việc giảm tính bất cân xứng thông tin. Khi chất lượng BCTC cao hơn sẽ làm giảm tình trạng bất cân xứng thông tin và rủi ro hệ thống, từ đó làm giảm chi phí vốn và tăng giá trị công ty (Latif, Bhatti và Raheman, 2017)."
+    }
+  },
+  {
+    "id": "a4d0cc44-83a6-4337-b62c-0e0d9749a1d4_4",
+    "content": "[ẢNH HƯỞNG CỦA CHẤT LƯỢNG THÔNG TIN KẾ TOÁN ĐẾN GIÁ TRỊ CÁC CÔNG TY NIÊM YẾT TRÊN THỊ TRƯỜNG CHỨNG KHOÁN THÀNH PHỐ HỒ CHÍ MINH] (VÕ NGỌC TRĂM, 2024) [Tài chính - Ngân hàng] CHƯƠNG 1 > 1.1 TÍNH CẤP THIẾT CỦA ĐỀ TÀI\nGiá trị công ty là một chủ đề thu hút sự quan tâm rất lớn của các nhà quản trị công ty và các nhà nghiên cứu. Trên góc độ tài chính, giá trị của doanh nghiệp được hiểu là tổng giá trị hiện tại của các khoản lợi ích mà nhà đầu tư thu được trong tương lai từ các hoạt động của doanh nghiệp mang lại. Các khoản lợi ích mà nhà đầu tư thu được từ doanh nghiệp được thể hiện qua dòng tiền mà doanh nghiệp mang lại cho nhà đầu tư trong tương lai. Ngoài mục tiêu tối đa hóa lợi nhuận, nhà quản trị công ty còn nhằm đạt đến mục tiêu tối đa hóa giá trị công ty hay tối đa hóa giá trị cho chủ sở hữu. Giá trị tài sản của chủ sở hữu đối với công ty cổ phần (CTCP) được định giá thông qua giá cổ phiếu. Như vậy, giá trị tài sản của các cổ đông được tối đa hóa tương đương với việc tối đa hóa giá cổ phiếu trên thị trường. Nói cách khác, một doanh nghiệp hoạt động thì mục tiêu của nó là tối đa hóa giá trị tài sản cho các chủ sở hữu, và đối với CTCP thì mục tiêu đó được chuyển thành tối đa hóa giá cổ phiếu trên thị trường.",
+    "metadata": {
+      "file_name": "a4d0cc44-83a6-4337-b62c-0e0d9749a1d4.md",
+      "ai_tldr": "Nghiên cứu này phân tích ảnh hưởng của chất lượng thông tin kế toán đến giá trị các công ty niêm yết trên HOSE, sử dụng dữ liệu bảng từ 345 công ty phi tài chính giai đoạn 2021-2023 và các mô hình hồi quy OLS, REM, FEM, FGLS. Kết quả cho thấy chất lượng thông tin kế toán, quy mô, tăng trưởng doanh thu, khả năng sinh lời và công ty kiểm toán có tác động tích cực đến giá trị công ty, trong đó công ty kiểm toán còn điều tiết ảnh hưởng của chất lượng thông tin kế toán.",
+      "applied_topic": [
+        "Đầu tư chứng khoán",
+        "Quản trị tài chính doanh nghiệp"
+      ],
+      "author": "VÕ NGỌC TRĂM",
+      "keywords": [
+        "Chất lượng thông tin kế toán",
+        "Giá trị công ty",
+        "Công ty kiểm toán",
+        "Công ty niêm yết",
+        "Thị trường chứng khoán",
+        "HOSE",
+        "Mô hình hồi quy"
+      ],
+      "major": "TÀI CHÍNH - NGÂN HÀNG",
+      "original_abstract": "Mục tiêu chính của đề tài này là phân tích ảnh hưởng của của chất lượng thông tin kế toán đến giá trị các công ty niêm yết trên thị trường chứng khoán thành phố Hồ Chí Minh (HOSE). Dữ liệu được sử dụng trong nghiên cứu này là dữ liệu bảng được thu thập từ báo cáo thường niên và báo cáo tài chính hợp nhất đã được kiểm toán trong giai đoạn từ năm 2021 đến 2023 của 345 công ty phi tài chính niêm yết trên HOSE. Nghiên cứu sử dụng mô hình hồi quy bình phương bé nhất thông thường (OLS), mô hình tác động ngẫu nghiên (REM), mô hình tác động cố đinh (FEM) và mô hình ước lượng bình phương bé nhất tổng quát khả thi (FGLS) để đưa ra kết quả cuối cùng. Kết quả nghiên cứu chỉ ra rằng có 4 nhân tố ảnh hưởng thuận chiều với giá trị công ty là chất lượng thông tin kế toán (FRQ), quy mô doanh nghiêp (SIZE), tăng trưởng doanh thu (GROWT), khả năng sinh lời (ROA) và công ty kiểm toán (BIG4). Cấu trúc vốn (LV) không có ý nghĩa thống kê. Công ty kiểm toán (BIG4) đóng vai trò điều tiết làm giảm ảnh hưởng tích cực của chất lượng thông tin kế toán đến giá trị công ty. Dựa trên kết quả nghiên cứu này, những hàm ý quản trị đã được đề xuất nhằm tối đa hóa giá trị công ty niêm yết trên HOSE chẵng hạn như: công ty cần nhận thức được tầm quan trọng của chất lượng thông tin kế toán, quy mô doanh nghiêp, gia tăng tốc độ tăng trưởng doanh thu, nâng cao khả năng sinh lời và cân nhắc trong việc lựa chọn công ty kiểm toán. Từ khóa: Chất lượng thông tin kế toán, giá trị công ty, công ty kiểm toán, công ty niêm yết. iii",
+      "standard_major": "Tài chính - Ngân hàng",
+      "status": "extracted",
+      "student_id": "M2721021",
+      "supervisor": "PGS.TS. NGUYỄN HỮU ĐẶNG",
+      "title": "ẢNH HƯỞNG CỦA CHẤT LƯỢNG THÔNG TIN KẾ TOÁN ĐẾN GIÁ TRỊ CÁC CÔNG TY NIÊM YẾT TRÊN THỊ TRƯỜNG CHỨNG KHOÁN THÀNH PHỐ HỒ CHÍ MINH",
+      "updated_at": 1775981228.101758,
+      "year": 2024,
+      "Header_1": "CHƯƠNG 1",
+      "Header_2": "1.1 TÍNH CẤP THIẾT CỦA ĐỀ TÀI",
+      "chunk_index": 4,
+      "source_file": "a4d0cc44-83a6-4337-b62c-0e0d9749a1d4.md",
+      "token_count": 247,
+      "original_content": "Giá trị công ty là một chủ đề thu hút sự quan tâm rất lớn của các nhà quản trị công ty và các nhà nghiên cứu. Trên góc độ tài chính, giá trị của doanh nghiệp được hiểu là tổng giá trị hiện tại của các khoản lợi ích mà nhà đầu tư thu được trong tương lai từ các hoạt động của doanh nghiệp mang lại. Các khoản lợi ích mà nhà đầu tư thu được từ doanh nghiệp được thể hiện qua dòng tiền mà doanh nghiệp mang lại cho nhà đầu tư trong tương lai. Ngoài mục tiêu tối đa hóa lợi nhuận, nhà quản trị công ty còn nhằm đạt đến mục tiêu tối đa hóa giá trị công ty hay tối đa hóa giá trị cho chủ sở hữu. Giá trị tài sản của chủ sở hữu đối với công ty cổ phần (CTCP) được định giá thông qua giá cổ phiếu. Như vậy, giá trị tài sản của các cổ đông được tối đa hóa tương đương với việc tối đa hóa giá cổ phiếu trên thị trường. Nói cách khác, một doanh nghiệp hoạt động thì mục tiêu của nó là tối đa hóa giá trị tài sản cho các chủ sở hữu, và đối với CTCP thì mục tiêu đó được chuyển thành tối đa hóa giá cổ phiếu trên thị trường."
+    }
+  },
+  {
+    "id": "a4d0cc44-83a6-4337-b62c-0e0d9749a1d4_5",
+    "content": "[ẢNH HƯỞNG CỦA CHẤT LƯỢNG THÔNG TIN KẾ TOÁN ĐẾN GIÁ TRỊ CÁC CÔNG TY NIÊM YẾT TRÊN THỊ TRƯỜNG CHỨNG KHOÁN THÀNH PHỐ HỒ CHÍ MINH] (VÕ NGỌC TRĂM, 2024) [Tài chính - Ngân hàng] CHƯƠNG 1 > 1.1 TÍNH CẤP THIẾT CỦA ĐỀ TÀI\nCó nhiều nghiên cứu chứng minh mối quan hệ giữa thông tin kế toán trên BCTC với giá trị công ty như nghiên cứu của Varaiya, Kerin và Weeks (1987), Asiri và Hameed (2014), Li-Ju Chen và Shun-Yu Chen (2011), Kodongo và cộng sự (2015), Mule và cộng sự (2015), Đặng Ngọc Hùng, Phạm Đức Cường và Vũ Thị Bích Hà (2018, Vũ Thị Bích Hà (2020), Vũ Thị Bích Hà và Đặng Ngọc Hùng (2022). Kết quả nghiên cứu có những điểm tương đồng và khác biệt khi sử dụng các thước đo khác nhau. Tuy nhiên ở nước ta hiện nay, nghiên cứu ảnh hưởng của chất lượng thông tin kế toán trên BCTC đến giá trị công ty chưa được quan tâm nhiều.\nViệt Nam có nền kinh tế đang phát triển, quy định pháp lý, môi trường kinh doanh và sự phát triển của TTCK chưa được hoàn thiện, do đó đề tài “Ảnh hưởng của chất lượng thông tin kế toán đến giá trị các công ty niêm yết trên thị trường chứng khoán thành phố Hồ Chí Minh” được tác giả thực hiện nhằm đưa ra bằng chứng thực nghiệm kiểm chứng ảnh hưởng của chất lượng thông tin kế toán trên BCTC đến giá trị doanh nghiệp của các CTNY, trên cơ sở đó, đề xuất các khuyến nghị nhằm nâng cao tính hữu ích của thông tin kế toán trên BCTC, tăng giá trị công ty.",
+    "metadata": {
+      "file_name": "a4d0cc44-83a6-4337-b62c-0e0d9749a1d4.md",
+      "ai_tldr": "Nghiên cứu này phân tích ảnh hưởng của chất lượng thông tin kế toán đến giá trị các công ty niêm yết trên HOSE, sử dụng dữ liệu bảng từ 345 công ty phi tài chính giai đoạn 2021-2023 và các mô hình hồi quy OLS, REM, FEM, FGLS. Kết quả cho thấy chất lượng thông tin kế toán, quy mô, tăng trưởng doanh thu, khả năng sinh lời và công ty kiểm toán có tác động tích cực đến giá trị công ty, trong đó công ty kiểm toán còn điều tiết ảnh hưởng của chất lượng thông tin kế toán.",
+      "applied_topic": [
+        "Đầu tư chứng khoán",
+        "Quản trị tài chính doanh nghiệp"
+      ],
+      "author": "VÕ NGỌC TRĂM",
+      "keywords": [
+        "Chất lượng thông tin kế toán",
+        "Giá trị công ty",
+        "Công ty kiểm toán",
+        "Công ty niêm yết",
+        "Thị trường chứng khoán",
+        "HOSE",
+        "Mô hình hồi quy"
+      ],
+      "major": "TÀI CHÍNH - NGÂN HÀNG",
+      "original_abstract": "Mục tiêu chính của đề tài này là phân tích ảnh hưởng của của chất lượng thông tin kế toán đến giá trị các công ty niêm yết trên thị trường chứng khoán thành phố Hồ Chí Minh (HOSE). Dữ liệu được sử dụng trong nghiên cứu này là dữ liệu bảng được thu thập từ báo cáo thường niên và báo cáo tài chính hợp nhất đã được kiểm toán trong giai đoạn từ năm 2021 đến 2023 của 345 công ty phi tài chính niêm yết trên HOSE. Nghiên cứu sử dụng mô hình hồi quy bình phương bé nhất thông thường (OLS), mô hình tác động ngẫu nghiên (REM), mô hình tác động cố đinh (FEM) và mô hình ước lượng bình phương bé nhất tổng quát khả thi (FGLS) để đưa ra kết quả cuối cùng. Kết quả nghiên cứu chỉ ra rằng có 4 nhân tố ảnh hưởng thuận chiều với giá trị công ty là chất lượng thông tin kế toán (FRQ), quy mô doanh nghiêp (SIZE), tăng trưởng doanh thu (GROWT), khả năng sinh lời (ROA) và công ty kiểm toán (BIG4). Cấu trúc vốn (LV) không có ý nghĩa thống kê. Công ty kiểm toán (BIG4) đóng vai trò điều tiết làm giảm ảnh hưởng tích cực của chất lượng thông tin kế toán đến giá trị công ty. Dựa trên kết quả nghiên cứu này, những hàm ý quản trị đã được đề xuất nhằm tối đa hóa giá trị công ty niêm yết trên HOSE chẵng hạn như: công ty cần nhận thức được tầm quan trọng của chất lượng thông tin kế toán, quy mô doanh nghiêp, gia tăng tốc độ tăng trưởng doanh thu, nâng cao khả năng sinh lời và cân nhắc trong việc lựa chọn công ty kiểm toán. Từ khóa: Chất lượng thông tin kế toán, giá trị công ty, công ty kiểm toán, công ty niêm yết. iii",
+      "standard_major": "Tài chính - Ngân hàng",
+      "status": "extracted",
+      "student_id": "M2721021",
+      "supervisor": "PGS.TS. NGUYỄN HỮU ĐẶNG",
+      "title": "ẢNH HƯỞNG CỦA CHẤT LƯỢNG THÔNG TIN KẾ TOÁN ĐẾN GIÁ TRỊ CÁC CÔNG TY NIÊM YẾT TRÊN THỊ TRƯỜNG CHỨNG KHOÁN THÀNH PHỐ HỒ CHÍ MINH",
+      "updated_at": 1775981228.101758,
+      "year": 2024,
+      "Header_1": "CHƯƠNG 1",
+      "Header_2": "1.1 TÍNH CẤP THIẾT CỦA ĐỀ TÀI",
+      "chunk_index": 5,
+      "source_file": "a4d0cc44-83a6-4337-b62c-0e0d9749a1d4.md",
+      "token_count": 296,
+      "original_content": "Có nhiều nghiên cứu chứng minh mối quan hệ giữa thông tin kế toán trên BCTC với giá trị công ty như nghiên cứu của Varaiya, Kerin và Weeks (1987), Asiri và Hameed (2014), Li-Ju Chen và Shun-Yu Chen (2011), Kodongo và cộng sự (2015), Mule và cộng sự (2015), Đặng Ngọc Hùng, Phạm Đức Cường và Vũ Thị Bích Hà (2018, Vũ Thị Bích Hà (2020), Vũ Thị Bích Hà và Đặng Ngọc Hùng (2022). Kết quả nghiên cứu có những điểm tương đồng và khác biệt khi sử dụng các thước đo khác nhau. Tuy nhiên ở nước ta hiện nay, nghiên cứu ảnh hưởng của chất lượng thông tin kế toán trên BCTC đến giá trị công ty chưa được quan tâm nhiều.\nViệt Nam có nền kinh tế đang phát triển, quy định pháp lý, môi trường kinh doanh và sự phát triển của TTCK chưa được hoàn thiện, do đó đề tài “Ảnh hưởng của chất lượng thông tin kế toán đến giá trị các công ty niêm yết trên thị trường chứng khoán thành phố Hồ Chí Minh” được tác giả thực hiện nhằm đưa ra bằng chứng thực nghiệm kiểm chứng ảnh hưởng của chất lượng thông tin kế toán trên BCTC đến giá trị doanh nghiệp của các CTNY, trên cơ sở đó, đề xuất các khuyến nghị nhằm nâng cao tính hữu ích của thông tin kế toán trên BCTC, tăng giá trị công ty."
+    }
+  },
+  {
+    "id": "a4d0cc44-83a6-4337-b62c-0e0d9749a1d4_6",
+    "content": "[ẢNH HƯỞNG CỦA CHẤT LƯỢNG THÔNG TIN KẾ TOÁN ĐẾN GIÁ TRỊ CÁC CÔNG TY NIÊM YẾT TRÊN THỊ TRƯỜNG CHỨNG KHOÁN THÀNH PHỐ HỒ CHÍ MINH] (VÕ NGỌC TRĂM, 2024) [Tài chính - Ngân hàng] CHƯƠNG 1 > 1.2 MỤC TIÊU NGHIÊN CỨU > 1.2.1 Mục tiêu chung\nMục tiêu chung của đề tài là phân tích ảnh hưởng của chất lượng thông tin kế toán đến giá trị công ty của các công ty đang niêm yết trên Sở giao dịch chứng khoán thành phố Hồ Chí Minh (HOSE), từ đó đề xuất một số hàm ý quản trị nhằm nâng cao chất lượng thông tin kế toán, tăng giá trị công ty của các CTNY trên HOSE.",
+    "metadata": {
+      "file_name": "a4d0cc44-83a6-4337-b62c-0e0d9749a1d4.md",
+      "ai_tldr": "Nghiên cứu này phân tích ảnh hưởng của chất lượng thông tin kế toán đến giá trị các công ty niêm yết trên HOSE, sử dụng dữ liệu bảng từ 345 công ty phi tài chính giai đoạn 2021-2023 và các mô hình hồi quy OLS, REM, FEM, FGLS. Kết quả cho thấy chất lượng thông tin kế toán, quy mô, tăng trưởng doanh thu, khả năng sinh lời và công ty kiểm toán có tác động tích cực đến giá trị công ty, trong đó công ty kiểm toán còn điều tiết ảnh hưởng của chất lượng thông tin kế toán.",
+      "applied_topic": [
+        "Đầu tư chứng khoán",
+        "Quản trị tài chính doanh nghiệp"
+      ],
+      "author": "VÕ NGỌC TRĂM",
+      "keywords": [
+        "Chất lượng thông tin kế toán",
+        "Giá trị công ty",
+        "Công ty kiểm toán",
+        "Công ty niêm yết",
+        "Thị trường chứng khoán",
+        "HOSE",
+        "Mô hình hồi quy"
+      ],
+      "major": "TÀI CHÍNH - NGÂN HÀNG",
+      "original_abstract": "Mục tiêu chính của đề tài này là phân tích ảnh hưởng của của chất lượng thông tin kế toán đến giá trị các công ty niêm yết trên thị trường chứng khoán thành phố Hồ Chí Minh (HOSE). Dữ liệu được sử dụng trong nghiên cứu này là dữ liệu bảng được thu thập từ báo cáo thường niên và báo cáo tài chính hợp nhất đã được kiểm toán trong giai đoạn từ năm 2021 đến 2023 của 345 công ty phi tài chính niêm yết trên HOSE. Nghiên cứu sử dụng mô hình hồi quy bình phương bé nhất thông thường (OLS), mô hình tác động ngẫu nghiên (REM), mô hình tác động cố đinh (FEM) và mô hình ước lượng bình phương bé nhất tổng quát khả thi (FGLS) để đưa ra kết quả cuối cùng. Kết quả nghiên cứu chỉ ra rằng có 4 nhân tố ảnh hưởng thuận chiều với giá trị công ty là chất lượng thông tin kế toán (FRQ), quy mô doanh nghiêp (SIZE), tăng trưởng doanh thu (GROWT), khả năng sinh lời (ROA) và công ty kiểm toán (BIG4). Cấu trúc vốn (LV) không có ý nghĩa thống kê. Công ty kiểm toán (BIG4) đóng vai trò điều tiết làm giảm ảnh hưởng tích cực của chất lượng thông tin kế toán đến giá trị công ty. Dựa trên kết quả nghiên cứu này, những hàm ý quản trị đã được đề xuất nhằm tối đa hóa giá trị công ty niêm yết trên HOSE chẵng hạn như: công ty cần nhận thức được tầm quan trọng của chất lượng thông tin kế toán, quy mô doanh nghiêp, gia tăng tốc độ tăng trưởng doanh thu, nâng cao khả năng sinh lời và cân nhắc trong việc lựa chọn công ty kiểm toán. Từ khóa: Chất lượng thông tin kế toán, giá trị công ty, công ty kiểm toán, công ty niêm yết. iii",
+      "standard_major": "Tài chính - Ngân hàng",
+      "status": "extracted",
+      "student_id": "M2721021",
+      "supervisor": "PGS.TS. NGUYỄN HỮU ĐẶNG",
+      "title": "ẢNH HƯỞNG CỦA CHẤT LƯỢNG THÔNG TIN KẾ TOÁN ĐẾN GIÁ TRỊ CÁC CÔNG TY NIÊM YẾT TRÊN THỊ TRƯỜNG CHỨNG KHOÁN THÀNH PHỐ HỒ CHÍ MINH",
+      "updated_at": 1775981228.101758,
+      "year": 2024,
+      "Header_1": "CHƯƠNG 1",
+      "Header_2": "1.2 MỤC TIÊU NGHIÊN CỨU",
+      "Header_3": "1.2.1 Mục tiêu chung",
+      "chunk_index": 6,
+      "source_file": "a4d0cc44-83a6-4337-b62c-0e0d9749a1d4.md",
+      "token_count": 80,
+      "original_content": "Mục tiêu chung của đề tài là phân tích ảnh hưởng của chất lượng thông tin kế toán đến giá trị công ty của các công ty đang niêm yết trên Sở giao dịch chứng khoán thành phố Hồ Chí Minh (HOSE), từ đó đề xuất một số hàm ý quản trị nhằm nâng cao chất lượng thông tin kế toán, tăng giá trị công ty của các CTNY trên HOSE."
+    }
+  },
+  {
+    "id": "a4d0cc44-83a6-4337-b62c-0e0d9749a1d4_7",
+    "content": "[ẢNH HƯỞNG CỦA CHẤT LƯỢNG THÔNG TIN KẾ TOÁN ĐẾN GIÁ TRỊ CÁC CÔNG TY NIÊM YẾT TRÊN THỊ TRƯỜNG CHỨNG KHOÁN THÀNH PHỐ HỒ CHÍ MINH] (VÕ NGỌC TRĂM, 2024) [Tài chính - Ngân hàng] CHƯƠNG 1 > 1.2 MỤC TIÊU NGHIÊN CỨU > 1.2.2 Mục tiêu cụ thể\n(1) Đánh giá thực trạng chất lượng thông tin kế toán trên BCTC của các CTNY tại HOSE; (2) Phân tích ảnh hưởng của chất lượng thông tin kế toán trên BCTC đến giá trị công ty đang niêm yết trên HOSE; và (3) Đề xuất một số hàm ý quản trị nhằm nâng cao chất lượng thông tin kế toán, tăng giá trị công ty của các CTNY trên HOSE.",
+    "metadata": {
+      "file_name": "a4d0cc44-83a6-4337-b62c-0e0d9749a1d4.md",
+      "ai_tldr": "Nghiên cứu này phân tích ảnh hưởng của chất lượng thông tin kế toán đến giá trị các công ty niêm yết trên HOSE, sử dụng dữ liệu bảng từ 345 công ty phi tài chính giai đoạn 2021-2023 và các mô hình hồi quy OLS, REM, FEM, FGLS. Kết quả cho thấy chất lượng thông tin kế toán, quy mô, tăng trưởng doanh thu, khả năng sinh lời và công ty kiểm toán có tác động tích cực đến giá trị công ty, trong đó công ty kiểm toán còn điều tiết ảnh hưởng của chất lượng thông tin kế toán.",
+      "applied_topic": [
+        "Đầu tư chứng khoán",
+        "Quản trị tài chính doanh nghiệp"
+      ],
+      "author": "VÕ NGỌC TRĂM",
+      "keywords": [
+        "Chất lượng thông tin kế toán",
+        "Giá trị công ty",
+        "Công ty kiểm toán",
+        "Công ty niêm yết",
+        "Thị trường chứng khoán",
+        "HOSE",
+        "Mô hình hồi quy"
+      ],
+      "major": "TÀI CHÍNH - NGÂN HÀNG",
+      "original_abstract": "Mục tiêu chính của đề tài này là phân tích ảnh hưởng của của chất lượng thông tin kế toán đến giá trị các công ty niêm yết trên thị trường chứng khoán thành phố Hồ Chí Minh (HOSE). Dữ liệu được sử dụng trong nghiên cứu này là dữ liệu bảng được thu thập từ báo cáo thường niên và báo cáo tài chính hợp nhất đã được kiểm toán trong giai đoạn từ năm 2021 đến 2023 của 345 công ty phi tài chính niêm yết trên HOSE. Nghiên cứu sử dụng mô hình hồi quy bình phương bé nhất thông thường (OLS), mô hình tác động ngẫu nghiên (REM), mô hình tác động cố đinh (FEM) và mô hình ước lượng bình phương bé nhất tổng quát khả thi (FGLS) để đưa ra kết quả cuối cùng. Kết quả nghiên cứu chỉ ra rằng có 4 nhân tố ảnh hưởng thuận chiều với giá trị công ty là chất lượng thông tin kế toán (FRQ), quy mô doanh nghiêp (SIZE), tăng trưởng doanh thu (GROWT), khả năng sinh lời (ROA) và công ty kiểm toán (BIG4). Cấu trúc vốn (LV) không có ý nghĩa thống kê. Công ty kiểm toán (BIG4) đóng vai trò điều tiết làm giảm ảnh hưởng tích cực của chất lượng thông tin kế toán đến giá trị công ty. Dựa trên kết quả nghiên cứu này, những hàm ý quản trị đã được đề xuất nhằm tối đa hóa giá trị công ty niêm yết trên HOSE chẵng hạn như: công ty cần nhận thức được tầm quan trọng của chất lượng thông tin kế toán, quy mô doanh nghiêp, gia tăng tốc độ tăng trưởng doanh thu, nâng cao khả năng sinh lời và cân nhắc trong việc lựa chọn công ty kiểm toán. Từ khóa: Chất lượng thông tin kế toán, giá trị công ty, công ty kiểm toán, công ty niêm yết. iii",
+      "standard_major": "Tài chính - Ngân hàng",
+      "status": "extracted",
+      "student_id": "M2721021",
+      "supervisor": "PGS.TS. NGUYỄN HỮU ĐẶNG",
+      "title": "ẢNH HƯỞNG CỦA CHẤT LƯỢNG THÔNG TIN KẾ TOÁN ĐẾN GIÁ TRỊ CÁC CÔNG TY NIÊM YẾT TRÊN THỊ TRƯỜNG CHỨNG KHOÁN THÀNH PHỐ HỒ CHÍ MINH",
+      "updated_at": 1775981228.101758,
+      "year": 2024,
+      "Header_1": "CHƯƠNG 1",
+      "Header_2": "1.2 MỤC TIÊU NGHIÊN CỨU",
+      "Header_3": "1.2.2 Mục tiêu cụ thể",
+      "chunk_index": 7,
+      "source_file": "a4d0cc44-83a6-4337-b62c-0e0d9749a1d4.md",
+      "token_count": 84,
+      "original_content": "(1) Đánh giá thực trạng chất lượng thông tin kế toán trên BCTC của các CTNY tại HOSE; (2) Phân tích ảnh hưởng của chất lượng thông tin kế toán trên BCTC đến giá trị công ty đang niêm yết trên HOSE; và (3) Đề xuất một số hàm ý quản trị nhằm nâng cao chất lượng thông tin kế toán, tăng giá trị công ty của các CTNY trên HOSE."
+    }
+  },
+  {
+    "id": "a4d0cc44-83a6-4337-b62c-0e0d9749a1d4_8",
+    "content": "[ẢNH HƯỞNG CỦA CHẤT LƯỢNG THÔNG TIN KẾ TOÁN ĐẾN GIÁ TRỊ CÁC CÔNG TY NIÊM YẾT TRÊN THỊ TRƯỜNG CHỨNG KHOÁN THÀNH PHỐ HỒ CHÍ MINH] (VÕ NGỌC TRĂM, 2024) [Tài chính - Ngân hàng] CHƯƠNG 1 > 1.3 CÂU HỎI NGHIÊN CỨU\nThực trạng chất lượng thông tin kế toán của các CTNY trên HOSE như thế nào?\nẢnh hưởng của chất lượng thông tin kế toán trên BCTC đến giá trị công ty của các CTNY trên HOSE ra sao?\nNhững hàm ý quản trị nào được đề xuất nhằm nâng cao giá trị công ty của các CTNY trên HOSE?",
+    "metadata": {
+      "file_name": "a4d0cc44-83a6-4337-b62c-0e0d9749a1d4.md",
+      "ai_tldr": "Nghiên cứu này phân tích ảnh hưởng của chất lượng thông tin kế toán đến giá trị các công ty niêm yết trên HOSE, sử dụng dữ liệu bảng từ 345 công ty phi tài chính giai đoạn 2021-2023 và các mô hình hồi quy OLS, REM, FEM, FGLS. Kết quả cho thấy chất lượng thông tin kế toán, quy mô, tăng trưởng doanh thu, khả năng sinh lời và công ty kiểm toán có tác động tích cực đến giá trị công ty, trong đó công ty kiểm toán còn điều tiết ảnh hưởng của chất lượng thông tin kế toán.",
+      "applied_topic": [
+        "Đầu tư chứng khoán",
+        "Quản trị tài chính doanh nghiệp"
+      ],
+      "author": "VÕ NGỌC TRĂM",
+      "keywords": [
+        "Chất lượng thông tin kế toán",
+        "Giá trị công ty",
+        "Công ty kiểm toán",
+        "Công ty niêm yết",
+        "Thị trường chứng khoán",
+        "HOSE",
+        "Mô hình hồi quy"
+      ],
+      "major": "TÀI CHÍNH - NGÂN HÀNG",
+      "original_abstract": "Mục tiêu chính của đề tài này là phân tích ảnh hưởng của của chất lượng thông tin kế toán đến giá trị các công ty niêm yết trên thị trường chứng khoán thành phố Hồ Chí Minh (HOSE). Dữ liệu được sử dụng trong nghiên cứu này là dữ liệu bảng được thu thập từ báo cáo thường niên và báo cáo tài chính hợp nhất đã được kiểm toán trong giai đoạn từ năm 2021 đến 2023 của 345 công ty phi tài chính niêm yết trên HOSE. Nghiên cứu sử dụng mô hình hồi quy bình phương bé nhất thông thường (OLS), mô hình tác động ngẫu nghiên (REM), mô hình tác động cố đinh (FEM) và mô hình ước lượng bình phương bé nhất tổng quát khả thi (FGLS) để đưa ra kết quả cuối cùng. Kết quả nghiên cứu chỉ ra rằng có 4 nhân tố ảnh hưởng thuận chiều với giá trị công ty là chất lượng thông tin kế toán (FRQ), quy mô doanh nghiêp (SIZE), tăng trưởng doanh thu (GROWT), khả năng sinh lời (ROA) và công ty kiểm toán (BIG4). Cấu trúc vốn (LV) không có ý nghĩa thống kê. Công ty kiểm toán (BIG4) đóng vai trò điều tiết làm giảm ảnh hưởng tích cực của chất lượng thông tin kế toán đến giá trị công ty. Dựa trên kết quả nghiên cứu này, những hàm ý quản trị đã được đề xuất nhằm tối đa hóa giá trị công ty niêm yết trên HOSE chẵng hạn như: công ty cần nhận thức được tầm quan trọng của chất lượng thông tin kế toán, quy mô doanh nghiêp, gia tăng tốc độ tăng trưởng doanh thu, nâng cao khả năng sinh lời và cân nhắc trong việc lựa chọn công ty kiểm toán. Từ khóa: Chất lượng thông tin kế toán, giá trị công ty, công ty kiểm toán, công ty niêm yết. iii",
+      "standard_major": "Tài chính - Ngân hàng",
+      "status": "extracted",
+      "student_id": "M2721021",
+      "supervisor": "PGS.TS. NGUYỄN HỮU ĐẶNG",
+      "title": "ẢNH HƯỞNG CỦA CHẤT LƯỢNG THÔNG TIN KẾ TOÁN ĐẾN GIÁ TRỊ CÁC CÔNG TY NIÊM YẾT TRÊN THỊ TRƯỜNG CHỨNG KHOÁN THÀNH PHỐ HỒ CHÍ MINH",
+      "updated_at": 1775981228.101758,
+      "year": 2024,
+      "Header_1": "CHƯƠNG 1",
+      "Header_2": "1.3 CÂU HỎI NGHIÊN CỨU",
+      "chunk_index": 8,
+      "source_file": "a4d0cc44-83a6-4337-b62c-0e0d9749a1d4.md",
+      "token_count": 70,
+      "original_content": "Thực trạng chất lượng thông tin kế toán của các CTNY trên HOSE như thế nào?\nẢnh hưởng của chất lượng thông tin kế toán trên BCTC đến giá trị công ty của các CTNY trên HOSE ra sao?\nNhững hàm ý quản trị nào được đề xuất nhằm nâng cao giá trị công ty của các CTNY trên HOSE?"
+    }
+  },
+  {
+    "id": "a4d0cc44-83a6-4337-b62c-0e0d9749a1d4_9",
+    "content": "[ẢNH HƯỞNG CỦA CHẤT LƯỢNG THÔNG TIN KẾ TOÁN ĐẾN GIÁ TRỊ CÁC CÔNG TY NIÊM YẾT TRÊN THỊ TRƯỜNG CHỨNG KHOÁN THÀNH PHỐ HỒ CHÍ MINH] (VÕ NGỌC TRĂM, 2024) [Tài chính - Ngân hàng] CHƯƠNG 1 > 1.4 ĐỐI TƯỢNG NGHIÊN CỨU VÀ PHẠM VI NGHIÊN CỨU > 1.4.1 Đối tượng nghiên cứu\nĐối tượng nghiên cứu của đề tài này là phân tích ảnh hưởng của chất lượng thông tin kế toán trên BCTC đến giá trị công ty của các công ty đang niêm yết trên HOSE.",
+    "metadata": {
+      "file_name": "a4d0cc44-83a6-4337-b62c-0e0d9749a1d4.md",
+      "ai_tldr": "Nghiên cứu này phân tích ảnh hưởng của chất lượng thông tin kế toán đến giá trị các công ty niêm yết trên HOSE, sử dụng dữ liệu bảng từ 345 công ty phi tài chính giai đoạn 2021-2023 và các mô hình hồi quy OLS, REM, FEM, FGLS. Kết quả cho thấy chất lượng thông tin kế toán, quy mô, tăng trưởng doanh thu, khả năng sinh lời và công ty kiểm toán có tác động tích cực đến giá trị công ty, trong đó công ty kiểm toán còn điều tiết ảnh hưởng của chất lượng thông tin kế toán.",
+      "applied_topic": [
+        "Đầu tư chứng khoán",
+        "Quản trị tài chính doanh nghiệp"
+      ],
+      "author": "VÕ NGỌC TRĂM",
+      "keywords": [
+        "Chất lượng thông tin kế toán",
+        "Giá trị công ty",
+        "Công ty kiểm toán",
+        "Công ty niêm yết",
+        "Thị trường chứng khoán",
+        "HOSE",
+        "Mô hình hồi quy"
+      ],
+      "major": "TÀI CHÍNH - NGÂN HÀNG",
+      "original_abstract": "Mục tiêu chính của đề tài này là phân tích ảnh hưởng của của chất lượng thông tin kế toán đến giá trị các công ty niêm yết trên thị trường chứng khoán thành phố Hồ Chí Minh (HOSE). Dữ liệu được sử dụng trong nghiên cứu này là dữ liệu bảng được thu thập từ báo cáo thường niên và báo cáo tài chính hợp nhất đã được kiểm toán trong giai đoạn từ năm 2021 đến 2023 của 345 công ty phi tài chính niêm yết trên HOSE. Nghiên cứu sử dụng mô hình hồi quy bình phương bé nhất thông thường (OLS), mô hình tác động ngẫu nghiên (REM), mô hình tác động cố đinh (FEM) và mô hình ước lượng bình phương bé nhất tổng quát khả thi (FGLS) để đưa ra kết quả cuối cùng. Kết quả nghiên cứu chỉ ra rằng có 4 nhân tố ảnh hưởng thuận chiều với giá trị công ty là chất lượng thông tin kế toán (FRQ), quy mô doanh nghiêp (SIZE), tăng trưởng doanh thu (GROWT), khả năng sinh lời (ROA) và công ty kiểm toán (BIG4). Cấu trúc vốn (LV) không có ý nghĩa thống kê. Công ty kiểm toán (BIG4) đóng vai trò điều tiết làm giảm ảnh hưởng tích cực của chất lượng thông tin kế toán đến giá trị công ty. Dựa trên kết quả nghiên cứu này, những hàm ý quản trị đã được đề xuất nhằm tối đa hóa giá trị công ty niêm yết trên HOSE chẵng hạn như: công ty cần nhận thức được tầm quan trọng của chất lượng thông tin kế toán, quy mô doanh nghiêp, gia tăng tốc độ tăng trưởng doanh thu, nâng cao khả năng sinh lời và cân nhắc trong việc lựa chọn công ty kiểm toán. Từ khóa: Chất lượng thông tin kế toán, giá trị công ty, công ty kiểm toán, công ty niêm yết. iii",
+      "standard_major": "Tài chính - Ngân hàng",
+      "status": "extracted",
+      "student_id": "M2721021",
+      "supervisor": "PGS.TS. NGUYỄN HỮU ĐẶNG",
+      "title": "ẢNH HƯỞNG CỦA CHẤT LƯỢNG THÔNG TIN KẾ TOÁN ĐẾN GIÁ TRỊ CÁC CÔNG TY NIÊM YẾT TRÊN THỊ TRƯỜNG CHỨNG KHOÁN THÀNH PHỐ HỒ CHÍ MINH",
+      "updated_at": 1775981228.101758,
+      "year": 2024,
+      "Header_1": "CHƯƠNG 1",
+      "Header_2": "1.4 ĐỐI TƯỢNG NGHIÊN CỨU VÀ PHẠM VI NGHIÊN CỨU",
+      "Header_3": "1.4.1 Đối tượng nghiên cứu",
+      "chunk_index": 9,
+      "source_file": "a4d0cc44-83a6-4337-b62c-0e0d9749a1d4.md",
+      "token_count": 41,
+      "original_content": "Đối tượng nghiên cứu của đề tài này là phân tích ảnh hưởng của chất lượng thông tin kế toán trên BCTC đến giá trị công ty của các công ty đang niêm yết trên HOSE."
+    }
+  },
+  {
+    "id": "a4d0cc44-83a6-4337-b62c-0e0d9749a1d4_10",
+    "content": "[ẢNH HƯỞNG CỦA CHẤT LƯỢNG THÔNG TIN KẾ TOÁN ĐẾN GIÁ TRỊ CÁC CÔNG TY NIÊM YẾT TRÊN THỊ TRƯỜNG CHỨNG KHOÁN THÀNH PHỐ HỒ CHÍ MINH] (VÕ NGỌC TRĂM, 2024) [Tài chính - Ngân hàng] CHƯƠNG 1 > 1.4 ĐỐI TƯỢNG NGHIÊN CỨU VÀ PHẠM VI NGHIÊN CỨU > 1.4.2 Không gian nghiên cứu\nNghiên cứu được thực hiện trong phạm vi các công ty phi tài chính niêm yết trên HOSE.",
+    "metadata": {
+      "file_name": "a4d0cc44-83a6-4337-b62c-0e0d9749a1d4.md",
+      "ai_tldr": "Nghiên cứu này phân tích ảnh hưởng của chất lượng thông tin kế toán đến giá trị các công ty niêm yết trên HOSE, sử dụng dữ liệu bảng từ 345 công ty phi tài chính giai đoạn 2021-2023 và các mô hình hồi quy OLS, REM, FEM, FGLS. Kết quả cho thấy chất lượng thông tin kế toán, quy mô, tăng trưởng doanh thu, khả năng sinh lời và công ty kiểm toán có tác động tích cực đến giá trị công ty, trong đó công ty kiểm toán còn điều tiết ảnh hưởng của chất lượng thông tin kế toán.",
+      "applied_topic": [
+        "Đầu tư chứng khoán",
+        "Quản trị tài chính doanh nghiệp"
+      ],
+      "author": "VÕ NGỌC TRĂM",
+      "keywords": [
+        "Chất lượng thông tin kế toán",
+        "Giá trị công ty",
+        "Công ty kiểm toán",
+        "Công ty niêm yết",
+        "Thị trường chứng khoán",
+        "HOSE",
+        "Mô hình hồi quy"
+      ],
+      "major": "TÀI CHÍNH - NGÂN HÀNG",
+      "original_abstract": "Mục tiêu chính của đề tài này là phân tích ảnh hưởng của của chất lượng thông tin kế toán đến giá trị các công ty niêm yết trên thị trường chứng khoán thành phố Hồ Chí Minh (HOSE). Dữ liệu được sử dụng trong nghiên cứu này là dữ liệu bảng được thu thập từ báo cáo thường niên và báo cáo tài chính hợp nhất đã được kiểm toán trong giai đoạn từ năm 2021 đến 2023 của 345 công ty phi tài chính niêm yết trên HOSE. Nghiên cứu sử dụng mô hình hồi quy bình phương bé nhất thông thường (OLS), mô hình tác động ngẫu nghiên (REM), mô hình tác động cố đinh (FEM) và mô hình ước lượng bình phương bé nhất tổng quát khả thi (FGLS) để đưa ra kết quả cuối cùng. Kết quả nghiên cứu chỉ ra rằng có 4 nhân tố ảnh hưởng thuận chiều với giá trị công ty là chất lượng thông tin kế toán (FRQ), quy mô doanh nghiêp (SIZE), tăng trưởng doanh thu (GROWT), khả năng sinh lời (ROA) và công ty kiểm toán (BIG4). Cấu trúc vốn (LV) không có ý nghĩa thống kê. Công ty kiểm toán (BIG4) đóng vai trò điều tiết làm giảm ảnh hưởng tích cực của chất lượng thông tin kế toán đến giá trị công ty. Dựa trên kết quả nghiên cứu này, những hàm ý quản trị đã được đề xuất nhằm tối đa hóa giá trị công ty niêm yết trên HOSE chẵng hạn như: công ty cần nhận thức được tầm quan trọng của chất lượng thông tin kế toán, quy mô doanh nghiêp, gia tăng tốc độ tăng trưởng doanh thu, nâng cao khả năng sinh lời và cân nhắc trong việc lựa chọn công ty kiểm toán. Từ khóa: Chất lượng thông tin kế toán, giá trị công ty, công ty kiểm toán, công ty niêm yết. iii",
+      "standard_major": "Tài chính - Ngân hàng",
+      "status": "extracted",
+      "student_id": "M2721021",
+      "supervisor": "PGS.TS. NGUYỄN HỮU ĐẶNG",
+      "title": "ẢNH HƯỞNG CỦA CHẤT LƯỢNG THÔNG TIN KẾ TOÁN ĐẾN GIÁ TRỊ CÁC CÔNG TY NIÊM YẾT TRÊN THỊ TRƯỜNG CHỨNG KHOÁN THÀNH PHỐ HỒ CHÍ MINH",
+      "updated_at": 1775981228.101758,
+      "year": 2024,
+      "Header_1": "CHƯƠNG 1",
+      "Header_2": "1.4 ĐỐI TƯỢNG NGHIÊN CỨU VÀ PHẠM VI NGHIÊN CỨU",
+      "Header_3": "1.4.2 Không gian nghiên cứu",
+      "chunk_index": 10,
+      "source_file": "a4d0cc44-83a6-4337-b62c-0e0d9749a1d4.md",
+      "token_count": 22,
+      "original_content": "Nghiên cứu được thực hiện trong phạm vi các công ty phi tài chính niêm yết trên HOSE."
+    }
+  },
+  {
+    "id": "a4d0cc44-83a6-4337-b62c-0e0d9749a1d4_11",
+    "content": "[ẢNH HƯỞNG CỦA CHẤT LƯỢNG THÔNG TIN KẾ TOÁN ĐẾN GIÁ TRỊ CÁC CÔNG TY NIÊM YẾT TRÊN THỊ TRƯỜNG CHỨNG KHOÁN THÀNH PHỐ HỒ CHÍ MINH] (VÕ NGỌC TRĂM, 2024) [Tài chính - Ngân hàng] CHƯƠNG 1 > 1.4 ĐỐI TƯỢNG NGHIÊN CỨU VÀ PHẠM VI NGHIÊN CỨU > 1.4.3 Thời gian nghiên cứu\nNghiên cứu ảnh hưởng của chất lượng thông tin kế toán trên BCTC đến giá trị công ty đang niêm yết trên HOSE trong giai đoạn 2021 - 2023. Các chỉ tiêu về tăng trưởng, biến động so với năm trước liền kề có sử dụng số liệu của năm 2020.",
+    "metadata": {
+      "file_name": "a4d0cc44-83a6-4337-b62c-0e0d9749a1d4.md",
+      "ai_tldr": "Nghiên cứu này phân tích ảnh hưởng của chất lượng thông tin kế toán đến giá trị các công ty niêm yết trên HOSE, sử dụng dữ liệu bảng từ 345 công ty phi tài chính giai đoạn 2021-2023 và các mô hình hồi quy OLS, REM, FEM, FGLS. Kết quả cho thấy chất lượng thông tin kế toán, quy mô, tăng trưởng doanh thu, khả năng sinh lời và công ty kiểm toán có tác động tích cực đến giá trị công ty, trong đó công ty kiểm toán còn điều tiết ảnh hưởng của chất lượng thông tin kế toán.",
+      "applied_topic": [
+        "Đầu tư chứng khoán",
+        "Quản trị tài chính doanh nghiệp"
+      ],
+      "author": "VÕ NGỌC TRĂM",
+      "keywords": [
+        "Chất lượng thông tin kế toán",
+        "Giá trị công ty",
+        "Công ty kiểm toán",
+        "Công ty niêm yết",
+        "Thị trường chứng khoán",
+        "HOSE",
+        "Mô hình hồi quy"
+      ],
+      "major": "TÀI CHÍNH - NGÂN HÀNG",
+      "original_abstract": "Mục tiêu chính của đề tài này là phân tích ảnh hưởng của của chất lượng thông tin kế toán đến giá trị các công ty niêm yết trên thị trường chứng khoán thành phố Hồ Chí Minh (HOSE). Dữ liệu được sử dụng trong nghiên cứu này là dữ liệu bảng được thu thập từ báo cáo thường niên và báo cáo tài chính hợp nhất đã được kiểm toán trong giai đoạn từ năm 2021 đến 2023 của 345 công ty phi tài chính niêm yết trên HOSE. Nghiên cứu sử dụng mô hình hồi quy bình phương bé nhất thông thường (OLS), mô hình tác động ngẫu nghiên (REM), mô hình tác động cố đinh (FEM) và mô hình ước lượng bình phương bé nhất tổng quát khả thi (FGLS) để đưa ra kết quả cuối cùng. Kết quả nghiên cứu chỉ ra rằng có 4 nhân tố ảnh hưởng thuận chiều với giá trị công ty là chất lượng thông tin kế toán (FRQ), quy mô doanh nghiêp (SIZE), tăng trưởng doanh thu (GROWT), khả năng sinh lời (ROA) và công ty kiểm toán (BIG4). Cấu trúc vốn (LV) không có ý nghĩa thống kê. Công ty kiểm toán (BIG4) đóng vai trò điều tiết làm giảm ảnh hưởng tích cực của chất lượng thông tin kế toán đến giá trị công ty. Dựa trên kết quả nghiên cứu này, những hàm ý quản trị đã được đề xuất nhằm tối đa hóa giá trị công ty niêm yết trên HOSE chẵng hạn như: công ty cần nhận thức được tầm quan trọng của chất lượng thông tin kế toán, quy mô doanh nghiêp, gia tăng tốc độ tăng trưởng doanh thu, nâng cao khả năng sinh lời và cân nhắc trong việc lựa chọn công ty kiểm toán. Từ khóa: Chất lượng thông tin kế toán, giá trị công ty, công ty kiểm toán, công ty niêm yết. iii",
+      "standard_major": "Tài chính - Ngân hàng",
+      "status": "extracted",
+      "student_id": "M2721021",
+      "supervisor": "PGS.TS. NGUYỄN HỮU ĐẶNG",
+      "title": "ẢNH HƯỞNG CỦA CHẤT LƯỢNG THÔNG TIN KẾ TOÁN ĐẾN GIÁ TRỊ CÁC CÔNG TY NIÊM YẾT TRÊN THỊ TRƯỜNG CHỨNG KHOÁN THÀNH PHỐ HỒ CHÍ MINH",
+      "updated_at": 1775981228.101758,
+      "year": 2024,
+      "Header_1": "CHƯƠNG 1",
+      "Header_2": "1.4 ĐỐI TƯỢNG NGHIÊN CỨU VÀ PHẠM VI NGHIÊN CỨU",
+      "Header_3": "1.4.3 Thời gian nghiên cứu",
+      "chunk_index": 11,
+      "source_file": "a4d0cc44-83a6-4337-b62c-0e0d9749a1d4.md",
+      "token_count": 58,
+      "original_content": "Nghiên cứu ảnh hưởng của chất lượng thông tin kế toán trên BCTC đến giá trị công ty đang niêm yết trên HOSE trong giai đoạn 2021 - 2023. Các chỉ tiêu về tăng trưởng, biến động so với năm trước liền kề có sử dụng số liệu của năm 2020."
+    }
+  },
+  {
+    "id": "a4d0cc44-83a6-4337-b62c-0e0d9749a1d4_12",
+    "content": "[ẢNH HƯỞNG CỦA CHẤT LƯỢNG THÔNG TIN KẾ TOÁN ĐẾN GIÁ TRỊ CÁC CÔNG TY NIÊM YẾT TRÊN THỊ TRƯỜNG CHỨNG KHOÁN THÀNH PHỐ HỒ CHÍ MINH] (VÕ NGỌC TRĂM, 2024) [Tài chính - Ngân hàng] CHƯƠNG 1 > 1.5 KẾT CẤU CỦA LUẬN VĂN\nĐề tài gồm 5 chương và các phần tài liệu tham khảo, phụ lục được sắp xếp theo bố cục:",
+    "metadata": {
+      "file_name": "a4d0cc44-83a6-4337-b62c-0e0d9749a1d4.md",
+      "ai_tldr": "Nghiên cứu này phân tích ảnh hưởng của chất lượng thông tin kế toán đến giá trị các công ty niêm yết trên HOSE, sử dụng dữ liệu bảng từ 345 công ty phi tài chính giai đoạn 2021-2023 và các mô hình hồi quy OLS, REM, FEM, FGLS. Kết quả cho thấy chất lượng thông tin kế toán, quy mô, tăng trưởng doanh thu, khả năng sinh lời và công ty kiểm toán có tác động tích cực đến giá trị công ty, trong đó công ty kiểm toán còn điều tiết ảnh hưởng của chất lượng thông tin kế toán.",
+      "applied_topic": [
+        "Đầu tư chứng khoán",
+        "Quản trị tài chính doanh nghiệp"
+      ],
+      "author": "VÕ NGỌC TRĂM",
+      "keywords": [
+        "Chất lượng thông tin kế toán",
+        "Giá trị công ty",
+        "Công ty kiểm toán",
+        "Công ty niêm yết",
+        "Thị trường chứng khoán",
+        "HOSE",
+        "Mô hình hồi quy"
+      ],
+      "major": "TÀI CHÍNH - NGÂN HÀNG",
+      "original_abstract": "Mục tiêu chính của đề tài này là phân tích ảnh hưởng của của chất lượng thông tin kế toán đến giá trị các công ty niêm yết trên thị trường chứng khoán thành phố Hồ Chí Minh (HOSE). Dữ liệu được sử dụng trong nghiên cứu này là dữ liệu bảng được thu thập từ báo cáo thường niên và báo cáo tài chính hợp nhất đã được kiểm toán trong giai đoạn từ năm 2021 đến 2023 của 345 công ty phi tài chính niêm yết trên HOSE. Nghiên cứu sử dụng mô hình hồi quy bình phương bé nhất thông thường (OLS), mô hình tác động ngẫu nghiên (REM), mô hình tác động cố đinh (FEM) và mô hình ước lượng bình phương bé nhất tổng quát khả thi (FGLS) để đưa ra kết quả cuối cùng. Kết quả nghiên cứu chỉ ra rằng có 4 nhân tố ảnh hưởng thuận chiều với giá trị công ty là chất lượng thông tin kế toán (FRQ), quy mô doanh nghiêp (SIZE), tăng trưởng doanh thu (GROWT), khả năng sinh lời (ROA) và công ty kiểm toán (BIG4). Cấu trúc vốn (LV) không có ý nghĩa thống kê. Công ty kiểm toán (BIG4) đóng vai trò điều tiết làm giảm ảnh hưởng tích cực của chất lượng thông tin kế toán đến giá trị công ty. Dựa trên kết quả nghiên cứu này, những hàm ý quản trị đã được đề xuất nhằm tối đa hóa giá trị công ty niêm yết trên HOSE chẵng hạn như: công ty cần nhận thức được tầm quan trọng của chất lượng thông tin kế toán, quy mô doanh nghiêp, gia tăng tốc độ tăng trưởng doanh thu, nâng cao khả năng sinh lời và cân nhắc trong việc lựa chọn công ty kiểm toán. Từ khóa: Chất lượng thông tin kế toán, giá trị công ty, công ty kiểm toán, công ty niêm yết. iii",
+      "standard_major": "Tài chính - Ngân hàng",
+      "status": "extracted",
+      "student_id": "M2721021",
+      "supervisor": "PGS.TS. NGUYỄN HỮU ĐẶNG",
+      "title": "ẢNH HƯỞNG CỦA CHẤT LƯỢNG THÔNG TIN KẾ TOÁN ĐẾN GIÁ TRỊ CÁC CÔNG TY NIÊM YẾT TRÊN THỊ TRƯỜNG CHỨNG KHOÁN THÀNH PHỐ HỒ CHÍ MINH",
+      "updated_at": 1775981228.101758,
+      "year": 2024,
+      "Header_1": "CHƯƠNG 1",
+      "Header_2": "1.5 KẾT CẤU CỦA LUẬN VĂN",
+      "chunk_index": 12,
+      "source_file": "a4d0cc44-83a6-4337-b62c-0e0d9749a1d4.md",
+      "token_count": 22,
+      "original_content": "Đề tài gồm 5 chương và các phần tài liệu tham khảo, phụ lục được sắp xếp theo bố cục:"
+    }
+  }
+]

@@ -1,0 +1,23 @@
+#pip install -r requirements.txt
+# --- Web Framework & API ---
+fastapi
+uvicorn
+pydantic
+
+# --- AI & Machine Learning ---
+torch
+sentence-transformers
+google-genai
+
+# --- Vector Database & NoSQL ---
+qdrant-client
+pymongo
+
+# --- Document Processing & Text Splitting ---
+PyMuPDF
+langchain-text-splitters
+tiktoken
+
+# --- Utilities ---
+python-dotenv
+tqdm

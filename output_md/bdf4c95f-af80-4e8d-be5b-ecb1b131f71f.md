@@ -1,0 +1,854 @@
+# THÔNG TIN BÌA
+- **Chuyên ngành:** Tài Chính Ngân Hàng
+
+LÊ ÁNH THÙY CÁC YẾU TỐ ẢNH HƯỞNG ĐẾN NỢ XẤU CỦA KHÁCH HÀNG CÁ NHÂN VAY VỐN TẠI NGÂN HÀNG THƯƠNG MẠI CỔ PHẦN NGOẠI THƯƠNG VIỆT NAM CHI NHÁNH TÂY CẦN THƠ LUẬN VĂN THẠC SĨ NGÀNH TÀI CHÍNH NGÂN HÀNG MÃ SỐ : 8340201 NĂM 2024 LÊ ÁNH THÙY MÃ SỐ HV: M2720056 CÁC YẾU TỐ ẢNH HƯỞNG ĐẾN NỢ XẤU CỦA KHÁCH HÀNG CÁ NHÂN VAY VỐN TẠI NGÂN HÀNG THƯƠNG MẠI CỔ PHẦN NGOẠI THƯƠNG VIỆT NAM CHI NHÁNH TÂY CẦN THƠ LUẬN VĂN THẠC SĨ CHUYÊN NGÀNH: TÀI CHÍNH NGÂN HÀNG NGÀNH TÀI CHÍNH – NGÂN HÀNG MÃ SỐ: 8340201 NGƯỜI HƯỚNG DẪN PGS.TS. MAI VĂN NAM NĂM 2024
+
+# TÓM TẮT
+Nội dung nghiên cứu chính của đề tài là phân tích các yếu tố ảnh hưởng đến nợ xấu của khách hàng cá nhân dựa trên kết quả phân tích số liệu của 266 quan sát là khách hàng cá nhân vay vốn tại Ngân hàng TMCP Ngoại Thương Việt Nam Chi nhánh Tây Cần Thơ. Tác giả sử dụng mô hình Heckman 2 giai đoạn bao gồm: giai đoạn 1 tác giả sử dụng mô hình Logit để phân tích các yếu tố ảnh hưởng đến khả năng trả nợ đúng hạn của khách hàng cá nhân vay vốn tại Vietcombank Chi nhánh Tây Cần Thơ. Giai đoạn 2 tác giả sử dụng mô hình Tobit dùng để phân tích các yếu tố ảnh hưởng đến nợ xấu của khách hàng cá nhân đang vay vốn tại Ngân hàng (nhóm khách hàng có nợ xấu thuộc nhóm nợ 3,4,5). Kết quả phân tích hồi quy Logit cho thấy, có 05 biến có ảnh hưởng đến khả năng trả nợ đúng hạn của khách hàng cá nhân vay vốn tại Ngân hàng TMCP Ngoại Thương Việt Nam Chi nhánh Tây Cần Thơ bao gồm: học vấn, nghề nghiệp, số người phụ thuộc, tỷ lệ cho vay và hệ số trả nợ. Trong đó, biến nghề nghiệp, số người phụ thuộc, tỷ lệ cho vay và hệ số trả nợ có tác động ngược chiều đến khả năng trả nợ đúng hạn của khách hàng. Còn biến học vấn có ảnh hưởng thuận chiều khả năng trả nợ đúng hạn của khách hàng. Tương tự, kết quả phân tích mô hình Tobit cho thấy, có 03 biến ảnh hưởng đến nợ xấu của khách hàng cá nhân vay vốn tại Ngân hàng TMCP Ngoại Thương Việt Nam Chi nhánh Tây Cần Thơ đó là: số tiền vay, thời hạn vay và hệ số trả nợ. Biến số tiền vay và hệ số trả nợ có ảnh hưởng thuận chiều đến nợ xấu của khách hàng vay, còn lại là biến thời hạn vay có tác động ngược chiều đến rủi ro nợ xấu của khách hàng.
+
+Dựa trên kết quả nghiên cứu, luận văn đưa ra một vài thảo luận có liên quan và đề xuất một số hàm ý quản trị nhằm giảm rủi ro nợ xấu của khách hàng cá nhân trong thời gian tới. iii
+
+# NỘI DUNG CHÍNH
+# CHƯƠNG 1
+
+GIỚI THIỆU
+
+## 1.1 LÝ DO CHỌN ĐỀ TÀI
+
+Năm 2022 - một năm đầy biến động đối với nền kinh tế nói chung và ngành Ngân hàng Việt Nam nói riêng với những gam màu sáng và trầm đan xen. Trong bối cảnh kinh tế chung nhiều thách thức, ngành Ngân hàng Việt Nam với sự quản lý và điều hành của Ngân hàng Nhà nước (NHNN) cùng khả năng thích ứng nhanh chóng của các Ngân hàng thương mại (NHTM) đã tiếp tục tăng trưởng về quy mô hoạt động và năng lực tài chính, tín dụng gia tăng trở lại do nhu cầu tiêu dùng được khôi phục lại sau Đại dịch, tiếp sức bởi chính sách hỗ trợ lãi suất theo các định hướng của Chính phủ.
+Bên cạnh các cơ hội sẽ là những thách thức chính đòi hỏi hệ thống Ngân hàng phải nhận diện và quản trị hiệu quả. Các Ngân hàng muốn tồn tại và phát triển cần phải không ngừng nâng cao hiệu quả hoạt động, tăng cường cạnh tranh và mở rộng địa bàn kinh doanh. Trong các hoạt động kinh doanh của Ngân hàng nói chung, tín dụng vẫn là nghiệp vụ quan trọng nhất vì nó mang lại nguồn thu nhập chủ yếu cho Ngân hàng, yếu tố quyết định sự tồn tại và phát triển của Ngân hàng (Lê Hoàng Tùng và ctv., 2020).
+Sau Đại dịch Covid-19 vừa qua thì hệ thống NHTM phải đối mặt với nợ xấu tăng vì khách hàng mất khả năng thanh toán do sự ảnh hưởng từ dịch bệnh đã làm cho các công ty, xí nghiệp mất dần kiểm soát chi phí hoạt động sản xuất kinh doanh hay tình hình kinh tế Thế Giới bất ổn như lạm phát tăng, chiến sự đang diễn ra giữa Ukraina với Nga và các lệnh trừng phạt của Mỹ, khối Châu Âu đối với Nga cũng đã ảnh hưởng mạnh đến các doanh nghiệp xuất nhập khẩu tại Việt Nam. Với những ảnh hưởng trên các doanh nghiệp đã mất dần cân đối và phá sản với số lượng đông trong 6 tháng đầu năm
+2023 (Báo cáo Ngân hàng Nhà nước, 2023). Theo Tổng Cục Thống kê trong 6 tháng đầu năm nay 2023, có 60,2 nghìn doanh nghiệp tạm ngừng kinh doanh có thời hạn, tăng 18,2% so với cùng kỳ năm trước; 31 nghìn doanh nghiệp ngừng hoạt động chờ làm thủ tục giải thể, tăng 28,9%; 8,8 nghìn doanh nghiệp hoàn tất thủ tục giải thể, tăng 2,8%.
+Bình quân một tháng có 16,7 nghìn doanh nghiệp rút lui khỏi thị trường. Với số lượng doanh nghiệp giải thể cao thì số công nhân viên cũng bị mất việc hoặc giảm thu nhập đáng kể và tìm kiếm việc làm trong thời kỳ hiện tại là một vấn đề nan giải đối với người dân, cụ thể tỷ lệ thất nghiệp trong độ tuổi lao động quý II/2023 là 2,3%, tăng 0,05 điểm phần trăm so với quý trước (Tổng cục thống kê, 2023). Điều này dẫn đến việc khách hàng cá nhân (KHCN) đang vay vốn tại Ngân hàng bị mất khả năng thanh toán.
+Với những sự ảnh hưởng mạnh mẽ trên nên tỷ lệ nợ xấu nội bảng của hệ thống các tổ chức tín dụng có xu hướng tăng nhanh từ năm 2022 và tiếp tục tăng nhanh trong các tháng đầu năm 2023. Theo Ngân hàng Nhà nước thì đến cuối tháng 4/2023, tỷ lệ nợ xấu nội bảng ở mức 3,42%, tăng nhanh so mới mức 2,03% cuối năm 2022 và mức 1,49% vào cuối năm 2021. Với tình hình nợ xấu tăng cao ở các NHTM thì Vietcombank cũng không tránh khỏi sự gia tăng nợ xấu, tuy nhiên cho đến thời điểm kết thúc quí 1 năm 2023 thì tỷ lệ nợ xấu tại Vietcombank đạt ở mức thấp 0,85% nhưng với tình hình chung về tăng trưởng tín dụng thấp, biên lãi thuần (NIM) thu hẹp và nợ xấu tăng lên. Hoạt động xử lý nợ xấu để thu hồi vốn của các Ngân hàng đang tiếp tục gặp khó khăn do thị trường bất động sản đóng băng, trong khi đó bất động sản lại là tài sản bảo đảm chính cho phần lớn các khoản vay thì toàn hệ thống Vietcombank nói chung, Vietcombank – CN Tây Cần Thơ nói riêng cũng luôn tìm các phương án nhằm dự báo khả năng trả nợ và tìm hiểu rủi ro tiềm ẩn trong hoạt động cho vay của khách hàng là vô cùng quan trọng và cần thiết, nhằm tăng cường khả năng nhận diện, khả năng trả nợ đúng hạn của khách hàng, góp phần giảm thiểu nợ xấu và tăng cường công tác quản trị rủi ro tín dụng.
+Từ những thực tế trên đề tài “Các yếu tố ảnh hưởng đến nợ xấu của khách hàng cá nhân vay vốn tại Ngân hàng thương mại cổ phần Ngoại Thương Việt Nam Chi nhánh Tây Cần Thơ” được thực hiện.
+
+## 1.2 MỤC TIÊU NGHIÊN CỨU
+
+### 1.2.1 Mục tiêu chung
+
+Phân tích các yếu tố ảnh hưởng đến nợ xấu của khách hàng cá nhân vay vốn tại Ngân hàng TMCP Ngoại Thương Việt Nam Chi nhánh Tây Cần Thơ. Từ đó, đề xuất một số khuyến nghị nhằm tăng cường nhận diện khả năng trả nợ, giảm rủi ro nợ xấu của khách hàng cá nhân tại Vietcombank Chi nhánh Tây Cần Thơ, giúp Chi nhánh quản trị rủi ro trong hoạt động cho vay KHCN tốt hơn trong thời gian tới.
+
+### 1.2.2 Mục tiêu cụ thể
+
+(1) Đánh giá thực trạng vay vốn và tình hình trả nợ vay của khách hàng cá nhân tại Vietcombank Chi nhánh Tây Cần Thơ; (2) Phân tích các yếu tố ảnh hưởng đến nợ xấu của khách hàng cá nhân vay vốn tại Vietcombank Chi nhánh Tây Cần Thơ; (3) Đề xuất một số khuyến nghị nhằm giảm thiểu rủi ro nợ xấu của khách hàng cá nhân vay vốn tại Ngân hàng Vietcombank Chi nhánh Tây Cần Thơ.
+
+## 1.3 CÂU HỎI NGHIÊN CỨU
+
+Để thực hiện các mục tiêu nghiên cứu nêu trên, câu hỏi nghiên cứu trong đề tài là:
+
+- Thực trạng vay vốn và tình hình trả nợ vay của khách hàng cá nhân tại Vietcombank Chi nhánh Tây Cần Thơ hiện nay như thế nào?
+
+- Những yếu tố nào ảnh hưởng đến nợ xấu của khách hàng cá nhân vay tại Vietcombank Chi nhánh Tây Cần Thơ?
+
+- Cần có những khuyến nghị gì để giảm thiểu rủi ro nợ xấu đối với khách hàng cá nhân vay vốn tại Ngân hàng trong thời gian tới?
+
+## 1.4 ĐỐI TƯỢNG VÀ PHẠM VI NGHIÊN CỨU
+
+### 1.4.1 Đối tượng nghiên cứu
+
+Đối tượng nghiên cứu là các yếu tố ảnh hưởng đến nợ xấu đối với khách hàng cá nhân vay vốn tại Vietcombank Chi nhánh Tây Cần Thơ.
+
+Đối tượng khảo sát: Hồ sơ vay của các khách hàng cá nhân tại Vietcombank Chi nhánh Tây Cần Thơ.
+
+### 1.4.2 Phạm vi nghiên cứu
+
+#### 1.4.2.1 Phạm vi về không gian
+
+Đề tài được thực hiện tại Vietcombank Chi nhánh Tây Cần Thơ.
+
+#### 1.4.2.2 Phạm vi về thời gian
+
+Số liệu thứ cấp được thu thập từ báo cáo chi tiết dư nợ của khách hàng cá nhân vay vốn tại Ngân hàng tính đến thời điểm 31/12/2023; các báo cáo về dư nợ cho vay và nợ quá hạn từ năm 2021 đến năm 2023 của Vietcombank Chi nhánh Tây Cần Thơ.
+
+## 1.5 Ý NGHĨA CỦA ĐỀ TÀI
+
+Về mặt lý thuyết: Đề tài nghiên cứu các nguyên nhân dẫn đến rủi ro nợ xấu đối với khách hàng cá nhân vay vốn tại Vietcombank Chi nhánh Tây Cần Thơ.
+
+Về mặt thực tiễn: Phân tích các yếu tố ảnh hưởng đến nợ xấu của khách hàng cá nhân hiện đang vay vốn tại Ngân hàng để làm rõ các nguyên nhân của đề tài nghiên cứu, từ đó tác giả đề xuất một số giải pháp nhằm hạn chế rủi ro nợ xấu của khách hàng tại Vietcombank Chi nhánh Tây Cần Thơ.
+
+## 1.6 KẾT CẤU LUẬN VĂN
+
+Luận văn gồm có 5 chương như sau:
+
+# Chương 1: Giới thiệu. Trong chương này, tác giả giới thiệu về lý do chọn đề tài, xác định mục tiêu nghiên cứu, phạm vi nghiên cứu, phương pháp nghiên cứu và cuối cùng là kết cấu của luận văn.
+
+# Chương 2: Tổng quan tài liệu. Trong chương này, tác giả sẽ trình bày những cơ sở lý thuyết và các tài liệu liên quan đến chủ đề của luận văn để làm cơ sở cho việc thiết kế các nội dung nghiên cứu..
+
+# Chương 3: Phương pháp nghiên cứu. Trong chương này, tác giả sẽ mô tả chi tiết các phương pháp nghiên cứu, các số liệu đã thu thập, mô hình nghiên cứu, các giả thuyết của mô hình
+
+# Chương 4: Kết quả và thảo luận. Đối với chương này, tác giả sẽ trình bày chi tiết thực trạng hoạt động tín dụng tại Vietcombank Chi nhánh Tây Cần Thơ. Đồng thời, trình bày kết quả ảnh hưởng của các yếu tố đến nợ xấu của khách hàng cá nhân vay vốn tại
+
+Vietcombank Chi nhánh Tây Cần Thơ. Với nội dung tổng hợp, phân tích và giải thích số liệu, từ đó thảo luận đưa ra kết quả từ những mục tiêu nghiên cứu đề ra.
+
+# Chương 5: Kết luận và đề xuất. Căn cứ từ kết quả chính của nghiên cứu để đưa ra các kết luận, từ đó đề xuất các giải pháp.
+
+Tóm tắt Chương 1 Trong chương 1, tác giả đã lần lượt trình bày lý do chọn đề tài, mục tiêu nghiên cứu, câu hỏi nghiên cứu, đối tượng và phạm vi nghiên cứu, ý nghĩa của đề tài và kết cấu luận văn. Mục tiêu chung của luận văn là phân tích các yếu tố ảnh hưởng đến nợ xấu của khách hàng cá nhân vay vốn tại Ngân hàng TMCP Ngoại Thương Việt Nam Chi nhánh Tây Cần Thơ. Từ đó, đề xuất một số khuyến nghị nhằm tăng cường nhận diện khả năng trả nợ, giảm rủi ro nợ xấu của khách hàng cá nhân vay vốn tại Vietcombank Chi nhánh Tây Cần Thơ trong thời gian tới. Dựa trên mục tiêu này, tác giả làm cơ sở xác định cơ sở lý luận, tổng quan các tài liệu nghiên cứu trước đây, cách tiếp cận vấn đề và lựa chọn phương pháp phù hợp để giải quyết vấn đề nghiên cứu.
+
+# CHƯƠNG 2
+
+TỔNG QUAN TÀI LIỆU
+
+## 2.1 CƠ SỞ LÝ LUẬN
+
+### 2.1.1 Tổng quan về tín dụng Ngân hàng
+
+#### 2.1.1.1 Khái niệm về tín dụng
+
+Theo Thông tư số 39/2016/TT-NHNN quy định về hoạt động cho vay của tổ chức tín dụng ngày 30/12/2016, là thay thế mới nhất cho Thông tư 1627/2001/QĐ – NHNN ngày 31/12/2001 thì khái niệm cho vay được định nghĩa là một hình thức cấp tín dụng, theo đó tổ chức tín dụng (TCTD) giao cho khách hàng một khoản tiền để sử dụng vào mục đích và một thời hạn nhất định theo thỏa thuận với nguyên tắc hoàn trả cả gốc và lãi.
+
+Tín dụng Ngân hàng là việc Ngân hàng thỏa thuận cho khách hàng sử dụng một tài sản bằng tiền, tài sản thực hoặc uy tín với nguyên tắc hoàn trả bằng các nghiệp vụ cho vay, chiết khấu (tái chiết khấu), cho thuê tài chính, bảo lãnh Ngân hàng hay các nghiệp vụ khác (Nguyễn Văn Tiến, 2010).
+
+Theo Luật Các tổ chức tín dụng số 47/2010/QH12 năm 2010 thì tín dụng được hiểu là một quan hệ kinh tế giữa người cho vay và người đi vay, là sự chuyển nhượng quyền sử dụng một lượng giá trị hay hiện vật theo những điều kiện mà hai bên thoả thuận. Tín dụng Ngân hàng là quan hệ cấp tín dụng giữa Ngân hàng và các khách hàng. Cấp tín dụng là việc NH thỏa thuận để tổ chức, cá nhân sử dụng một khoản tiền hoặc cam kết cho phép sử dụng một khoản tiền theo nguyên tắc có hoàn trả bằng nghiệp vụ cho vay, chiết khấu, cho thuê tài chính, bao thanh toán, bảo lãnh Ngân hàng và các nghiệp vụ cấp tín dụng khác.
+
+#### 2.1.1.2 Phân loại tín dụng Ngân hàng a) Căn cứ theo mục đích sử dụng vốn
+
+Tín dụng bất động sản: là các khoản tín dụng liên quan đến việc mua sắm và xây dựng bất động sản như: mua nhà ở, đất đai, xây dựng bất động sản trong lĩnh vực công nghiệp, thương mại và dịch vụ, … Tín dụng công nghiệp và sản xuất phi nông nghiệp: là các khoản tín dụng để bổ sung vốn cho các doanh nghiệp trong lĩnh vực công nghiệp, thương mại, dịch vụ, … Tín dụng nông nghiệp: là các khoản tín dụng để trang trải các chi phí sản xuất như: phân bón, thuốc trừ sâu, giống cây trồng, thức ăn gia súc, lao động, nhiên liệu, … Tín dụng tiêu dùng: là các khoản tín dụng để đáp ứng nhu cầu tiêu dùng như: mua sắm vật dụng, đồ dùng, vật kiến trúc, … b) Căn cứ theo thời hạn Thông tư 39/2016/TT-NHNN đã thay đổi căn cứ tính thời hạn của khoản vay từ tháng sang năm. Quy định thời hạn cho vay được tính từ ngày tiếp theo của ngày TCTD giải ngân vốn vay cho khách hàng cho đến hết ngày khách hàng phải trả hết nợ gốc và lãi tiền vay theo thỏa thuận của TCTD và khách hàng. Trường hợp ngày cuối cùng của thời hạn cho vay là ngày lễ hoặc ngày nghỉ hàng tuần thì chuyển sang ngày làm việc tiếp theo. Cụ thể như sau:
+
+Cho vay ngắn hạn: là các khoản tín dụng có thời hạn 1 năm.
+
+Cho vay trung hạn: là các khoản tín dụng có thời hạn từ trên 1 năm đến 5 năm Cho vay dài hạn: là các khoản tín dụng có thời hạn trên 5 năm. c) Căn cứ vào bảo đảm của tín dụng Tín dụng tín chấp là hình thức tín dụng mà việc cho vay vốn dựa trên uy tín của người vay để đảm bảo việc hoàn trả nợ. Loại tín dụng này áp dụng trong trường hợp nếu giữa người cho vay và người đi vay có quan hệ thân tín, hoặc người đi vay là người có uy tín rất lớn và được mọi người công nhận, ví dụ như nhà nước.
+
+Tín dụng thế chấp (vật chấp) là sự vay mượn mà việc hoàn trả nợ được đảm bảo không chỉ bới uy tín của người vay mà còn được đảm bảo bằng các tài sản của người đi vay hoặc người bảo lãnh của người đi vay (Lê Khánh Linh, 2022). d) Căn cứ vào phương thức cho vay Tổ chức tín dụng thoả thuận với khách hàng việc áp dụng các phương thức cho vay như sau:
+
+Cho vay từng lần: Mỗi lần cho vay, tổ chức tín dụng và khách hàng thực hiện thủ tục cho vay và ký kết thỏa thuận cho vay.
+
+Cho vay hợp vốn: Là việc có từ hai tổ chức tín dụng trở lên cùng thực hiện cho vay đối với khách hàngđể thực hiện một phương án dự án vay vốn.
+
+Cho vay lưu vụ: Là việc tổ chức tín dụng thực hiện cho vay đối với khách hàng để nuôi trồng, chăm sóc các cây trồng, vật nuôi có tính chất mùa vụ theo chu kỳ sản xuất liền kề trong năm hoặc các cây lưu gốc, cây công nghiệp có thu hoạch hàng năm. Theo đó, tổ chức tín dụng và khách hàng thỏa thuận dư nợ gốc của chu kỳ trước tiếp tục được sử dụng cho chu kỳ sản xuất tiếp theo nhưng không vượt quá thời gian của 02 chu kỳ sản xuất liên tiếp.
+
+Cho vay theo hạn mức: Tổ chức tín dụng xác định và thỏa thuận với khách hàng một mức dư nợ cho vay tối đa được duy trì trong một khoảng thời gian nhất định. Trong hạn mức cho vay, tổ chức tín dụng thực hiện cho vay từng lần. Một năm ít nhất một lần, tổ chức tín dụng xem xét xác định lại mức dư nợ cho vay tối đa và thời gian duy trì mức dư nợ này.
+
+Cho vay theo hạn mức cho vay dự phòng: Tổ chức tín dụng cam kết đảm bảo sẵn sàng cho khách hàng vay vốn trong phạm vi mức cho vay dự phòng đã thỏa thuận. Tổ chức tín dụng và khách hàng thỏa thuận thời hạn hiệu lực của hạn mức cho vay dự phòng nhưng không vượt quá 01 (một) năm.
+
+Cho vay theo hạn mức thấu chi trên tài khoản thanh toán: Tổ chức tín dụng chấp thuận cho khách hàng chi vượt số tiền có trên tài khoản thanh toán của khách hàng một mức thấu chi tối đa để thực hiện dịch vụ thanh toán trên tài khoản thanh toán. Mức thấu chi tối đa được duy trì trong một khoảng thời gian tối đa một năm.
+
+Cho vay quay vòng: Tổ chức tín dụng và khách hàng thỏa thuận áp dụng cho vay đối với nhu cầu vốn có chu kỳ hoạt động kinh doanh không quá một tháng, khách hàng được sử dụng dư nợ gốc của chu kỳ hoạt động kinh doanh trước cho chu kỳ kinh doanh tiếp theo nhưng thời hạn cho vay không vượt quá ba tháng.
+
+Cho vay tuần hoàn (rollover): Tổ chức tín dụng và khách hàng thỏa thuận áp dụng cho vay ngắn hạn đối với khách hàng với điều kiện:
+
+- Đến thời hạn trả nợ, khách hàng có quyền trả nợ hoặc kéo dài thời hạn trả nợ thêm một khoảng thời gian nhất định đối với một phần hoặc toàn bộ số dư nợ gốc của khoản vay;
+
+- Tổng thời hạn vay vốn không vượt quá 12 tháng kể từ ngày giải ngân ban đầu và không vượt quá một chu kỳ hoạt động kinh doanh;
+
+- Tại thời điểm xem xét cho vay, khách hàng không có nợ xấu tại các tổ chức tín dụng;
+
+- Trong quá trình cho vay tuần hoàn, nếu khách hàng có nợ xấu tại các tổ chức tín dụng thì không được thực hiện kéo dài thời hạn trả nợ theo thỏa thuận.
+
+#### 2.1.1.3 Hoạt động cấp tín dụng
+
+Theo Nguyễn Minh Kiều (2012), hoạt động cấp tín dụng thông qua 5 nghiệp vụ chính bao gồm:
+
+- Cho vay: là hình thức cấp tín dụng, theo đó bên cho vay giao (cam kết giao) cho khách hàng một khoản tiền để sử dụng vào mục đích xác định trong một thời gian nhất định theo thỏa thuận với nguyên tắc có hoàn trả (gốc, lãi).
+
+- Chiết khấu: là việc mua có kỳ hạn hoặc mua có bảo lưu quyền truy đòi các công cụ chuyển nhượng, giấy tờ có giá khác của người thụ hưởng trước khi đến hạn thanh toán.
+
+- Bao thanh toán: là hình thức cấp tín dụng cho bên bán hàng thông qua việc mua lại có bảo lưu quyền truy đòi các khoản phải thu hoặc các khoản phải trả phát sinh từ việc mua, bán hàng hóa, cung ứng dịch vụ theo hợp đồng mua, bán hàng hóa, cung ứng dịch vụ.
+
+- Bảo lãnh Ngân hàng: là hình thức cấp tín dụng, theo đó tổ chức tín dụng cam kết với bên nhận bảo lãnh sẽ thực hiện nghĩa vụ tài chính thay khách hàng, khi khách hàng không thực hiện hoặc thực hiện không đầy đủ nghĩa vụ đã cam kết; khách hàng phải nhận nợ và hoàn trả cho TCTD theo thỏa thuận.
+
+- Cho thuê tài chính: là một hình thức cấp tín dụng trung dài hạn thông qua việc cho thuê máy móc, thiết bị, phương tiện vận chuyển và các động sản khác trên cơ sở hợp đồng cho thuê giữa Bên cho thuê là các TCTD phi Ngân hàng và Bên thuê.
+
+### 2.1.2 Lý thuyết về khách hàng cá nhân a) Khái niệm
+
+Thông tư 39/2016/TT-NHNN quy định về đối tượng vay vốn tại tổ chức tín dụng là pháp nhân hoặc cá nhân. Cụ thể: Pháp nhân thành lập tại Việt Nam hoặc nước ngoài và hoạt động hợp pháp tại Việt Nam; Cá nhân có quốc tịch Việt Nam hoặc nước ngoài.
+
+Như vậy, hoạt động cho vay khách hàng cá nhân có thể được hiểu là một hình thức cấp tín dụng mà Ngân hàng thương mại chuyển giao về vốn cho các cá nhân và hộ gia đình trong một thời gian nhất định nhằm phục vụ nhu cầu tiêu dùng hoặc kinh doanh và hoàn trả gốc và lãi trong thời hạn quy định. b) Đặc điểm cho vay khách hàng cá nhân tại NHTM Nghiệp vụ cho vay khách hàng cá nhân đem lại mức lợi nhuận rất lớn cho các Ngân hàng thương mại. Hoạt động này bao gồm nhiều loại hình đa dạng tuỳ theo nhu cầu và khả năng của khách hàng. Một hoạt động cho vay khách hàng cá nhân thường có 4 đặc điểm chính giống hoạt động cho vay nói chung như sau:
+
+Nghiệp vụ cho vay có tính pháp lý và được đảm bảo bằng các hợp đồng tín dụng tài sản.
+
+Nghiệp vụ cho vay phải tuân thủ theo quy dịnh của pháp luật và hướng dẫn riêng của từng hệ thống Ngân hàng. Thông thường quy trình này gồm 5 bước:
+
+Bước 1: Lập hồ sơ đề nghị vay.
+
+Bước 2: Thẩm định hồ sơ.
+
+Bước 3: Quyết định cấp tín dụng cho vay.
+
+Bước 4: Giải ngân.
+
+Bước 5: Giám sát thu nợ.
+
+Bước 6: Thanh lý hợp đồng cho vay.
+
+Lãi suất trong hợp đồng cho vay phụ thuộc mỗi NH và thời kỳ kinh tế khác nhau.
+
+Khách hàng có nghĩa vụ trả gốc, lãi và thực hiện một số nghĩa vụ khác nếu hợp đồng yêu cầu. Trường hợp khách hàng không đáp ứng được nghĩa vụ thì tài sản đảm bảo thuộc quyền quyết định của Ngân hàng cho vay.
+
+Ngoài những đặc điểm trên, hoạt động cho vay khách hàng cá nhân còn mang một số đặc trưng riêng như sau:
+
+Cho vay khách hàng cá nhân thường được thanh toán chủ yếu bằng thu nhập. Do đó, khi xảy ra một số tình huống bất chợt như tai nạn, bệnh tật,… có thể ảnh hưởng đến thu nhập của khách hàng cá nhân dẫn đến gián đoạn hoặc chậm trễ khả năng hoàn thành nghĩa vụ trả nợ kịp thời, gây ra rủi ro cho Ngân hàng thương mại.
+
+Khoản vay của một khách hàng cá nhân thường không quá lớn, nhưng số lượng khách hàng rất nhiều, dẫn đến chi phí thẩm định hồ sơ vay lớn. Nhất là khi Ngân hàng muốn hạn chế rủi ro trong hoạt động cho vay thì chi phí bỏ ra trong quá trình duyệt hồ sơ càng tăng.
+
+Thông thường, lãi suất cho vay đối với khách hàng cá nhân sẽ cao hơn so với lãi suất của các khoản vay các đối tượng khác. Điều này được lý giải cũng bởi chi phí thực hiện và giám sát các khoản vay khách hàng cá nhân lớn, Ngân hàng cần phải đưa ra mức lãi suất cao để bù đắp lại.
+
+### 2.1.3 Cơ sở lý thuyết về rủi ro trong hoạt động cho vay đối với khách hàng cá nhân
+
+#### 2.1.3.1 Khái niệm về rủi ro tín dụng và nợ xấu
+
+Theo Joel Bessis (2010) thì rủi ro tín dụng là những tổn thất mà Ngân hàng phải gánh chịu do khách hàng vay mất khả năng chi trả khoản nợ vay hay khoản vay bị giảm sút chất lượng.
+
+Tiếp cận từ một số quan điểm thì tác giả cho rằng: rủi ro tín dụng là tổn thất của các Ngân hàng – có thể là tổn thất về tài chính hoặc phi tài chính – mà nguyên nhân là do khách hàng vay không trả được nợ hoặc trả nợ không đầy đủ khi khoản vay đến hạn theo các thỏa thuận, cam kết trong hợp đồng tín dụng và các văn bản có liên quan.
+
+Theo tài liệu Basel Committee on Banking Supervision (2006), Ủy ban Basel định nghĩa khách hàng “default – không có khả năng trả nợ” có các dấu hiệu như sau:
+
++ Khách hàng không có khả năng thực hiện nghĩa vụ thanh toán đầy đủ khi đến hạn mà chưa tính đến việc Ngân hàng bán tài sản (nếu có) để hoàn trả;
+
++ Khách hàng có khoản nợ xấu có thời gian quá hạn trên 90 ngày.
+
+Theo Quỹ tiền tệ quốc tế (IMF – International Monetary Fund) định nghĩa một khoản nợ được xem là nợ xấu như sau:
+
++ Quá hạn trả lãi và/hoặc gốc trên 90 ngày;
+
++ Lãi chưa trả từ 90 ngày trở lên đã được nhập gốc, tái cấp vốn hoặc thỏa thuận đồng ý chậm trả;
+
++ Khoản phải thanh toán quá hạn dưới 90 ngày nhưng có lý do chắc chắn để nghi ngờ về khả năng khoản vay sẽ không được thanh toán đầy đủ.
+
+Có thế thấy, nợ xấu thường được xác định dựa trên 02 yếu tố: (i) quá hạn trên 90 ngày và (ii) khả năng trả nợ của khách hàng bị nghi ngờ. Đây là quan điểm đang được áp dụng phổ biến trên thế giới. Các quan điểm thế giới thường xem khách hàng phát sinh nợ xấu đồng nghĩa với khách hàng không có khả năng trả nợ.
+
+Kết quả phân Theo thực trạng Theo kết quả STT Khả năng trả nợ loại nợ thanh toán nợ XHTD
+- Không có NQH Theo kết quả
+1 Có khả năng Nợ nhóm 1 – 2
+- NQH ≤ 10 ngày xếp hạn tín Không có khả Nợ nhóm 3 – 5 - NQH > 90 ngày dụng nội bộ của năng (nợ xấu) - Nợ gia hạn các TCTD Nguồn: Quy định trong tài liệu Basel và IMF, 2006
+
+#### 2.1.3.2 Tiêu chí phân loại các nhóm nợ
+
+Theo Thông tư số 11/2021/TT – NHNN ngày 30/7/2021 có hiệu lực thi hành ngày 01/10/2021, tổ chức tín dụng, chi nhánh Ngân hàng nước ngoài thực hiện phân loại nợ (trừ các khoản trả thay theo cam kết ngoại bảng) theo 05 nhóm như sau:
+
+Phân loại nợ theo phương pháp định lượng:
+
+* Nhóm 1 (Nợ đủ tiêu chuẩn) bao gồm:
+
+- Khoản nợ trong hạn và được đánh giá là có khả năng thu hồi đầy đủ cả nợ gốc và lãi đúng hạn;
+
+- Khoản nợ quá hạn dưới 10 ngày và được đánh giá là có khả năng thu hồi đầy đủ nợ gốc và lãi bị quá hạn và thu hồi đầy đủ nợ gốc và lãi còn lại đúng thời hạn;
+
+* Nhóm 2 (Nợ cần chú ý) bao gồm:
+
+- Khoản nợ quá hạn đến 90 ngày;
+
+- Khoản nợ được điều chỉnh kỳ hạn trả nợ lần đầu còn trong hạn.
+
+* Nhóm 3 (Nợ dưới tiêu chuẩn) bao gồm:
+
+- Khoản nợ quá hạn từ 91 ngày đến 180 ngày;
+
+- Khoản nợ gia hạn nợ lần đầu còn trong hạn;
+
+- Khoản nợ được miễn hoặc giảm lãi do khách hàng không đủ khả năng trả lãi đầy đủ theo thỏa thuận;
+
+- Khoản nợ thuộc một trong các trường hợp sau đây chưa thu hồi được trong thời gian dưới 30 ngày kể từ ngày có quyết định thu hồi:
+
++ Khoản nợ vi phạm quy định tại các khoản 1, 3, 4, 5, 6 Điều 126 Luật Các tổ chức tín dụng (đã sửa đổi, bổ sung);
+
++ Khoản nợ vi phạm quy định tại các khoản 1, 2, 3, 4 Điều 127 Luật Các tổ chức tín dụng (đã sửa đổi, bổ sung);
+
++ Khoản nợ vi phạm quy định tại các khoản 1, 2, 5 Điều 128 Luật Các tổ chức tín dụng (đã sửa đổi, bổ sung);
+
++ Khoản nợ trong thời hạn thu hồi theo kết luận thanh tra, kiểm tra.
+
+- Khoản nợ phải thu hồi theo quyết định thu hồi nợ trước hạn của tổ chức tín dụng, chi nhánh Ngân hàng nước ngoài do khách hàng vi phạm thỏa thuận với tổ chức tín dụng, chi nhánh Ngân hàng nước ngoài chưa thu hồi được trong thời gian dưới 30 ngày kể từ ngày có quyết định thu hồi.
+
+* Nhóm 4 (Nợ nghi ngờ) bao gồm:
+
+- Khoản nợ quá hạn từ 181 ngày đến 360 ngày;
+
+- Khoản nợ cơ cấu lại thời hạn trả nợ lần đầu quá hạn đến 90 ngày theo thời hạn trả nợ được cơ cấu lại lần đầu;
+
+- Khoản nợ cơ cấu lại thời hạn trả nợ lần thứ hai còn trong hạn;
+
+- Khoản nợ quy định tại điểm c(iv) khoản 1 Điều này chưa thu hồi được trong thời gian từ 30 ngày đến 60 ngày kể từ ngày có quyết định thu hồi;
+
+- Khoản nợ phải thu hồi theo kết luận thanh tra, kiểm tra nhưng quá thời hạn thu hồi theo kết luận thanh tra, kiểm tra đến 60 ngày mà chưa thu hồi được;
+
+- Khoản nợ phải thu hồi theo quyết định thu hồi nợ trước hạn của tổ chức tín dụng, chi nhánh Ngân hàng nước ngoài do khách hàng vi phạm thỏa thuận với tổ chức tín dụng, chi nhánh Ngân hàng nước ngoài chưa thu hồi được trong thời gian từ 30 ngày đến 60 ngày kể từ ngày có quyết định thu hồi;
+
+* Nhóm 5 (Nợ có khả năng mất vốn) bao gồm:
+
+- Khoản nợ quá hạn trên 360 ngày;
+
+- Khoản nợ cơ cấu lại thời hạn trả nợ lần đầu quá hạn từ 91 ngày trở lên theo thời hạn trả nợ được cơ cấu lại lần đầu;
+
+- Khoản nợ cơ cấu lại thời hạn trả nợ lần thứ hai quá hạn theo thời hạn trả nợ được cơ cấu lại lần thứ hai;
+
+- Khoản nợ cơ cấu lại thời hạn trả nợ lần thứ ba trở lên, trừ khoản nợ quy định tại điểm b khoản 2 Điều này;
+
+- Khoản nợ quy định tại điểm c(iv) khoản 1 Điều này chưa thu hồi được trên 60 ngày kể từ ngày có quyết định thu hồi;
+
+- Khoản nợ phải thu hồi theo kết luận thanh tra, kiểm tra nhưng quá thời hạn thu hồi theo kết luận thanh tra, kiểm tra trên 60 ngày mà chưa thu hồi được;
+
+- Khoản nợ phải thu hồi theo quyết định thu hồi nợ trước hạn của tổ chức tín dụng, chi nhánh Ngân hàng nước ngoài do khách hàng vi phạm thỏa thuận với tổ chức tín dụng, chi nhánh Ngân hàng nước ngoài chưa thu hồi được trên 60 ngày kể từ ngày có quyết định thu hồi;
+
+- Khoản nợ của khách hàng là tổ chức tín dụng đang được kiểm soát đặc biệt, chi nhánh Ngân hàng nước ngoài đang bị phong tỏa vốn và tài sản.
+
+Phân loại nợ theo phương pháp định tính:
+
+* Nhóm 1 (Nợ đủ tiêu chuẩn) bao gồm:
+
+- Các khoản nợ được tổ chức tín dụng, chi nhánh Ngân hàng nước ngoài đánh giá là có khả năng thu hồi đầy đủ cả nợ gốc và lãi đúng hạn;
+
+- Các cam kết ngoại bảng được tổ chức tín dụng, chi nhánh Ngân hàng nước ngoài đánh giá là khách hàng có khả năng thực hiện đầy đủ nghĩa vụ theo cam kết.
+
+* Nhóm 2 (Nợ cần chú ý) bao gồm:
+
+- Các khoản nợ được tổ chức tín dụng, chi nhánh Ngân hàng nước ngoài đánh giá là có khả năng thu hồi đầy đủ cả nợ gốc và lãi nhưng có dấu hiệu khách hàng suy giảm khả năng trả nợ;
+
+- Các cam kết ngoại bảng được tổ chức tín dụng, chi nhánh Ngân hàng nước ngoài đánh giá là khách hàng có khả năng thực hiện nghĩa vụ theo cam kết nhưng có dấu hiệu suy giảm khả năng thực hiện cam kết.
+
+* Nhóm 3 (Nợ dưới tiêu chuẩn) bao gồm:
+
+- Các khoản nợ được tổ chức tín dụng, chi nhánh Ngân hàng nước ngoài đánh giá là không có khả năng thu hồi nợ gốc và lãi khi đến hạn. Các khoản nợ này được tổ chức tín dụng, chi nhánh Ngân hàng nước ngoài đánh giá là có khả năng tổn thất;
+
+- Các cam kết ngoại bảng được tổ chức tín dụng, chi nhánh Ngân hàng nước ngoài đánh giá là khách hàng không có khả năng thực hiện đầy đủ nghĩa vụ theo cam kết.
+
+* Nhóm 4 (Nợ nghi ngờ) bao gồm:
+
+- Các khoản nợ được tổ chức tín dụng, chi nhánh Ngân hàng nước ngoài đánh giá là có khả năng tổn thất cao;
+
+- Các cam kết ngoại bảng mà khả năng khách hàng không thực hiện cam kết là rất cao.
+
+* Nhóm 5 (Nợ có khả năng mất vốn) bao gồm:
+
+- Các khoản nợ được tổ chức tín dụng, chi nhánh Ngân hàng nước ngoài đánh giá là không còn khả năng thu hồi, có khả năng mất vốn;
+
+- Các cam kết ngoại bảng mà khách hàng không còn khả năng thực hiện nghĩa vụ cam kết. a) Nợ quá hạn Nợ quá hạn là khoản nợ phát sinh khi khoản vay đến hạn mà khách hàng không hoàn trả được toàn bộ hay một phần tiền gốc hoặc lãi vay. Nợ quá hạn thường là biểu hiện yếu kém về tài chính của khách hàng và là dấu hiệu rủi ro tín dụng cho Ngân hàng.
+
+Thông tư số 11/2021/TT – NHNN quy định: Nợ quá hạn là nợ mà một phần hoặc toàn bộ nợ gốc và/hoặc lãi đã quá hạn.
+
+Trong hoạt động tín dụng Ngân hàng, nợ quá hạn phát sinh là không thể tránh khỏi, nhưng nếu nợ quá hạn vượt quá tỉ lệ cho phép sẽ dẫn đến mất khả năng thanh toán của Ngân hàng.
+
+Nợ quá hạn có nhiều mức độ khác nhau, căn cứ vào tính chất rủi ro có các chỉ tiêu phản ánh nợ quá hạn như sau:
+
+Tỉ lệ nợ quá hạn = (Số dư nợ quá hạn/ Tổng dư nợ) * 100% Tỉ lệ khách hàng có nợ quá hạn = (Tổng số khách hàng quán hạn/Tổng số khách hàng có dư nợ) x 100% b) Nợ xấu:
+
+Là các khoản nợ quá hạn trên 90 ngày và bị nghi ngờ về khả năng trả nợ lẫn khả năng thu hồi vốn của chủ nợ do con nợ làm ăn thua lỗ liên tục, tuyên bố phá sản hoặc đã tẩu tán tài sản, mất khả năng thanh toán... Nợ xấu sẽ phản ánh một cách rõ nét chất lượng tín dụng của Ngân hàng, căn cứ vào thời gian quá hạn và khả năng trả nợ của khách hàng để phân loại nợ xấu thành 3 nhóm: nhóm 3 (dưới chuẩn), nhóm 4 (nghi ngờ) và nhóm 5 (có khả năng mất vốn). Các chỉ tiêu phản ánh nợ xấu bao gồm:
+
+Tỷ lệ nợ xấu = Nợ xấu/ Tổng dư nợ. Theo Ngân hàng Thế giới, tỷ lệ này ở mức dưới 5% là có thể chấp nhận được và tốt nhất là ở mức 1-3%.
+
+Tỷ trọng nợ xấu theo nhóm nợ = Dư nợ xấu nhóm (3,4,5)/Tổng dư nợ xấu Tỷ lệ nợ xấu trên vốn chủ sở hữu = Nợ xấu/Vốn chủ sở hữu Tỷ lệ nợ xấu trên quỹ dự phòng tổn thất = Nợ xấu/Quỹ dự phòng tổn thất.
+
+Tại Việt Nam, căn cứ theo Quyết định 493/2005/QĐ-NHNN, Quyết định 18/2007/QĐ-NHNN và Thông tư 11/2021/TT – NHNN quy định về việc phân loại khoản nợ theo phương pháp định lượng, định tính như sau:
+
+Nợ xấu bao gồm các khoản nợ từ nhóm 3 cho đến nhóm 5, là các khoản nợ bị đánh giá là có khả năng mất một phần vốn và lãi (nợ nhóm 3), có khả năng tổn thất cao (nợ nhóm 4), và không còn khả năng thu hồi nợ (nợ nhóm 5). Nợ nhóm 2 được cho là suy giảm khả năng trả nợ, tuy nhiên đây có thể chỉ là những khoản vay cần chú ý, khách hàng vẫn còn khả năng thanh toán nợ. Cụ thể theo Thông tư 11/2021/TT – NHNN có quy định rõ:
+
++ Nợ nhóm 3 (nợ dưới tiêu chuẩn) được hiểu là các khoản nợ được TCTD, chi nhánh Ngân hàng nước ngoài đánh giá là không có khả năng thu hồi nợ gốc và lãi khi đến hạn. Các khoản nợ này được TCTD, chi nhánh Ngân hàng nước ngoài đánh giá là có khả năng tổn thất.
+
++ Nợ nhóm 4 (nợ nghi ngờ) bao gồm : Các khoản nợ được TCTD, chi nhánh Ngân hàng nước ngoài đánh giá là có khả năng tổn thất cao.
+
++ Nợ nhóm 5 (nợ có khả năng mất vốn) bao gồm: Các khoản nợ được TCTD, chi nhánh Ngân hàng nước ngoài đánh giá là không còn khả năng thu hồi, mất vốn. c) Dự phòng rủi ro tín dụng Dự phòng rủi ro là số tiền được trích lập và hạch toán vào chi phí hoạt động để dự phòng cho những tổn thất có thể xảy ra đối với nợ của tổ chức tín dụng, chi nhánh Ngân hàng nước ngoài. Dự phòng RRTD được tính trên số dư nợ gốc của khách hàng bao gồm: (i) Dự phòng cụ thể - để bảo hiểm rủi ro cụ thể cho từng khoản vay; (ii) Dự phòng chung - bảo hiểm các rủi ro chung không xác định trong danh mục tín dụng và toàn bộ dự phòng được tính vào chi phí hoạt động của doanh nghiệp (Nguyễn Minh Kiều, 2012).
+
+#### 2.1.3.3 Phân loại rủi ro tín dụng
+
+Theo Nguyễn Văn Tiến và Nguyễn Mạnh Hùng (2017) thì cách phân loại rủi ro tín dụng chủ yếu gồm:
+
+* Căn cứ vào nguyên nhân phát sinh rủi ro:
+
+- Rủi ro giao dịch: Rủi ro này phát sinh trong quá trình thực hiện cấp tín dụng của các Ngân hàng. Nguyên nhân phát sinh rủi ro này là do có những sai sót xảy ra khi tác nghiệp thẩm định khách hàng, thẩm định tài sản bảo đảm, phê duyệt cấp tín dụng, giải ngân, kiểm soát hoặc theo dõi hồ sơ sau khi khách hàng đã nhận tiền vay. Rủi ro giao dịch gồm có rủi ro lựa chọn đối nghịch, rủi ro bảo đảm và rủi ro nghiệp vụ.
+
++ Rủi ro lựa chọn đối nghịch: Rủi ro này phát sinh do hiện tượng bất cân xứng thông tin trước khi phê duyệt cấp tín dụng cho khách hàng.
+
++ Rủi ro bảo đảm: Rủi ro này phát sinh do những sai sót trong quá trình thực hiện thủ tục bảo đảm cho khoản vay như các sai sót liên quan đến điều khoản của hợp đồng bảo đảm, xác định sai các bên tham gia bảo đảm, thực hiện sai quy định nhận bảo đảm, xác định sai tỷ lệ cho vay/tài sản bảo đảm và loại tài sản bảo đảm có tiềm ẩn nhiều rủi ro như khó thanh khoản, đang có tranh chấp…
+
++ Rủi ro nghiệp vụ: Là rủi ro phát sinh do các sai sót hoặc hạn chế trong việc quản lý khoản vay và điều hành hoạt động cho vay của các Ngân hàng, bao gồm cả việc giải quyết các khoản nợ vay thuộc diện cảnh báo nợ xấu hoặc các khoản vay có vấn đề.
+
+- Rủi ro danh mục tín dụng: Rủi ro này phát sinh do có những thiếu sót hoặc hạn chế khi quản lý danh mục tín dụng của các Ngân hàng. Rủi ro này gồm có:
+
++ Rủi ro nội tại: Là rủi ro phát sinh do các yếu tố hoặc các đặc điểm bên trong của mỗi ngành nghề, lĩnh vực kinh tế hoặc của từng khách hàng/nhóm khách hàng riêng lẻ.
+
++ Rủi ro tập trung: Rủi ro này xảy ra khi Ngân hàng tập trung tín dụng quá mức vào một chủ thể vay như lĩnh vực kinh tế, vùng hay khu vực địa lý nào đó hoặc một hay một nhóm các khách hàng.
+
+* Căn cứ vào mức độ tổn thất:
+
+- Rủi ro đọng vốn: Rủi ro này xảy ra khi Ngân hàng chậm thu hồi được vốn vay khi đã đến kỳ hạn trả nợ theo các hợp đồng tín dụng và các văn bản đã ký kết khi cấp tín dụng. Rủi ro này có thể gây khó khăn cho Ngân hàng trong việc quản lý vốn vay và thanh khoản.
+
+- Rủi ro mất vốn: Khi khách hàng mất khả năng trả nợ (bao gồm cả vốn gốc, lãi vay hoặc các chi phí khác có liên quan) thì Ngân hàng sẽ đối diện với rủi ro mất vốn.
+Rủi ro này rất nguy hiểm vì làm tăng chi phí do phải xử lý nợ nên làm giảm lợi nhuận của Ngân hàng, mặt khác rủi ro này cũng làm tăng dự phòng rủi ro tín dụngcủa Ngân hàng.
+
+* Căn cứ nguyên nhân khách quan hay chủ quan:
+
+- Rủi ro khách quan: Là loại rủi ro mà nguyên nhân phát sinh nằm ngoài ý chí mong muốn của Ngân hàng hoặc của khách hàng, chẳng hạn như các biến cố bất khả kháng liên quan đến người vay, đến Ngân hàng hoặc do thiên nhiên gây ra như do động đất, bão lụt, cháy nổ… dẫn đến món vay bị tổn thất.
+
+- Rủi ro chủ quan: Là các rủi ro phát sinh do nguyên nhân chủ quan từ khách hàng hay Ngân hàng có thể là vô tình hoặc là cố ý mà gây ra tổn thất tín dụng.
+
+* Căn cứ vào giai đoạn phát sinh rủi ro:
+
+Được phân chia căn cứ vào giai đoạn phát sinh khoản vay, gồm:
+
+- Rủi ro trước khi cho vay: Là các rủi ro phát sinh khi phê duyệt cho vay các khoản vay có sai sót khi lập hồ sơ, phân tích và thẩm định khách hàng vay, dẫn đến cho vay khách hàng không đáp ứng được điều kiện cho vay và khách hàng không có đủ khả năng trả nợ.
+
+- Rủi ro trong và sau khi cho vay: Là các rủi ro phát sinh trong quá trình giải ngân cho khách hàng và sau khi giải ngân cho khách hàng, mà nguyên nhân có thểlà giải ngân cho khách hàng sai tiến độ, sai phương thức hoặc không kiểm soát mục đích sử dụng vốn vay của khách hàng…
+
+#### 2.1.3.4 Mối quan hệ giữa các loại rủi ro khác đối với rủi ro tín dụng
+
+* Rủi ro thanh khoản Rủi ro thanh khoản thường đi kèm với nhiều rủi ro khác. Nếu một khách hàng vay tiền của Ngân hàng có nguy cơ vỡ nợ thì Ngân hàng sẽ phải huy động tiền từ những nguồn khác để thanh toán khoản đi vay của Ngân hàng, bù đắp vào khoản chi trả này.
+Nếu Ngân hàng không có khả năng huy động tiền từ các nguồn khác để thanh toán khoản nợ thì chính Ngân hàng cũng phải đối mặt với rủi ro vỡ nợ. Như vậy, rủi ro thanh khoản gắn liền với RRTD, rủi ro thanh khoản xảy ra một phần là do ảnh hưởng của RRTD. Để giảm ảnh hưởng của rủi ro thanh khoản, các NHTM cần hạn chế phát sinh RRTD.
+
+* Rủi ro lãi suất, rủi ro tỷ giá Lê Thị Mận (2010) khẳng định rằng các chính sách liên quan và có tác động đến hoạt động tín dụng của Ngân hàng và dễ làm cho Ngân hàng gặp phải RRTD như chính sách lãi suất, chính sách tỷ giá.
+
+Theo Nguyễn Văn Tiến (2010) khi lãi suất, tỷ giá biến động sẽ ảnh hưởng đến tài sản và nguồn vốn của Ngân hàng. Nếu rủi ro lãi suất, rủi ro tỷ giá xảy ra sẽ ảnh hưởng đến RRTD, gây ra thiệt hại về tài sản của Ngân hàng.
+
+* Rủi ro hoạt động Rủi ro hoạt động là rủi ro liên quan đến công nghệ, cơ sở hạ tầng, quy trình, con người trong quá trình hoạt động kinh doanh Ngân hàng hay nói cách khác rủi ro hoạt động gây ra tổn thất do các nguyên nhân như con người, sự không đầy đủ hoặc vận hành không tốt các quy trình, hệ thống; các sự kiện khách quan bên ngoài.
+
+Bên cạnh quản lý RRTD và rủi ro thị trường thì quản lý rủi ro hoạt động là một trong những cơ chế quản lý rủi ro tổng thể của các NHTM.
+
+### 2.1.4 Các yếu tố ảnh hưởng đến nợ xấu của khách hàng cá nhân
+
+Theo thông tư số 39/2016/TT – NHNN ngày 30/12/2016 của Thống đốc NHNN, kỳ hạn trả nợ là các khoảng thời gian trong thời hạn cho vay đã được thoả thuận giữa tổ chức tín dụng và khách hàng mà tại cuối mỗi khoảng thời gian đó khách hàng phải trả một phần hoặc toàn bộ vốn vay cho tổ chức tín dụng. Nếu trên thực tế đến kỳ hạn trả nợ theo cam kết, vì lý do nào đó mà người vay không trả được hoặc không trả đủ số tiền đã thỏa thuận thì được gọi là trả nợ vay không đúng hạn. Do đó, khi thực hiện một hoạt động tài trợ nào đó, thì Ngân hàng đều cố gắng phân tích các yếu tố ảnh hưởng đến khả năng trả nợ vay sao cho độ an toàn cao nhất, giảm thiểu rủi ro xuống thấp nhất. Các yếu tố ảnh hưởng đến khả năng trả nợ vay:
+
+#### 2.1.4.1 Chi phí giao dịch
+
+Theo Lê Khương Ninh (2004), chi phí giao dịch là tất cả các chi phí có liên quan đến việc cung cấp dịch vụ tín dụng của tổ chức tài chính. Đó là chi phí trả lương nhân viên, thuê văn phòng làm việc, đi lại, kiểm toán, đào tạo, duy tu, bảo dưỡng máy móc, trang thiết bị, chi phí thu thập thông tin khách hàng (lấy CIC…), chi phí cho vay, duy trì và thu hồi các khoản vay. Chi phí giao dịch của các tổ chức tài chính vi mô thường rất cao vì nhiều lúc phải thực hiện các khoản cho vay nhỏ đến các khách hàng sống rải rác và rủi ro cao. Bên cạnh các chi phí giao dịch đương nhiên, nhiều chi phí giao dịch khác lại phát sinh từ các quy định của chính phủ, điều này làm tăng đáng kể chi phí cho vay. Đối với những người vay và người tiết kiệm nhỏ, các chi phí này thường lớn so với quy mô của giao dịch của họ. Chi phí liên quan đến hoạt động vay (bao gồm cả thời gian thương lượng) có thể cao gấp nhiều lần so với lãi suất của khoản vay, làm cho chi phí thực của các khoản vay tăng lên rất cao. Bên cạnh đó, một số khách hàng vay có trình độ học vấn thấp nên gặp khó khăn và mất nhiều thời gian để hoàn thành thủ tục vay.
+Thông thường, họ phải làm nhiều lần hay phải nhờ sự giúp đỡ của người khác (đôi khi là cán bộ Ngân hàng) một lần nữa lại làm tăng chi phí giao dịch. Khi chi phí giao dịch lớn thì chỉ có những người vay có rủi ro cao mới chấp nhận các khoản vay này và rủi ro cao tương ứng với việc hoàn trả các khoản nợ vay thấp.
+
+#### 2.1.4.2 Thông tin bất đối xứng
+
+Thông tin bất đối xứng là hiện tượng mà hai bên giao dịch với nhau nhưng bên này có nhiều thông tin hơn bên khác. Ví dụ: mua bán xe hơi cũ, người bán biết được đặc điểm hoặc tình trạng chất lượng của chiếc xe như thế nào, trong khi đó người mua không có được đầy đủ thông tin như người bán. Ví dụ kinh điển khác là nổ lực làm việc của người lao động họ biết nhưng người thuê lao động không biết được nổ lực làm việc của người lao động mà họ đang quản lý (Spence, 1973). Lý thuyết thông tin bất đối xứng được phát triển bởi Akerlof (1970).
+
+Nguyên nhân của thông tin bất đối xứng là do đặc điểm của hàng hóa ẩn hoặc hành động ẩn, không kiểm soát được. Thông tin bất đối xứng do đặc điểm ẩn sẽ gây ra hiện tượng lựa chọn bất lợi. Lựa chọn bất lợi là hiện tượng mà người mua không biết được đặc điểm hoặc chất lượng của hàng hóa nên họ chỉ sẵn lòng trả ở mức giá thấp hơn giá trị thực của hàng hóa đó để giảm tính rủi ro trong giao dịch, tránh mua phải trái chanh (lemon-car) khi mua xe hơi cũ. Vì chỉ bán được giá thấp thì người bán lại càng bán hàng hóa có chất lượng kém (Pindyck & Rubinfeld, 1999). Nên lựa chọn ngược sẽ dẫn đến thị trường có những hàng hóa có chất lượng thấp. Thông tin bất đối xứng do hành động không thể kiểm soát được sẽ gây ra hiện tượng rủi ro đạo đức. Rủi ro đạo đức là hiện tượng mà người có nhiều thông tin có những ứng xử phi đạo đức nhằm đạt được lợi ích cá nhân của mình và như vậy gây thiệt hại cho người thiếu thông tin.
+
+Thông tin bất đối xứng trong hoạt động tín dụng ngụ ý rằng người cho vay không hiểu người vay bằng bản thân người vay nên không phân biệt giữa người vay an toàn và người vay rủi ro. Do đó ảnh hưởng đến mức độ rủi ro của các giao dịch tín dụng lên lãi suất sẽ khiến thị trường tín dụng không cân bằng. Điều này được lý giải như sau: Khi cho vay Ngân hàng phải quan tâm đến cả lãi suất và rủi ro. Song, lãi suất cho vay lại ảnh hưởng đến mức độ rủi ro của các khoản vay thông qua hai hiệu ứng: (1) chọn lựa sai lầm và (2) động cơ lệch lạc. Hai hiệu ứng này bắt nguồn từ hiện tượng thông tin bất đối xứng luôn hiện diện ở thị trường tín dụng trước và sau khi tổ chức tín dụng chấp nhận hồ sơ xin vay.
+
+Là hệ quả của thông tin bất đối xứng, chọn lựa sai lầm xuất phát từ việc các khách hàng khác nhau sẽ có xác suất trả nợ (hay mức độ rủi ro) khác nhau. Do lợi nhuận của Ngân hàng phụ thuộc vào xác suất trả nợ của khách hàng nên Ngân hàng muốn nhận diện khách hàng an toàn. Tuy nhiên, rất khó để nhận diện được khách hàng an toàn bởi thông tin không hoàn hảo. Vì vậy, để làm được điều đó, Ngân hàng cần phải có cơ chế sàng lọc khách hàng. Lãi suất mà khách hàng chấp nhận trả là một cơ chế, những người đồng ý trả lãi suất cao thường có rủi ro cao, bởi họ tự biết khả năng trả nợ của mình thấp nên chấp nhận lãi cao. Như vậy, khi lãi suất tăng thì mức độ rủi ro của nhóm khách hàng đồng ý vay sẽ tăng (lựa chọn sai lầm), do đó làm giảm lợi nhuận Ngân hàng và ngược lại khi lãi suất thay đổi, cách thức sử dụng tiền vay của người đi vay sẽ thay đổi theo (động cơ lệch lạc). Lãi suất tăng sẽ làm giảm lợi nhuận của các dự án đầu tư nên thúc đẩy người vay thực hiện các dự án có sinh lợi cao hơn nhưng rủi ro cũng cao hơn. Nếu thông tin hoàn hảo và việc thu thập thông tin là không tốn kém, Ngân hàng sẽ biết rõ hành vi của từng người đi vay. Đồng thời, Ngân hàng cũng biết rõ hành vi này sẽ ảnh hưởng như thế nào đến lợi nhuận của tổ chức. Tuy nhiên, Ngân hàng không thể biết được và kiểm soát hết hành vi của người đi vay nên buộc phải hình thành các phương cách gián tiếp để điều chỉnh hành vi của người đi vay cũng như thu hút được người đi vay an toàn.
+
+Lợi nhuận của Ngân hàng Lợi nhuận Lãi suất r* Nguồn: Lê Khương Ninh, 2016 Do hai nguyên nhân trên (lựa chọn sai lầm và động cơ lệch lạc), lợi nhuận kỳ vọng của Ngân hàng sẽ tăng chậm hơn tốc độ tăng của lãi suất và vượt qua một ngưỡng nào đó, lợi nhuận của Ngân hàng sẽ giảm nếu lãi suất tiếp tục tăng. Do đó, Ngân hàng phải chọn một mức lãi suất để tối đa hóa lợi nhuận (ví dụ: r* trong Hình 2.1). Mức lãi suất r* cũng chính là điểm cân bằng ở thị trường tín dụng. Ngân hàng sẽ không cho bất kỳ người nào vay ở mức lãi suất cao hơn r*. Các khoản vay cho vay cao hơn r* sẽ đồng nghĩa ở mức rủi ro cao hơn và lợi nhuận cũng thấp hơn so với các khoản vay với mức lãi suất r*. Vì vậy, sẽ không có áp lực cạnh tranh nào đưa thị trường tín dụng về điểm cân bằng mà tại đó cung bằng cầu.
+
+Bên cạnh lãi suất thì giá trị khoản vay, tài sản thế chấp và các điều khoản khác của hợp đồng tín dụng cũng ảnh hưởng đến hành vi của người đi vay và cấu trúc rủi ro tập hợp của người đi vay. Việc đặt yêu cầu cao hơn đối với tài sản thế chấp cũng làm giảm lợi nhuận của Ngân hàng vì nó làm tăng mức độ rủi ro của các khoản cho vay hay khích lệ người vay thực hiện các dự án đầu tư có rủi ro hơn. Kết quả là Ngân hàng sẽ không có lợi nhuận nếu duy trì lãi suất quá cao và đặt yêu cầu quá gắt gao về tài sản thế chấp khi cầu tín dụng lớn hơn cung tín dụng. Do đó, Ngân hàng sẽ từ chối cho vay đối với những người đi vay quá khác biệt so với những người khác (Lê Khương Ninh, 2016).
+
+#### 2.1.4.3 Từ phía người đi vay
+
+Thứ nhất, Khách hàng sử dụng vốn sai mục đích, cố ý lừa đảo Ngân hàng để chiếm đoạt tài sản, tình hình tài chính yếu kém, thiếu minh bạch. Trần Huy Hoàng (2010) cho rằng đạo đức của khách hàng vay là yếu tố quan trọng tác động đến khả năng hoàn trả nợ vay của khách hàng. Nếu người vay không có đạo đức, uy tín thì khả năng xảy ra rủi ro với khoản vay là rất lớn. Khách hàng không có thiện chí trả nợ thường là những khoản vay trong các trường hợp cho vay tín chấp, được bảo lãnh của bên thứ ba... Ngoài ra, Trần Huy Hoàng (2010) cũng đã phân tích việc sử dụng vốn sai mục đích, khách hàng cố ý lừa đảo lập chứng từ khống để vay vốn Ngân hàng. Một số trường hợp khách hàng sử dụng vốn sai mục đích vì muốn gia tăng lợi nhuận nhưng kết quả lại không như ý muốn. Hay có trường hợp khách hàng cố ý tìm mọi cách vay vốn tại Ngân hàng để đi đảo nợ vì nguyên nhân khách hàng không có nguồn trả nợ để thanh toán nợ vay khi đến hạn. Tất cả những trường hợp này đều dẫn đến rủi ro cho Ngân hàng.
+
+Thứ hai, Khách hàng có ý muốn trả nợ nhưng đang gặp khó khăn về tài chính.
+Nguyên nhân chủ yếu là do khả năng quản lý kinh doanh kém hiệu quả, quy mô kinh doanh mở rộng quá lớn so với tư duy quản lý. Bên cạnh đó, hạn chế về kiến thức kinh doanh dẫn đến khi lập các phương án kinh doanh khách hàng đã không tính đến những biến động của thị trường, đưa ra những phương án kinh doanh không hiệu quả, quản lý vốn lỏng lẻo. Hậu quả là làm ăn thua lỗ, không trả được nợ cho Ngân hàng. Theo Nguyễn Minh Kiều (2012) một số khách hàng có phương án vay ban đầu rất khả thi nhưng khi đi vào hoạt động thực tếdo khả năng quản lý vốn vay yếu kém, khách hàng không có khả năng ứng phó với những biến động của nền kinh tế thị trường, dẫn đến hoạt động kinh doanh không hiệu quả. Lê Thị Mận (2010) nhận định một trong những nguyên nhân gây ra rủi ro tín dụng từ phía khách hàng về mặt chủ quan là do trình độ quản lý của khách hàng yếu kém dẫn đến việc sử dụng vốn vay không hiệu quả gây thất thoát ảnh hưởng đến khả năng trả nợ cho Ngân hàng.
+
+#### 2.1.4.4 Từ phía Ngân hàng
+
+Rủi ro tác nghiệp từ phía Ngân hàng chủ yếu nảy sinh tại khâu thẩm định tín dụng.
+Trên cơ sở tài liệu, thông tin thu thập được, cán bộ Ngân hàng thực hiện phân tích tín dụng để đánh giá khả năng hiện tại và tiềm năng của người đi vay, khả năng hoàn trả vốn vay cho Ngân hàng. Khâu phân tích, đánh giá người đi vay, lập đề xuất tín dụng là khâu rất quan trọng trong việc kiểm soát trước giải ngân, có ảnh hưởng quan trọng đến chất lượng tín dụng, rà soát chặt chẽ từ khâu thẩm định để loại trừ ngay từ đầu các khách hàng có nguy cơ nợ xấu, không có thiện chí trả nợ. Việc này phụ thuộc nhiều vào trình độ năng lực, đạo đức của cán bộ Ngân hàng. Cán bộ Ngân hàng phải có trình độ chuyên môn, khả năng nghiệp vụ, khả năng phân tích đánh giá, có trách nhiệm trong công việc trên cơ sở lựa chọn được những khách hàng có đủ năng lực pháp lý, đủ năng lực tài chính, có tư cách đạo đức tốt,... có như vậy thì hoạt động cho vay mới diễn ra an toàn và hiệu quả hơn.
+
+Tính sai lầm trong nghiệp vụ, cho vay quá mức so với khả năng trả nợ vay của khách hàng. Do không phân tích, thẩm định kỹ khách hàng dẫn đến không đánh giá chính xác thực trạng khả năng tài chính, khả năng trả nợ của khách hàng. Hay định kỳ hạn trả nợ cho các khoản vay không đúng thực tế, theo Lê Văn Tư (2005) thì thời hạn vay cũng có ảnh hưởng đến rủi ro trả nợ vay. Xác định kỳ hạn sai sẽ xảy ra hai trường hợp:
+
++ Khách hàng có thu nhập sớm hơn thời điểm trả nợ cho nên số tiền thu được sẽ sử dụng vào mục đích khác, nên khi đáo hạn khách hàng không có tiền trả nợ cho Ngân hàng.
+
++ Khách hàng có thu nhập sau thời điểm trả nợ, tất nhiên khách hàng không có tiền trả nợ cho Ngân hàng khi đến hạn dẫn đến phải gia hạn hoặc chuyển nợ quá hạn.
+
+Theo Trần Huy Hoàng (2010) thì chính sách và quy trình tín dụng không chặt chẽ, không bám sát thực tế, không chú trọng đến phân tích khách hàng, xếp loại tín dụng để tính toán điều kiện vay và khả năng trả nợ đưa ra những quyết định cấp tín dụng không phù hợp là nguyên nhân dẫn đến rủi ro tín dụng. Lê Thị Mận (2010) xác định nguyên nhân từ phía Ngân hàng là do quá trình phân tích và thẩm định tín dụng không kỹ lưỡng dẫn đến sai lầm trong quyết định cho vay.
+
+### 2.1.5 Các mô hình thường được sử dụng để đánh giá nợ xấu
+
+Thống kê là một trong những phương pháp nghiên cứu chính xác. Phương pháp thống kê là một quá trình, bao gồm điều tra thống kê, khái quát hóa thông tin (tổng hợp thống kê), phân tích và dự báo. Mô hình này có khả năng ứng dụng các phương pháp phân tích thống kê nhiều chiều, lý thuyết điều khiển, lý thuyết dự báo,… cũng như ứng dụng công nghệ trong quá trình nghiên cứu. Sau đây là một số các mô hình được áp dụng tương đối phổ biến.
+
+#### 2.1.5.1 Mô hình phân tích biệt thức (Dirciminant Analysis models)
+
+Mô hình phân tích biệt thức là một kỹ thuật thống kê được sử dụng để phân loại một quan sát vào một trong vài nhóm định danh dựa theo những đặc điểm cá biệt của các quan sát này. Mô hình phân tích biệt thức đơn giản nhất là xây dựng quan hệ tuyến tính của những đặc điểm có thể phân biệt tốt nhất giữa các nhóm công ty. Trong mô hình phân tích biệt thức, một sự kết hợp giữa các hệ số biệt thức và các chỉ số định lượng được tạo ra để cho phép phân loại trường hợp tốt và xấu.
+
+Mục tiêu chung của mô hình phân tích biệt thức trong đo lường rủi ro vỡ nợ là phân biệt giữa công ty có nguy cơ vỡ nợ và các công ty không có nguy cơ vỡ nợ một cách khách quan và chính xác nhất thông qua hàm biệt thức trong đó các biến số là biến định lượng (số liệu được thu thập từ báo cáo tài chính). Mục tiêu chính là tìm ra một tổ hợp tuyến tính của các biến nhằm phân biệt các nhóm, các cá thể trong mỗi nhóm gần nhau nhất và các nhóm được phân biệt tốt nhất (xa nhau nhất). Sau đó được chuyển đổi thành một hàm biệt thức, hay còn gọi là hệ số Z. Hàm biệt thức này có dạng:
+
+Trong phương trình này:
+
+D = Chỉ số đo lường toàn bộ mức độ rủi ro của người vay Ki = Các hệ số biệt thức ai = Các chỉ số tài chính n = số lượng các chỉ số tài chính Ưu điểm của mô hình phân tích biệt thức là mô hình này được vận dụng khá nhiều trong xếp hạng tín dụng và có khả năng phân biệt được các nhóm khách hàng có khả năng trả nợ hoặc không có khả năng trả nợ. Hơn nữa, thực tế cho thấy mô hình này khá đơn giản và dễ áp dụng.
+
+Mặc dù mô hình phân tích biệt thức là một mô hình được đánh giá có khá nhiều ưu điểm và được nhiều nhà nghiên cứu sử dụng trong việc ước lượng khả năng vỡ nợ của đối tượng là các khách hàng vay vốn tại các TCTD. Tuy nhiên mô hình này chỉ thực sự thích hợp với việc phân tích các số liệu là các chỉ tiêu tài chính (chỉ số định lượng) hơn là xem xét phân tích các chỉ tiêu phi tài chính (chỉ tiêu định tính). Và để đánh giá tính thích hợp của mô hình phân tích phân biệt thì các nhà nghiên cứu phải kiểm định xem mô hình có thỏa mãn các giả thiết toán học không, đặc biệt là tính phân phối chuẩn của các nhân tố liên quan tới khả năng trả nợ. Nếu giả thiết về tính phân phối chuẩn không được thỏa mãn thì kết quả mô hình là không tối ưu, không đạt được sự công nhận và ít có ý nghĩa trong sử dụng.
+
+#### 2.1.5.2 Mô hình hồi quy
+
+Giống như mô hình phân tích biệt thức, mô hình hồi quy đưa ra một mô hình thể hiện sự phụ thuộc của một biến theo các biến độc lập khác. Mục tiêu chính là để xác định xác suất trả nợ vay của khách hàng với một tập hợp các đặc điểm nhất định bằng cách sử dụng khả năng ước lượng tối đa. Các mô hình hồi quy thường được sử dụng để đánh giá xác suất vỡ nợ: mô hình hồi quy Probit và Logit. Tuy nhiên, nghiên cứu sử dụng mô hình Probit và phần mở rộng của nó là khá hạn chế. Còn trong mô hình Logit, biến phụ thuộc là biến giả, chỉ nhận giá trị 0 hoặc 1. Mô hình này giúp xác định được khả năng khách hàng sẽ có rủi ro tín dụng (biến phụ thuộc) trên cơ sở sử dụng các nhân tố có ảnh hưởng đến khách hàng (biến độc lập). Mô hình này được thể hiện như sau: k j xij + ui yi* = 0 +  j =1 Trong đó: yi* là mức hữu dụng được đo lường thông qua biến nhị phân 0 và 1 ,0 j là hệ số ước lượng trong mô hình x ij là các biến độc lập giải thích cho biến phụ thuộc.
+
+Mô hình Logit có một số lợi thế hơn mô hình phân tích biệt thức:
+
+Thứ nhất, mô hình hồi quy Logit không yêu cầu các nhân tố đầu vào phân phối chuẩn. Điều này cho phép mô hình hồi quy Logit xử lý những nhân tố về nguy cơ phá sản định tính mà không cần sự biến đổi như trước đây (Johnsen & Melicher, 1994).
+
+Thứ hai, các kết quả của mô hình Logit hiển thị một số từ số không đến một, do đó nó có thể giải thích được xác suất trả nợ của khách hàng. Kết quả này cũng được coi là rõ ràng và chính xác hơn so với những kết quả được đưa ra từ mô hình phân tích biệt thức.
+
+Thứ ba, hồi quy Logit đòi hỏi dữ liệu ít hơn so với mô hình phân tích biệt thức.
+Do đó trong những năm gần đây mô hình hồi quy Logit được sử dụng rộng rãi hơn cả trong nghiên cứu khoa học và thực tiễn.
+
+Mô hình hồi quy Tobit Mô hình Tobit được dùng để ước tính mối quan hệ tuyến tính giữa các biến, phương pháp ước lượng hồi quy Tobit thông dụng về việc giới hạn của biến phụ thuộc, điều này làm cho kết quả hồi quy có độ chính xác cao hơn. Mô hình hồi quy Tobit có dạng như sau: βXi+i khi yi > 0 yi = 0 khi yi ≤ 0 Trong đó: yi: độ thỏa dụng Xi: các biến độc lập giải thích cho biến phụ thuộc 𝛽𝑖 là hệ số ước lượng trong mô hình.
+
+#### 2.1.5.3 Mô hình mạng nơron (Neural Network Models)
+
+Mô hình mạng nơron sử dụng các nguyên tắc tính toán song song bao gồm nhiều quá trình tính toán đơn giản kết nối với nhau. Trong mỗi quá trình, các phép tính được thực hiện rất đơn giản, do một nơron đảm trách. Tuy nhiên, chính những nơron đơn giản này có thể giải quyết được những nhiệm vụ rất phức tạp khi được kết nối và tổ chức một cách hợp lý và logic.
+
+Mạng nơron đặc biệt thích hợp cho các mô tả của mô hình đánh giá phức tạp mà phải lấy nhiều loại thông tin khác nhau. Một ưu điểm của mô hình này là nó có thể giải quyết các mối quan hệ phi tuyến tính và chứa thông tin còn thiếu (Charalambous, Charitou & Neophytou, 2000). Tuy nhiên, mô hình mạng nơron vẫn không được sử dụng phổ biến trong thực tế do những lý do sau đây:
+
+Thứ nhất, mô hình mạng nơron đòi hỏi dữ liệu đầu vào lớn, với ít nhất 500 quan sát hoặc hơn (Kumar & Ravi, 2007).
+
+Thứ hai, các bước thực hiện trong mô hình mạng nơron khá phức tạp và khó sử dụng đối với người dùng, và do đó dễ xảy ra nhiều vấn đề.
+
+#### 2.1.5.4 Mô hình kết hợp
+
+Thông qua các phân tích, nhận xét về các mô hình đo lường khả năng trả nợ của khách hàng cho thấy không có mô hình nào là hoàn hảo mà mỗi mô hình sẽ thích hợp cho một số nội dung đánh giá nhất định. Vì vậy, để tận dụng được những ưu điểm và hạn chế nhược điểm của mỗi mô hình, Ngân hàng có thể áp dụng mô hình kết hợp.
+
+## 2.2 LƯỢC KHẢO TÀI LIỆU
+
+### 2.2.1 Các yếu tố ảnh hưởng đến nợ xấu
+
+Dựa vào những nghiên cứu thực nghiệm trong tài chính vi mô liên quan đến khả năng trả nợ của khách hàng thì các yếu tố ảnh hưởng đến nợ xấu được chia thành 02 nhóm đặc điểm chính: Đặc điểm cá nhân người vay và đặc điểm món vay.
+
+Về đặc điểm cá nhân chủ hộ các nghiên cứu thường tập trung vào tuổi, giới tính, trình độ học vấn, nghề nghiệp, hôn nhân, lịch sử vay vốn và mục đích vay vốn.
+
+Ở các nước phát triển hay đang phát triển, khi muốn kinh doanh, gia tăng thu nhập và sử dụng vốn một cách hiệu quả thì cần có trình độ học vấn nhất định, với trình độ học vấn cao thì có nhiều kiến thức và kỹ năng trong các lĩnh vực, ngoài công việc chính thức của mình các chủ hộ có thể làm việc bán thời gian để bổ sung thu nhập của họ. Các khoản thu nhập bổ sung làm tăng thêm thu nhập chính và có thể giúp họ trả nợ vay trong trường hợp kinh doanh thất bại, điều này đã được S. U. Isitor et al. (2016) nhận thấy và kết luận trình độ học vấn cao có ý nghĩa đến xác suất xảy ra nợ xấu; Wongnaa và Awunyo (2013) phát hiện giáo dục cao có tác động tích cực năng lực trả nợ vay và hiệu suất trả nợ tốt hơn. Trong nước thì Trương Đông Lộc và Nguyễn Thanh Bình (2011) đã chỉ ra trình độ học vấn chủ hộ có tác động đến khả năng trả nợ vay, học vấn càng cao thì chủ hộ có nhiều cơ hội tiếp cận với thông tin vay vốn, dễ dàng tiếp cận với khoa học kỹ thuật, có tính toán trong việc sử dụng vốn vay và sử dụng vốn đúng mục đích, đồng thời khả năng tiết kiệm cũng cao hơn nên khả năng trả nợ vay cũng tăng, điều này dẫn đến nợ xấu sẽ giảm.
+
+Giới tính, nghiên cứu IFAD (1998) đã chỉ ra rằng phụ nữ là những người vay đáng tin cậy và thường thực hiện trả nợ vay tốt hơn nam giới. Tín dụng vi mô không chỉ là một phương tiện để tạo ra thu nhập cho cá nhân sử dụng, mà còn cho việc sử dụng gia đình, đặc biệt là con cái của họ. Một số học giả cũng cho rằng phụ nữ có khả năng quản lý chi tiêu và sử dụng vốn vay hợp lý, có khả năng giúp đỡ và hỗ trợ nhau khi gặp khó khăn tài chính hơn nam giới (Wongnaa, Awunyo – Victor, 2013). Và Bekhet & Eletter (2014) đã nghiên cứu về nhu cầu trả nợ vay của các hộ gia đình, tác giả sử dụng Mô hình Logit để đánh giá các yếu tố có ảnh hưởng đến quyết định cho vay. Bài nghiên cứu sử dụng mẫu bao gồm 492 quan sát trường hợp đồng ý và từ chối cấp tín dụng từ các NHTM tại Jordan từ giai đoạn 2006 – 2011 và tác giả đã chỉ ra rằng nam giới thì lại có khả năng trả nợ cao hơn nữ giới do nam giới sức khoẻ và khả năng chịu được công việc nặng, di chuyển xa nên khả năng tạo ra được thu nhập cao hơn nữ giới nên khả năng trả nợ sẽ cao hơn nữ giới, đồng nghĩa với việc nợ xấu sẽ dễ xảy ra khi khách hàng là nữ.
+
+Ngoài trình độ học vấn và giới tính có tác động khả rõ rệt đến khả năng trả nợ, thì biến tuổi cũng được một số nghiên cứu đưa vào. Như Mokhtar, S.H & cộng sự (2012) họ nghiên cứu tại hai vùng TEKUN và YUM thì lại cho hai kết quả khác nhau về biến tuổi. Ở TEKUN, người vay lớn tuổi có xác suất trả nợ thấp hơn, có thể là do những người đi vay trong nhóm tuổi này có thể do chi phí gia đình và kinh doanh cao hơn so với thu nhập, họ có thể có khó khăn trong việc trả nợ, ở YUM thì lại thì người trẻ tuổi lại có vấn đề về khả năng trả nợ dễ xảy ra nợ xấu hơn người lớn tuổi, do họ thiếu kinh nghiệm trong kinh doanh và do còn trẻ nên họ vẫn có khả năng vay từ các tổ chức tài chính vi mô khác. Và Trần Huy Hoàng, Nguyễn Trọng Chương (2020) và Wongnaa, Awunyo – Victor (2013) kết luận rằng người vay lớn tuổi sẽ có khả năng trả nợ cao hơn bởi kinh nghiệm, tính kỷ luật cao hơn người vay trẻ. Trong nước thì có Trương Đông Lộc và Nguyễn Thanh Bình (2011) cũng đã đưa biến tuổi vào mô hình nghiên cứu nhưng không thấy ảnh hưởng đến khả năng trả nợ từ biến này.
+
+Mục đích sử dụng vốn vay, khách hàng cá nhân thường sử dụng vốn vay không đúng mục đích bởi mọi chi tiêu và chi phí sinh hoạt gia đình luôn chiếm cao trong gia đình, với việc sử dụng không đúng mục đích không đưa vào kinh doanh hoạt động sản xuất, hộ không thể tạo ra thu nhập và lợi nhuận dẫn đến việc trả nợ vay thấp và có thể mất khả hoàn trả vốn. Trương Đông Lộc và Nguyễn Thanh Bình (2011) thì cho rằng việc sử dụng đúng mục đích sẽ giúp cho hộ gia đình có khả năng trả nợ đúng hạn hơn so với các hộ gia đình không sử dụng đúng mục đích. Phan Đình Khôi và Nguyễn Việt Thành (2017) cũng đã củng cố lại việc sử dụng đúng mục đích vay vốn sẽ giảm rủi ro tín dụng cho các khoản vay ấy. Và điều này cũng dễ thấy, khi khách hàng có kế hoạch kinh doanh rõ ràng thì việc vay vốn để bù đắp vốn thiếu hụt sẽ làm cho hoạt động kinh doanh được vận hành tốt hơn, chất lượng sản phẩm sẽ tốt hơn, đây là cơ sở để khách hàng luôn có nguồn thu nhập ổn định và xác suất không xảy ra nợ xấu sẽ tăng cao.
+
+Song song với mục đích vay vốn thì yếu tố nghề nghiệp cũng là một trong các yếu tố quan trọng để khách hàng. Với khách hàng làm tại các cơ quan, xí nghiệp, có hợp đồng lao động chính thức dài hạn và được trả lương theo hàng tháng cố định thì xác suất trả nợ vay của họ sẽ cao hơn so với các ngành nghề kinh doanh (Trương Đông Lộc và Nguyễn Thanh Bình, 2011). Với thu nhập ổn định hàng tháng, khách hàng luôn có kế hoạch chi tiêu phù hợp, kế hoạch trả nợ hàng tháng đều cố định và trong tầm kiểm soát của khách hàng, đây là một trong những nguyên nhân chính để đảm bảo khả năng trả nợ của khách hàng.
+Ngoài ra, với nguồn thu nhập đã ổn định hàng tháng thì khách hàng sẽ sử dụng tiền nhàn rỗi để đầu hoặc gửi tiết kiệm để tăng nguồn thu nhập của mình, với các khoản đầu tư mang tính rủi ro cao thì việc lợi nhuận cũng sẽ tăng cao tương ứng nên tạo ra nguồn thu nhập bất thường cao cho khách hàng và điều này đã làm cho khách hàng có được nguồn trả nợ vay đúng hạn hoặc trước hạn và Trần Huy Hoàng, Nguyễn Trọng Chương (2020) đã cho biết rủi ro nghề nghiệp có tác động ngược chiều với khả năng trả nợ đúng hạn của khách hàng cá nhân. Từ đây, có thể thấy với số tiền lương cố định hàng thì việc cân đối thu nhập trong việc chi tiêu thiết yếu và trả nợ vay luôn được khách hàng chủ động kiểm soát; còn sử dụng tiền nhàn rổi để đầu tư sinh lời tuy mang rủi ro cao nhưng việc có đầu tư thất bại thì khách hàng vẫn có nguồn thu nhập ổn định hàng tháng để trả nợ vay đúng hạn cho Ngân hàng.
+
+Cùng với nguồn thu nhập thì khách hàng đã kết hôn cũng có tác động mạnh đến khả năng trả nợ vay của khách hàng. Và sau khi kết hôn thì việc vay vốn sẽ là trách nhiệm của cùng hai vợ chồng, nên với nguồn thu nhập tăng lên sau khi kết hôn thì việc trả nợ vay đúng hạn cũng sẽ tăng lên (Wongnaa, Awunyo – Victor, 2013). Nhưng với việc sau khi kết hôn thì số lượng phụ thuộc có thể tăng lên do có con hay ba mẹ vợ hoặc ba mẹ chồng, điều này cũng là một trả ngại cho quá trình trả nợ vay. Thực tế, đa phần các hộ kinh doanh nhỏ thường sử dụng các khoản vay “kinh doanh” của họ cho những chi tiêu gia đình như chi là trả tiền cho giáo dục con cái, mua thực phẩm và đồ dùng, và trả tiền cho các hóa đơn y tế và các chi phí bất thường khác, với qui mô gia đình càng lớn thì chi tiêu thường xuyên lại càng cao nên khả năng trả nợ càng thấp. Vì thế, họ có thể sử dụng nguồn thu nhập chính hoặc thu nhập khác được tạo ra bởi các thành viên trong gia đình để trả nợ; gia đình có nhiều người có khả năng tạo ra thu nhập sẽ làm tăng thu nhập chung của hộ và sẽ giảm bớt gánh nặng cho chủ hộ. Bởi thế, số người phụ thuộc càng thấp thì tỷ lệ trả nợ sẽ tăng lên, đây là kết luận Trương Đông Lộc và Nguyễn Thanh Bình (2011) nghiên cứu về nông hộ tại Hậu Giang.
+
+Và một trong những điều cần xét để cho vay đó là lịch sử vay vốn của khách hàng được thể hiện cụ thể trong CIC. Trong báo cáo CIC, thể hiện rõ về điểm xếp hạng tín dụng của khách hàng, nợ chú ý trong 12 tháng gần nhất, nợ xấu trong 3 hay 5 năm hoặc khách hàng đã từng bán nợ cho VAMC hay không. Đây là các yếu tố mà Ngân hàng luôn xem xét để duyệt cho khách hàng vay hay không vay. Với khách hàng đã từng có nợ chú ý hoặc nợ xấu trong 12 thì đây là dấu hiệu cho thấy khách hàng đang mất khả năng thanh toán và xác suất trả nợ không đúng hạn luôn cao hoặc nếu khách hàng có nguồn thu nhập ổn định mà vẫn bị nợ chú ý trong 12 tháng gần nhất thì cũng thể hiện rõ khách hàng sẽ không chú trọng đến lịch trả nợ, do đó việc thực hiện trả nợ sẽ trễ hạn.
+Và sau khi việc đã từng bị nợ chú ý hay nợ xấu thì điểm xếp hạng tín dụng của khách đều bị ảnh hưởng nghiệm trọng và đây cũng là cơ sở xét duyệt hồ sơ vay cho khách hàng. Phan Đình Khôi và Nguyễn Việt Thành (2017) đã kết luận rằng lịch sử vay vốn có ảnh hưởng đến rủi ro tín dụng đối với khách hàng cá nhân tại các Ngân hàng thương mại cổ phần có sở hữu Nhà nước trên địa bàn tỉnh Hậu Giang.
+
+Về đặc điểm món vay, thì các nghiên cứu thường tập trung vào số tiền cho vay, thời hạn vay, lãi suất và giá trị tài sản bảo đảm.
+
+Lãi suất vay là một vấn đề khá nhạy cảm đối với người đi vay, bởi lãi suất cho vay phản ánh giá cả của đồng vốn mà người sử dụng vốn là các người vay phải trả cho người cho vay. Đối với người vay lãi suất cho vay hình thành nên chi phí vốn và là chi phí đầu vào của quá trình sản xuất kinh doanh. Do đó, mọi sự biến động về lãi suất cho vay cũng đều ảnh hưởng trực tiếp đến hiệu quả sản xuất kinh doanh hay nói cách khác là tác động trực tiếp đến lợi nhuận của người đi vay, có thể gây ra tình trạng thua lỗ, phá sản trong hoạt động sản xuất kinh doanh. Và lãi suất như là một phương thức để đánh giá người đi vay có rủi ro cao hay thấp, hoặc để bù đắp chi phí giao dịch cao của các khoản vay.
+Do đó, với lãi suất càng cao thì người vay rủi ro cao cũng sẽ chấp nhận vay, và khả năng trả nợ vay sẽ càng thấp (Lê Khương Ninh, 2004). Trong nông nghiệp Trương Đông Lộc và Nguyễn Thanh Bình (2011) cùng chỉ ra lãi suất vay tỷ lệ nghịch với khả năng trả nợ vay đúng hạn của hộ. Vậy dù tăng ít hay nhiều thì cũng không ảnh hưởng tốt đến hoạt động sản xuất - kinh doanh của hộ, nên lãi suất cho vay thấp luôn là động lực khuyến khích người đi vay mở rộng đầu tư, phát triển các hoạt động sản xuất kinh doanh và qua đó kích thích tăng trưởng trong toàn bộ nền kinh tế. Ở nước ta, do điều kiện thị trường tài chính chưa phát triển, các kênh huy động vốn còn rất hạn chế nên nguồn vốn từ các Ngân hàng luôn đóng một vai trò hết sức quan trọng; do đó, lãi suất cho vay luôn có tác động rất lớn.
+
+Lượng vốn vay là số tiền mà người vay nhận được khi giải ngân. Một số quan điểm cho rằng, với lượng vốn vay càng lớn thì khả năng trả nợ càng cao. Wongnaa, Awunyo – Victor (2013) đã chứng thực điều đó bằng các nghiên cứu của mình, lượng vốn vay nhiều sẽ làm tăng thu nhập khi họ vẫn chưa đạt được tối ưu trong việc sử dụng vốn.
+Nhưng PASHA & NEGESE (2014) lại thấy rằng với lượng vốn vay nhỏ thì khả năng trả nợ sẽ cao hơn. Với lượng vốn nhỏ thì sử dụng vốn có khả năng hiệu quả hơn, không sử dụng vốn vay sai mục đích, chủ yếu tập trung vào đầu tư nên khả năng thành công sẽ cao hơn và khả năng trả nợ vẫn lớn hơn. Do đó, để xác định được lượng vốn cho vay cao hay thấp thì cần có sự đánh giá hoạt động kinh doanh hộ, và sự giám sát chặt chẽ từ hệ thống của người cho vay. Cùng với lượng vốn vay thì hoạt động giám sát sau khi vay cũng đóng vai trò không kém đến khả năng trả nợ của hộ nghèo (Wongnaa and Awunyo- Vitor, 2013), để giảm thiểu trả nợ, một mối quan hệ chặt chẽ giữa người cho vay và người đi vay có thể được áp dụng thông qua giám sát, tư vấn kinh doanh và cuộc họp thường xuyên rất cần thiết. Sau khi vay sự giám sát các khoản vay càng chặt chẽ thì khả năng trả nợ càng cao bởi người cho vay có thể kiểm soát và xem xét đánh giá hoạt động kinh doanh sản xuất của hộ như thế nào, có hiệu quả hay không. Từ đó người cho vay có thể tư vấn và hộ trợ để hộ kinh doanh hiệu quả hơn nếu hộ có nguy cơ thất bại trong kinh doanh.
+
+Theo Lê Văn Tư (2005) thời hạn cho vay ảnh hưởng đến khả năng trả nợ vay đúng hạn của khách hàng. Với thời hạn vay càng dài thì khả năng trả nợ càng tốt (Trần Huy Hoàng, Nguyễn Trọng Chương, 2020). Người cho vay luôn kỳ vọng các khoản vay được trả từng phần nhỏ một cách đều đặn, bắt đầu từ tháng liền kề sau tháng giải ngân đầu tiên.Với lịch trả nợ đều đặn sẽ giúp Ngân hàng tạo ra hệ thống cảnh báo sớm. Thông qua việc thu nợ hàng tháng Ngân hàng sẽ phát hiện sớm các trường hợp có biến động thu nhập, khách hàng có tiếp tục hay duy trì công việc tại đơn vị…từ đó giúp Ngân hàng có thể xử lý sớm hơn các vấn đề ảnh hưởng đến thu nhập trả nợ nếu cần. Và, do đặc điểm trả nợ đều hàng tháng, thời hạn cho vay sẽ linh hoạt phụ thuộc vào mức trả và mức vay. Với cùng một số tiền vay, mức trả hàng tháng càng thấp thì thời hạn vay càng dài và ngược lại. Do đó, dựa trên nhu cầu vốn và khả năng trả từng kỳ của khách hàng mà Ngân hàng sẽ xác định được thời hạn cho vay phù hợp.
+
+Ngân hàng xem tài sản đảm bảo như một điều kiện thiết yếu trong quyết định cấp tín dụng; là nguồn đảm bảo thu hồi nợ cuối cùng nhằm giảm thiểu tổn thất hoặc có tác dụng tạo thiện chí trả nợ, hạn chế rủi ro đạo đức nếu khách hàng không muốn mất tài sản. Và với trị giá tài sản bảo đảm càng cao thì càng an toàn cho Ngân hàng và hạn chế được khả năng giật nợ của khách hàng. Tác giả Kohansal và Mansoori (2009), Phan Đình Khôi và Nguyễn Việt Thành (2017) và Trần Huy Hoàng, Nguyễn Trọng Chương (2020) đã nghiên cứu mối tương quan giữa giá trị tài sản bảo đảm với khả năng trả nợ của khách hàng. Đồng thời, các nghiên cứu đã chỉ ra rằng khả năng thu hồi các khoản cho vay có tài sản đảm bảo sẽ cao hơn các khoản cho vay không có tài sản đảm bảo, hay tỷ lệ giá trị tài sản đảm bảo tính trên số tiền vay càng nhỏ thì rủi ro của khoản vay càng cao.
+
+Như vậy, qua các nghiên cứu trước đây có liên quan trong và ngoài nước như trên cho thấy các bài nghiên cứu đã đưa ra cở sở vững chắc cho việc sử dụng mô hình để xác định các yếu tố ảnh hưởng đến khả năng trả nợ vay đúng hạn hay nợ xấu của khách hàng. Từ đó, đề ra những giải pháp tích cực cho vấn đề nghiên cứu. Kết quả quan trọng nhất mà các tác giả đóng góp là sự khẳng định mô hình đến nay vẫn còn ý nghĩa nghiên cứu và định lượng. Những thành quả của các bài nghiên cứu trên cũng là cơ sở để tác giả kế thừa phương pháp phân tích và là căn cứ để tác giả tham khảo lựa chọn các biến trong bài nghiên cứu của mình.
+
+### 2.2.2 Phương pháp nghiên cứu trong các nghiên cứu trước
+
+Trong các nghiên cứu trước đây, khi phân tích về các yếu tố ảnh hưởng đến khả năng trả nợ vay, các nhà nghiên cứu chủ yếu dùng phương pháp định lượng để tìm hiểu các yếu tố có ảnh hưởng đến khả năng trả nợ vay. Cụ thể như sau:
+
+Với mô hình xác suất tuyến tính không được sử dụng phổ biến trong phân tích bởi hai hạn chế. Thứ nhất, các xác suất ước lượng từ mô hình không nhất thiết năm trong giới hạn 0 và 1. Và thứ hai, mô hình này giả định rằng xác suất của một phản ứng dương tăng tuyến tính với mức độ của biến giải thích, điều này rất phản trực quan. Do đó, nhiều tác giả đã chọn mô hình Logit trong nghiên cứu để phân tích về khả năng trả nợ vay bởi mô hình Logit là mô hình định lượng trong đó biến phụ thuộc là biến giả, nhận 2 giá trị là 0 hoặc 1 và Không giống mô hình xác suất tuyến tính, ảnh hưởng biên của một biến giải thích trong mô hình Logit phụ thuộc không chỉ vào hệ số của biến đó mà còn và các giá trị của tất cả các biến giải thích trong mô hình. Vì thế, Kohansal và Mansoori (2009) đã sử dụng mô hình logit để thực hiện nghiên cứu các yếu tố ảnh hưởng đến khả năng trả nợ vay của nông hộ ở tỉnh Khorasan – Razavi nước Iran hay trong nước thì tác giả Nguyễn Quốc Nghi (2012) cũng đã dùng mô hình Logit để nghiên cứu các nhân tố ảnh hưởng đến khả năng trả nợ đúng hạn của hộ gia đình ở khu vực nông thôn tỉnh Trà Vinh; tác giả Trần Huy Hoàng, Nguyễn Trọng Chương (2020) đã phân tích các yếu tố ảnh hưởng đến khả năng trả nợ vay đúng hạn của khách hàng cá nhân tại Ngân hàng nông nghiệp và phát triển nông thôn Việt Nam – Chi nhánh Vũng Liêm. Gần đây nhất thì Phan Đình Khôi và Nguyễn Việt Thành (2017) đã phân tích các yếu tố kinh tế vi mô ảnh hưởng đến rủi ro tín dụng của các Ngân hàng thương mại cổ phần có sở hữu Nhà nước trên địa bàn tỉnh Hậu Giang dựa trên số liệu được thu thập từ 316 quan sát của 5 Ngân hàng. Hồ sơ khách hàng được thu thập ngẫu nhiên từ danh sách hồ sơ khách hàng cá nhân, tổ chức có hợp đồng tín dụng và còn dư nợ đến ngày 30/4/2014. Nghiên cứu đã sử dụng hai mô hình logit nhị thức và logit đa thức để ước lượng các yếu tố ảnh hưởng đến rủi ro tín dụng.
+
+Ngoài ra, mô hình Probit cũng được sử dụng trong nghiên cứu. Mô hình Logit sử dụng phân phối xác suất logistic để ước lượng các tham số của mô hình, còn mô hình Probit thì sử dụng phân phối chuẩn để ước lượng các tham số. Theo Mai Văn Nam (2008), kết quả của mô hình Logit và mô hình Probit không khác nhau nhiều khi mẫu đủ lớn vì phân phối logistic và phân phối chuẩn tích luỹ rất gần nhau. Do đó, tác giả Trương Đông Lộc và Nguyễn Thanh Bình (2011) đã dùng mô hình Probit để nghiên cứu các nhân tố ảnh hưởng đến khả năng trả nợ vay đúng hạn của nông hộ ở tỉnh Hậu Giang hay Wongnaa & Awunyo-Vitor (2013) đã phân tích các yếu tố ảnh hưởng đến khả năng trả nợ của nông dân Yam ở huyện Sen, Ghana.
+
+### 2.2.3 Đánh giá tổng quan các lược khảo tài liệu
+
+Sau khi tiến hành lược khảo các tài liệu nghiên cứu trước ở trong và ngoài nước, tác giả tiến hành tóm tắt, tổng hợp các tài liệu như sau:
+
+Phương Nội dung pháp Kết quả STT Tác giả nghiên cứu nghiên nghiên cứu cứu
+1 Kohansal & Nghiên cứu các yếu Thống kê Ảnh hưởng thuận chiều với
+Mansoori tố ảnh hưởng đến mô tả, Mô biến phụ thuộc là Kinh nghiệm (2009) khả năng trả nợ vay hình Logit canh tác, Lượng vốn vay, Giá của nông hộ ở tỉnh trị tài sản thế chấp, Thu nhập, Khorasan – Razavi biến có ý nghĩa thống kê và nước Iran nghịch chiều với biến phụ thuộc là Lãi suất vay, Số tiền đề nghị vay, Số tiền đến hạn trả theo phân kỳ.
+2 David Các yếu tố ảnh Thống kê Tuổi tác, Trình độ học vấn, (2013) hưởng khả năng trả mô tả và Quy mô cho vay, Thời gian trả nợ của nông dân hồi quy đa nợ, Thu nhập thuần từ trang thuộc hợp tác xã chủ thức trại, Giám sát vốn vay, Tham hộ nhỏ ở khu vực gia vào các công việc khác,
+Nam Nigeria Quy mô trang trại là các yếu tố ảnh hưởng cùng chiều; còn lại các biến như: Giới tính, Tình trạng hôn nhân, Quy mô hộ gia đình và Số tiền chi tiêu vào thuê thiết bị là các yếu tố ảnh hưởng ngược chiều.
+3 Wongnaa& Nghiên cứu về các Mô hình Trình độ học vấn, Kinh nghiệm
+Awunyo – yếu tố ảnh hưởng hồi quy sản xuất khoai mỡ, Lợi nhuận, Victor đến khả năng trả nợ Probit Tuổi tác, Sự giám sát từ phía (2013) vay đúng hạn của Ngân hàng, Các nguồn thu nhập nông dân Yam tại khác phi nông nghiệp là các quận Sene, Ghana biến có mối tương quan thuận chiều với khả năng trả nợ vay đúng hạn của nông hộ. Còn lại các biến như: Giới tính của chủ hộ và Tình trạng hôn nhân là những biến có mối tương quan nghịch chiều với khả năng trả nợ vay đúng hạn của nông hộ.
+
+Phương Nội dung pháp Kết quả STT Tác giả nghiên cứu nghiên nghiên cứu cứu
+4 S. U. Isitor Nghiên cứu về các Mô hình Tuổi, Trình độ học vấn, Kinh et al. (2016) yếu tố quyết định trả hồi quy nghiệm sản xuất nông nghiệp, nợ vay của nông dân Probit Thu nhập trung bình hàng tại hợp tác xã ở tháng, Số tiền vay là những biến
+Remo, bang Ogun, có mối tương quan thuận chiều Nigeria với khả năng trả nợ vay của nông hộ. Mặt khác, Số thành viên phụ thuộc trong gia đình lại có mối tương quan nghịch chiều với khả năng trả nợ vay của nông hộ.
+5 Bekhet & Nghiên cứu về nhu Mô hình Nghiên cứu cho thấy các yếu tố
+Eletter cầu trả nợ vay của Logit ảnh hưởng gồm: Độ tuổi, Giới (2014) các hộ gia đình tại tính, Tổng thu nhập, Loại hình Jordan từ giai đoạn công ty khách hàng làm việc,
+2006 – 2011 Nguồn trả nợ, Tỷ số nợ/Thu nhập và Tổng thu nhập có ảnh hưởng đến khả năng trả nợ vay.
+6 Trương Các nhân tố ảnh Thống kê Nghiên cứu này đã chứng minh
+Đông Lộc hưởng đến khả năng mô tả, Thu nhập sau khi vay, Số thành & Nguyễn trả nợ đúng hạn của phân tích viên trong gia đình có thu nhập Thanh Bình nông hộ ở tỉnh Hậu mô hình và Trình độ học vấn là những (2011) Giang. Probit. biến có mối tương quan thuận, còn Lãi suất có mối tương quan nghịch với khả năng trả nợ vay đúng hạn của nông hộ. Và khoản vay có nguồn trả nợ từ sản xuất nông nghiệp cao hơn những khoản vay có nguồn trả nợ từ những hoạt động khác.
+7 Phan Đình Các yếu tố vi mô Mô hình Ở mức độ rủi ro 1: Tài sản đảm
+Khôi & ảnh hưởng đến rủi Logit nhị bảo, Sử dụng vốn vay, Lịch sử Nguyễn ro tín dụng: Trường thức và vay vốn của khách hàng, Ngành Việt Thành hợp các Ngân hàng Logit đa nghề chính tạo ra thu nhập và (2017) Thương mại Cổ thức Kiểm tra giám sát vốn vay.
+
+Phương Nội dung pháp Kết quả STT Tác giả nghiên cứu nghiên nghiên cứu cứu phần Sở hữu Nhà Ở mức độ rủi ro 2, các yếu tố ở nước ở Hậu Giang mức độ rủi ro 1 cộng với Khả năng tài chính của khách hàng và Kinh nghiệm cán bộ tín dụng là các yếu tố có ảnh hưởng đến rủi ro tín dụng.
+8 Trần Huy Phân tích các yếu tố Mô hình Kết quả nghiên cứu cho thấy,
+Hoàng & ảnh hưởng đến khả Logit Thời hạn vay, Loại tài sản đảm Nguyễn năng trả nợ vay đúng bảo, Rủi ro nghề nghiệp có tác Trọng hạn của khách hàng động ngược chiều với khả năng Chương cá nhân tại Ngân trả nợ đúng hạn của khách hàng (2020) hàng Nông nghiệp và cá nhân; về Độ tuổi và Thông tin Phát triển Nông thôn khách hàng có tác động cùng Việt Nam – Chi chiều với khả năng trả nợ đúng nhánh Vũng Liêm hạn.
+9 Tăng Thị Các nhân tố ảnh Mô hình Kết quả phân tích cho thấy các
+Ngân, hưởng đến khả năng hồi quy hai yếu tố ảnh hưởng đến khả năng Nguyễn trả nợ vay đúng hạn bước của trả nợ vay đúng hạn của hộ nuôi Minh Tân, của hộ nuôi tôm ở Heckman tôm bao gồm: số người phụ Nguyễn tình Bạc Liêu thuộc, tổng lượng vốn vay, số Tấn Hưng vụ nuôi, tổng tài sản, mục đích (2023) sử dụng vốn vay và kinh nghiệm nuôi tôm. Bên cạnh đó, nghiên cứu cũng cho thấy, các yếu tố: trình độ học vấn, tổng tài sản, số lần đáo hạn và diện tích nuôi tôm ảnh hưởng đến số tiền trả nợ vay đúng hạn của hộ nuôi tôm trên địa bàn tỉnh Bạc Liêu.
+10 Tất Duyên Các nhân tố ảnh Hồi quy Kết quả nghiên cứu cho thấy
+Thư, Phan hưởng đến khả năng nhị phân các nhân tố như: nghề nghiệp, Ngọc Bảo trả nợ đúng hạn của Binary thời hạn vay, trình độ học vấn, Anh, khách hàng cá nhân Logistic thu nhập, số tiền vay và mục Nguyễn vay thế chấp tại đích sử dụng vốn vay đều tác Thùy ngân hàng TMCP động đến khả năng trả nợ đúng Phương Nội dung pháp Kết quả STT Tác giả nghiên cứu nghiên nghiên cứu cứu Dương Kiên Long Chi hạn của khách hàng cá nhân vay (2023) Nhánh Cần Thơ thế chấp với mức ý nghĩa thống kê cao.
+11 Vi Thị Mã Phân tích các yếu tố Mô hình Kết quả phân tích hồi quy cho
+Miêu, Lê ảnh hưởng đến khả Logit nhị thấy, có thấy 05 yếu tố ảnh Gia Tuấn, năng trả nợ vay thức hưởng đến khả năng trả nợ vay Bùi Văn Ngân hàng đúng Ngân hàng đúng hạn của Thụy & hạn của khách hàng KHCN tại tỉnh Đồng Nai, được Nguyễn cá nhân tại tỉnh sắp xếp theo mức độ tác động Quốc Huy Đồng Nai giảm dần như sau: nghề nghiệp; (2024) trình độ; độ tuổi; lãi suất và số tiền vay.
+Nguồn: Tác giả tổng hợp, 2023 Trong các tài liệu đã lược khảo, một số nghiên cứu phân tích ảnh hưởng của các nhân tố vĩ mô, trong khi một số nghiên cứu lại tập trung đo lường ảnh hưởng của các yếu tố về đặc điểm của khách hàng vay và các yếu tố thuộc về khoản vay. Mỗi lược khảo tài liệu đều có những ưu điểm riêng để kế thừa và phát huy, đồng thời tránh những nhược điểm tồn tại.
+
+Thông qua các nghiên cứu trước có thể thấy rằng, các yếu tố ảnh hưởng đến khả năng trả nợ vay của khách hàng cá nhân đa phần là các yếu tố thuộc về khách hàng vay và các yếu tố thuộc về khoản vay. Đối với các yếu tố ảnh hưởng thuộc về khách hàng vay có kết quả cụ thể như sau: Giới tính (Wongnaa & Awunyo – Victor, 2013), (Bekhet & Eletter, 2014); Tuổi khách hàng vay (David, 2013), (Wongnaa & Awunyo – Victor, 2013), (S. U. Isitor et al., 2016), (Bekhet & Eletter, 2014), (Trần Huy Hoàng & Nguyễn Trọng Chương, 2020); Trình độ học vấn (David, 2013), (Wongnaa & Awunyo – Victor, 2013), (Trương Đông Lộc & Nguyễn Thanh Bình, 2011); Tình trạng hôn nhân (David, 2013), (Wongnaa & Awunyo – Victor, 2013); Số người phụ thuộc (David, 2013), (S. U.
+Isitor et al., 2016), (Trương Đông Lộc & Nguyễn Thanh Bình, 2011); Tài sản bảo đảm (Kohansal & Mansoori, 2009), (Phan Đình Khôi & Nguyễn Việt Thành, 2017), (Trần Huy Hoàng & Nguyễn Trọng Chương, 2020); Thu nhập của khách hàng (Kohansal và Mansoori, 2009), (S. U. Isitor et al., 2016), (Bekhet & Eletter, 2014), (Trương Đông Lộc & Nguyễn Thanh Bình, 2011); Nghề nghiệp (Bekhet & Eletter, 2014), (Trần Huy Hoàng & Nguyễn Trọng Chương, 2020). Còn lại, các yếu tố thuộc về khoản vay gồm có: Lãi suất (Kohansal & Mansoori, 2009), (Trương Đông Lộc & Nguyễn Thanh Bình, 2011);
+Số tiền vay (Kohansal & Mansoori, 2009), (S. U. Isitor et al., 2016); Mục đích vay vốn (Phan Đình Khôi & Nguyễn Việt Thành, 2017); Lịch sử vốn vay (Phan Đình Khôi & Nguyễn Việt Thành, 2017); Thời hạn vay (Trần Huy Hoàng & Nguyễn Trọng Chương, 2020); Giám sát sau khi cho vay (David, 2013), (Wongnaa & Awunyo – Victor, 2013), (Phan Đình Khôi & Nguyễn Việt Thành, 2017).
+
+Về phương pháp nghiên cứu, đa phần các nghiên cứu trước đều sử dụng các phương pháp nghiên cứu định lượng với các phương pháp phân tích như: Thống kê mô tả, phân tích hồi quy nhị phân (Logit và Probit), phân tích hồi quy Logit đa thức,… Trong nghiên cứu này, tác giả sẽ sử dụng phương pháp phân tích thống kê mô tả, phương pháp so sánh, phương pháp phân tích hồi quy Logit để xác định các yếu tố ảnh hưởng đến khả năng trả nợ đúng hạn của khách hàng cá nhân. Ngoài ra, trong nghiên cứu này tác giả còn dùng đến mô hình Tobit để đo lường các yếu tố ảnh hưởng đến nợ xấu của khách hàng cá nhân vay vốn tại Vietcombank chi nhánh Tây Cần Thơ. Từ đó, thông qua kết quả nghiên cứu tác giả đưa ra hàm ý quản trị để tăng khả năng nhận định về rủi ro trả nợ vay của khách hàng, góp phần giảm tỷ lệ nợ xấu cho Chi nhánh.
+
+Tóm tắt Chương 2
+
+# Chương 2 trình bày những vấn đề tổng quan về chủ đề nghiên cứu cùng các nghiên cứu thực nghiệm trong và ngoài nước có liên quan đến các yếu tố ảnh hưởng đến nợ xấu của khách hàng cá nhân. Trên cơ sở đó, tác giả tổng hợp các nghiên cứu trên nhằm đánh giá một cách tổng thể những nghiên cứu đã lược khảo, đồng thời đưa ra những nhận xét về tính kế thừa và đưa ra tính mới trong đề tài của mình.
+
+# CHƯƠNG 3
+
+PHƯƠNG PHÁP NGHIÊN CỨU
+
+## 3.1 TIẾN TRÌNH NGHIÊN CỨU
+
+Tiến trình nghiên cứu của đề tài được thể hiện ở Hình 3.1.
+
+Vấn đề nghiên cứu Các yếu tố ảnh hưởng đến nợ xấu của khách hàng cá nhân vay vốn tại Vietcombank Chi nhánh Tây Cần Thơ Cơ sở lý thuyết Các lý thuyết và tổng quan tài liệu nghiên cứu Mô hình nghiên cứu Mô hình đo lường các yếu tố ảnh hưởng đến nợ xấu của khách hàng cá nhân vay vốn tại Vietcombank Chi nhánh Tây Cần Thơ Phân tích định lượng Mô hình Logit để xác định các yếu tố ảnh hưởng đến khả năng trả nợ đúng hạn của khách hàng cá nhân vay vốn tại Vietcombank Chi nhánh Tây Cần Thơ Mô hình Tobit để xác định các yếu tố ảnh hưởng đến nợ xấu của khách hàng cá nhân vay vốn tại Vietcombank Chi nhánh Tây Cần Thơ.
+
+Khuyến nghị Đề xuất một số khuyến nghị nhằm tăng cường nhận diện khả năng trả nợ của khách hàng cá nhân tại Vietcombank Chi nhánh Tây Cần Thơ, giúp Chi nhánh quản trị rủi ro nợ xấu trong hoạt động cho vay khách hàng cá nhân tốt hơn trong thời gian tới.
+
+Nguồn : Tác giả tự tổng hợp, 2023
+
+## 3.2 MÔ HÌNH NGHIÊN CỨU ĐỀ XUẤT
+
+Sau khi xác định được mục tiêu nghiên cứu của đề tài, trên cơ sở các lý thuyết nền tản và các nghiên cứu thực nghiệm trước đây của Wongnaa & Awunyo – Victor (2013), Bekhet & Eletter (2014), David (2013), S. U. Isitor et al. (2016), Trần Huy Hoàng & Nguyễn Trọng Chương (2020), Trương Đông Lộc & Nguyễn Thanh Bình (2011), Kohansal & Mansoori (2009), Phan Đình Khôi & Nguyễn Việt Thành (2017), tác giả đề xuất mô hình nghiên cứu các yếu tố ảnh hưởng đến nợ xấu của khách hàng cá nhân vay vốn tại Ngân hàng TMCP Ngoại Thương Việt Nam Chi nhánh Tây Cần Thơ. Nghiên cứu sử dụng số liệu thứ cấp thông qua hồ sơ vay vốn của khách hàng cá nhân đến thời điểm 31/12/2023 vẫn còn dư nợ tại Vietcombank Chi nhánh Tây Cần Thơ. Ngoài ra, nghiên cứu còn sử dụng số liệu thu thập từ các báo cáo kết quả hoạt động kinh doanh, báo cáo tình hình hoạt động tín dụng tại Vietcombank giai đoạn 2021 – 2023. Sau quá trình thu thập số liệu, lần lượt sử dụng các phương pháp phân tích thống kê mô tả, phương pháp so sánh, tiếp đến tác giả sử dụng mô hình Heckman 2 giai đoạn bao gồm: giai đoạn 1 sử dụng mô hình Logit để phân tích các yếu tố ảnh hưởng đến khả năng trả nợ đúng hạn của khách hàng cá nhân vay vốn tại Vietcombank Chi nhánh Tây Cần Thơ.
+Giai đoạn 2 tác giả sử dụng mô hình Tobit dùng để phân tích các yếu tố ảnh hưởng đến nợ xấu của khách hàng cá nhân đang vay vốn tại Ngân hàng (nhóm khách hàng có nợ xấu thuộc nhóm nợ 3,4,5). Cuối cùng, dựa vào kết quả nghiên cứu kết hợp phương pháp phân tích tổng hợp từ đó đề xuất một số khuyến nghị tăng cường nhận diện khả năng trả nợ của khách hàng cá nhân, giảm thiểu nợ xấu tại Vietcombank Chi nhánh Tây Cần Thơ.
+
+Tuổi; Giới tính; Số người Nhân khẩu học phụ thuộc Trình độ từ cao đẳng trở Trình độ học vấn lên; Trình độ dưới cao đẳng Người vay cán bộ, công nhân viên làm việc có lương Nợ hàng tháng; Người vay kinh Nghề nghiệp xấu doanh; Người vay thuộc nhóm còn lại khác Mục đích vay; Tỷ lệ cho vay; Số tiền vay; Thời hạn Đặc điểm khoản vay vay; Lãi suất LS vay vốn; Hệ số trả nợ Xếp hạng tín dụng Nguồn : Tác giả tự tổng hợp, 2023
+
+## 3.3 PHƯƠNG PHÁP NGHIÊN CỨU
+
+### 3.3.1 Phương pháp thu thập số liệu
+
+Dữ liệu sử dụng trong nghiên cứu được thu thập từ dữ liệu thứ cấp của Ngân hàng Vietcombank Chi nhánh Tây Cần Thơ giai đoạn 2021 – 2023. Số liệu sử dụng trong nghiên cứu là số liệu được thu thập thông qua các hồ sơ vay của khách hàng cá nhân có quan hệ tín dụng tại Vietcombank Chi nhánh Tây Cần Thơ. Các khách hàng được chọn trong danh sách cho vay tại Ngân hàng còn dư nợ đến thời điểm 31/12/2023. Lựa chọn như vậy nhằm mục đích đảm bảo tất cả các khách hàng được chọn đều đã phát sinh.
+Ngoài ra, đề tài còn dùng thêm số liệu thứ cấp được thu thập từ báo cáo thường niên, báo cáo tình hình hoạt động kinh doanh, báo cáo tình hình tín dụng của Vietcombank Chi nhánh Tây Cần Thơ giai đoạn 2021 – 2023 để đánh giá thực trạng tình hình hoạt động kinh doanh và nợ xấu của Ngân hàng.
+
+### 3.3.2 Phương pháp chọn mẫu
+
+Cỡ mẫu:
+
+Theo Nguyễn Đình Thọ (2011) cỡ mẫu được xác định theo công thức: n ≥ 50 + 8p Trong đó: n: kích thước mẫu tối thiểu cần thiết. p: số biến độc lập trong mô hình.
+
+Với số biến độc lập của đề tài nghiên cứu là 12 biến độc lập, ta có:
+
+Như vậy, với 12 biến độc lập trong mô hình hồi quy thì cỡ mẫu cần thu thập ít nhất là 146 quan sát. Nhưng để hạn chế sai sót và mẫu có tính đại diện cao hơn, tác giả chọn cỡ mẫu là 300 quan sát.
+
+Phương pháp chọn mẫu:
+
+Bước 1: Tập hợp danh sách khách hàng cá nhân đang vay vốn và còn dư nợ đến 31/12/2023 tại Vietcombank Chi nhánh Tây Cần Thơ. Có tất cả 2.441 khách hàng cá nhân vay vốn còn dư nợ tính đến thời điểm 31/12/2023, thỏa mãn tiêu chí trên.
+
+Bước 2: Sắp xếp danh sách những khoản vay theo thứ tự tên của mã khách hàng và dùng phương pháp chọn mẫu ngẫu nhiên có hệ thống để chọn quan sát từ tổng thể.
+Tiến hành chọn mẫu hệ thống với bước nhảy k, hệ số k được tính bằng tổng số lượng khách hàng chia cho số lượng khách hàng cần khảo sát, cụ thể k = 2.441/300 = 8,1; với hệ số k = 8,1 thì tác giả làm tròn hệ số k = 8 để làm bước nhảy chọn quan sát. Sau khi chọn được tên mã khách hàng thì tiến hành thu thập các dữ liệu và thông tin cần thiết phục vụ cho nghiên cứu. Số lượng mẫu nghiên cứu được trình bày cụ thể qua bảng sau:
+
+Khách hàng Mẫu nghiên cứu cá nhân STT Chi nhánh/Phòng giao dịch Số lượng Tỷ lệ Số lượng Tỷ lệ (người) (%) (người) (%) Khách hàng CN TÂY CẦN THƠ – nợ nhóm 1,2 P. KHÁCH HÀNG Khách hàng nợ nhóm 3,4,5 Khách hàng nợ nhóm 1,2
+2 PGD. THỐT NỐT
+Khách hàng nợ nhóm 3,4,5 Khách hàng nợ nhóm 1,2
+3 PGD. Ô MÔN
+Khách hàng nợ nhóm 3,4,5 Khách hàng PGD. CÁCH MẠNG nợ nhóm 1,2 THÁNG 8 Khách hàng nợ nhóm 3,4,5 Khách hàng PGD. NGUYỄN VĂN nợ nhóm 1,2 CỪ Khách hàng nợ nhóm 3,4,5 Khách hàng nợ nhóm 1,2
+6 PGD. LÝ THÁI TỔ
+Khách hàng nợ nhóm 3,4,5 Khách hàng nợ nhóm 1,2
+7 PGD. 3/2
+Khách hàng nợ nhóm 3,4,5 Khách hàng nợ nhóm 1,2 Tổng Khách hàng nợ nhóm 3,4,5 Nguồn: Tác giả tự tổng hợp, 2024 Qua Bảng 3.1 cho thấy, số lượng mẫu nghiên cứu là 300 quan sát và sau khi tiến hành thu thập dữ liệu từ hồ sơ vay vốn, có 34 hồ sơ không thoả được điều kiện khi tác giả tiến hành thu thập dữ liệu nên tác giả loại bỏ 34 bộ hồ sơ này, sau khi loại bỏ thì mẫu nghiên cứu chính thức của nghiên cứu này là 266 quan sát, với số lượng mẫu nghiên cứu này tác giả thực hiện đo lường khả năng trả nợ đúng hạn của khách hàng cá nhân tại Vietcombank Chi nhánh Tây Cần Thơ. Đồng thời, để phân tích các yếu tố ảnh hưởng đến nợ xấu đối với khách hàng cá nhân tại Vietcombank Chi nhánh Tây Cần Thơ, tác giả lấy mẫu có 20 quan sát cũng chính là số lượng hồ sơ thực tế (tổng thể) đang có nợ xấu (nợ nhóm 3,4,5) tại Chi nhánh đến ngày 31/12/2023.
+
+Bước 3: Sau khi chọn mẫu tiến hành khảo sát và phân tích kết quả nghiên cứu.
+
+### 3.3.3 Phương pháp phân tích số liệu
+
+- Đối với mục tiêu 1: Phân tích thực trạng vay vốn và tình hình trả nợ vay của khách hàng cá nhân vay vốn tại Vietcombank Chi nhánh Tây Cần Thơ.
+
+Đề tài phối hợp 2 phương pháp nghiên cứu định tính và định lượng:
+
++ Phương pháp định tính: Thu thập, thống kê các thông tin dữ liệu có sẵn, từ đó tổng hợp thành bảng biểu hoặc đồ thị để đánh giá và so sánh. Phân tích dựa trên những thông tin, dữ liệu đã thống kê.
+
++ Phương pháp định lượng: Bằng việc lấy ngẫu nhiên 266 hồ sơ vay của khách hàng cá nhân hiện đang vay vốn tại Vietcombank Chi nhánh Tây Cần Thơ và sử dụng các chỉ tiêu để đánh giá chính xác mức độ rủi ro của khách hàng cá nhân vay vốn tại Ngân hàng.
+
+- Đối với mục tiêu 2: Phân tích các yếu tố ảnh hưởng đến nợ xấu của khách hàng cá nhân vay tại Vietcombank Chi nhánh Tây Cần Thơ.
+
+Các nghiên cứu trong và ngoài nước đa phần đều sử dụng mô hình Logit (Trương Đông Lộc và Nguyễn Thanh Bình, 2011; Wongnaa, Awunyo – Victor, 2013) hoặc Logit (Phan Đình Khôi và Nguyễn Việt Thành, 2017; Trần Huy Hoàng, Nguyễn Trọng Chương, 2020; Kohansal và Mansoori, 2009) để đánh giá rủi ro trả nợ vay. Trên cơ sở đó, tác giả sử dụng mô hình Logit để phân tích các yếu tố ảnh hưởng đến khả năng trả nợ vay đúng hạn đối với khách hàng cá nhân vay vốn tại Vietcombank Chi nhánh Tây Cần Thơ. Vì mô hình Logit được ứng dụng trong trường hợp biến phụ thuộc có hai giá trị là 1 và 0, phù hợp với nghiên cứu của tác giả, có biến phụ thuộc là khả năng trả nợ vay đúng hạn, được đo lường bằng 2 giá trị là: giá trị 1 thể hiện khả năng trả nợ vay đúng hạn và giá trị 0 thể hiện khả năng trả nợ vay không đúng hạn. Đồng thời, tác giả sử dụng mô hình Tobit để đánh giá các yếu tố ảnh hưởng đến nợ xấu của khách hàng cá nhận vay vốn tại Vietcombank Chi nhánh Tây Cần Thơ, với biến phụ thuộc là Tỷ lệ nợ xấu = Dư nợ xấu/Tổng dư nợ của khách hàng cá nhân (khách hàng cá nhân thuộc nhóm nợ 3,4,5).
+
+- Để xác định yếu tố ảnh hưởng đến khả năng trả nợ vay đúng hạn của khách hàng cá nhân vay vốn tại Vietcombank Chi nhánh Tây Cần Thơ, tác giả sử dụng mô hình hồi quy Logit có dạng như sau: k j xij + ui yi* = 0 +  j =1 Trong đó: yi* là mức hữu dụng đại diện cho khả năng trả nợ vay đúng hạn của khách hàng cá nhân. Do khả năng hoàn trả vốn vay không được quan sát trực tiếp, mức hữu dụng được giả định khi khách hàng cá nhân có hoàn trả nợ vay. Do đó, yi* được đo lường thông qua biến nhị phân yi như sau: 1 nếu yi*> 0, Khách hàng trả nợ vay đúng hạn (tương ứng với KHCN nợ nhóm 1) yi =
+0 Khách hàng trả nợ vay không đúng hạn (tương ứng với KHCN nợ nhóm 2,3,4,5) ,0 j là hệ số ước lượng trong mô hình x ij là các biến độc lập giải thích cho biến phụ thuộc là các yếu tố ảnh hưởng đến khả năng trả nợ vay đúng hạn của khách hàng cá nhân vay vốn tại Vietcombank Chi nhánh
+Tây Cần Thơ iu là sai số ước lượng trong mô hình Mô hình nghiên cứu có dạng tổng quát:
+
+Y= β0+β1X1+β2X2+β3 X3+β4X4+β5X5+β6X6 +β7X7 +β8X8 +β9X9+β10X10 + β11X11+ β12X12 + rij Trong đó, Y là biến phụ thuộc, thể hiện khả năng trả nợ vay đúng hạn của khách hàng cá nhân và được đo lường bởi 2 giá trị sau:
+
+Y= 1: Nếu Khách hàng trả nợ vay đúng hạn (tương ứng với KHCN nợ nhóm 1).
+
+Y= 0: Khách hàng trả nợ vay không đúng hạn (tương ứng với KHCN nợ nhóm
+
+- Hồi quy mô hình Tobit: Mô hình Tobit được sử dụng để phân tích kinh tế lượng lần đầu tiên bởi nhà kinh tế học Jams Tobin (1958). Mô hình Tobit hay còn được gọi là mô hình hồi quy bị kiểm duyệt (censored regression model), được Jams Tobin thiết kế để ước tính mối quan hệ tuyến tính giữa các biến khi biến phụ thuộc có kiểm duyệt bên trái hoặc bên phải. Mô hình Tobit được trình bày như sau: βXi+i khi yi > 0 yi = 0 khi yi ≤ 0 Biến Y là Tỷ lệ nợ xấu = Dư nợ xấu/Tổng dư nợ của khách hàng cá nhân (khách hàng cá nhân thuộc nhóm nợ 3,4,5) Các biến độc lập Xi được diễn giải chi tiết qua bảng 3.1 như sau:
+
+Vietcombank Chi nhánh Tây Cần Thơ Tác giả nghiên Biến số Xi Mô tả biến cứu trước Wongnaa, Awunyo TUOI X1 Tuổi của KH vay (năm) – Victor (2013), Isitor et al. (2016) Giới tính nam hay nữ. Với 1= Wongnaa, Awunyo GIOITINH X2 Nam; 0 = Nữ – Victor (2013) Trình độ học vấn của khách Trương Đông Lộc, hàng. Với trình độ từ cao đẳng HOCVAN X3 Nguyễn Thanh trở lên = 1; trình độ dưới cao Bình (2010) đẳng = 0 Thể hiện nghề nghiệp của người vay. Với 0 = Người vay cán bộ, công nhân viên làm Trần Huy Hoàng, NGHENGHIEP X4 việc có lương hàng tháng; 1 = Nguyễn Trọng Người vay thuộc nhóm kinh Chương (2020) doanh; 2 = Người vay thuộc nhóm khác SONGUOIPHUTH Số người không có thu nhập Wongnaa, Awunyo X5 UOC trong hộ (người) – Victor (2013) Mục đích sử dụng nguồn vốn.
+Với 0 = Mục đích sử dụng vốn cho hoạt động kinh doanh; 1 = Trương Đông Lộc, MUCDICHVAY X6 Mục đích tiêu dùng; 2 = Mục Nguyễn Thanh đích mua nhà đất; 3 = Mục Bình (2010) đích xây sửa nhà; 4 = Mục đích khác Phan Đình Khôi và Nguyễn Việt Thành Tỷ lệ cho vay = Số tiền vay/ (2017), Trần Huy TYLECHOVAY X7 tổng giá trị tài sản đảm bảo. Hoàng, Nguyễn Trọng Chương Số tiền vay trong hợp đồng SOTIENVAY X8 Isitor et al. (2016) (triệu đồng) Tác giả nghiên Biến số Xi Mô tả biến cứu trước Lê Văn Tư (2005), Số tháng vay vốn trên hợp Trần Huy Hoàng, THOIHANVAY X9 đồng tín dụng (tháng) Nguyễn Trọng Chương (2020) Trương Đông Lộc và Lãi suất cho khoản vay trong LAISUAT X10 Nguyễn Thanh hợp đồng (%/năm) Bình (2011) Phan Đình Khôi và Điểm xếp hạng tín dụng của LICHSUVAYVON X11 Nguyễn Việt Thành khách hàng từ CIC Hệ số trả nợ = Tổng nợ / Tổng Bekhet & Eletter HESOTRANO X12 thu nhập của khách hàng (2014) Nguồn: Tác giả tự tổng hợp từ các tài liệu tham khảo, 2023
+
+* Các biến độc lập trong mô hình được giải thích như sau:
+
+H1: TUOI: Biến tuổi thể hiện số tuổi của khách hàng đi vay được tính bằng năm.
+Với khách hàng vay cá nhân vay vốn có số tuổi càng lớn thì xác suất xảy ra rủi ro nợ xấu sẽ thấp hơn là khách hàng trẻ tuổi (Wongnaa, Awunyo – Victor, 2013). Khách hàng lớn tuổi thường có trách nhiệm và kinh nghiệm trong hoạt động sản xuất kinh doanh, nên việc sử dụng vốn vay hiệu quả hơn và mang lại khả năng trả nợ vay cao hơn (Isitor et al., 2016). Do đó, tác giả kỳ vọng biến tuổi có ảnh hưởng nghịch chiều với rủi ro trả nợ vay.
+
+H2: GIOITINH: Biến giới tính được thể hiện Nam =1, Nữ = 0. Và biến này được kỳ vọng là dương thể hiện khách hàng vay là nam giới có xác suất xảy ra rủi ro nợ xấu cao hơn khách hàng là nữ giới. Khách hàng là nam thường dùng vốn vay đầu tư vào các hoạt động sản xuất kinh doanh rủi ro cao, và họ thường sử dụng vốn vay sai mục đích, dẫn đến rủi ro tín dụng tăng cao hơn khách hàng là nữ giới (Wongnaa, Awunyo – Victor, 2013). Nữ giới thường cẩn trọng trong việc sử dụng vốn vay nhằm hạn chế rủi ro thấp nhất có thể xảy ra . Do đó, tác giả kỳ vọng biến giới tính mang dấu dương.
+
+H3: HOCVAN: Yếu tố trình độ học vấn cũng được xem là yếu tố có khả năng tác động đến rủi ro trả nợ vay của khách hàng. Khách hàng đi vay có trình độ từ cao đẳng trở lên sẽ nhận giá trị 1; trình độ dưới cao đẳng sẽ nhận giá trị 0. Với trình độ học vấn càng cao thì xác suất xảy ra rủi ro trả nợ vay càng thấp do họ có kiến thức về chuyên môn trong hoạt động sản xuất kinh doanh, mang lại nhiều hiệu quả cao trong việc sử dụng vốn, đồng thời họ có tinh thần trách nhiệm và kỷ luật trong việc hoàn trả các khoản nợ vay (Isitor et al., 2016). Do đó, tác giả kỳ vọng biến trình độ học vấn có ảnh hưởng ngược chiều với biến phụ thuộc.
+
+H4: NGHENGHIEP: Để đo lường sự ảnh hưởng của yếu tố nghề nghiệp khách hàng được tác giả chia thành 3 nhóm gồm nhóm khách hàng cán bộ, nhân viên làm việc có lương hàng tháng; nhóm kinh doanh và các nhóm còn lại khác. Với khách hàng làm việc nhận lương hàng tháng thì nguồn thu nhập của khách hàng luôn ổn định và trên cơ sở đó cán bộ cho vay luôn kiểm soát được lượng tiền trả nợ vay của khách hàng và xác suất nợ xấu xảy ra thấp hơn các nhóm khách hàng có nguồn thu nhập không ổn định (Trần Huy Hoàng, Nguyễn Trọng Chương, 2020). Và tác giả kỳ vọng các biến này mang dấu âm.
+
+H5: SONGUOIPHUTHUOC: Biến số người phụ thuộc được thể hiện số lượng người phụ thuộc không có thu nhập trong gia đình. Thu nhập trả nợ được xác định sau khi trừ đi chi phí thiết yếu. Do đó, khách hàng cá nhân vay vốn có số lượng người phụ thuộc càng nhiều, thu nhập chính của khách hàng còn phải chi trả thêm các khoản chi tiêu trong gia đình cho người phụ thuộc. Từ đó, việc trả nợ vay sẽ ảnh hưởng ít nhiều do thu nhập cho việc trả nợ bị ảnh hưởng, dẫn đến xác xuất trả nợ đúng hạn của khách hàng càng thấp (Trương Đông Lộc và Nguyễn Thanh Bình, 2011). Tác giả kỳ vọng biến độc lập số lượng người phụ thuộc có ảnh hưởng cùng chiều với biến phụ thuộc H6: MUCDICHVAY: Về yếu tố mục đích vay, tác giả chia yếu tố này thành 5 phần gồm: khách hàng vay vốn có mục đích sử dụng vốn cho hoạt động kinh doanh, mục đích cho vay tiêu dùng, mục đích cho vay mua nhà đất, mục đích cho vay xây sửa nhà và còn lại là nhóm mục đích khác. Việc sử dụng vốn vay vào đúng mục đích mà khách hàng đã cam kết trên hợp đồng vay vốn thì xác suất xảy ra rủi ro trả nợ vay thấp hơn. Và biến này được tác giả kỳ vọng tác động nghịch chiều với rủi ro trả nợ vay.
+
+H7: TYLECHOVAY: Biến tỷ lệ cho vay được tính bằng số tiền vay trên tổng giá trị tài sản đảm bảo (%). Với tỷ lệ cho vay càng cao thì xác suất xảy ra rủi ro nợ xấu càng cao. Số tiền vay cao hơn giá trị tài sản đảm bảo hay giá trị tài sản đảm bảo thấp hơn số tiền vay thì sự ràng buộc trả nợ vay không cao, nên tâm lý khách hàng sẽ chay lỳ trong việc hoàn trả các khoản nợ vay (Trần Huy Hoàng, Nguyễn Trọng Chương, 2020). Do đó, tác giả kỳ vọng biến này mang dấu dương.
+
+H8: SOTIENVAY: Biến số tiền vay được thể hiện bằng số tiền vay trong hợp đồng (triệu đồng). Với số tiền vay càng cao thì khả năng hoàn trả nợ vay càng cao do khách hàng có thể sử dụng vốn đầu tư vào các hoạt động sản xuất kinh doanh mang lại nhiều lợi nhuận hơn nhưng trong sự hiểu biết và có trình độ học vấn cao thì xác suất xảy ra rủi ro trả nợ vay cũng sẽ giảm (Isitor et al., 2016). Tác giả kỳ vọng biến này ảnh hưởng nghịch chiều với biến phụ thuộc.
+
+H9: THOIHANVAY: Biến thời hạn là số tháng vay vốn trên hợp đồng tín dụng.
+Thời hạn vay càng cao thì khả năng trả nợ càng tốt, giảm rủi ro nợ xấu. Nguồn thu nhập trả nợ từ lương nên với cùng một số tiền vay nếu thời hạn vay dài thì số tiền trả nợ từng kỳ (hàng tháng) càng ít nên khả năng trả đúng hạn từng kỳ cao (Trần Huy Hoàng, Nguyễn Trọng Chương, 2020). Tác giả kỳ vọng biến này mang dấu âm.
+
+H10: LAISUAT: Biến lãi suất vay được đo lường bằng lãi suất mà khách hàng đang vay tại Ngân hàng, được ký trên hợp đồng tín dụng. Lãi suất thể hiện số tiền lãi mà người vay phải trả cho tổ chức tín dụng, tiền lãi cũng là chi phí đầu vào. Trong các khoản vay thông thường của các cá nhân ở Ngân hàng thương mại, lãi suất là nhân tố hàng đầu ảnh hưởng đến việc vay vốn và trả nợ. Lãi suất cho vay thấp luôn là động lực khuyến khích người đi vay mở rộng đầu tư, phát triển các hoạt động sản xuất kinh doanh (Trương Đông Lộc và Nguyễn Thanh Bình, 2011). Do đó, mọi sự biến động về lãi suất cho vay cũng đều ảnh hưởng trực tiếp đến hiệu quả sản xuất kinh doanh và tác giả kỳ vọng biến này mang đấu dương.
+
+H11: LICHSUVAYVON: Biến lịch sử vay vốn của KH (CIC) được đo lường bằng số điểm xếp hạng tín dụng của khách hàng từ CIC. Khách hàng không thuộc nhóm nợ chú ý, nợ xấu thì số điểm CIC của khách hàng càng cao, xác suất khách hàng xảy ra rủi ro rất thấp; khi khách hàng trả nợ tốt hay có lịch sử tín dụng tốt thì các Ngân hàng đánh giá khách hàng thuộc nhóm khách hàng vay tốt (Phan Đình Khôi và Nguyễn Việt Thành, 2017). Biến này được tác giả kỳ vọng là mang dấu âm.
+
+H12: HESOTRANO: Biến hệ số trả nợ được tính bằng Tổng nợ chia Tổng thu nhập của khách hàng. Hệ số trả nợ phản ảnh mức độ an toàn tài chính của khách hàng, đo lường được rủi ro tài chính, tài chính của khách hàng vay có đủ để trang trải cho khoản vay được cấp tín dụng hay không. Với hệ số trả nợ càng lớn thì xác suất xảy ra rủi ro trả nợ của khách hàng vay vốn càng cao và ngược lại. Biến này tác giả kỳ vọng mang dấu âm.
+
+- Đối với mục tiêu 3: Đề xuất một số giải pháp để giảm thiểu rủi ro trả nợ vay của khách hàng cá nhân tại Vietcombank Chi nhánh Tây Cần Thơ.
+
+Từ kết quả nghiên cứu được ở các mục tiêu 1 và mục tiêu 2 để tìm yếu tố ảnh hưởng đến nợ xấu của khách hàng cá nhân tại Ngân hàng Vietcombank Chi nhánh Tây Cần Thơ. Từ đó, đề xuất một số giải pháp nhằm giảm thiểu rủi ro trả nợ vay của khách hàng cá nhân tại Vietcombank Chi nhánh Tây Cần Thơ nói riêng và Vietcombank nói chung.
+
+Tóm tắt Chương 3
+
+# Chương 3 tác giả trình bày về phương pháp nghiên cứu của đề tài, mô hình nghiên cứu đề xuất, phương pháp thu thập số liệu, phương pháp chọn mẫu và phương pháp phân tích số liệu. Trong nghiên cứu này, tác giả dùng mô hình Logit để đánh giá khả năng trả nợ đúng hạn của khách hàng cá nhân; tiếp theo đó, tác giả dùng mô hình Tobit để xem xét các biến độc lập gồm: tuổi, giới tính, học vấn, nghề nghiệp, số người phụ thuộc, mục đích vay, tỷ lệ cho vay, số tiền vay, thời hạn vay, lãi suất, lịch sử vay vốn và hệ số trả nợ. Yếu tố nào có ảnh hưởng đến nợ xấu của khách hàng cá nhân vay vốn tại
+Vietcombank Chi nhánh Tây Cần Thơ.
+
+# CHƯƠNG 4
+
+KẾT QUẢ VÀ THẢO LUẬN
+
+## 4.1 TỔNG QUAN VỀ NGÂN HÀNG TMCP NGOẠI THƯƠNG VIỆT NAM
+
+### 4.1.1 Quá trình hình thành và phát triển của Ngân hàng TMCP Ngoại thương
+Việt Nam Ngân hàng Ngoại thương Việt Nam trước đây, nay là Ngân hàng TMCP Ngoại thương Việt Nam (Vietcombank) chính thức đi vào hoạt động ngày 01/04/1963, với tổ chức tiền thân là Cục Ngoại hối (trực thuộc Ngân hàng Nhà nước Việt Nam). Theo quyết định số 286/QĐ/NH5 ngày 21/09/1996, Thống đốc Ngân hàng Nhà nước Việt Nam quyết định thành lập lại Ngân hàng Ngoại thương Việt Nam trên cơ sở Ngân hàng Ngoại thương Việt Nam được thành lập trước đây.
+
+Ngân hàng Ngoại thương Việt Nam chính thức hoạt động với tư cách là một Ngân hàng TMCP vào ngày 02/06/2008 sau khi thực hiện phát hành cổ phiếu lần đầu ra công chúng. Ngày 30/06/2009, cổ phiếu Vietcombank (mã chứng khoán VCB) chính thức được niêm yết tại Sở Giao dịch chứng khoán TPHCM.
+
+Trải qua hơn 55 năm xây dựng và phát triển, Vietcombank đã có những đóng góp quan trọng cho sự ổn định và phát triển của kinh tế đất nước, phát huy tốt vai trò của một Ngân hàng đối ngoại chủ lực, phục vụ hiệu quả cho phát triển kinh tế trong nước, đồng thời tạo những ảnh hưởng quan trọng đối với cộng đồng tài chính khu vực và toàn cầu.
+
+Từ một Ngân hàng chuyên doanh phục vụ kinh tế đối ngoại, Vietcombank ngày nay đã trở thành một Ngân hàng đa năng, hoạt động đa lĩnh vực, cung cấp cho khách hàng đầy đủ các dịch vụ tài chính hàng đầu trong lĩnh vực thương mại quốc tế; trong các hoạt động truyền thống như kinh doanh vốn, huy động vốn, tín dụng, tài trợ dự án…cũng như mảng dịch vụ Ngân hàng hiện đại: Kinh doanh ngoại tệ và các công vụ phái sinh, dịch vụ thẻ, Ngân hàng điện tử… Sở hữu hạ tầng kỹ thuật Ngân hàng hiện đại, Vietcombank có nhiều lợi thế trong việc ứng dụng công nghệ tiên tiến vào xử lý tự động các dịch vụ Ngân hàng, phát triển các sản phẩm, dịch vụ Ngân hàng điện tử dựa trên nền tảng công nghệ cao. Không gian giao dịch công nghệ số (Digibank) cùng các dịch vụ: VCB Internet Banking, VCB Money, SMS Banking, Phone Banking,…đã, đang và sẽ tiếp tục thu hút đông đảo khách hàng bằng sự tiện lợi, nhanh chóng, an toàn, hiệu quả, tạo thói quen thanh toán không dùng tiền mặt cho đông đảo khách hàng.
+
+Sau hơn nửa thế kỷ hoạt động trên thị trường, Vietcombank hiện là một trong những Ngân hàng thương mại lớn nhất Việt Nam với trên 15.000 cán bộ nhân viên, hơn 550 Chi nhánh/Phòng Giao dịch/Văn phòng đại diện/Đơn vị thành viên trong và ngoài nước.
+
+Trụ sở chính tại Hà Nội, trên 110 chi nhánh và 395 phòng giao dịch trên toàn quốc, 03 công ty con tại Việt Nam, 01 văn phòng đại diện tại Mỹ, 01 văn phòng đại diện tại Singapore, 01 Văn phòng đại diện tại Tp Hồ Chí Minh, 02 công ty con tại nước ngoài và 04 công ty liên doanh, liên kết, Chi nhánh Ngân hàng con tại Lào và Úc.
+
+Bên cạnh đó, Vietcombank còn phát triển một hệ thống Autobank với hơn 2.407 máy ATM và trên 43.000 đơn vị chấp nhận Thẻ trên toàn quốc. Hoạt động Ngân hàng còn được hỗ trợ bởi mạng lưới hơn 1.726 Ngân hàng đại lý tại 158 quốc gia và vùng lãnh thổ trên thế giới.
+
+Với bề dày hoạt động và đội ngũ cán bộ có năng lực, nhạy bén với môi trường kinh doanh hiện đại, mang tính hội nhập cao…Vietcombank luôn là sự lựa chọn hàng đầu của các tập đoàn, các doanh nghiệp lớn và của đông đảo khách hàng cá nhân.
+
+Luôn hướng đến các chuẩn mực quốc tế trong hoạt động, Vietcombank liên tục được các tổ chức uy tín trên thế giới bình chọn là “Ngân hàng tốt nhất Việt Nam”.
+Vietcombank cũng là Ngân hàng đầu tiên và duy nhất của Việt Nam có mặt trong Top
+500 Ngân hàng hàng đầu Thế giới theo kết quả bình chọn do Tạp chí The Banker công bố.
+
+Bằng trí tuệ và tâm huyết, các thế hệ cán bộ nhân viên Vietcombank đã, đang và sẽ luôn nỗ lực để xây dựng Vietcombank phát triển ngày một bền vững, với mục tiêu năm 2021 đưa Vietcombank trở thành Ngân hàng số 1 tại Việt Nam, 1 trong 300 tập đoàn Ngân hàng tài chính lớn nhất thế giới và được quản trị theo các thông lệ quốc tế tốt nhất.
+
+* Cơ cấu tổ chức và bộ máy quản lý a. Mô hình quản trị của Vietcombank Nhà nước (77,11%) Mizuho Bank (15%) Cổ đông khác (7,89%) Công ty con, công ty liên kết cung cấp dịch vụ tài chính Công ty con, công ty liên kết phi tài chính Ngân hàng Thương mại Ngân hàng Dịch vụ tài chính Bảo hiểm Bất động sản Đầu tư khác Công ty Công ty Cho thuê Công ty Công ty Quản lý tài chính Bảo hiểm VCB Tower Đầu tư vốn vào các Chứng khoán Vietcombank nhân thọ 70% NHTMCP khác Vietcombank (VCBL) VCB (VCBS) Cardit 100% 100% Công ty 45% VCB Bonday Công ty Công ty Tài - Bến Thành Quản lý Quỹ chính Việt Nam Vietcombank (Vinafico HK) 51% 100% Công ty VCB Bonday Công ty Chuyển tiền Nguồn: Ngân hàng TMCP Ngoại Thương Việt Nam,2024 b. Cơ cấu bộ máy quản lý của VCB Hội đồng quản trị gồm có 01 Chủ tịch và 8 thành viên, ban kiểm soát gồm có 01 trưởng ban kiểm soát và 4 thành viên, ban điều hành gồm có 01 Tổng Giám đốc và 08 Phó Tổng giám đốc.
+
+ĐẠI HỘI ĐỒNG CỔ ĐÔNG Ban Kiểm soát Ủy ban Quản lý rủi ro, Kiểm toán nội bộ Ủy ban Nhân sự, HỘI ĐỒNG QUẢN TRỊ Giám sát hoạt động Ủy ban Chiến lược Tổng Giám đốc & Ban điều hành Hội đồng tín dụng TW, ALCO,… Kiểm tra nội bộ Khối ngân Khối Kinh Khối ngân Khối quản Khối tác Khối tài Các bộ hàng Bán doanh & hàng Bán lý rủi ro nghiệp chính kế phận h buôn Quản lý vốn lẻ toán trợ HỆ THỐNG CÁC PHÒNG BAN CHỨC NĂNG TẠI HỘI SỞ CHÍNH VÀ MẠNG LƯỚI CÁC CHI NHÁNH Nguồn: Ngân hàng TMCP Ngoại Thương Việt Nam,2024
+
+### 4.1.2 Giới thiệu về Vietcombank Chi nhánh Tây Cần Thơ
+
+Ngân hàng thương mại cổ phần Ngoại Thương Việt Nam – Chi nhánh Tây Cần Thơ là chi nhánh cấp 1 trong hệ thống Vietcombank. Tiền thân của Vietcombank Tây Cần Thơ là Vietcombank Trà Nóc được thành lập vào tháng 11/2002 trực thuộc chi nhánh Vietcombank Cần Thơ. Sau đó, đủ tiêu chuẩn để chuyển từ chi nhánh cấp 2 sang chi nhánh cấp 1 theo tiêu chuẩn Quyết định số 888 của Ngân hàng Nhà nước nên Vietcombank Tây Cần Thơ đã nâng cấp thành chi nhánh cấp 1 trực thuộc Ngân hàng Ngoại Thương Việt Nam. Ngày 02/06/2008 Chi nhánh được chuyển sang hình thức Ngân hàng TMCP theo quyết định số 439/QĐ NHNT.TCCB-ĐT ngày 05/06/2008 của chủ tịch hội đồng quản trị Ngân hàng TMCP Ngoại Thương Việt Nam và đến ngày 01/04/2012 Chi nhánh chuyển đổi tên từ Vietcombank Trà Nóc thành Vietcombank Tây Đô. Đến ngày 01/4/2020 Chi nhánh chính thức đổi tên thành Vietcombank Tây Cần Thơ.
+
+Trãi qua 15 năm hoạt động, với tinh thần năng động sáng tạo, tập thể cán bộ và nhân viên Ngân hàng đã vượt qua nhiều khó khăn, thử thách, tự khẳng định mình trên thương trường. Với đội ngũ cán bộ trẻ, năng động, nhiệt tình được đào tạo lành nghề, dày dạn kinh nghiệm trong đội ngũ Ngân hàng đối ngoại và hệ thống trang thiết bị tiên tiến, Vietcombank Tây Cần Thơ sẵn sàng cung cấp cho khách hàng dịch vụ Ngân hàng chất lượng cao và luôn phấn đấu vì sự thành công của khách hàng.
+
+Vietcombank Chi nhánh Tây Cần Thơ có mô hình tổ chức gồm: Giám Đốc, 01 Phó Giám đốc, 06 Phòng nghiệp vụ và 6 Phòng giao dịch với tổng số nhân sự Chi nhánh đến thời điểm 31/12/2023 là 103 cán bộ nhân viên (102 cán bộ chính thức và 01 nhân viên hỗ trợ kinh doanh). Sơ đồ bộ máy tổ chức của VCB Tây Cần Thơ, như sau:
+
+GIÁM ĐỐC PHÓ GIÁM ĐỐC P. HÀNH CHÍNH NHÂN SỰ PGD THỐT NỐT P. KHÁCH HÀNG PGD Ô MÔN P. DỊCH VỤ KHÁCH HÀNG PGD CMT8 P. KẾ TOÁN PGD 3/2 P. NGÂN QUỸ PGD LÝ THÁI TỔ P. QUẢN LÝ NỢ PGD NGUYỄN VĂN CỪ Nguồn: Ngân hàng TMCP ngoại thương Việt Nam Chi nhánh Tây Cần Thơ, 2024
+
+## 4.2 TỔNG QUAN TÌNH HÌNH HOẠT ĐỘNG KINH DOANH VÀ NỢ XẤU CỦA
+NGÂN HÀNG TMCP NGOẠI THƯƠNG VIỆT NAM CHI NHÁNH TÂY CẦN THƠ
+
+### 4.2.1 Tình hình hoạt động kinh doanh của Ngân hàng TMCP Ngoại thương
+Việt Nam Chi nhánh Tây Cần Thơ 2021-2023 Trong 3 năm qua, nền kinh tế của Việt Nam nói chung, tình hình sản xuất kinh doanh của doanh nghiệp nói riêng gặp nhiều khó khăn, thách thức, trong đó có những vấn đề chưa có tiền lệ, ảnh hưởng mạnh tới số lượng doanh nghiệp thành lập mới và doanh nghiệp ngừng hoạt động.
+
+Đóng vai trò là nguồn cung ứng vốn cho nền kinh tế, ngành Ngân hàng đã và đang nỗ lực hoàn thiện nhiệm vụ của mình và thể hiện rõ hơn “mạch máu nuôi sống cả nền kinh tế”. Cũng như bất kỳ một tổ chức kinh tế nào khác, NHTM kinh doanh chủ yếu vì mục đích lợi nhuận. Kết quả hoạt động kinh doanh chính là căn cứ để đánh giá chất lượng hoạt động của Ngân hàng. Để đánh giá kết quả hoạt động kinh doanh của Vietcombank Chi nhánh Tây Cần Thơ giai đoạn 2021 – 2023, tác giả xem xét các chỉ tiêu về doanh thu, chi phí và lợi nhuận. Tình hình này được thể hiện chi tiết qua bảng 4.1.
+
+ĐVT: Tỷ đồng Chỉ tiêu Năm 2021 Năm 2022 Năm 2023 Số tiền (%) Số tiền (%) Nguồn: Vietcombank Tây Cần Thơ, 2021 - 2023 Về doanh thu: Trong năm 2022, Ngân hàng đạt doanh thu 564 tỷ đồng tăng 92 tỷ đồng (tương đương tăng 19,62%) so với năm 2021. Tuy nhiên, đến cuối năm 2023 doanh thu tăng mạnh 180 tỷ đồng (tương đương tăng 31,85%) so với năm 2022.
+Doanh thu trong giai đoạn 2021-2023 đều có xu hướng tăng, điều này cho thấy nền kinh tế Thế giới nói chung và tại Việt Nam nói riêng đã có dấu hiệu khởi sắc với mức tăng trưởng chậm, thị trường tài chính diễn biến tương đối ổn định. Hệ thống Vietcombank đã nỗ lực phấn đấu vượt qua khó khăn bám sát sự chỉ đạo của Ban lãnh đạo, Chính phủ và NHNN trong việc thực hiện hoạt động kinh doanh.
+
+Về khoản chi phí: Trong năm 2022, chi phí tăng 30,11% (tương ứng tăng 106 tỷ đồng) so với năm 2021. Năm 2023, chi phí có xu hướng tăng thêm 27,50% so với năm 2022. Chi phí tăng qua các năm chủ yếu là do tình hình nợ xấu tăng cao sau đại dịch Covid-19 vừa qua, với những doanh nghiệp còn phụ thuộc chủ yếu vào vốn vay hay vốn vay chiếm tỷ trọng cao trong tổng nguồn vốn của doanh nghiệp thì việc trả lãi vay là một áp lực cực kỳ nặng nề, bởi lẽ trong năm 2022 để kìm hãm lại lạm phát tăng cao Ngân hàng Nhà nước đã thực hiện nâng cao lãi suất cho vay. Từ đây, các doanh nghiệp khó khăn lại dồn khó khăn hơn và bắt đầu xin cơ cấu nợ hoặc tệ nhất là tuyên bố phá sản dẫn đến nợ xấu của các khoản vay tăng cao đột biến khiến các Ngân hàng phải lập trích dự phòng làm cho chi phí phát sinh trong giai đoạn 2022- 2023 đều có xu hướng tăng.
+
+Về chỉ tiêu lợi nhuận: Vietcombank Chi nhánh Tây Cần Thơ, tăng trưởng không đều qua các năm, cụ thể như năm 2021 là 118 tỷ đồng và đến năm 2022 lợi nhuận chỉ đạt 104 tỷ đồng, giảm so với năm trước cụ thể là giảm 14 tỷ đồng, tốc độ tăng trưởng giảm 11,75%, nguyên nhân chủ yếu là do sau đại dịch Covid-19 doanh nghiệp chưa kịp phục hồi, nguồn nguyên nhiên vật liệu tăng dẫn đến nhiều doanh nghiệp nhỏ và vừa không thể đáp ứng với chi phí tăng cao và dẫn đến phá sản nên tỷ lệ nợ xấu ngày một tăng, Ngân hàng cũng lập trích dự phòng nhiều hơn, điều này đã làm giảm lợi nhuận của Ngân hàng. Đến năm 2023, Ngân hàng đã thực hiện khắc phục những hậu quả về nợ xấu nên lợi nhuận trong năm 2023 đã tăng vọt với số tiền 53 tỷ đồng (tương ứng tăng 51,02%) so với năm 2022.
+
+### 4.2.2 Tình hình hoạt động tín dụng tại Vietcombank Chi nhánh Tây Cần Thơ
+
+#### 4.2.2.1 Tốc độ tăng trưởng dư nợ của Vietcombank Chi nhánh Tây Cần Thơ giai đoạn 2021 – 2023
+
+2023. Số liệu cho thấy, cho vay chiếm tỷ trọng cao nhất trong cơ cấu hoạt động tín dụng của Ngân hàng. Bên cạnh đó, cho vay có hiệu quả thì nguồn vốn thu cho hoạt động kinh doanh của Ngân hàng càng cao.
+
+ĐVT: Tỷ đồng Chỉ tiêu Năm 2021 Năm 2022 Năm 2023 Tốc độ tăng trưởng dư nợ (%) - 22,27 12,07 Nguồn: Báo cáo tổng kết của Vietcombank Chi nhánh Tây Cần Thơ, 2021-2023 Dư nợ của Vietcombank Chi nhánh Tây Cần Thơ qua các năm có xu hướng tăng với tốc độ tăng trưởng của năm 2022 là 22,27% so với năm 2021, tính đến 31/12/2023 tổng dư nợ đạt 5.739 tỷ đồng, tăng 12,07% so với năm 2022. Với kết quả này cho thấy, Vietcombank đã phát triển và mở rộng tín dụng đúng đắn kết hợp với nhiều chính sách ưu đãi dành cho các sản phẩm tín dụng. Đặc biệt, trong năm 2023 Vietcombank Chi nhánh Tây Cần Thơ đã hoàn thành 102% kế hoạch chỉ tiêu dư nợ đề ra, đây là kết quả rất đáng ghi nhận thể hiện vị thế và uy tín của Ngân hàng ngày càng được khẳng định, số lượng khách hàng vay ngày càng tăng.
+
+#### 4.2.2.2 Doanh số cho vay, doanh số thu nợ của Ngân hàng giai đoạn 2021 - 2023
+
+Một trong những chỉ tiêu quan trọng để phân tích tình hình tín dụng tại một Ngân hàng chính là doanh số cho vay. Sự tăng trưởng doanh số cho vay phản ánh quy mô hoạt động tín dụng của Ngân hàng. Cùng với năng lực tài chính ổn định cũng như thiện chí trả nợ của khách hàng, cùng với trình độ chuyên môn của cán bộ tín dụng trong công tác thẩm định,... chính là yếu tố chủ yếu tác động đến doanh số thu nợ của Ngân hàng.
+Doanh số cho vay và doanh số thu nợ của Vietcombank Chi nhánh Tây Cần Thơ giai đoạn 2021 – 2023 được thể hiện qua bảng 4.3. giai đoạn 2021-2023 ĐVT: Tỷ đồng Năm Năm Năm 2022/2021 2023/2022 Chỉ tiêu 2021 2022 2023 Số tiền (%) Số tiền (%) Doanh số cho vay 4.189 5.121 5.739 933 22,27 618 12,07 Nguồn: Báo cáo tổng kết của Vietcombank Chi nhánh Tây Cần Thơ, 2021-2023 Cần Thơ tăng 933 tỷ đồng (tương ứng tăng 22,27%) so với năm 2021. Đến năm 2023, tăng 618 tỷ đồng (tương ứng tăng 12,07%) so với năm 2022. Doanh số cho vay tăng qua các năm trong giai đoạn 2021 - 2023 cho thấy, Ngân hàng Vietcombank Chi nhánh Tây Cần Thơ đang mở rộng hoạt động tín dụng song song đó vẫn phải kiểm soát chặt chẽ hoạt động vay vốn nhằm hạn chế rủi ro trong hoạt động cho vay tại Ngân hàng.
+
+Bên cạnh hoạt động vay vốn, công tác thu nợ cũng là một trong những khâu quan trọng của Ngân hàng, có ảnh hưởng trực tiếp đến kết quả hoạt động kinh doanh của Ngân hàng. Trong đó chỉ tiêu doanh số thu nợ là một trong những chỉ tiêu quan trọng đánh giá hiệu quả hoạt động tín dụng của Ngân hàng. Qua bảng 4.3 cho thấy, doanh số thu nợ của Vietcombank tăng đều qua 3 năm. Năm 2022, doanh số thu nợ tăng 12,2% so với năm 2021 và đến năm 2023 thì doanh số thu nợ tăng 14,94% so với năm 2022.
+Điều này thể hiện công tác thu nợ của Ngân hàng rất được chú trọng và thực hiện ngày càng hiệu quả.
+
+#### 4.2.2.3 Tình hình nợ quá hạn, nợ xấu của Ngân hàng giai đoạn 2021 – 2023
+
+Trong quá trình hoạt động của Ngân hàng luôn luôn tồn tại nợ quá hạn, nợ xấu. Tỷ lệ nợ quá hạn và tỷ lệ nợ xấu phản ánh chất lượng tín dụng cũng như hiệu quả hoạt động tín dụng của Ngân hàng, đây là một trong những yếu tố ảnh hưởng đến rủi ro tín dụng tại Ngân hàng. Chỉ tiêu nợ quá hạn và nợ xấu của Vietcombank Chi nhánh Tây Cần Thơ giai đoạn 2021-2023 đều nằm trong mức cho phép và được thể hiện chi tiết qua Bảng đoạn 2021-2023 ĐVT: Tỷ đồng Chỉ tiêu Năm 2021 Năm 2022 Năm 2023 Dư nợ (Tỷ đồng) 4.189 5.121 5.739 Nợ quá hạn (Tỷ đồng) 28,99 80,58 72,82 Nợ xấu (Tỷ đồng) 16,85 46,57 39,55 Nợ quá hạn/ Dư nợ (%) 0,69 1,57 1,27 Nợ xấu/ Dư nợ (%) 0,40 0,91 0,69 Nguồn: Báo cáo tổng kết của Vietcombank Chi nhánh Tây Cần Thơ, 2021-2023 Sự cố về rủi ro tín dụng tại VCB Tây Đô (nay là VCB Tây Cần Thơ) vào năm 2019 đã ảnh hưởng nghiêm trọng đến kết quả hoạt động kinh doanh của Chi nhánh, hàng loạt khoản vay của doanh nghiệp chuyển nợ xấu làm dự phòng cụ thể phải trích tăng vọt.
+Năm 2021, vượt qua khó khăn, Ban lãnh đạo cùng toàn thể cán bộ chi nhánh nỗ lực hết sức vừa thực hiện thu hồi vốn đã cho vay, vừa đảm bảo Ngân hàng hoạt động tốt và ổn định. Kết quả năm 2021, tỷ trọng nợ xấu và nợ quá hạn đã cải thiện, nợ quá hạn chiếm tỷ lệ 0,69% và nợ xấu chiếm tỷ lệ 0,4% trên tổng dư nợ. Tuy nhiên, đến năm 2022 tỷ lệ nợ quá hạn trên tổng dư nợ tiếp tục có xu hướng tăng lên 1,57%, tỷ lệ nợ xấu cũng tăng 0,91%; điều này cho thấy rằng, trong năm 2022 hoạt động của Ngân hàng gặp nhiều khó khăn do Đại dịch Covid-19 diễn biến phức tạp ảnh hưởng đến nền kinh tế, làm cho các doanh nghiệp cũng như cá nhân chịu nhiều sức ép về nguồn thu, các doanh nghiệp phá sản, tình trạng thất nghiệp của người dân tăng đột biến, là một trong những nguyên nhân dẫn đến tình trạng nợ xấu tăng cao. Năm 2023, tình hình dịch Covid-19 đã giảm, nền kinh tế phục hồi dần, tỷ lệ nợ quá hạn trên tổng dư nợ đã giảm còn 1,27%, Ngân hàng cũng đã thực hiện được một số biện pháp xử lý nợ xấu nên tỷ lệ nợ xấu có xu hướng giảm còn 0,69%. Nhìn chung, qua 3 năm tuy tỷ lệ nợ quá hạn và nợ xấu của Vietcombank tăng, giảm không ổn định do ảnh hưởng của công tác thu hồi nợ nhưng Ngân hàng vẫn đảm bảo được một tỷ lệ nằm trong mức an toàn cho phép theo quy định của NHNN. Đồng thời đã cho thấy, chính sách và đường lối hoạt động của Ngân hàng đúng đắn, phù hợp trong từng điều kiện kinh tế, chính là cơ sở đem đến hiệu quả cao trong công tác cho vay và thu nợ hồi của Vietcombank.
+
+### 4.2.3 Tình hình hoạt động tín dụng đối với khách hàng cá nhân tại
+Vietcombank Chi nhánh Tây Cần Thơ 2021 – 2023
+
+#### 4.2.3.1 Doanh số cho vay đối với khách hàng cá nhân
+
+Doanh số cho vay thể hiện khả năng tăng trưởng trong hoạt động tín dụng của Ngân hàng. Doanh số cho vay biến động tăng liên tục qua các năm được thể hiện cụ thể qua Bảng 4.5.
+
+Cần Thơ giai đoạn 2021-2023 ĐVT: Tỷ đồng Năm Năm Năm Chỉ tiêu Số
+2021 2022 2023 (%) Số tiền (%) tiền
+Doanh số cho vay của KHCN (Tỷ đồng) Số lượng KHCN vay (Người) 1.972 2.328 2.441 - - - - Nguồn: Báo cáo tổng kết của Vietcombank Chi nhánh Tây Cần Thơ 2021-2023 Nhìn chung, doanh số cho vay của khách hàng cá nhân chiếm tỷ trọng hơn 80% trong tổng doanh số cho vay của Ngân hàng. Cụ thể, trong năm 2021 doanh số cho vay của KHCN là 3.680 tỷ đồng, chiếm 87,85% trong tổng doanh số cho vay tại Ngân hàng.
+Đến năm 2022, doanh số cho vay của KHCN đạt 4.220 tỷ đồng, tăng thêm 540 tỷ đồng (tương ứng tăng 14,67%) so với năm 2021. Năm 2023, doanh số cho vay của khách hàng cá nhân đạt 4.918 tỷ đồng, tăng 697 tỷ đồng (tương ứng tăng 16,53%) so với năm
+2022. Vào năm 2023, doanh số cho vay đối với KHCN có sự tăng mạnh tương ứng số lượng KHCN vay vốn ngày càng tăng từ 1.972 CIF số lượng KHCN vay tăng lên 2.441
+CIF số lượng KHCN vay vốn năm 2023, sự biến động này cho thấy nhu cầu vay vốn của khách hàng cá nhân ngày càng tăng, đồng thời thể hiện chính sách cho vay của Ngân hàng là rất đúng đắn. Khách hàng cá nhân là đối tượng khách hàng mục tiêu trong định hướng phát triển hoạt động kinh doanh của NHTM nói chung và Vietcombank nói riêng, vì thế cho nên các Ngân hàng đều có nhiều chính sách ưu đãi đối với đối tượng khách hàng cá nhân như: chương trình ưu đãi lãi suất và ưu đãi phí trả nợ trước hạn nhằm thu hút lượng khách vay, phục vụ vốn cho lĩnh vực sản xuất kinh doanh, kết hợp tăng cường công tác tìm kiếm và tiếp thị khách hàng và chú trọng tăng trưởng dư nợ ngắn hạn,...
+
+#### 4.2.3.2 Doanh số thu nợ đối với khách hàng cá nhân
+
+Trong hoạt động cho vay, không chỉ dừng lại ở cho vay được bao nhiêu mà việc thu hồi nợ đúng hạn cũng là một trong những tiêu chí quan trọng để đánh giá kết quả hoạt động tín dụng. Trong suốt quá trình hoạt động, các biện pháp thu hồi nợ luôn được cán bộ nhân viên Ngân hàng đặc biệt chú trọng quan tâm và đề ra các biện pháp nhằm nâng cao hiệu quả công tác thu hồi nợ, giảm đi phần nào rủi ro trong việc khách hàng trả nợ vay không đúng hạn.
+
+Thơ giai đoạn 2021-2023 ĐVT: Tỷ đồng Năm Năm Năm Chỉ tiêu Số Số tiền tiền Doanh số thu nợ của KHCN 1.656 2.321 2.754 665 40,15 433 18,64 Tỷ trọng trên tổng doanh số thu nợ (%) Nguồn: Báo cáo tổng kết của Vietcombank Chi nhánh Tây Cần Thơ, 2021-2023 liên tục. Doanh số thu nợ của khách hàng cá nhân trên tổng doanh số thu nợ cũng tăng qua các năm từ 46,52% vào năm 2021, đến năm 2023 thì đạt được 59,98%. Cụ thể, năm 2021 doanh số thu nợ của khách hàng cá nhân đạt 1.656 tỷ đồng, chiếm 46,52% trong tổng doanh số thu nợ. Năm 2022, doanh số thu nợ của KHCN tăng lên mức khá cao đạt 2.321 tỷ đồng tăng 665 tỷ đồng (tương ứng tăng 40,15%) so với năm 2021 và tiếp đến năm 2023 tăng vọt so với năm 2022 là 433 tỷ đồng, chiếm 18,6%. Doanh số thu nợ phản ánh mức độ phát triển, ổn định của nền kinh tế và kết quả hoạt động kinh doanh của khách hàng. Doanh số thu nợ tăng cùng với doanh số cho vay, điều này cho thấy công tác thẩm định khách hàng của cán bộ tín dụng tốt và ý thức trả nợ của khách hàng tương đối cao góp phần giúp hoạt động tín dụng tại Vietcombank Chi nhánh Tây Cần Thơ đạt hiệu quả.
+
+#### 4.2.3.3 Dư nợ của khách hàng cá nhân
+
+Dư nợ được xem là khoản vay của khách hàng qua các năm mà chưa đến thời điểm thanh toán hoặc đến thời điểm thanh toán mà khách hàng chưa có khả năng trả. Dư nợ có ý nghĩa rất lớn trong việc đánh giá hiệu quả và quy mô hoạt động của Ngân hàng. đoạn 2021 – 2023 ĐVT: Tỷ đồng Năm Năm Năm Chỉ tiêu Số Số tiền tiền Tổng dư nợ 4.189 5.121 5.739 - - - - Dư nợ KHCN/Tổng dư nợ (%) 87,86 82,40 85,68 - - - - Nguồn: Báo cáo tổng kết của Vietcombank Chi nhánh Tây Cần Thơ, 2021-2023 Năm 2021, dư nợ KHCN của Vietcombank Chi nhánh Tây Cần Thơ đạt 3.680 tỷ đồng chiếm tỷ trọng 87,86% trong tổng dư nợ cho vay. Năm 2022, dư nợ cho vay của khách hàng cá nhân đạt 4.220 tỷ đồng, chiếm tỷ trọng 82,40% trong tổng dư nợ cho vay tại Chi nhánh, tăng 540 tỷ đồng (tương ứng tăng 14,67%) so với năm 2021. Đến năm 2023, dư nợ đạt 4.918 tỷ đồng, tăng lên đáng kể so với năm 2022 là 697 tỷ đồng (tăng 16,53%) và chiếm 85,68% trong tổng số dư nợ tại Ngân hàng. Đây là tín hiệu tốt cho Chi nhánh, hoạt động tài trợ cho vay vào giai đoạn cuối năm phát triển mạnh là do hoạt động mua sắm tiêu dùng của khách hàng tăng cao, đã làm cho dư nợ tăng lên đáng kể.
+
+#### 4.2.3.4 Nợ quá hạn và nợ xấu của khách hàng cá nhân tại Vietcombank Chi nhánh Tây Cần Thơ
+
+Nợ quá hạn, nợ xấu luôn là vấn đề được các Ngân hàng đặc biệt chú trọng quan tâm. Giải quyết tốt vấn đề này đồng nghĩa với việc nâng cao chất lượng tín dụng của Ngân hàng. nhánh Tây Cần Thơ giai đoạn 2021-2023 ĐVT: Tỷ đồng Năm Năm Năm Chỉ tiêu Số
+2021 2022 2023 (%) Số tiền (%) tiền
+Nợ quá hạn của KHCN 17,91 42,69 34,01 24,78 138,36 (8,59) (20,12) Nguồn: Báo cáo tổng kết của Vietcombank Chi nhánh Tây Cần Thơ, 2021-2023 Chi nhánh Tây Cần Thơ cho thấy, trong giai đoạn 2021 – 2023 nợ quá hạn của khách hàng cá nhân chiếm tỷ trọng thấp so với tổng doanh số cho vay, tuy nhiên cũng đã có xu hướng giảm đáng kể vào năm 2023. Cụ thể, năm 2022 nợ quá hạn có biến động tăng 138,36% so với năm 2021 là do ảnh hưởng Đại dịch Covid – 19 dẫn đến tình hình kinh tế vô cùng khó khăn, thu nhập của khách hàng vay vốn bị ảnh hưởng, làm cho tình trạng mất khả năng thanh toán của khách hàng tăng cao. Đến năm 2023, tình hình nợ quá hạn đã có xu hướng giảm so với năm 2022, cụ thể giảm 20,12%, điều này cho thấy Ngân hàng đã kiểm soát khá tốt chất lượng nợ trong thời gian gần đây. Nhờ áp dụng các giải pháp như thường xuyên thăm hỏi khách hàng có dư nợ lớn, tăng cường rà soát, theo dõi, đánh giá các khách hàng thường quá hạn để có biện pháp kịp thời.
+
+Tình hình nợ xấu trong cho vay của khách hàng cá nhân dựa vào bảng 4.8 cho thấy, nợ xấu có xu hướng tăng mạnh ở năm 2022 là 194,77% so với năm 2021, nguyên nhân chủ yếu là do tình hình kinh tế Thế giới nói chung và Việt Nam nói riêng chưa ổn định khi dịch Covid-19 vừa trải qua, giá cả nguyên nhiên vật liệu có xu hướng tăng, xuất nhập khẩu còn nhiều hạn chế nên các doanh nghiệp đang khó khăn lại càng khó khăn hơn, đặc biệt là chi phí lãi vay tăng cao do lãi suất vay tăng cao trong năm 2022 và từ đó, sự sa thải nhân viên để làm chi phí là yếu tố đầu tiên mà doanh nghiệp định hướng đến; đây là một trong các nguyên nhân gây nên mất khả năng trả nợ của khách hàng.
+Năm 2023, nợ xấu có xu hướng giảm 34,43% so với năm trước đó. Qua kết quả này cho thấy, chất lượng quản lý tín dụng tại Ngân hàng đều được kiểm soát chặt chẽ, công tác thẩm định món vay cũng như sự quan tâm chỉ đạo của Ban lãnh đạo Ngân hàng thường xuyên đã giúp cho Vietcombank Chi nhánh Tây Cần Thơ giảm được tỷ lệ nợ xấu trong giai đoạn khó khăn này.
+
+Nhìn chung, trong giai đoạn 2021 – 2023 Ngân hàng Vietcombank Chi nhánh Tây Cần Thơ đã đạt được những chỉ tiêu kế hoạch đưa ra, mở rộng hoạt động tín dụng, đặc biệt là đối với khách hàng cá nhân. Đồng thời, cũng thắt chặt khâu thẩm định hồ sơ vay, tăng cường kiểm soát nợ quá hạn, nợ xấu. Từ số liệu qua các bảng trên, có thể nhận định rằng hoạt động tín dụng tại Ngân hàng Vietcombank Chi nhánh Tây Cần Thơ đã đạt được hiệu quả cao và đang dần nâng cao chất lượng.
+
+## 4.3 CÁC YẾU TỐ ẢNH HƯỞNG ĐẾN NỢ XẤU CỦA KHÁCH HÀNG CÁ NHÂN
+TẠI VIETCOMBANK CHI NHÁNH TÂY CẦN THƠ
+
+### 4.3.1 Tổng quan mẫu nghiên cứu
+
+Thông qua 266 quan sát, mẫu nghiên cứu được diễn giải chi tiết như sau:
+
+Giá trị Độ lệch Giá trị Giá trị Chỉ tiêu trung bình chuẩn nhỏ nhất lớn nhất Số người phụ thuộc 0,9511 0,9759 0 4 Tỷ lệ cho vay (%) 0,3809 0,1407 0,12 0,65 Số tiền vay (triệu đồng) 2.733,38 1.603,58 56 6.238 Thời hạn vay (tháng) 64,0602 30,3359 12 120 Lãi suất (%) 8,9756 1,4408 6 11 Lịch sử vay vốn 561,7030 47,5742 480 644 Hệ số trả nợ vay 0,2424 0,1151 0,0472 0,6026 Nguồn: Tác giả tổng hợp từ bộ dữ liệu nội bộ, 2023 Về yếu tố liên quan đến khách hàng:
+
+Qua bảng 4.9 cho thấy, những KHCN có quan hệ tín dụng tại Ngân hàng thường nằm trong độ tuổi từ 25 đến 54 và độ tuổi trung bình là hơn 38 tuổi. Điều này là phù hợp, vì ở độ tuổi này thường những khách hàng có thâm niên làm việc nên sẽ có thu nhập ổn định, đảm bảo khả năng trả nợ cho Ngân hàng. Đối với những khoản vay tín dụng, điều cần xem xét đầu tiên thường là độ tuổi của khách hàng, Ngân hàng luôn quan tâm đến độ tuổi lao động và ít nhất khách hàng vay vốn phải có thời gian làm việc trên 2 năm – đây là những khách hàng có thâm niên làm việc, đảm bảo cho việc khách hàng luôn có nguồn thu nhập ổn định.
+
+Số người phụ thuộc những khách hàng của Vietcombank Chi nhánh Tây Cần Thơ trung bình ít nhất là 1 người, nhiều nhất là 4 người, thấp nhất là 0 người. Biến này thể hiện số người không tạo ra thu nhập và đang phải phụ thuộc vào nguồn thu nhập của người đi vay như: con cái, ba mẹ hết tuổi lao động,... Với số người phụ thuộc càng nhiều thì chi phí sinh hoạt sẽ càng tăng cao, tương ứng việc trả nợ sẽ gặp nhiều khó khăn hơn và đặc biệt ngày nay chi phí liên quan đến học tập hay bệnh viện tiêu tốn khá nhiều chi phí khi phát sinh nên khách hàng vay phải luôn có nguồn thu nhập cao hoặc đa dạng nguồn thu nhập thì xác suất trả nợ đúng hạn sẽ cao hơn. Ngược lại với số người phụ thuộc ít, thì khách hàng vay có thể tự cân đối nguồn thu nhập của mình và xác suất trả nợ đúng hạn sẽ tăng cao hơn.
+
+Biến giới tính được phân thành biến giả với số 0 là thể hiện khách hàng có giới tính nữ, số 1 là thể hiện khách hàng có giới tính nam. Cụ thể hình 4.4 cho thấy, số lượng khách hàng có giới tính nữ trong mẫu nghiên cứu là 120 người, chiếm 45,11%; còn khách hàng có giới tính nam có 146 người, chiếm 54,89% trong mẫu nghiên cứu, điều này cho thấy, số lượng khách hàng có giới tính nam và nữ trong mẫu nghiên cứu không có sự chênh lệch quá nhiều.
+Nam 45.11 54.89% Nữ Nguồn: Tác giả tổng hợp từ bộ dữ liệu nội bộ, 2023 Về trình độ học vấn, giá trị 0 được gắn với khách hàng có trình độ dưới cao đẳng và nhận giá trị 1 khi khách hàng có trình độ học vấn từ cao đẳng trở lên. Kết quả nghiên cứu cho thấy, số lượng khách hàng có trình độ học vấn dưới cao đẳng và trên cao đẳng tương đương nhau, cụ thể số lượng khách hàng dưới cao đẳng chiếm tỷ lệ 47,74% và trên cao đẳng chiếm 52,26% trong tổng 266 quan sát (phụ lục).
+
+Kế đến là biến nghề nghiệp, đây là biến giả với giá trị 0 là đối tượng KHCN vay có nghề nghiệp cán bộ, công nhân viên làm việc có lương hàng tháng; 1 với người vay thuộc nhóm kinh doanh; 2 với người vay thuộc nhóm khác. Trong mẫu nghiên cứu, độ phân bổ của số lượng khách hàng có nghề nghiệp là kinh doanh chiếm tỷ trọng cao nhất với 154 khách hàng, chiếm 57,89%; tiếp theo là khách hàng có ngành nghề cán bộ, công nhân viên làm việc có lương hàng tháng với 102 khách hàng, chiếm 38,35% trong tổng số quan sát. Điều này thể hiện, khách hàng có lương hàng tháng và khách hàng thuộc nhóm kinh doanh là hai đối tượng được ưu tiên để Ngân hàng cho vay. Nhóm khách hàng có nghề nghiệp kinh doanh, khi vay vốn sẽ có kế hoạch kinh doanh cụ thể, lượng đầu vào, đầu ra hàng hóa chi tiết, giúp cho Ngân hàng có thể đánh giá tốt hơn về khả năng trả nợ của khách hàng; vì thế cho nên, khách hàng có nghề nghiệp thuộc nhóm kinh doanh chiếm tỷ trọng khá cao trong quá trình được xét duyệt vay vốn. Còn đối với nhóm khách hàng nhận lương hàng tháng, đây là nhóm khách hàng có thu nhập ổn định nên xác suất trả nợ vay không đúng hạn sẽ thấp hơn. Ngoài ra, với các khách hàng nhận lương hàng tháng thường sẽ có hợp đồng lao động, sao kê lương chi tiết,.. căn cứ vào đó mà Ngân hàng có thể kiểm tra một cách dễ dàng, thuận tiện hơn về nơi làm việc, mức lương, chi tiêu tài chính cá nhân,... Qua đó, đánh giá được độ tin cậy của khách hàng, mang lại chất lượng tín dụng hiệu quả.
+
+Các biến liên quan đến khoản vay gồm:
+
+Về biến mục đích vay, biến này nhận giá trị là 0 với mục đích sử dụng vốn cho hoạt động kinh doanh; 1 với mục đích tiêu dùng; 2 với mục đích mua nhà đất; 3 với mục đích xây sửa nhà; 4 với mục đích khác. Trong 266 quan sát, số lượng khách hàng có mục đích cho hoạt động kinh doanh chiếm tỷ trọng cao với 93 khách hàng (chiếm 34,96%); kế tiếp, khách hàng có mục đích vay tiêu dùng 80 khách hàng (chiếm 30,08%); 74 khách hàng có mục đích vay là mua đất (chiếm 27,82%); vay xây sửa nhà có 13 khách hàng (chiếm 4,89%), còn lại là 2,25% có mục đích vay khác (Hình 4.5).
+Vay kinh doanh 27.82% 34.96% Vay tiêu dùng Vay mua đất Vay xây sửa nhà Vay khác Nguồn: Tác giả tổng hợp từ bộ dữ liệu nội bộ, 2023 Với khách hàng có mục đích kinh doanh, thường được ưu tiên cho vay bởi vì khi kinh doanh, người chủ cơ sở có thể chủ động cân đối được thu chi trong hoạt động kinh doanh của mình, cũng như các khoản chi phí sinh hoạt gia đình và số tiền cần trả nợ mỗi tháng. Bên cạnh đó, cũng có một số khách hàng cá nhân làm công ty để có nguồn thu nhập hàng tháng ổn định và nhằm nâng cao nguồn thu nhập, khách hàng sẽ kết hợp kinh doanh bằng hình thức góp vốn hoặc có sự quản lý từ người thân trong gia đình. Có thể thấy rằng, Ngân hàng luôn chú trọng các khách hàng vay có nguồn thu nhập hàng tháng ổn định từ lương và ưu tiên cho khách hàng có hoạt động kinh doanh, với khách hàng có nguồn thu nhập từ lương hàng tháng sẽ đảm bảo rằng khách hàng luôn có khả năng trả nợ đầy đủ và đúng hạn, KHCN vay kinh doanh thường sẽ có mục đích vay rõ ràng và nguồn vốn vay từ đó tạo ra nguồn thu nhập cho khách hàng trong tương lai để khách hàng luôn có khả năng trả nợ đúng hạn và đầy đủ. Tiếp theo, mục đích vay tiêu dùng cũng chiếm tỷ trọng khá cao trong mẫu nghiên cứu, bởi lẽ hiện nay việc vay tiêu dùng ngày càng trở nên phổ biến do nhu cầu mua sắm của người dân ngày càng tăng, cụ thể như: vay mua đồ dùng cần thiết trong nhà, mua đồ trang trí nội thất,... thường các khoản vay này có số tiền cho vay không quá cao nên khả năng trả nợ của khách hàng có xác suất cao, rủi ro tín dụng thấp. Còn lại là mục đích vay mua nhà đất, các khoản vay này thường được Ngân hàng duyệt vay khá dễ dàng, bởi lẽ mục đích vay mua nhà đất khá chi tiết về mặt giấy tờ và khi thực hiện công chứng hồ sơ mua bán đất, chính là cơ sở để xét duyệt khoản vay. Ngoài ra, dựa trên tài sản mua có thể đánh giá khách hàng có tiềm lực tài chính như thế nào và đặc biệt đối với các khách hàng đầu tư về bất động sản thì Ngân hàng rất thận trọng bởi giá bất động sản có thể thay đổi nhanh chóng khiến cho khách hàng vay đầu tư gặp nhiều khó khăn khi rao bán sản phẩm.
+
+Tiếp theo, để xét duyệt một khách hàng có được vay hay không? Lịch sử vay vốn (CIC) chính là một trong các yếu tố rất quan trọng để đánh giá khách quan về khách hàng vay vốn. Trong CIC, cán bộ tín dụng có thể đánh giá xem tình hình vay vốn của khách hàng tại các tổ chức tín dụng, bao gồm dư nợ vay và dư nợ thẻ tín dụng; cán bộ tín dụng có thể nắm rõ được thời hạn vay, số lượng tài sản bảo đảm đang bảo đảm cho các khoản vay của khách hàng và đặc biệt trong CIC thể hiện lịch sử số lượng tổ chức tín dụng đã từng tra cứu thông tin vay vốn của khách hàng, đây là một trong các yếu tố quan trọng mà cán bộ tín dụng xem xét để đánh giá về khách hàng; nếu số lượng tín dụng đã từng tra cứu CIC về khách hàng nhiều mà đến hiện tại khách hàng vẫn chưa được tổ chức tín dụng nào duyệt cho vay thì đây là một vấn đề mà cán bộ tín dụng cần cân nhắc và đánh giá về khả năng trả nợ của khách hàng ở tương lai. Hơn nữa, một thông tin quan trọng trong CIC cần quan tâm là điểm xếp hạng tín dụng của khách hàng, nếu số điểm tín dụng càng thấp thì tỷ lệ khách hàng đã từng bị nợ cần chú ý hay nợ xấu càng cao, đây chính là yếu tố quan trọng cần được quan tâm đầu tiên trong quá trình xét duyệt vay vốn. Những khách hàng đã từng bị nợ xấu, các Ngân hàng sẽ từ chối cho vay, nếu khách hàng bị nợ chú ý thì Ngân hàng có thể xem xét, tìm hiểu nguyên nhân để đánh giá việc xảy ra nợ xấu như thế nào, để đánh giá rủi ro tín dụng của khách hàng. Trong nghiên cứu này, tác giả sử dụng biến lịch sử vay vốn được đo lường bằng điểm xếp hạng tín dụng của khách hàng, biến này có hệ số trung bình là 561,703; độ lệch chuẩn 47,5742 và có giá trị nhỏ nhất là 480, lớn nhất là 644 điểm. Trong năm 2022, dịch Covid-19 đã được kiểm soát nhưng nền kinh tế vẫn còn gặp nhiều khó khăn và đến năm 2023, thị trường tài chính Thế giới bị rúng động khi cuộc khủng hoảng các Ngân hàng ở Mỹ bất ngờ bùng nổ đã gây nên ảnh hưởng nghiêm trọng đến kinh tế Việt Nam nói riêng và Thế giới nói chung. Từ đó, người lao động hay các cá nhân kinh doanh cũng bị ảnh hưởng nặng nề, không có khả năng trả nợ trong thời gian ngắn hạn; với những chính sách hỗ trợ từ Ngân hàng như cơ cấu nợ hay thực hiện cho vay lại để hỗ trợ khách hàng đã giúp cho điểm xếp hạng tín dụng của các khách hàng nằm ở mức trung bình là chủ yếu.
+
+Tỷ lệ cho vay được tính bằng số tiền vay trên tổng giá trị tài sản đảm bảo, biến này có giá trị nhỏ nhất là 0,12, có giá trị lớn nhất là 0,65, giá trị trung bình là 0,3809 và độ lệch chuẩn là 0,1407. Để đảm bảo sự an toàn cho khoản vay, giá trị tài sản đảm bảo sau khi được định giá, Ngân hàng luôn cho số tiền vay vào khoảng 70% trên tổng giá trị tài sản bảo đảm. Điều này cho thấy, Ngân hàng luôn phòng ngừa rủi ro xấu nhất có thể xảy ra, mặc dù Ngân hàng đã đánh giá rất sát sao về nguồn thu nhập của khách hàng cũng như chi tiêu tài chính cá nhân, nhưng để nâng cao mức độ an toàn thì số tiền cho vay phải luôn thấp giá trị tài sản đảm bảo nhằm mục đích khi có rủi ro xảy ra, Ngân hàng phát mãi tài sản đảm bảo, vẫn thu đủ lượng tiền đã cho vay và các khoản lãi phát sinh.
+
+Biến số tiền vay có giá trị số tiền vay thấp nhất trong mẫu nghiên cứu là 56 triệu đồng, cao nhất là 6.238 triệu đồng, giá trị trung bình là 2.733,38 triệu đồng, độ lệch chuẩn 1.603,58 triệu đồng. Với hệ số trung bình như trên cho thấy, Ngân hàng luôn chú trọng đến số tiền cho vay, Ngân hàng không có vay quá cao đối với khách hàng cá nhân mà số tiền cho vay thường dao động từ 2 tỷ đồng đến 3 tỷ đồng để đảm bào khả năng trả nợ của khách hàng, với số tiền vay không quá cao và kết hợp nguồn thu nhập ổn định thì khách hàng sẽ có đủ khả năng thanh toán nợ vay đúng hạn và đầy đủ. Ngoài ra, với tỷ lệ cho vay luôn ở mức 70% so với trị giá tài sản bảo đảm là động lực giúp khách hàng vay vốn luôn quan tâm đến trả nợ đúng hạn để không mất tài sản.
+
+Song song với số tiền cho vay thì thời hạn vay cũng là yếu tố giúp cho người vay vốn đỡ áp lực trả nợ với số tiền vay lớn, khoản vay kết hợp với thời gian vay dài sẽ phần nào dàn trải số tiền đóng hàng tháng ít lại, khách hàng sẽ nhẹ gánh trong việc thanh toán nợ vay, giảm áp lực trả nợ cho khách hàng. Trong mẫu nghiên cứu, thời hạn vay ngắn nhất là 12 tháng và dài nhất 120 tháng, giá trị trung bình 64 tháng. Kết quả cho thấy, trong 266 hồ sơ thì đa phần hồ sơ cho vay với thời hạn trung hạn 5 năm, đây là khoảng thời gian mà Ngân hàng có thể đánh giá được nguồn thu nhập của khách hàng ổn định, ít biến động. Ngoài ra, Ngân hàng có thể thường xuyên chủ động tiếp xúc đánh giá sau khi vay dễ dàng hơn và ít chịu rủi ro khách quan; do đó với số tiền vay vừa phải, thời hạn cho vay phù hợp sẽ giúp Ngân hàng luôn kiểm soát được khoản nợ xấu phát sinh.
+
+Tiếp theo, biến lãi suất, lãi suất thấp nhất là 6% và cao nhất là 11%, giá trị trung bình là 8,9756%. Với giá trị trung bình của lãi suất rơi vào khoảng 8% cho thấy, Ngân hàng luôn chú trọng về lãi suất, đây là yếu tố thu hút khách hàng đầu tiên; lãi suất ưu đãi nhưng vẫn đảm bảo lợi nhuận cho Ngân hàng, nếu lãi suất quá thấp sẽ làm giảm lợi nhuận, lãi suất quá cao thì lại không thu hút khách hàng vay vốn nên Ngân hàng luôn phải cân đối và thường chỉ áp dụng ưu đãi lãi suất cố định trong vòng 1 hoặc 2 năm đầu, sau đó sẽ áp dụng theo lãi suất thả nổi theo quy định của NHNN trong từng thời kỳ nhưng đồng thời vẫn nằm trong khả năng trả nợ của khách hàng nhằm giảm tối thiểu về rủi ro trả nợ có thể xảy ra.
+
+Biến hệ số trả nợ được tính bằng tổng nợ phải trả trên tổng thu nhập của khách hàng. Với biến số này thì giá trị nhỏ nhất là 0,0472, giá trị lớn nhất là 0,6026, giá trị trung bình là 0,2424 và độ lêch chuẩn là 0,1151. Hệ số trả nợ càng thấp cho thấy số tiền nợ phải trả sẽ thấp hơn nhiều so với nguồn thu nhập của khách hàng. Dựa vào bảng số liệu cho thấy, hệ số trung bình là khá thấp điều này có nghĩa là trong mẫu nghiên cứu số lượng khách hàng có hệ số trả nợ tương đối thấp, thể hiện Ngân hàng luôn chú tâm đến khả năng trả nợ của khách hàng trong quá trình vay vốn nhằm hạn chế tối đa nợ xấu có thể xảy ra.
+
+### 4.3.2 Kết quả nghiên cứu
+
+#### 4.3.2.1 Kiểm tra tương quan giữa các biến sai (VIF) trong mô hình về khả năng xảy ra hiện tượng đa cộng tuyến. Mô hình hoàn toàn có ý nghĩa nếu vấn đề đa cộng tuyến được loại trừ. Qua kiểm tra, hệ số tương quan giữa các biến đều <0,8 có thể kết luận rằng không có hiện tượng tự tương quan giữa các biến.
+
+Tương tự hệ số phóng đại phương sai các biến trong bảng VIF <2, do đó mô hình không bị đa cộng tuyến.
+
+Số người Nghề Mục đích Tỷ lệ dư Số tiền Thời hạn Lịch sử Hệ số Biến Tuổi Giới tính Học vấn phụ Lãi suất nghiệp vay nợ vay vay vay vốn trả nợ thuộc Tuổi 1,0000 Giới tính -0,0508 1,0000 Nghề nghiệp 0,0861 0,0068 -0,0127 1,0000 Số người phụ thuộc Lịch sử vay vốn Nguồn: Tác giả phân tích từ bộ dữ liệu nội bộ, 2024
+
+#### 4.3.2.2 Kiểm tra hiện tượng phương sai sai số thay đổi
+
+Tiếp theo, tác giả kiểm định phương sai sai số thay đổi bằng kiểm định Breusch – Pagan, hiện tượng phương sai sai số thay đổi này sẽ làm các ước lượng không còn có phương sai nhỏ nhất hay làm cho các ước lượng tuyến tính không thiên lệch tốt nhất.
+Từ đó, có thể gây ra những kết luận sai lầm. Đối với nghiên cứu này xem xét kết quả

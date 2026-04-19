@@ -1,0 +1,6 @@
+2026-04-03 17:16:07,969 - INFO - Bắt đầu xử lý 4 file PDF...
+2026-04-03 17:16:11,788 - INFO - [1/4] ✅ Thành công: 03d16c16-a485-4a2b-93bb-f8e2c88085ee.pdf
+2026-04-03 17:16:14,832 - INFO - [2/4] ✅ Thành công: 2e72b317-ed51-4213-a8dc-641fbe3d3d9b.pdf
+2026-04-03 17:16:17,260 - INFO - [3/4] ✅ Thành công: 2f853bab-b65d-4c18-8be1-0cf69e230eb0.pdf
+2026-04-03 17:16:22,230 - INFO - [4/4] ✅ Thành công: 3c6a55f7-a19c-4fd7-bb37-9f3e5dd5d39d.pdf
+2026-04-03 17:16:22,231 - INFO - Hoàn tất! Đã xử lý thành công 4/4 file.
